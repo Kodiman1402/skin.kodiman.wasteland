@@ -1139,5 +1139,18 @@
 				</control>
 			</control>
 		</control>
+			<!-- Einstellungen -->
+		<control type="button" id="29999">
+			<left>2</left>
+			<top>680</top>
+			<width>450</width>
+			<height>50</height>
+			<font>font12</font>
+			<textcolor>FFB0A090</textcolor>
+			<focusedcolor>FFFFFFFF</focusedcolor>
+			<label>Einstellungen</label>
+			<visible>!Window.IsActive(settings)</visible>
+			<onclick>ActivateWindow(settings)</onclick>
+		</control>
 	</controls>
 </window>
