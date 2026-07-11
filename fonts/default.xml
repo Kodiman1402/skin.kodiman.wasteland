@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<fonts>
+  <fontset id="Default" unicode="true">
+    <!-- Oswald (kantig, militaristisch — ideal für Menüs, Titel, Clock) -->
+    <font>
+      <name>font_clock</name>
+      <filename>Oswald-Variable.ttf</filename>
+      <size>36</size>
+    </font>
+    <font>
+      <name>font_menu</name>
+      <filename>Oswald-Variable.ttf</filename>
+      <size>28</size>
+    </font>
+    <font>
+      <name>font_title</name>
+      <filename>Oswald-Variable.ttf</filename>
+      <size>48</size>
+    </font>
+    <font>
+      <name>font_subtitle</name>
+      <filename>Oswald-Variable.ttf</filename>
+      <size>22</size>
+    </font>
+    <font>
+      <name>font_osd</name>
+      <filename>Oswald-Variable.ttf</filename>
+      <size>20</size>
+    </font>
+
+    <!-- Source Sans 3 (sauber lesbar — ideal für Fließtext, Beschreibungen) -->
+    <font>
+      <name>font_body</name>
+      <filename>SourceSans3-Variable.ttf</filename>
+      <size>18</size>
+    </font>
+    <font>
+      <name>font_small</name>
+      <filename>SourceSans3-Variable.ttf</filename>
+      <size>16</size>
+    </font>
+    <font>
+      <name>font_tiny</name>
+      <filename>SourceSans3-Variable.ttf</filename>
+      <size>13</size>
+    </font>
+    <font>
+      <name>font_listitem</name>
+      <filename>SourceSans3-Variable.ttf</filename>
+      <size>16</size>
+    </font>
+    <font>
+      <name>font11</name>
+      <filename>SourceSans3-Variable.ttf</filename>
+      <size>11</size>
+    </font>
+    <font>
+      <name>font13</name>
+      <filename>SourceSans3-Variable.ttf</filename>
+      <size>13</size>
+    </font>
+
+    <!-- legacy — numerische Größen für Includes & Kompatibilität -->
+    <font>
+      <name>font14</name>
+      <filename>SourceSans3-Variable.ttf</filename>
+      <size>14</size>
+    </font>
+    <font>
+      <name>font24</name>
+      <filename>Oswald-Variable.ttf</filename>
+      <size>24</size>
+    </font>
+    <font>
+      <name>font32</name>
+      <filename>Oswald-Variable.ttf</filename>
+      <size>32</size>
+    </font>
+  </fontset>
+</fonts>

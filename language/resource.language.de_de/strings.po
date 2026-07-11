@@ -1,0 +1,71 @@
+# Kodi Skin Strings – skin.kodiman.wasteland (German)
+# Auto-generated for Omega 21
+
+msgctxt "#31000"
+msgid "Skin Settings"
+msgstr "Skin Einstellungen"
+
+msgctxt "#31001"
+msgid "General"
+msgstr "Allgemein"
+
+msgctxt "#31002"
+msgid "Custom Background"
+msgstr "Eigener Hintergrund"
+
+msgctxt "#31003"
+msgid "Background Image Path"
+msgstr "Hintergrundbild Pfad"
+
+msgctxt "#31004"
+msgid "Dim Background"
+msgstr "Hintergrund abdunkeln"
+
+msgctxt "#31005"
+msgid "Show Full Date"
+msgstr "Volles Datum anzeigen"
+
+msgctxt "#31010"
+msgid "Theme"
+msgstr "Thema"
+
+msgctxt "#31011"
+msgid "Wasteland Default"
+msgstr "Wasteland Standard"
+
+msgctxt "#31020"
+msgid "About"
+msgstr "Über"
+
+msgctxt "#31021"
+msgid "Kodiman's Wasteland v1.0.0"
+msgstr "Kodiman's Wasteland v1.0.0"
+
+msgctxt "#31022"
+msgid "A post-apocalyptic skin for Kodi Omega"
+msgstr "Ein postapokalyptischer Skin für Kodi Omega"
+
+msgctxt "#31023"
+msgid "Design: Aschegrau, Rostbraun, verbrannt"
+msgstr "Design: Aschegrau, Rostbraun, verbrannt"
+
+# Main menu (from shortcuts)
+msgctxt "#32030"
+msgid "Movies"
+msgstr "Filme"
+
+msgctxt "#32060"
+msgid "TV Shows"
+msgstr "Serien"
+
+msgctxt "#31060"
+msgid "Music"
+msgstr "Musik"
+
+msgctxt "#10025"
+msgid "Add-ons"
+msgstr "Addons"
+
+msgctxt "#10000"
+msgid "Settings"
+msgstr "Einstellungen"

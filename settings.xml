@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<settings>
+  <setting id="wasteland_bg_dim" type="bool" label="31004" default="false"/>
+  <setting id="wasteland_bg_custom" type="bool" label="31002" default="false" visible="true"/>
+  <setting id="wasteland_bg_path" type="text" label="31003" default="" visible="eq(-1,true)"/>
+  <setting id="wasteland_date_full" type="bool" label="31005" default="false"/>
+</settings>
