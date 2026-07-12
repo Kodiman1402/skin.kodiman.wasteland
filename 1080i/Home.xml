@@ -5,7 +5,6 @@
 	<controls>
 		<include>DefaultBackground</include>
 		<include>TopBar</include>
-		<!-- Eigenes Menü mit ALLEN Items + Einstellungen -->
 		<control type="list" id="9000">
 			<left>0</left>
 			<top>240</top>
@@ -15,8 +14,8 @@
 			<scrolltime tween="cubic" easing="out">500</scrolltime>
 			<itemlayout height="95">
 				<control type="label">
-					<left>104</left>	<top>0</top>	<height>95</height>	<width>560</width>
-					<aligny>center</aligny>	<font>font37</font>
+					<left>104</left><top>0</top><height>95</height><width>560</width>
+					<aligny>center</aligny><font>font37</font>
 					<label>$INFO[ListItem.Label]</label>
 					<shadowcolor>text_shadow</shadowcolor>
 					<textcolor>FFB0A090</textcolor>
@@ -24,29 +23,30 @@
 			</itemlayout>
 			<focusedlayout height="95">
 				<control type="image">
-					<left>0</left>	<top>0</top>	<width>462</width>	<height>95</height>
+					<left>0</left><top>0</top><width>462</width><height>95</height>
 					<texture colordiffuse="button_focus">lists/focus.png</texture>
 				</control>
 				<control type="label">
-					<left>104</left>	<top>0</top>	<height>95</height>	<width>560</width>
-					<aligny>center</aligny>	<font>font37</font>
+					<left>104</left><top>0</top><height>95</height><width>560</width>
+					<aligny>center</aligny><font>font37</font>
 					<label>$INFO[ListItem.Label]</label>
 					<shadowcolor>text_shadow</shadowcolor>
 					<textcolor>FFFFFFFF</textcolor>
 				</control>
 			</focusedlayout>
 			<content>
-				<item>	<label>Filme</label>	<onclick>ActivateWindow(Videos,videodb://movies/titles/,return)</onclick>	</item>
-				<item>	<label>Serien</label>	<onclick>ActivateWindow(Videos,videodb://tvshows/titles/,return)</onclick>	</item>
-				<item>	<label>Musik</label>	<onclick>ActivateWindow(Music,musicdb://songs/,return)</onclick>	</item>
-				<item>	<label>Musikvideos</label>	<onclick>ActivateWindow(Videos,videodb://musicvideos/titles/,return)</onclick>	</item>
-				<item>	<label>TV</label>	<onclick>ActivateWindow(TV)</onclick>	</item>
-				<item>	<label>Radio</label>	<onclick>ActivateWindow(Radio)</onclick>	</item>
-				<item>	<label>Spiele</label>	<onclick>ActivateWindow(Games)</onclick>	</item>
-				<item>	<label>Addons</label>	<onclick>ActivateWindow(Addons)</onclick>	</item>
-				<item>	<label>Bilder</label>	<onclick>ActivateWindow(Pictures)</onclick>	</item>
-				<item>	<label>Wetter</label>	<onclick>ActivateWindow(Weather)</onclick>	</item>
-				<item>	<label>Einstellungen</label>	<onclick>ActivateWindow(settings)</onclick>	</item>
+				<item><label>Filme</label><onclick>ActivateWindow(Videos,videodb://movies/titles/,return)</onclick></item>
+				<item><label>Serien</label><onclick>ActivateWindow(Videos,videodb://tvshows/titles/,return)</onclick></item>
+				<item><label>Musik</label><onclick>ActivateWindow(Music,musicdb://songs/,return)</onclick></item>
+				<item><label>Musikvideos</label><onclick>ActivateWindow(Videos,videodb://musicvideos/titles/,return)</onclick></item>
+				<item><label>TV</label><onclick>ActivateWindow(TVChannels)</onclick></item>
+				<item><label>Radio</label><onclick>ActivateWindow(RadioChannels)</onclick></item>
+				<item><label>Spiele</label><onclick>ActivateWindow(Games)</onclick></item>
+				<item><label>Addons</label><onclick>ActivateWindow(addonbrowser,addons://all/,return)</onclick></item>
+				<item><label>Bilder</label><onclick>ActivateWindow(Pictures)</onclick></item>
+				<item><label>Wetter</label><onclick>ActivateWindow(Weather)</onclick></item>
+				<item><label>Einstellungen</label><onclick>ActivateWindow(settings)</onclick></item>
+				<item><label>Beenden</label><onclick>Quit()</onclick></item>
 			</content>
 		</control>
 	</controls>
