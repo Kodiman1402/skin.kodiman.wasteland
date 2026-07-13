@@ -4,7 +4,7 @@
 
 Aschegraue Paneele, rostbraune Akzente und eine raue, industrielle Ästhetik. Inspiriert von Aeon Tajo.
 
-![Skin Preview](fanart.jpg)
+![Skin Preview](fanart.gif)
 
 ## Eigenschaften
 
