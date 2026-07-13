@@ -26,6 +26,25 @@
 					<left>0</left><top>0</top><width>462</width><height>95</height>
 					<texture colordiffuse="button_focus">lists/focus.png</texture>
 				</control>
+				<!-- Glitch: Roter Kanal (links versetzt) -->
+				<control type="label">
+					<left>100</left><top>3</top><height>95</height><width>560</width>
+					<aligny>center</aligny><font>font37</font>
+					<label>$INFO[ListItem.Label]</label>
+					<textcolor>FFFF0000</textcolor>
+					<animation effect="fade" start="90" end="0" time="200" delay="0" condition="true">Conditional</animation>
+					<animation effect="fade" start="0" end="90" time="300" delay="200">Visible</animation>
+				</control>
+				<!-- Glitch: Blauer Kanal (rechts versetzt) -->
+				<control type="label">
+					<left>108</left><top>0</top><height>95</height><width>560</width>
+					<aligny>center</aligny><font>font37</font>
+					<label>$INFO[ListItem.Label]</label>
+					<textcolor>FF00CCFF</textcolor>
+					<animation effect="fade" start="0" end="85" time="150" delay="100">Conditional</animation>
+					<animation effect="fade" start="85" end="0" time="250" delay="300">Visible</animation>
+				</control>
+				<!-- Hauptlabel (weiss) -->
 				<control type="label">
 					<left>104</left><top>0</top><height>95</height><width>560</width>
 					<aligny>center</aligny><font>font37</font>
