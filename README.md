@@ -33,6 +33,7 @@ Aschegraue Paneele, rostbraune Akzente und eine raue, industrielle Ästhetik. In
 
 - **Kodi Omega (v21)** oder höher
 - **xbmc.gui** ≥ 5.17.0
+- **Getestet auf macOS** (Apple Silicon M4). Andere Plattformen können abweichendes Verhalten zeigen.
 
 ## Views
 
