@@ -49,5 +49,14 @@
 				<item><label>Beenden</label><onclick>Quit()</onclick></item>
 			</content>
 		</control>
+		<!-- Kodiman Icon unten rechts -->
+		<control type="image">
+			<left>1760</left>
+			<top>920</top>
+			<width>100</width>
+			<height>100</height>
+			<texture>/Users/oliverpfeffer/Library/Application Support/Kodi/addons/skin.kodiman.wasteland/extras/coderman_icon.png</texture>
+			<visible>true</visible>
+		</control>
 	</controls>
 </window>
