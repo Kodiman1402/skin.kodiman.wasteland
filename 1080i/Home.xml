@@ -5,6 +5,15 @@
 	<controls>
 		<include>DefaultBackground</include>
 		<include>TopBar</include>
+		<!-- Wasteland Kodi Logo (oben links) -->
+		<control type="image">
+			<left>86</left>
+			<top>40</top>
+			<width>130</width>
+			<height>170</height>
+			<aspectratio>keep</aspectratio>
+			<texture>/Users/oliverpfeffer/Library/Application Support/Kodi/addons/skin.kodiman.wasteland/extras/wasteland_kodi_logo.bmp</texture>
+		</control>
 		<control type="list" id="9000">
 			<left>0</left>
 			<top>240</top>
