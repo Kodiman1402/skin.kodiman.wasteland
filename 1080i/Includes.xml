@@ -1232,13 +1232,31 @@
 		<width>auto</width>
 	</include>
 	<include name="ColoredBackgroundImages">
+		<control type="multiimage">
+			<depth>DepthBackground</depth>
+			<left>0</left>
+			<top>0</top>
+			<width>1920</width>
+			<height>1080</height>
+			<aspectratio>scale</aspectratio>
+			<timeperimage>267</timeperimage>
+			<fadetime>0</fadetime>
+			<loop>true</loop>
+			<randomize>false</randomize>
+			<imagepath>/Users/oliverpfeffer/Library/Application Support/Kodi/addons/skin.kodiman.wasteland/backgrounds/frames/</imagepath>
+			<imagefile>bg_</imagefile>
+			<imageext>.png</imageext>
+			<numeric>true</numeric>
+			<beginimage>01</beginimage>
+			<endimage>15</endimage>
+		</control>
 		<control type="image">
 			<depth>DepthBackground</depth>
 			<include>FullScreenDimensions</include>
 			<aspectratio>scale</aspectratio>
-			<texture colordiffuse="primary_background">/Users/oliverpfeffer/Library/Application Support/Kodi/addons/skin.kodiman.wasteland/backgrounds/wasteland_fallout.png</texture>
+			<texture colordiffuse="secondary_background" fallback="special://skin/extras/backgrounds/pattern1.jpg">$INFO[Skin.String(background_overlay),special://skin/extras/backgrounds/pattern,.jpg]</texture>
+			<visible>false</visible>
 		</control>
-
 	</include>
 	<include name="DefaultBackground">
 		<definition>
