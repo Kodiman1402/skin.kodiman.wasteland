@@ -1,6 +1,6 @@
-# Kodiman's Wasteland
+# Kodiman's Wasteland Beta
 
-**Ein postapokalyptischer Wasteland-Skin für Kodi Omega (v21)**
+**Beta 2.0.0 - Ein postapokalyptischer Wasteland-Skin für Kodi Omega (v21)**
 
 Aschegraue Paneele, rostbraune Akzente und eine raue, industrielle Ästhetik. Inspiriert von Aeon Tajo.
 
@@ -27,7 +27,7 @@ Aschegraue Paneele, rostbraune Akzente und eine raue, industrielle Ästhetik. In
    - Oder Ordner nach `~/.kodi/addons/skin.kodiman.wasteland/` kopieren
 
 3. **Skin aktivieren**:
-   - Einstellungen → Oberfläche → Skin → **Kodiman's Wasteland** auswählen
+   - Einstellungen → Oberfläche → Skin → **Kodiman's Wasteland Beta** auswählen
 
 ## Voraussetzungen
 

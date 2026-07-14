@@ -38,8 +38,8 @@ msgid "About"
 msgstr "Über"
 
 msgctxt "#31021"
-msgid "Kodiman's Wasteland v1.0.0"
-msgstr "Kodiman's Wasteland v1.0.0"
+msgid "Kodiman's Wasteland Beta 2.0.0"
+msgstr "Kodiman's Wasteland Beta 2.0.0"
 
 msgctxt "#31022"
 msgid "A post-apocalyptic skin for Kodi Omega"

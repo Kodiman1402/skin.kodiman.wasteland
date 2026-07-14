@@ -12,7 +12,7 @@
 			<width>130</width>
 			<height>170</height>
 			<aspectratio>keep</aspectratio>
-			<texture>/Users/oliverpfeffer/Library/Application Support/Kodi/addons/skin.kodiman.wasteland/extras/wasteland_kodi_logo.bmp</texture>
+			<texture>special://skin/extras/wasteland_kodi_logo.bmp</texture>
 		</control>
 		<control type="list" id="9000">
 			<left>0</left>
@@ -83,7 +83,7 @@
 			<top>920</top>
 			<width>100</width>
 			<height>100</height>
-			<texture>/Users/oliverpfeffer/Library/Application Support/Kodi/addons/skin.kodiman.wasteland/extras/coderman_logo.bmp</texture>
+			<texture>special://skin/extras/coderman_logo.bmp</texture>
 			<visible>true</visible>
 		</control>
 	</controls>

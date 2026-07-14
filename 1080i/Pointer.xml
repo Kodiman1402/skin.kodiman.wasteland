@@ -6,28 +6,28 @@
 			<left>-10</left>
 			<width>48</width>
 			<height>54</height>
-			<texture>/Users/oliverpfeffer/Library/Application Support/Kodi/addons/skin.kodiman.wasteland/pointer_arrow.png</texture>
+			<texture>special://skin/pointer_arrow.png</texture>
 		</control>
 		<control type="image" id="2">
 			<description>Pointer Focus</description>
 			<left>-10</left>
 			<width>48</width>
 			<height>54</height>
-			<texture>/Users/oliverpfeffer/Library/Application Support/Kodi/addons/skin.kodiman.wasteland/pointer_arrow.png</texture>
+			<texture>special://skin/pointer_arrow.png</texture>
 		</control>
 		<control type="image" id="3">
 			<description>Pointer Drag</description>
 			<left>-10</left>
 			<width>48</width>
 			<height>54</height>
-			<texture>/Users/oliverpfeffer/Library/Application Support/Kodi/addons/skin.kodiman.wasteland/pointer_arrow.png</texture>
+			<texture>special://skin/pointer_arrow.png</texture>
 		</control>
 		<control type="image" id="4">
 			<description>pointer_click</description>
 			<left>-10</left>
 			<width>48</width>
 			<height>54</height>
-			<texture>/Users/oliverpfeffer/Library/Application Support/Kodi/addons/skin.kodiman.wasteland/pointer_click.png</texture>
+			<texture>special://skin/pointer_click.png</texture>
 		</control>
 	</controls>
 </window>

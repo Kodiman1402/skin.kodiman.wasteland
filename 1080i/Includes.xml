@@ -1243,7 +1243,7 @@
 			<fadetime>0</fadetime>
 			<loop>true</loop>
 			<randomize>false</randomize>
-			<imagepath>/Users/oliverpfeffer/Library/Application Support/Kodi/addons/skin.kodiman.wasteland/backgrounds/frames/</imagepath>
+			<imagepath>special://skin/backgrounds/frames/</imagepath>
 			<imagefile>bg_</imagefile>
 			<imageext>.png</imageext>
 			<numeric>true</numeric>
