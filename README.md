@@ -1,55 +1,53 @@
 # Kodiman's Wasteland
 
-**Ein postapokalyptischer Wasteland-Skin für Kodi Omega (v21)**
-
-Aschegraue Paneele, rostbraune Akzente und eine raue, industrielle Ästhetik. Inspiriert von Aeon Tajo.
+Ein postapokalyptischer Wasteland-Skin für Kodi Omega (v21).  
+Aschegraue Paneele, rostbraune Akzente und eine raue, industrielle Ästhetik.  
+**Basiert auf Aeon Tajo v9.2.5** – alle Features, Views und Einstellungen von Aeon Tajo bleiben erhalten!
 
 ![Skin Preview](fanart.gif)
 
 ## Eigenschaften
 
-- **6 Ansichten**: List, Wall, WideWall, Banner, Shelf, Flix
-- **Wasteland-Design**: Aschegrau (Panel-Hintergründe) + Rostbraun (Akzente, Buttons, Highlights)
-- **Glitch-Effekte**: Subtile Störungen bei Titeln und Hervorhebungen
-- **Industrielle Typografie**: Klare, kantige Schriftdarstellung
-- **Aeon Tajo-kompatibel**: Alle Standard-Features und Widgets nutzbar
-- **16:9 Full HD (1080i)** optimiert
+- **Basiert auf Aeon Tajo 9.2.5** – Voll kompatibel mit allen Aeon Tajo-Features
+- **Horizontales Hauptmenü** – Modernes Bottom-Menü (Aeon Tajo Style)
+- **30+ Ansichten:** List, Wall, WideWall, Banner, Shelf, Flix, Triple, Magazine uvm.
+- **Wasteland-Design:** Aschegrau + Rostbraun (Akzente, Buttons, Highlights)
+- **Animierter Hintergrund:** Feuer- und Rauch-Effekte (15 Frames, 267ms)
+- **Glitch-Effekte:** Subtile Störungen bei Titeln und Hervorhebungen
+- **Widgets, Customizer & Skin-Einstellungen** – Vollständig über das Settings-Menü konfigurierbar
+- **Industrielle Typografie:** Klare, kantige Schriftdarstellung
+- **16:9 Full HD (1080i) optimiert**
 
 ## Installation
 
 1. **Abhängigkeiten installieren** (falls nicht vorhanden):
    - `script.skinshortcuts` (≥ 0.4.5)
+   - `script.aeon.tajo.helper` (≥ 1.0.0)
    - `script.skinvariables` (≥ 2.1.14)
 
-2. **Skin installieren**:
+2. **Skin installieren:**
    - ZIP herunterladen (von [Releases](https://github.com/Kodiman1402/skin.kodiman.wasteland/releases))
-   - In Kodi: **Addons → Addon aus ZIP installieren** → ZIP auswählen
+   - In Kodi: **Addons → Addon aus ZIP installieren → ZIP auswählen**
    - Oder Ordner nach `~/.kodi/addons/skin.kodiman.wasteland/` kopieren
+   - Skin unter **Einstellungen → Benutzeroberfläche → Skin** aktivieren
 
-3. **Skin aktivieren**:
-   - Einstellungen → Oberfläche → Skin → **Kodiman's Wasteland** auswählen
+## Versionsgeschichte
 
-## Voraussetzungen
+| Version | Neuerungen |
+|---------|-----------|
+| **v2.0.0** | 🏗️ Komplette Neuentwicklung auf Aeon Tajo 9.2.5-Basis! Horizontales Menü, alle Aeon Tajo-Features, Settings, Widgets, Customizer |
+| v1.1.7 | 🆕 Wasteland-Kodi-Logo oben links |
+| v1.1.6 | 👾 Glitch-Effekte (Chromatic Aberration) |
+| v1.1.5 | 🖼️ Scharfes @KODIMANHIMSELF Logo (BMP-Workaround) |
+| v1.1.4 | 🔥 Animierter Feuer-Hintergrund |
+| v1.1.3 | Auflösungs-Fix (skin.xml), macOS M4 |
+| v1.1.0 | Eigenes Home.xml mit 11 Menu-Items |
 
-- **Kodi Omega (v21)** oder höher
-- **xbmc.gui** ≥ 5.17.0
-- **Getestet auf macOS** (Apple Silicon M4). Andere Plattformen können abweichendes Verhalten zeigen.
+## Hinweis
 
-## Views
-
-| View | Beschreibung |
-|------|-------------|
-| **List** | Klassische Listenansicht |
-| **Wall** | Posterwall mit automatischem Umbruch |
-| **WideWall** | Breite Posterwall für Highlights |
-| **Banner** | Banneransicht für Serien |
-| **Shelf** | Horizontales Regal für Widget-Inhalte |
-| **Flix** | Netflix-ähnliche Karussell-Ansicht |
+**Getestet auf macOS** (Apple Silicon M4). Andere Plattformen können abweichendes Verhalten zeigen.  
+Alle alten Versionen (v1.x) bleiben als Backup erhalten.
 
 ## Lizenz
 
-GNU General Public License v2.0 — siehe [LICENSE](LICENSE).
-
----
-
-**Erstellt von Kodiman** · [GitHub](https://github.com/Kodiman1402) · [YouTube](https://youtube.com/@KodimanHimself) · [Ko-fi](https://ko-fi.com/kodimanhimself)
+GPL-2.0-only – basiert auf [Aeon Tajo](https://github.com/manfeed/skin.aeon.tajo) von manfeed, sualfred.
