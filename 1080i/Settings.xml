@@ -57,7 +57,7 @@
 						<width>250</width>
 						<height>125</height>
 						<aspectratio>keep</aspectratio>
-						<texture>aeon-tajo2.png</texture>
+						<texture>kodiman-tajo2.png</texture>
 					</control>
 					<control type="image">
 						<visible>String.IsEqual(Container(9000).ListItem.Property(numby),Tajo)</visible>
@@ -67,7 +67,7 @@
 						<width>250</width>
 						<height>125</height>
 						<aspectratio>keep</aspectratio>
-						<texture>aeon-tajo3.png</texture>
+						<texture>kodiman-tajo3.png</texture>
 					</control>
 					<control type="image">
 						<visible>String.IsEqual(Container(9000).ListItem.Property(numby),Interface)</visible>
@@ -206,7 +206,7 @@
 							<width>250</width>
 							<height>125</height>
 							<aspectratio>keep</aspectratio>
-							<texture>aeon-tajo2.png</texture>
+							<texture>kodiman-tajo2.png</texture>
 						</control>
 						<control type="image">
 							<visible>String.IsEqual(Container(9000).ListItem.Property(numby),Tajo)</visible>
@@ -216,7 +216,7 @@
 							<width>250</width>
 							<height>125</height>
 							<aspectratio>keep</aspectratio>
-							<texture>aeon-tajo3.png</texture>
+							<texture>kodiman-tajo3.png</texture>
 						</control>
 						<control type="image">
 							<visible>String.IsEqual(Container(9000).ListItem.Property(numby),Interface)</visible>
@@ -411,7 +411,7 @@
 				<width>512</width>
 				<height>200</height>
 				<aspectratio>keep</aspectratio>
-				<texture>aeon-tajo2.png</texture>
+				<texture>kodiman-tajo2.png</texture>
 			</control>
 			<control type="image">
 				<description>LOGO</description>
@@ -421,7 +421,7 @@
 				<height>200</height>
 				<aspectratio>keep</aspectratio>
 				<colordiffuse>Skin.String(flat_back)</colordiffuse>
-				<texture>aeon-tajo3.png</texture>
+				<texture>kodiman-tajo3.png</texture>
 			</control>
 			<control type="textbox">
 				<description>description area</description>

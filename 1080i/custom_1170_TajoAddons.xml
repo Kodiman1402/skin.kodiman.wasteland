@@ -19,7 +19,7 @@
 			<width>356</width>
 			<height>120</height>
 			<aspectratio>keep</aspectratio>
-			<texture>aeon-tajo2.png</texture>
+			<texture>kodiman-tajo2.png</texture>
 		</control>
 		<control type="image">
 			<description>LOGO</description>
@@ -29,14 +29,14 @@
 			<height>120</height>
 			<aspectratio>keep</aspectratio>
 			<colordiffuse>Skin.String(flat_back)</colordiffuse>
-			<texture>aeon-tajo3.png</texture>
+			<texture>kodiman-tajo3.png</texture>
 		</control>
 		<control type="label">
 			<left>392</left>
 			<top>60</top>
 			<width>300</width>
 			<height>50</height>
-			<label>$INFO[System.AddonVersion(skin.aeon.tajo)]</label>
+			<label>$INFO[System.AddonVersion(skin.kodiman.wasteland)]</label>
 			<font>font28</font>
 		</control>
 		<control type="group">
