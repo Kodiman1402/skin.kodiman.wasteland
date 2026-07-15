@@ -39,7 +39,7 @@
 						<label>$INFO[ListItem.Label]</label>
 					</control>
 				</itemlayout>
-				<focusedlayout height="100" width="640">
+																<focusedlayout height="100" width="640">
 					<control type="label">
 						<scroll>false</scroll>
 						<animation effect="zoom" center="325,40" start="100" end="110" condition="true">Conditional</animation>
@@ -53,6 +53,37 @@
 						<label>$INFO[ListItem.Label]</label>
 						<visible>!Control.HasFocus(9000)</visible>
 					</control>
+					<!-- Glitch: Roter Kanal -->
+					<control type="label">
+						<scroll>false</scroll>
+						<left>44</left>
+						<width>625</width>
+						<height>90</height>
+						<font>font_MainMenu</font>
+						<textcolor>FFFF0000</textcolor>
+						<align>center</align>
+						<aligny>center</aligny>
+						<label>$INFO[ListItem.Label]</label>
+						<visible>Control.HasFocus(9000)</visible>
+						<animation effect="fade" start="100" end="0" time="120" delay="0" condition="true">Conditional</animation>
+						<animation effect="fade" start="0" end="100" time="200" delay="100">Visible</animation>
+					</control>
+					<!-- Glitch: Cyaner Kanal -->
+					<control type="label">
+						<scroll>false</scroll>
+						<left>56</left>
+						<width>625</width>
+						<height>90</height>
+						<font>font_MainMenu</font>
+						<textcolor>FF00CCFF</textcolor>
+						<align>center</align>
+						<aligny>center</aligny>
+						<label>$INFO[ListItem.Label]</label>
+						<visible>Control.HasFocus(9000)</visible>
+						<animation effect="fade" start="0" end="90" time="100" delay="50">Conditional</animation>
+						<animation effect="fade" start="90" end="0" time="200" delay="200">Visible</animation>
+					</control>
+					<!-- Hauptlabel (weiss, flackert beim Fokus) -->
 					<control type="label">
 						<animation effect="zoom" center="325,40" start="100" end="110" time="300" delay="225" tween="quadratic" easing="out">Focus</animation>
 						<animation type="UnFocus" reversible="false">
@@ -62,6 +93,7 @@
 						<animation type="Visible">
 							<effect type="zoom" start="70" end="100" center="auto" tween="sine" easing="inout" time="300"/>
 						</animation>
+						<animation effect="fade" start="100" end="50" time="60" pulse="true" reversible="false" condition="Control.HasFocus(9000)">Conditional</animation>
 						<scroll>false</scroll>
 						<left>50</left>
 						<width>625</width>
