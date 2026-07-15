@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <window>
 	<defaultcontrol always="true">9000</defaultcontrol>
-	<onload condition="String.IsEmpty(Skin.String(flat_back))">Skin.SetString(flat_back,FF2ccdc9)</onload>
-	<onload condition="String.IsEmpty(Skin.String(theme_text))">Skin.SetString(theme_text,FF2ccdc9)</onload>
+	<onload condition="String.IsEmpty(Skin.String(flat_back))">Skin.SetString(flat_back,FF6B3A18)</onload>
+	<onload condition="String.IsEmpty(Skin.String(theme_text))">Skin.SetString(theme_text,FF6B3A18)</onload>
 	<onload condition="String.IsEmpty(Skin.String(mark_color))">Skin.SetString(mark_color,FFff0303)</onload>
 	<onload condition="!String.IsEmpty(Window(10000).Property(multi_scan))">RunScript(script.aeon.tajo.helper,action=multi_scan)</onload>
 	<onload condition="!String.IsEmpty(Window(10000).Property(multi_scan))">ClearProperty(multi_scan,home)</onload>
