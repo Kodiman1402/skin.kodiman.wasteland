@@ -51,3 +51,19 @@ Alle alten Versionen (v1.x) bleiben als Backup erhalten.
 ## Lizenz
 
 GPL-2.0-only – basiert auf [Aeon Tajo](https://github.com/manfeed/skin.aeon.tajo) von manfeed, sualfred.
+
+---
+
+## 💖 Unterstützen
+
+Gefällt dir **Kodiman's Wasteland**? Dann unterstütze die Entwicklung!
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/kodimanhimself)
+
+**Jeder Kaffee hilft, den Skin weiterzuentwickeln!** ☕🔥
+
+## 📢 Telegram
+
+Tritt meiner Community bei – News, Updates und Austausch:
+
+👉 [**@KodimansGroup auf Telegram**](https://t.me/kodimansgroup)
