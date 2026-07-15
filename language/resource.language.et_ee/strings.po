@@ -1,0 +1,2224 @@
+# Kodi Media Center language file
+# Addon Name: Aeon Tajo
+# Addon id: skin.aeon.tajo
+# Addon Provider: manfeed
+msgid ""
+msgstr ""
+"Project-Id-Version: KODI Skins\n"
+"POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2026-03-28 23:42+0000\n"
+"Last-Translator: manfeed <aeon.tajo@gmail.com>\n"
+"Language-Team: Estonian  <aeon.tajo@gmail.com>\n"
+"Language: et_ee\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+msgctxt "Addon Summary"
+msgid "Aeon Tajo"
+msgstr "Aeon Tajo"
+
+msgctxt "Addon Description"
+msgid "Aeon Tajo: Changes everything so that nothing changes. Inspired on Aeon Nox 5 (thanks to BigNoid)."
+msgstr "Aeon Tajo: muudab kõike nii, et miski ei muutuks.Inspireeritud Aeon Nox 5-st (tänu BigNoidile)."
+
+msgctxt "Addon Disclaimer"
+msgid "Mouse control is supported, althoug not recommended. It may not work correctly in all cases."
+msgstr "Hiire juhtimine on toetatud, kuigi pole soovitatav.See ei pruugi kõigil juhtudel korralikult töötada."
+
+msgctxt "#31000"
+msgid "Directed by"
+msgstr "Lavastaja"
+
+msgctxt "#31001"
+msgid "Written by"
+msgstr "Stsenarist"
+
+msgctxt "#31002"
+msgid "Blurred album thumb"
+msgstr "Udune albumi pisipilt"
+
+msgctxt "#31003"
+msgid "Power Options"
+msgstr "Toite valikud"
+
+msgctxt "#31004"
+msgid "Working"
+msgstr "Töös"
+
+msgctxt "#31005"
+msgid "Fixed"
+msgstr "Fikseeritud"
+
+msgctxt "#31006"
+msgid "View Options"
+msgstr "Vaate valikud"
+
+msgctxt "#31007"
+msgid "Setup home"
+msgstr "Seadista avakuva"
+
+msgctxt "#31008"
+msgid "Full screen"
+msgstr "Täisekraan"
+
+msgctxt "#31009"
+msgid "Total Duration"
+msgstr "Kogukestus"
+
+msgctxt "#31010"
+msgid "Next episode"
+msgstr "Järgmine episood"
+
+msgctxt "#31011"
+msgid "Latest episode"
+msgstr "Uusim episood"
+
+msgctxt "#31012"
+msgid "Airs"
+msgstr "Eetris"
+
+msgctxt "#31013"
+msgid "Statistics"
+msgstr "Statistika"
+
+msgctxt "#31014"
+msgid "Extras"
+msgstr "Lisad"
+
+msgctxt "#31015"
+msgid "Set path to video genre fanart folder"
+msgstr "Määra videožanri fännipildi kausta rada"
+
+msgctxt "#31016"
+msgid "Poster"
+msgstr "Plakat"
+
+msgctxt "#31017"
+msgid "Set path to music genre fanart folder"
+msgstr "Määra muusikažanri fännipildi kausta rada"
+
+msgctxt "#31018"
+msgid "InfoPanel"
+msgstr "Infopaneel"
+
+msgctxt "#31019"
+msgid "Network"
+msgstr "Võrk"
+
+msgctxt "#31020"
+msgid "Extra-fanart"
+msgstr "Täiendav fännikunst"
+
+msgctxt "#31021"
+msgid "Stage curtains"
+msgstr "Eesriie"
+
+msgctxt "#31022"
+msgid "Set multi-image background"
+msgstr "Sea mitme pildiga taust"
+
+msgctxt "#31023"
+msgid "Set single image background"
+msgstr "Sea ühe pildiga taust"
+
+msgctxt "#31024"
+msgid "Page"
+msgstr "Leht"
+
+msgctxt "#31025"
+msgid "Items"
+msgstr "üksust"
+
+msgctxt "#31026"
+msgid "Misc Options"
+msgstr "Veel valikuid"
+
+msgctxt "#31027"
+msgid "Set item background"
+msgstr "Sea taustapilt"
+
+msgctxt "#31028"
+msgid "Live DVD Cases"
+msgstr "Animeeritud DVD ümbrised"
+
+msgctxt "#31029"
+msgid "Recent Movies"
+msgstr "Viimased filmid"
+
+msgctxt "#31030"
+msgid "Recent Episodes"
+msgstr "Viimased episoodid"
+
+msgctxt "#31031"
+msgid "Random Movies"
+msgstr "Juhuslikud filmid"
+
+msgctxt "#31032"
+msgid "Recommended Movies"
+msgstr "Soovitatavad filmid"
+
+msgctxt "#31033"
+msgid "Random Episodes"
+msgstr "Juhuslikud episoodid"
+
+msgctxt "#31034"
+msgid "Recommended Episodes"
+msgstr "Soovitatavad episoodid"
+
+msgctxt "#31035"
+msgid "Random Songs"
+msgstr "Juhuslikud laulud"
+
+msgctxt "#31036"
+msgid "Random Albums"
+msgstr "Juhuslikud albumid"
+
+msgctxt "#31037"
+msgid "Recent Albums"
+msgstr "Viimased albumid"
+
+msgctxt "#31038"
+msgid "Recommended Albums"
+msgstr "Soovitatavad albumid"
+
+msgctxt "#31039"
+msgid "Actions"
+msgstr "Toimingud"
+
+msgctxt "#31040"
+msgid "Now Playing"
+msgstr "Hetkel mängib"
+
+msgctxt "#31041"
+msgid "Select widget"
+msgstr "Vali vidin"
+
+msgctxt "#31042"
+msgid "Show \"Now Playing\" information blended in the background"
+msgstr "Kuva \"Hetkel mängib\" teave taustal"
+
+msgctxt "#31043"
+msgid "Platform"
+msgstr "Platvorm"
+
+msgctxt "#31044"
+msgid "Views: Plot outline | Info dialog: Full plot"
+msgstr "Vaated: lühikokkuvõte | teabedialoog: täielik süžee"
+
+msgctxt "#31045"
+msgid "Views: Full plot | Info dialog: Plot outline"
+msgstr "Vaated: täielik süžee | teabedialoog: lühikokkuvõte"
+
+msgctxt "#31046"
+msgid "SEEKING"
+msgstr "KERIMINE"
+
+msgctxt "#31047"
+msgid "Set item icon"
+msgstr "Määra kirje ikoon"
+
+msgctxt "#31048"
+msgid "Visualisation Presets"
+msgstr "Visuaalide eelseaded"
+
+msgctxt "#31049"
+msgid "Select infoline"
+msgstr "Vali teaberida"
+
+msgctxt "#31050"
+msgid "Sort: Ascending"
+msgstr "Järjestus: kasvav"
+
+msgctxt "#31051"
+msgid "Sort: Descending"
+msgstr "Järjestus: kahanev"
+
+msgctxt "#31052"
+msgid "Movie library statistics"
+msgstr "Filmikogu statistika"
+
+msgctxt "#31053"
+msgid "TV Show library statistics"
+msgstr "Sarjakogu statistika"
+
+msgctxt "#31054"
+msgid "Music library statistics"
+msgstr "Muusikakogu statistika"
+
+msgctxt "#31055"
+msgid "Open playlist"
+msgstr "Ava esitusloend"
+
+msgctxt "#31056"
+msgid "Save playlist"
+msgstr "Salvesta esitusloend"
+
+msgctxt "#31057"
+msgid "Close playlist"
+msgstr "Sulge esitusloend"
+
+msgctxt "#31058"
+msgid "PVR information"
+msgstr "PVR teave"
+
+msgctxt "#31059"
+msgid "Install Artist Slideshow add-on to enable this feature"
+msgstr "Selle funktsiooni lubamiseks installige artisti slaidiseansi lisandmoodul"
+
+msgctxt "#31060"
+msgid "This file is stacked, select the part you want to play from."
+msgstr "See fail on järjehoidjaga. Vali koht, millest soovid taasesitust jätkata."
+
+msgctxt "#31061"
+msgid "Favourites statistics"
+msgstr "Lemmikute statistika"
+
+msgctxt "#31062"
+msgid "Random movie fanart"
+msgstr "Juhuslik filmi fännikunst"
+
+msgctxt "#31063"
+msgid "Random TV show fanart"
+msgstr "Juhuslik seriaali fännikunst"
+
+msgctxt "#31064"
+msgid "Random video fanart"
+msgstr "Juhuslik video fännikunst"
+
+msgctxt "#31065"
+msgid "Random music fanart"
+msgstr "Juhuslik muusika fännikunst"
+
+msgctxt "#31066"
+msgid "Random fanart"
+msgstr "Juhuslik fännikunst"
+
+msgctxt "#31067"
+msgid "Update rating"
+msgstr "Uuenda hinnet"
+
+msgctxt "#31068"
+msgid "CD Wall"
+msgstr "CD riiul"
+
+msgctxt "#31069"
+msgid "Change location"
+msgstr "Muuda asukohta"
+
+msgctxt "#31070"
+msgid "Enable Cinema Experience integration"
+msgstr "Luba Cinema Experience'i lõiming"
+
+msgctxt "#31071"
+msgid "While browsing the library"
+msgstr "Meediakogu lehitsedes"
+
+msgctxt "#31072"
+msgid "On open video info"
+msgstr "Avades video infot"
+
+msgctxt "#31073"
+msgid "Move menu item"
+msgstr "Liiguta menüüelementi"
+
+msgctxt "#31074"
+msgid "Choose item to swap places with"
+msgstr "Vali kirje, millega kohad vahetada"
+
+msgctxt "#31075"
+msgid "No extra features available"
+msgstr "Lisaseadeid pole saadaval"
+
+msgctxt "#31076"
+msgid "Landscape"
+msgstr "Horisontaalne"
+
+msgctxt "#31077"
+msgid "ShowCase"
+msgstr "Vitriin"
+
+msgctxt "#31078"
+msgid "TriPanel"
+msgstr "Kolmikpaneel"
+
+msgctxt "#31079"
+msgid "Shift"
+msgstr "Shift"
+
+msgctxt "#31080"
+msgid "Manage submenu"
+msgstr "Halda alammenüüd"
+
+msgctxt "#31081"
+msgid "Enable custom submenus"
+msgstr "Luba kohandatud alammenüüd"
+
+msgctxt "#31082"
+msgid "Detach RSS feed from the main menu"
+msgstr "Eralda RSS kanal peamenüüst"
+
+msgctxt "#31083"
+msgid "Enable Next Aired information in the videolibrary"
+msgstr "Luba videokogus \"järgmisena eetris\" teave"
+
+msgctxt "#31084"
+msgid "Conditional weather"
+msgstr "Kohalik ilm"
+
+msgctxt "#31085"
+msgid "Musicvideo library statistics"
+msgstr "Muusikavideokogu statistika"
+
+msgctxt "#31086"
+msgid "Icon"
+msgstr "Ikoon"
+
+msgctxt "#31087"
+msgid "Banner"
+msgstr "Bänner"
+
+msgctxt "#31088"
+msgid "BannerWall"
+msgstr "Bännerisein"
+
+msgctxt "#31089"
+msgid "Play item on startup"
+msgstr "Esita üksus käivitamisel"
+
+msgctxt "#31090"
+msgid "Seconds"
+msgstr "sekundit"
+
+msgctxt "#31091"
+msgid "Select items"
+msgstr "Vali üksused"
+
+msgctxt "#31092"
+msgid "Fullscreen fanart"
+msgstr "Täisekraanil fännipilt"
+
+msgctxt "#31093"
+msgid "LowList toggle"
+msgstr "Madala loendi lüliti"
+
+msgctxt "#31094"
+msgid "List view layout"
+msgstr "Loendivaate laotus"
+
+msgctxt "#31095"
+msgid "Slim List"
+msgstr "Tihe loend"
+
+msgctxt "#31096"
+msgid "Concert locations"
+msgstr "Kontserdi asukohad"
+
+msgctxt "#31097"
+msgid "Movie playlist statistics"
+msgstr "Filmi esitusloendi statistika"
+
+msgctxt "#31098"
+msgid "TV Show playlist statistics"
+msgstr "Sarja esitusloendi statistika"
+
+msgctxt "#31099"
+msgid "Musicvideo playlist statistics"
+msgstr "Muusikavideo esitusloendi statistika"
+
+msgctxt "#31100"
+msgid "View:"
+msgstr "Vaade:"
+
+msgctxt "#31101"
+msgid "Choose view"
+msgstr "Vali vaade"
+
+msgctxt "#31102"
+msgid "Background"
+msgstr "Taust"
+
+msgctxt "#31103"
+msgid "N/A"
+msgstr "Puudub"
+
+msgctxt "#31104"
+msgid "Similar artists"
+msgstr "Sarnased esitajad"
+
+msgctxt "#31105"
+msgid "More albums from"
+msgstr "Rohkem albumeid esitajalt"
+
+msgctxt "#31106"
+msgid "On info"
+msgstr "Teabe peal"
+
+msgctxt "#31107"
+msgid "Persistent"
+msgstr "Püsiv"
+
+msgctxt "#31108"
+msgid "Enable artist information feed (if available)"
+msgstr "Luba esitaja teabevoog (kui on saadaval)"
+
+msgctxt "#31109"
+msgid "Unwatched episode count"
+msgstr "Vaatamata episoodide arv"
+
+msgctxt "#31110"
+msgid "Up next brings the option to watch right away the next episode of a TV show (Netflix/Prime video style)."
+msgstr "Järgmisena avaneb võimalus vaadata kohe telesaate järgmist episoodi (Netflix/Prime videostiil)."
+
+msgctxt "#31111"
+msgid "Similar movies"
+msgstr "Sarnased filmid"
+
+msgctxt "#31112"
+msgid "Movies directed by"
+msgstr "Filmid lavastajalt"
+
+msgctxt "#31113"
+msgid "Movies written by"
+msgstr "Filmid stsenaristilt"
+
+msgctxt "#31114"
+msgid "More movies from"
+msgstr "Veel filme alates"
+
+msgctxt "#31115"
+msgid "Similar TV shows"
+msgstr "Sarnased sarjad"
+
+msgctxt "#31116"
+msgid "cycle fanart"
+msgstr "vaheta fännipilte"
+
+msgctxt "#31117"
+msgid "Fallback"
+msgstr "Varupilt"
+
+msgctxt "#31118"
+msgid "Download extrafanart"
+msgstr "Laadige alla extrafanart"
+
+msgctxt "#31119"
+msgid "Show the movies from this director in your library or view online information on this director on TMDb?"
+msgstr "Kas kuvada selle lavastaja filme meediakogus või lavastaja TMDb veebiteavet?"
+
+msgctxt "#31120"
+msgid "TMDb"
+msgstr "TMDb"
+
+msgctxt "#31121"
+msgid "Disable autocomplete"
+msgstr "Keela automaatne täitmine"
+
+msgctxt "#31122"
+msgid "Disables the autocomplete feature of the virtual keyboard"
+msgstr "Keelab virtuaalse klaviatuuri automaatse täitmise funktsiooni"
+
+msgctxt "#31123"
+msgid "Album review"
+msgstr "Albumi arvustus"
+
+msgctxt "#31124"
+msgid "Show Background \"Now Playing\" Video"
+msgstr "Näita mängivat videot taustal"
+
+msgctxt "#31125"
+msgid "Show Background \"Now Playing\" Visualisation"
+msgstr "Kuva taustal \"Hetkel mängib\" visuaali"
+
+msgctxt "#31126"
+msgid "Opacity level for widgets"
+msgstr "Vidinate läbipaistmatuse tase"
+
+msgctxt "#31127"
+msgid "LiveTV Mod Settings"
+msgstr "LiveTV modi seaded"
+
+msgctxt "#31128"
+msgid "Channels View"
+msgstr "Kanalivaade"
+
+msgctxt "#31129"
+msgid "Hide Fanart in full screen visualisation"
+msgstr "Peida fännipildid täisekraanis visuaalidel"
+
+msgctxt "#31130"
+msgid "Use \"Enigma2-style\" channel OSD"
+msgstr "Kasuta Enigma2 stiilis kanalinimekirja"
+
+msgctxt "#31131"
+msgid "EPG Timeline View"
+msgstr "EPG ajaskaala vaade"
+
+msgctxt "#31132"
+msgid "Tuner:"
+msgstr "Tuuner:"
+
+msgctxt "#31133"
+msgid "Timeline channels-type:"
+msgstr "Ajaskaala kanalitüüp:"
+
+msgctxt "#31134"
+msgid "Timeline view-type:"
+msgstr "Ajaskaala vaade:"
+
+msgctxt "#31135"
+msgid "Infobar Options"
+msgstr "Inforiba valikud"
+
+msgctxt "#31136"
+msgid "Infobar type:"
+msgstr "Inforiba tüüp:"
+
+msgctxt "#31137"
+msgid "Hide encryption information"
+msgstr "Peida krüptimisteave"
+
+msgctxt "#31138"
+msgid "Hide tuner information"
+msgstr "Peida tuuneri teave"
+
+msgctxt "#31139"
+msgid "Hide signal information"
+msgstr "Peida signaali teave"
+
+msgctxt "#31140"
+msgid "Sideblade Options"
+msgstr "Külgriba valikud"
+
+msgctxt "#31141"
+msgid "Hide Guide"
+msgstr "Peida telekava"
+
+msgctxt "#31142"
+msgid "Settings level"
+msgstr "Seadete tase"
+
+msgctxt "#31143"
+msgid "Hide Recordings"
+msgstr "Peida salvestused"
+
+msgctxt "#31144"
+msgid "Hide Timer"
+msgstr "Peida taimer"
+
+msgctxt "#31145"
+msgid "Hide Search"
+msgstr "Peida otsing"
+
+msgctxt "#31146"
+msgid "Rated"
+msgstr "Hinnatud"
+
+msgctxt "#31147"
+msgid "Change rating"
+msgstr "Muuda hinnet"
+
+msgctxt "#31148"
+msgid "List local library items"
+msgstr "Kuva kohaliku meediakogu üksused"
+
+msgctxt "#31149"
+msgid "Online info from TMDb"
+msgstr "Veebiinfo TMDb-st"
+
+msgctxt "#31150"
+msgid "Select studio logo artwork"
+msgstr "Valige stuudio logo kujundus"
+
+msgctxt "#31151"
+msgid "Customize the studio logos by choosing a different logo pack. Note that this has no effect on the studio icons displayed in the \"List\" view."
+msgstr "Kohandage stuudio logosid, valides erineva logopaketi.Pange tähele, et see ei mõjuta \"Loendi\" vaates kuvatavaid stuudioikoone."
+
+msgctxt "#31152"
+msgid "In progress movies"
+msgstr "Pooleli filmid"
+
+msgctxt "#31153"
+msgid "Popular movies on TheMovieDB.org"
+msgstr "Populaarsed filmid saidil TheMovieDB.org"
+
+msgctxt "#31154"
+msgid "Top rated movies on TheMovieDB.org"
+msgstr "Kõrgeimalt hinnatud filmid saidil TheMovieDB.org"
+
+msgctxt "#31155"
+msgid "Movies currently in cinema"
+msgstr "Hetkel kinos olevad filmid"
+
+msgctxt "#31156"
+msgid "Upcoming movies"
+msgstr "Tulevased filmid"
+
+msgctxt "#31157"
+msgid "Multi movie widget"
+msgstr "Mitme filmi vidin"
+
+msgctxt "#31158"
+msgid "IMDb Top 250 movies"
+msgstr "IMDb 250 parimat filmi"
+
+msgctxt "#31159"
+msgid "Event log"
+msgstr "Logiraamat"
+
+msgctxt "#31160"
+msgid "Display background name"
+msgstr "Kuva taustapildi nimi"
+
+msgctxt "#31161"
+msgid "Display title of movie/TV show/artist on home screen if the background has a fanart slideshow as background"
+msgstr "Kuvage avakuval filmi/telesaate/artisti pealkiri, kui taustal on taustaks fanartide slaidiseanss"
+
+msgctxt "#31162"
+msgid "min"
+msgstr "min"
+
+msgctxt "#31163"
+msgid "TIMESHIFT"
+msgstr ""
+
+msgctxt "#31164"
+msgid "Change weather icons"
+msgstr "Muutke ilmaikoone"
+
+msgctxt "#31165"
+msgid "Layout"
+msgstr "Paigutus"
+
+msgctxt "#31166"
+msgid "Wall"
+msgstr "Sein"
+
+msgctxt "#31167"
+msgid "You're watching"
+msgstr "Vaatad"
+
+msgctxt "#31168"
+msgid "h"
+msgstr ""
+
+msgctxt "#31169"
+msgid "m"
+msgstr ""
+
+msgctxt "#31170"
+msgid "Enable Netflix style pause screen"
+msgstr "Lubage Netflixi stiilis pausiekraan"
+
+msgctxt "#31171"
+msgid "Shows an overview of the movie or episode 10 seconds after the video is paused."
+msgstr "Kuvab 10 sekundit pärast video peatamist filmi või jao ülevaate."
+
+msgctxt "#31172"
+msgid "Inactive"
+msgstr "Mitte aktiivne"
+
+msgctxt "#31173"
+msgid "Decoder"
+msgstr "Dekooder"
+
+msgctxt "#31174"
+msgid "Hardware decoding"
+msgstr "Riistvaraline dekodeerimine"
+
+msgctxt "#31175"
+msgid "press 'OK' to see more..."
+msgstr "rohkemate vaatamiseks vajutage 'OK'..."
+
+msgctxt "#31176"
+msgid "Enter text here..."
+msgstr "Sisesta tekst siia..."
+
+msgctxt "#31177"
+msgid "Player controls"
+msgstr "Mängija juhtnupud"
+
+msgctxt "#31178"
+msgid "Playlist options"
+msgstr "Esitusloendi suvandid"
+
+msgctxt "#31179"
+msgid "Critics"
+msgstr "Kriitikud"
+
+msgctxt "#31180"
+msgid "Play main theme when browsing movies and TV shows"
+msgstr "Esitage filmide ja telesaadete sirvimisel põhiteemat"
+
+msgctxt "#31181"
+msgid "Display cast in video views"
+msgstr "Kuva ülekannet videovaadetes"
+
+msgctxt "#31182"
+msgid "Hide current time in media views"
+msgstr "Peida praegune kellaaeg meediavaadetes"
+
+msgctxt "#31183"
+msgid "Hide number of items in media views"
+msgstr "Peida üksuste arv meediavaadetes"
+
+msgctxt "#31184"
+msgid "Enable, disable and/or force video views"
+msgstr "Videovaate lubamine, keelamine ja/või sundimine"
+
+msgctxt "#31185"
+msgid "Enable, disable and/or force music views"
+msgstr "Lubage, keelake ja/või sundige muusikavaateid"
+
+msgctxt "#31186"
+msgid "Force Kodi to always use certain view when browsing each kind of media. Disabling views that you don't use could speed up browsing in some devices"
+msgstr "Sundige Kodi kasutama igat tüüpi meediumite sirvimisel alati teatud vaadet.Vaadete keelamine, mida te ei kasuta, võib mõnes seadmes sirvimist kiirendada"
+
+msgctxt "#31187"
+msgid "Available for:"
+msgstr "Saadaval:"
+
+msgctxt "#31188"
+msgid "Kiosk mode"
+msgstr "Kioski režiim"
+
+msgctxt "#31189"
+msgid "Disables the side media menu in views and most options to change Kodi, so as to prevent unwanted modifications."
+msgstr "Keelab vaadetes külgmise meediumimenüü ja enamiku Kodi muutmise valikutest, et vältida soovimatuid muudatusi."
+
+msgctxt "#31190"
+msgid "In cinemas"
+msgstr "Kinodes"
+
+msgctxt "#31191"
+msgid "In cinemas soon"
+msgstr "Varsti kinodes"
+
+msgctxt "#31192"
+msgid "Spotify"
+msgstr ""
+
+msgctxt "#31193"
+msgid "Show images of the best-known actresses"
+msgstr "Näidake tuntuimate näitlejannade pilte"
+
+msgctxt "#31194"
+msgid "Search the Red Carpet add-on for images of the best-known actresses from the movie/TV show and display them alongside the cast."
+msgstr "Otsige Red Carpet'i lisandmoodulist filmi/telesaate tuntuimate näitlejannade pilte ja kuvage neid koos näitlejatega."
+
+msgctxt "#31195"
+msgid "Show logos of film studios in video views"
+msgstr "Kuvage videovaadetes filmistuudiote logosid"
+
+msgctxt "#31196"
+msgid "Show logos of record labels in music albums views"
+msgstr "Kuvage muusikaalbumite vaadetes plaadifirmade logosid"
+
+msgctxt "#31197"
+msgid "Show home music widget"
+msgstr "Kuva kodumuusika vidin"
+
+msgctxt "#31198"
+msgid "Show home video widget"
+msgstr "Kuva koduvideo vidin"
+
+msgctxt "#31199"
+msgid "Colours, marks and home screen"
+msgstr "Värvid, märgid ja avakuva"
+
+msgctxt "#31200"
+msgid "Is used to choose among different Kodi resource image pack to weather artwork and icons."
+msgstr "Kasutatakse erinevate Kodi ressursipildipakettide, ilmateate ja ikoonide vahel valimiseks."
+
+msgctxt "#31201"
+msgid "Performance impact"
+msgstr "Tulemuslikkuse mõju"
+
+msgctxt "#31202"
+msgid "Plays music in the background while in Home and Settings screens. A default song collection is provided, but a different song folder can be used."
+msgstr "Esitab muusikat taustal avakuva ja seadete ekraanil.Pakutakse vaikelaulude kogu, kuid kasutada saab ka teistsugust laulude kausta."
+
+msgctxt "#31203"
+msgid "Select your own folder to use as background music. Make sure that it only contains music files."
+msgstr "Valige oma kaust, mida taustamuusikana kasutada.Veenduge, et see sisaldaks ainult muusikafaile."
+
+msgctxt "#31204"
+msgid "When enabled, widgets linked to each home menu item will appear automatically. If disabled, widgets remain hidden until the corresponding arrow key is pressed."
+msgstr "Kui see on lubatud, kuvatakse automaatselt iga kodumenüü elemendiga lingitud vidinad.Kui see on keelatud, jäävad vidinad peidetuks, kuni vastavat nooleklahvi vajutatakse."
+
+msgctxt "#31205"
+msgid "Lyrics Source"
+msgstr "Laulusõnade allikas"
+
+msgctxt "#31206"
+msgid "Customization"
+msgstr "Kohandamine"
+
+msgctxt "#31207"
+msgid "Views"
+msgstr "Vaated"
+
+msgctxt "#31208"
+msgid "Home screen"
+msgstr "Avakuva"
+
+msgctxt "#31209"
+msgid "Options"
+msgstr "Valikud"
+
+msgctxt "#31210"
+msgid "Select another image as default background"
+msgstr "Valige vaiketaustaks mõni muu pilt"
+
+msgctxt "#31211"
+msgid "Changes the default Aeon Tajo background to another chosen by the user."
+msgstr "Muudab Aeon Tajo vaiketausta mõne teise kasutaja valitud tausta vastu."
+
+msgctxt "#31212"
+msgid "Current background path: "
+msgstr "Praegune taustatee:"
+
+msgctxt "#31213"
+msgid "Reset skin default background"
+msgstr "Lähtesta naha vaiketaust"
+
+msgctxt "#31214"
+msgid "Resets the default background provided with Aeon Tajo."
+msgstr "Lähtestab Aeon Tajo pakutava vaiketausta."
+
+msgctxt "#31215"
+msgid "Show the coloured version of the icons rather than the monochrome version."
+msgstr "Näita ikoonide värvilist versiooni ühevärvilise versiooni asemel."
+
+msgctxt "#31216"
+msgid "Displays background and fanart images with a subtle motion effect across the screen."
+msgstr "Kuvab tausta- ja fanartpilte peene liikumisefektiga kogu ekraanil."
+
+msgctxt "#31217"
+msgid "Displays a list in the video views featuring thumbnail images of the main actors from the movie or TV show's cast."
+msgstr "Kuvab videovaadetes loendi, mis sisaldab pisipilte filmi või telesaate peaosatäitjatest."
+
+msgctxt "#31218"
+msgid "Search the Studio Icons add-on for logo images of the film studios of the movie/TV show, and if found, display them while browsing the video views."
+msgstr "Otsige lisandmoodulist Studio Icons filmi/telesaate filmistuudiote logopilte ja kui leiate, kuvage need videovaadete sirvimise ajal."
+
+msgctxt "#31219"
+msgid "Search for the album's record label logo using the RecordLabel Icons addon, and if found, display it when browsing the music album views."
+msgstr "Otsige albumi plaadifirma logo, kasutades lisandmoodulit RecordLabel Icons, ja kui see leitakse, kuvage see muusikaalbumivaadete sirvimisel."
+
+msgctxt "#31220"
+msgid "Show rating"
+msgstr "Kuva hinnang"
+
+msgctxt "#31221"
+msgid "Show artist clearart"
+msgstr "Näita kunstniku clearart"
+
+msgctxt "#31222"
+msgid "Show CD"
+msgstr "Näita CD-d"
+
+msgctxt "#31223"
+msgid "Show Time"
+msgstr "Näita aega"
+
+msgctxt "#31224"
+msgid "Animated posters"
+msgstr "Animeeritud plakatid"
+
+msgctxt "#31225"
+msgid "Normal posters"
+msgstr "Tavalised plakatid"
+
+msgctxt "#31226"
+msgid "Extra posters"
+msgstr "Lisaplakatid"
+
+msgctxt "#31227"
+msgid "Sets the transparency level of the home menu widgets."
+msgstr "Määrab kodumenüü vidinate läbipaistvuse taseme."
+
+msgctxt "#31228"
+msgid "Displays main menu options in a vertical layout instead of a horizontal one."
+msgstr "Kuvab peamenüü valikud horisontaalse paigutuse asemel vertikaalses paigutuses."
+
+msgctxt "#31229"
+msgid "Set another video file as startup intro"
+msgstr "Määrake käivitamise sissejuhatuseks mõni muu videofail"
+
+msgctxt "#31230"
+msgid "Choose another video file to play when Kodi starts instead of Aeon Tajo default. It's recommended to choose a short one. To stop playback and start using Kodi right away, click or press any arrow key."
+msgstr "Valige Aeon Tajo vaikeväärtuse asemel mõni muu videofail, mida Kodi käivitumisel esitada.Soovitatav on valida lühike.Taasesituse peatamiseks ja kohe Kodi kasutamise alustamiseks klõpsake või vajutage mis tahes nooleklahvi."
+
+msgctxt "#31231"
+msgid "Plays an intro video when launching Kodi"
+msgstr "Esitab Kodi käivitamisel tutvustusvideo"
+
+msgctxt "#31232"
+msgid "Clear current intro video file and back to default"
+msgstr "Tühjendage praegune sissejuhatav videofail ja naaske vaikeseadetele"
+
+msgctxt "#31233"
+msgid "Clear the intro video file selected by the user and back to Aeon Tajo's default."
+msgstr "Tühjendage kasutaja valitud sissejuhatav videofail ja naaske Aeon Tajo vaikefaili."
+
+msgctxt "#31234"
+msgid "Adds a layer that simulates falling snow on all Kodi screens, with four available intensity levels."
+msgstr "Lisab kihi, mis simuleerib lumesadu kõigil Kodi ekraanidel nelja saadaoleva intensiivsuse tasemega."
+
+msgctxt "#31235"
+msgid "Override the current home menu backgrounds with this one"
+msgstr "Sellega alistage praegused kodumenüü taustad"
+
+msgctxt "#31236"
+msgid "The background selections made in the Setup Main Menu screen will be preserved. Disabling this option will restore all previous backgrounds. This option is particularly designed for use during special seasons."
+msgstr "Seadistuse põhimenüü ekraanil tehtud taustavalikud jäetakse alles.Selle valiku keelamisel taastatakse kõik varasemad taustad.See valik on mõeldud kasutamiseks erihooaegadel."
+
+msgctxt "#31237"
+msgid "No impact"
+msgstr "Mõju puudub"
+
+msgctxt "#31238"
+msgid "Very small"
+msgstr "Väga väike"
+
+msgctxt "#31239"
+msgid "Small"
+msgstr "Väike"
+
+msgctxt "#31240"
+msgid "Moderate"
+msgstr "Mõõdukas"
+
+msgctxt "#31241"
+msgid "Pixel format"
+msgstr "Pikslivorming"
+
+msgctxt "#31242"
+msgid "System rendering speed"
+msgstr "Süsteemi renderduskiirus"
+
+msgctxt "#31243"
+msgid "Hide actor's thumbnails"
+msgstr "Peida näitleja pisipildid"
+
+msgctxt "#31244"
+msgid "Show only a list of the actors' names, instead of also including their thumbnails."
+msgstr "Kuva ainult näitlejate nimede loend, selle asemel, et lisada ka nende pisipilte."
+
+msgctxt "#31250"
+msgid "Automatic Full Screen when playing music"
+msgstr "Automaatne täisekraan muusika esitamisel"
+
+msgctxt "#31251"
+msgid "Don't play melodies while in Home Screen"
+msgstr "Ärge esitage avakuval meloodiaid"
+
+msgctxt "#31252"
+msgid "Always show home screen widgets"
+msgstr "Kuva alati avakuva vidinad"
+
+msgctxt "#31253"
+msgid "Choose user audio playlist *.m3u (max.10 songs)"
+msgstr "Valige kasutaja heli esitusloend *.m3u (max 10 lugu)"
+
+msgctxt "#31254"
+msgid "Clear user playlist (back to default)"
+msgstr "Kasutaja esitusloendi kustutamine (tagasi vaikeseadetele)"
+
+msgctxt "#31300"
+msgid "Overview"
+msgstr "Ülevaade"
+
+msgctxt "#31301"
+msgid "Last Updated"
+msgstr "Viimati uuendatud"
+
+msgctxt "#31307"
+msgid "Hide Fanart"
+msgstr "Peida fännipildid"
+
+msgctxt "#31308"
+msgid "Next aired"
+msgstr "Järgmisena eetris"
+
+msgctxt "#31309"
+msgid "Memory Used:"
+msgstr "Mälukasutus:"
+
+msgctxt "#31310"
+msgid "Available audio tracks"
+msgstr "Saadaolevad heliribad"
+
+msgctxt "#31317"
+msgid "Set Fanart Path"
+msgstr "Määra fännipiltide asukoht"
+
+msgctxt "#31320"
+msgid "Last Logged In"
+msgstr "Viimane sisselogimine"
+
+msgctxt "#31321"
+msgid "Karaoke Song Selector"
+msgstr "Karaoke lauluvalija"
+
+msgctxt "#31328"
+msgid "Recently Added"
+msgstr "Viimati lisatud"
+
+msgctxt "#31331"
+msgid "Installed"
+msgstr "Paigaldatud"
+
+msgctxt "#31332"
+msgid "Not Installed"
+msgstr "Pole installitud"
+
+msgctxt "#31334"
+msgid "Required"
+msgstr "Nõutud"
+
+msgctxt "#31335"
+msgid "Recommended"
+msgstr "Soovitatud"
+
+msgctxt "#31336"
+msgid "Optional"
+msgstr "Valikuline"
+
+msgctxt "#31390"
+msgid "Skin default"
+msgstr "Rüü vaikeväärtus"
+
+msgctxt "#31400"
+msgid "[B]CONFIGURE INTERFACE SETTINGS[/B][CR][CR]Change the skin · Set language and region · Setup remote controls[CR]Set up a screensaver · Setup master lock"
+msgstr "[B]LIIDESE SEADEDTE KONFIGURERIMINE[/B][CR][CR]Keele ja piirkonna muutmine · Kaugjuhtimispultide seadistamine[CR]Ekraanisäästja seadistamine · Põhiluku seadistamine"
+
+msgctxt "#31401"
+msgid "Menu - press 'OK'"
+msgstr "Menüü - vajutage 'OK'"
+
+msgctxt "#31402"
+msgid "Enable startup video intro"
+msgstr "Luba käivitusvideo sissejuhatus"
+
+msgctxt "#31405"
+msgid "[B]MONITOR YOUR SYSTEM[/B][CR][CR]Check out your hardware · Monitor CPU usage[CR]Check Kodi revision number"
+msgstr "[B]JÄLGI OMA SÜSTEEMI[/B][CR][CR]Tutvu riistvaraga · Jälgi protsessori kasutust[CR]Vaata Kodi väljalaskenumbrit"
+
+msgctxt "#31406"
+msgid "[B]CONFIGURE SYSTEM SETTINGS[/B][CR][CR]Setup and calibrate displays · Configure audio output · [CR]Set power saving options · Enable debugging"
+msgstr "[B]SÜSTEEMI SEADETTE KONFIGURERIMINE[/B][CR][CR]Kuvade seadistamine ja kalibreerimine · Heliväljundi konfigureerimine · [CR]Toitesäästuvalikute määramine · Silumise lubamine"
+
+msgctxt "#31407"
+msgid "[B]SETUP PROFILES[/B][CR][CR]Setup and manage user profiles · Enable login screen[CR]Change password · Add a profile picture"
+msgstr "[B]PROFIILIDE SEADISTUS[/B][CR][CR]Seadista ja halda kasutajaprofiile · Luba sisselogimisaken[CR]Muuda salasõna · Lisa profiilipilt"
+
+msgctxt "#31409"
+msgid "[B]CONFIGURE TV SETTINGS[/B][CR][CR]Change full screen info · Manage EPG data settings"
+msgstr "[B]SEADISTA TV SEADEID[/B][CR][CR]Muuda täisekraani infot · Halda elektroonilise saatekava seadeid"
+
+msgctxt "#31410"
+msgid "[B]CONFIGURE SERVICE SETTINGS[/B][CR][CR]Setup control of Kodi via UPnP and HTTP · Configure file sharing[CR]Enable Zeroconf · Configure AirPlay"
+msgstr "[B]TEENUSE SEADED[/B][CR][CR]Seadista Kodi juhtimine UPnP ja HTTP kaudu · Seadista failide ühiskasutus[CR]Luba Zeroconf · Konfigureeri AirPlay"
+
+msgctxt "#31412"
+msgid "Select section"
+msgstr "Vali rubriik"
+
+msgctxt "#31413"
+msgid "Local subtitle available"
+msgstr "Kohaliku subtiitri võimalus"
+
+msgctxt "#31414"
+msgid "[B]CONFIGURE PLAYER SETTINGS[/B][CR][CR]Configure video playback · Configure music playback · Configure picture slideshow[CR]Configure video language and subtitles"
+msgstr "[B]MÄÄRIGE MÄNGIJA SEADED[/B][CR][CR]Video taasesituse konfigureerimine · Muusika taasesituse konfigureerimine · Piltide slaidiseansi seadistamine[CR]Video keele ja subtiitrite seadistamine"
+
+msgctxt "#31415"
+msgid "[B]CONFIGURE MEDIA SETTINGS[/B][CR][CR]Set default select action · Configure file list options · Configure metadata options[CR]Manage databases"
+msgstr "[B]MEEDIA SEADISTE KONFIGURERI[/B][CR][CR]Määra vaikevalikutoiming · Failide loendi valikute konfigureerimine · Metaandmete valikute seadistamine[CR]Andmebaaside haldamine"
+
+msgctxt "#31421"
+msgid "Select your Kodi user profile[CR]to login and continue"
+msgstr "Sisselogimiseks ja jätkamiseks[CR]vali oma Kodi kasutajaprofiil"
+
+msgctxt "#31427"
+msgid "Skin Shortcuts is responsible for handling all aspects of the main menu."
+msgstr "Skin Shortcuts vastutab peamenüü kõigi aspektide haldamise eest."
+
+msgctxt "#31428"
+msgid "The Grab Fanart script provides the random fanart slideshows for the main menu."
+msgstr "TGrab Fanart skript pakub peamenüü jaoks juhuslikke fännipiltide slaidiseansse."
+
+msgctxt "#31429"
+msgid "Library Data Provider is a service that runs in the background to provide library data for widgets and live backgrounds as well as playlist statistics for infolines."
+msgstr "Library Data Provider on teenus, mis töötab taustal, et pakkuda meediakogu andmeid vidinatele ja animeeritud taustadele ning esitusloendite statistikat inforidadele."
+
+msgctxt "#31430"
+msgid "Resource image addon for displaying the default white studio icons throughout the skin."
+msgstr "Resource image lisamoodul valgete stuudio ikoonide kuvamiseks rüül."
+
+msgctxt "#31431"
+msgid "Resource image addon for displaying the default white recording label icons throughout the skin."
+msgstr "Resource image lisamoodul valgete plaadikompanii ikoonide kuvamiseks rüül."
+
+msgctxt "#31432"
+msgid "Provides numerous Widget options and extended cast and crew metadata."
+msgstr "Pakub arvukalt vidinavalikuid ning laiendatud näitlejate ja meeskonna metaandmeid."
+
+msgctxt "#31433"
+msgid "Skin Info Service is used to display movie set information throughout the skin."
+msgstr "Skin Info Service teenust kasutatakse filmikogumike teabe kuvamiseks rüül."
+
+msgctxt "#31434"
+msgid "Check MP3 Theme checks whether the user has put a theme.mp3 file in the corresponding movie/TV show folder to be played when browsing."
+msgstr "Check MP3 Theme kontrollib, kas kasutaja on sirvimisel esitamiseks pannud vastavasse filmi/telesaadete kausta faili theme.mp3."
+
+msgctxt "#31450"
+msgid "  •  Open Settings "
+msgstr "  •  Ava seaded "
+
+msgctxt "#31451"
+msgid "  •  Click to Install"
+msgstr "• Klõpsake installimiseks"
+
+msgctxt "#31473"
+msgid "Aeon Tajo Helper provides the data to display the cast for movies and TV shows."
+msgstr "Aeon Tajo Helper pakub andmeid filmide ja telesaadete näitlejate kuvamiseks."
+
+msgctxt "#31474"
+msgid "CU LRC Lyrics is used to download, sync, and display lyrics during fullscreen music playback."
+msgstr "CU LRC Lyrics on kasutusel laulusõnade allalaadimiseks, sünkroonimiseks ja kuvamiseks täisekraanil muusika taasesituse ajal."
+
+msgctxt "#31475"
+msgid "Play Trailer makes possible to play movie trailers through a context menu. "
+msgstr "Play Trailer võimaldab kontekstimenüü kaudu esitada filmide treilereid."
+
+msgctxt "#31476"
+msgid "Allows the use of Youtube to play trailers and other videos."
+msgstr "Võimaldab kasutada Youtube'i treilerite ja muude videote esitamiseks."
+
+msgctxt "#31477"
+msgid "Provides some cast actress images to be shown in video views."
+msgstr "Pakub mõningaid näitlejanna pilte, mida näidata videovaadetes."
+
+msgctxt "#31478"
+msgid "Artist Slideshow is used to display artist fanart for both the home screen and during fullscreen music playback."
+msgstr "Esitaja slaidiseanssi kasutatakse esitaja fännipiltide kuvamiseks avakuval ja täisekraanil muusika taasesituse ajal."
+
+msgctxt "#31479"
+msgid "AutoCompletion provides suggestions to be selected while using the virtual keyboard."
+msgstr "Automaatne täitmine pakub soovitusi, mida virtuaalse klaviatuuri kasutamise ajal valida."
+
+msgctxt "#31480"
+msgid "Library Editor Script uses JSON to directly edit your database information."
+msgstr "Library Editor Script kasutab JSON-i teie andmebaasi teabe otse redigeerimiseks."
+
+msgctxt "#31481"
+msgid "Global Search makes possible to search among all the items (movies, TV shows, music, actors, etc.) in your collection."
+msgstr "Globaalne otsing võimaldab otsida kõigi teie kogus olevate üksuste (filmid, telesaated, muusika, näitlejad jne) hulgast."
+
+msgctxt "#31501"
+msgid "Channel group"
+msgstr "Kanali grupp"
+
+msgctxt "#31502"
+msgid "Live TV"
+msgstr "Otse TV"
+
+msgctxt "#31503"
+msgid "Add Group"
+msgstr "Lisa grupp"
+
+msgctxt "#31504"
+msgid "Rename Group"
+msgstr "Nimeta grupp ümber"
+
+msgctxt "#31505"
+msgid "Delete Group"
+msgstr "Kustuta grupp"
+
+msgctxt "#31506"
+msgid "Available[CR]Groups"
+msgstr "Olemasolevad[CR]grupid"
+
+msgctxt "#31511"
+msgid "Channel Options"
+msgstr "Kanali valik"
+
+msgctxt "#31512"
+msgid "Show similar movies in Shelf 3D view"
+msgstr "Näita sarnaseid filme riiuli 3D-vaates"
+
+msgctxt "#31901"
+msgid "36 Hour Forecast"
+msgstr "36 tunni prognoos"
+
+msgctxt "#31902"
+msgid "Hourly Forecast"
+msgstr "Igatunnine prognoos"
+
+msgctxt "#31903"
+msgid "Weekend Forecast"
+msgstr "Nädalalõpu prognoos"
+
+msgctxt "#31904"
+msgid "10 Day Forecast"
+msgstr "10 päeva prognoos"
+
+msgctxt "#31908"
+msgid "Chance of Precipitation"
+msgstr "Võimalus sademeteks"
+
+msgctxt "#31909"
+msgid "Fetching forecast info..."
+msgstr "Ilmateate andmete hankimine..."
+
+msgctxt "#31910"
+msgid "Map & Alerts"
+msgstr "Kaart ja hoiatused"
+
+msgctxt "#31911"
+msgid "Setup the Aeon Tajo main menu"
+msgstr "Seadistage Aeon Tajo peamenüü"
+
+msgctxt "#31912"
+msgid "Customize the main menu with widgets, backgrounds and statistics. Add your own custom main menu items."
+msgstr "Kohandage peamenüüd vidinate, taustade ja statistikaga.Lisage oma kohandatud peamenüü üksused."
+
+msgctxt "#31913"
+msgid "Aeon Tajo main menu vertical position"
+msgstr "Aeon Tajo peamenüü vertikaalasend"
+
+msgctxt "#31914"
+msgid "Change the vertical position of the main menu. Default is centered on screen."
+msgstr "Muutke peamenüü vertikaalset asendit.Vaikimisi on ekraani keskel."
+
+msgctxt "#31915"
+msgid "Navigation style for horizontal lists"
+msgstr "Horisontaalsete nimekirjade navigeerimislaad"
+
+msgctxt "#31916"
+msgid "Change the way horizontal lists scroll in Aeon Tajo. Default will scroll lists in a cycle. \"Fixed\" are lists with a beginning and end."
+msgstr "Muutke Aeon Tajos horisontaalsete loendite kerimisviisi.Vaikimisi kerib loendeid tsüklina.\"Fikseeritud\" on loendid alguse ja lõpuga."
+
+msgctxt "#31917"
+msgid "When enabled text scrolls automatically. When disabled manual scrolling is required. Note that most textboxes don't have a manual button."
+msgstr "Kui see on lubatud, kerib tekst automaatselt.Kui see on keelatud, on vajalik käsitsi kerimine.Pange tähele, et enamikul tekstikastidel pole käsitsi nuppu."
+
+msgctxt "#31918"
+msgid "Projects the current playing video on the background behind the panels."
+msgstr "Kuvab esitatava video taustal, paneelide taga."
+
+msgctxt "#31919"
+msgid "Projects the visualisation on the background behind the panels when music is played."
+msgstr "Kuvab visuaalid muusika esitamise ajal paneelide taha taustale."
+
+msgctxt "#31920"
+msgid "Displays a widget on the Home screen with media information when music is playing."
+msgstr "Muusika esitamise ajal kuvatakse avakuval vidin meedia teabega."
+
+msgctxt "#31921"
+msgid "Displays a widget on the Home screen with media information when a movie or episode is playing."
+msgstr "Filmi või sarja esitamise ajal kuvatakse avakuval vidin meedia teabega."
+
+msgctxt "#31922"
+msgid "This enables custom genre backgrounds when browsing through the videolibrary's genre node. Filenames should match the genre label. Extension must be .jpg."
+msgstr "See lubab videokogu žanrisõlme sirvimisel kohandatud žanri taustad. Failinimed peavad vastama žanri sildile. Laiend peab olema .jpg."
+
+msgctxt "#31923"
+msgid "Set a default select action to enable this item."
+msgstr "Lubamiseks vali vaikimisi valitud toiming."
+
+msgctxt "#31924"
+msgid "This enables custom genre backgrounds when browsing through the musiclibrary's genre node. Filenames should match the genre label. Extension must be .jpg."
+msgstr "See lubab muusikakogu žanrisõlme sirvimisel kohandatud žanri taustad. Failinimed peavad vastama žanri sildile. Laiend peab olema .jpg."
+
+msgctxt "#31925"
+msgid "Pick one of the preset backgrounds or set your own images as the menu items background."
+msgstr "Vali mõni etteantud taustapiltidest või sea vabalt valitud pilt menüüvalikute taustaks."
+
+msgctxt "#31926"
+msgid "Select add-ons, playlists or favourites. Choose 'Custom' for any of Kodi's built-in functions. (http://kodi.wiki/?title=List_of_Built_In_Functions)"
+msgstr "Vali lisad, esitlusloendid või lemmikud. Mistahes Kodi sisseehitatud funktsiooni jaoks vali 'Isiklik'. (http://kodi.wiki/?title=List_of_Built_In_Functions)"
+
+msgctxt "#31927"
+msgid "Resets all above values to their defaults."
+msgstr "Tühistab kõik ülalolevad valikud vaikeseadetele."
+
+msgctxt "#31928"
+msgid "Aeon Tajo main menu layout"
+msgstr "Aeon Tajo peamenüü paigutus"
+
+msgctxt "#31929"
+msgid "This setting defines how much items will be visible on the main menu. Options are 3 items or 5 items."
+msgstr "See säte määrab, kui palju üksusi peamenüüs näha on.Valikud on 3 või 5 eset."
+
+msgctxt "#31930"
+msgid "Choose a widget to display on the Home screen to have easy access to content from the library."
+msgstr "Vali avakuva vidin lihtsaks juurdepääsuks meediakogu sisule."
+
+msgctxt "#31931"
+msgid "Video plot preference"
+msgstr "Video süžee eelistus"
+
+msgctxt "#31932"
+msgid "Show plot outline in the library views and full plot in the video information dialog or vice versa. Falls back to full plot if no outline is available."
+msgstr "Kuva süžee lühikokkuvõte meediakogu vaadetes ja täielik süžee infoaknas või vastupidi. Lühikokkuvõtte puudumisel kuvatakse täielik süžee."
+
+msgctxt "#31933"
+msgid "Select an item to display on the left top of the main menu"
+msgstr "Vali peamenüü vasakus ülaosas kuvatav üksus"
+
+msgctxt "#31935"
+msgid "Switch places with another menu item. Opens a dialog with a list of menu items to choose from."
+msgstr "Vahetab kohad mõne teise menüükirjega. Avab dialoogi menüükirjete nimekirjaga."
+
+msgctxt "#31937"
+msgid "Show the RSS feed on the bottom or top of the screen, depending on main menu position. Enabling this setting makes the submenu permanently visible."
+msgstr "Kuva RSS kanal ekraani ala- või ülaosas sõltuvalt peamenüü asukohast. Selle sätte lubamisel on alammenüü püsivalt nähtav."
+
+msgctxt "#31938"
+msgid "Enables extra information in the TV show library, like TV show status, next / latest episode, etc. Depends on TV Show Next Aired add-on."
+msgstr "Lubab seriaalide teegis lisateabe, nagu näiteks seriaali staatus, järgmine/viimane osa jne. Sõltub TV Show Next Aired lisast."
+
+msgctxt "#31939"
+msgid "Hide Infopanel on scrolling"
+msgstr "Peida kerides infopaneel"
+
+msgctxt "#31940"
+msgid "Hides the infopanel for Showcase and Landscape view (if activated) while scrolling through the library. Set the amount of seconds to wait for the infopanel to appear when scrolling is stopped."
+msgstr "Peidab teegis kerimise ajal esitlus- ja maastikuvaate teabepaneeli (kui see on aktiveeritud).Määrake sekundite aeg, mille jooksul kerimise peatamisel teabepaneel kuvatakse."
+
+msgctxt "#31941"
+msgid "Kiosk mode"
+msgstr "Kioski režiim"
+
+msgctxt "#31942"
+msgid "Disables the slide out menu (media menu) in the library as well as certain buttons in the media information dialogs. (Requires restart to take effect)"
+msgstr "Keelab teegis äraliugleva menüü (meedia menüü), samuti ka teatud nuppudelt meedia teabe dialoogis. (Jõustumiseks vajab taaskäivitamist)"
+
+msgctxt "#31943"
+msgid "Watched status indicator"
+msgstr "Vaatamise seisundi näidik"
+
+msgctxt "#31944"
+msgid "Choose which overlays to show on thumbs in icon based views. Note that the \"Resume\" flag takes precedent over any watched status."
+msgstr "Vali, millist pealiskihti kuvatakse pisipiltidel ikoonivaates. Pane tähele, et \"Jätka\" silt võtab üle kõik senised vaatamisstaatused."
+
+msgctxt "#31945"
+msgid "This toggles the layout of the List view. Default is a 7 item layout with extended info, \"Slim List\" is a 14 item, more basic layout"
+msgstr "See muudab loendivaate laotust. Vaikimisi on 7 ühikuga loend koos lisainfoga, \"Tihe loend\" on 14 kirje ja tavapärasema laotusega"
+
+msgctxt "#31950"
+msgid "WEATHER"
+msgstr "ILM"
+
+msgctxt "#31951"
+msgid "PICTURES"
+msgstr "PILDID"
+
+msgctxt "#31952"
+msgid "LIVE TV"
+msgstr "OTSE-TV"
+
+msgctxt "#31953"
+msgid "VIDEOS"
+msgstr "VIDEOD"
+
+msgctxt "#31954"
+msgid "MOVIES"
+msgstr "FILMID"
+
+msgctxt "#31955"
+msgid "TV SHOWS"
+msgstr "SERIAALID"
+
+msgctxt "#31956"
+msgid "MUSIC"
+msgstr "MUUSIKA"
+
+msgctxt "#31957"
+msgid "APPS"
+msgstr "RAKENDUSED"
+
+msgctxt "#31958"
+msgid "PLAY DISC"
+msgstr "MÄNGI PLAATI"
+
+msgctxt "#31959"
+msgid "SYSTEM"
+msgstr "SÜSTEEM"
+
+msgctxt "#31960"
+msgid "CONCERTS"
+msgstr "KONTSERDID"
+
+msgctxt "#31961"
+msgid "Hide ratings in list views"
+msgstr "Peida hinded loendivaadetes"
+
+msgctxt "#31962"
+msgid "This toggles the visibility of ratings in views of type List, LowList and TriPanel, except if sorted by rating."
+msgstr "Peidab hinded vaadetes loend, madal loend ja kolmikpaneel, välja arvatud hinde alusel järjestades."
+
+msgctxt "#31964"
+msgid "NoTo"
+msgstr "NoTo"
+
+msgctxt "#31965"
+msgid "Setup main menu"
+msgstr "Seadista peamenüü"
+
+msgctxt "#31966"
+msgid "Customize the main menu with widgets, backgrounds, submenus and statistics. Add your own custom main menu items."
+msgstr "Kohandage peamenüüd vidinate, taustade, alammenüüde ja statistikaga.Lisage oma kohandatud peamenüü üksused."
+
+msgctxt "#31967"
+msgid "Skin addons"
+msgstr "Naha lisandid"
+
+msgctxt "#31968"
+msgid "Addons used to enhance Aeon Tajo."
+msgstr "Aeon Tajo täiustamiseks kasutatud lisad."
+
+msgctxt "#31969"
+msgid "Skin options"
+msgstr "Naha valikud"
+
+msgctxt "#31970"
+msgid "Setup of melodies, the way of showing widgets, themes and cast for movies/TV shows and other options."
+msgstr "Meloodiate seadistamine, vidinate näitamise viis, filmide/telesaadete teemad ja ülekandmine ning muud võimalused."
+
+msgctxt "#31971"
+msgid "Colour of selected items"
+msgstr "Valitud esemete värv"
+
+msgctxt "#31972"
+msgid "Youtube"
+msgstr "YouTube"
+
+msgctxt "#31973"
+msgid "Down for more"
+msgstr "Alla lisateabeks"
+
+msgctxt "#31974"
+msgid "More movies featuring"
+msgstr "Veel filme koos"
+
+msgctxt "#31975"
+msgid "More TV shows featuring"
+msgstr "Rohkem telesaateid"
+
+msgctxt "#31976"
+msgid "Image gallery"
+msgstr "Pildigalerii"
+
+msgctxt "#31977"
+msgid "Years old"
+msgstr "aastat vana"
+
+msgctxt "#31978"
+msgid "Click for more"
+msgstr "Klõpsa lisainfo saamiseks"
+
+msgctxt "#31979"
+msgid "Left for more"
+msgstr "Jäi rohkemate jaoks"
+
+msgctxt "#31980"
+msgid "Right for more"
+msgstr "Õige rohkem"
+
+msgctxt "#31981"
+msgid "Premiered"
+msgstr "Esilinastunud"
+
+msgctxt "#31982"
+msgid "Budget"
+msgstr "Eelarve"
+
+msgctxt "#31983"
+msgid "Revenue"
+msgstr "Tulud"
+
+msgctxt "#31984"
+msgid "Awards"
+msgstr "Auhinnad"
+
+msgctxt "#31985"
+msgid "Trending Movies"
+msgstr "Populaarsed filmid"
+
+msgctxt "#31986"
+msgid "Upcoming Movies"
+msgstr "Eelseisvad filmid"
+
+msgctxt "#31987"
+msgid "Now Playing Movies"
+msgstr "Nüüd mängib filme"
+
+msgctxt "#31988"
+msgid "Top Rated Movies"
+msgstr "Hinnatuimad filmid"
+
+msgctxt "#31989"
+msgid "Popular Movies"
+msgstr "Populaarsed filmid"
+
+msgctxt "#31990"
+msgid "Discover Movies"
+msgstr "Avasta filme"
+
+msgctxt "#31991"
+msgid "Trending Shows"
+msgstr "Populaarsed sarjad"
+
+msgctxt "#31992"
+msgid "Top Rated Shows"
+msgstr "Kõrgeimalt hinnatud saated"
+
+msgctxt "#31993"
+msgid "Popular Shows"
+msgstr "Populaarsed saated"
+
+msgctxt "#31994"
+msgid "Discover Shows"
+msgstr "Avasta saateid"
+
+msgctxt "#31995"
+msgid "3D view"
+msgstr "3D-vaade"
+
+msgctxt "#31996"
+msgid "Extended view"
+msgstr "Laiendatud vaade"
+
+msgctxt "#31997"
+msgid "Simple view"
+msgstr "Lihtne vaade"
+
+msgctxt "#31998"
+msgid "Classic lyrics"
+msgstr "Klassikalised laulusõnad"
+
+msgctxt "#31999"
+msgid "Screensaver Netflix style in media views"
+msgstr "Ekraanisäästja Netflixi stiil meediavaadetes"
+
+msgctxt "#31245"
+msgid "When in idle state for two minutes within a media view, a fullscreen slideshow of movies, TV shows, or artists' fanarts will be displayed, according to the section being browsed."
+msgstr "Kui meediumivaates on kaks minutit jõudeolekus, kuvatakse filmide, telesaadete või kunstnike fanartide täisekraanil slaidiseanss vastavalt sirvitavale jaotisele."
+
+msgctxt "#31246"
+msgid "Play automatically trailers in video views"
+msgstr "Esitage automaatselt treilereid videovaadetes"
+
+msgctxt "#31247"
+msgid "When you browse the video views and pause on a movie or TV show for a few seconds, the trailer automatically plays in a window."
+msgstr "Kui sirvite videovaateid ja peatate filmi või telesaate mõneks sekundiks, esitatakse treiler automaatselt aknas."
+
+msgctxt "#31248"
+msgid "All devices"
+msgstr "Kõik seadmed"
+
+msgctxt "#31249"
+msgid "Powerful devices"
+msgstr "Võimsad seadmed"
+
+msgctxt "#31255"
+msgid "Most powerful devices"
+msgstr "Kõige võimsamad seadmed"
+
+msgctxt "#31256"
+msgid "Delay 5 seconds"
+msgstr "Viivitus 5 sekundit"
+
+msgctxt "#31257"
+msgid "Delay 12 seconds"
+msgstr "Viivitus 12 sekundit"
+
+msgctxt "#31258"
+msgid "Info view 2"
+msgstr "Teabevaade 2"
+
+msgctxt "#31259"
+msgid "Info view 1"
+msgstr "Infovaade 1"
+
+msgctxt "#31260"
+msgid "Play automatically songs while browsing music"
+msgstr "Esitage muusika sirvimise ajal lugusid automaatselt"
+
+msgctxt "#31261"
+msgid "Enable automatic playback of songs from the current artist or album as background music while browsing music views."
+msgstr "Lubage muusikavaadete sirvimise ajal praeguse esitaja või albumi lugude automaatne taasesitus taustamuusikana."
+
+msgctxt "#31262"
+msgid "Set path to use another melodies music folder"
+msgstr "Määrake tee mõne muu meloodia muusikakausta kasutamiseks"
+
+msgctxt "#31263"
+msgid "Clear current path and back to default melodies music folder"
+msgstr "Tühjendage praegune tee ja naaske vaikemeloodiate muusikakausta"
+
+msgctxt "#31264"
+msgid "Play melodies while in Home & Settings screens"
+msgstr "Esitage meloodiaid avakuva ja seadete ekraanidel"
+
+msgctxt "#31265"
+msgid "Show only background"
+msgstr "Kuva ainult taust"
+
+msgctxt "#31266"
+msgid "TheMovieDb Helper provides data to display online ratings and additional information for movies and TV shows"
+msgstr "TheMovieDb Helper pakub andmeid filmide ja telesaadete veebireitingude ja lisateabe kuvamiseks"
+
+msgctxt "#31267"
+msgid "Show online ratings for movies and TV shows"
+msgstr "Kuvage filmide ja telesaadete veebireitingud"
+
+msgctxt "#31268"
+msgid "You have to restart Kodi for this option to take effect once the option has been activated. TMDb and Trakt should work out of the box. Metacritic and Rottentomatoes ratings require an OMDb API key. Get an OMDb API Key at http://www.omdbapi.com/apikey.aspx and afterward input the OMDb API Key into the TheMovieDb Helper settings."
+msgstr "Selle valiku jõustumiseks pärast selle aktiveerimist peate Kodi taaskäivitama.TMDb ja Trakt peaksid karbist välja töötama.Metacriticu ja Rottentomatoesi hinnangud nõuavad OMDb API-võtit.Hankige OMDb API võti aadressil http://www.omdbapi.com/apikey.aspx ja seejärel sisestage OMDb API võti TheMovieDb Helperi seadetesse."
+
+msgctxt "#31269"
+msgid "Resource image addon for displaying coloured studio icons throughout the skin."
+msgstr "Ressursipildi lisand värviliste stuudioikoonide kuvamiseks kogu nahas."
+
+msgctxt "#31270"
+msgid "Show colour icons for audio/video information"
+msgstr "Kuva heli-/videoteabe värvilisi ikoone"
+
+msgctxt "#31271"
+msgid "Show extra features for movies and TV shows"
+msgstr "Näidake filmide ja telesaadete jaoks lisafunktsioone"
+
+msgctxt "#31272"
+msgid "Display the additional features (media files) placed by the user in the 'extras' folder for a movie or TV show. Remember to modify your advancedsettings.xml file if needed."
+msgstr "Kuvage lisafunktsioonid (meediumifailid), mille kasutaja on filmi või telesaate jaoks lisakaustasse paigutanud.Ärge unustage vajadusel oma faili advancedsettings.xml muuta."
+
+msgctxt "#31273"
+msgid "Show extras"
+msgstr "Näita lisasid"
+
+msgctxt "#31274"
+msgid "Enable shifting colours effect in the default Aeon Tajo's background"
+msgstr "Luba värvide nihutamise efekt Aeon Tajo vaiketaustal"
+
+msgctxt "#31275"
+msgid "Activate a shifting colours effect in the default Aeon Tajo's background (only in the Home screen)."
+msgstr "Aktiveerige nihutavate värvide efekt Aeon Tajo vaiketaustal (ainult avakuval)."
+
+msgctxt "#31276"
+msgid "Name of user's additional features folder (if different to 'extras')"
+msgstr "Kasutaja lisafunktsioonide kausta nimi (kui see erineb kaustast „lisad”)"
+
+msgctxt "#31277"
+msgid "Select image to show as background instead of default"
+msgstr "Valige vaikimisi taustana kuvamiseks pilt"
+
+msgctxt "#31278"
+msgid "Browse for image"
+msgstr "Sirvige pilti"
+
+msgctxt "#31279"
+msgid "Play music videos"
+msgstr "Esitage muusikavideoid"
+
+msgctxt "#31280"
+msgid "Play local albums"
+msgstr "Esitage kohalikke albumeid"
+
+msgctxt "#31281"
+msgid "Play songs"
+msgstr "Esitage lugusid"
+
+msgctxt "#31282"
+msgid "Blurred album image as background"
+msgstr "Albumi pilt taustana udune"
+
+msgctxt "#31283"
+msgid "Browse for path"
+msgstr "Sirvige teed"
+
+msgctxt "#31284"
+msgid "Show extra features for music albums"
+msgstr "Näita muusikaalbumite lisafunktsioone"
+
+msgctxt "#31285"
+msgid "Display the additional features (media files) placed by the user in the 'extras' folder for a music album. Remember to modify your advancedsettings.xml file if needed."
+msgstr "Kuva lisafunktsioonid (meediumifailid), mille kasutaja on paigutanud muusikaalbumi lisakausta.Ärge unustage vajadusel oma faili advancedsettings.xml muuta."
+
+msgctxt "#31286"
+msgid "When you browse the video views and pause on a movie or TV show for a few seconds, the main theme automatically plays in the background. This feature requires the user to place an mp3 file with the theme in the root folder of the movie or TV show. This file must be named theme.mp3."
+msgstr "Kui sirvite videovaateid ja peatate mõneks sekundiks filmi või telesaate vaatamise, esitatakse põhiteema automaatselt taustal.See funktsioon nõuab, et kasutaja paigutaks selle teemaga mp3-faili filmi või telesaate juurkausta.Selle faili nimi peab olema theme.mp3."
+
+msgctxt "#31287"
+msgid "Shows the normal poster (poster.jpg) in movies and TV shows views."
+msgstr "Näitab tavalist plakatit (poster.jpg) filmide ja telesaadete vaadetes."
+
+msgctxt "#31288"
+msgid "Shows the animated poster (animatedposter.gif) in movies and TV shows views."
+msgstr "Näitab animeeritud plakatit (animatedposter.gif) filmide ja telesaadete vaadetes."
+
+msgctxt "#31289"
+msgid "Shows the available extra posters (poster1.jpg, poster2.jpg, poster3.jpg...) in movies and TV shows views."
+msgstr "Näitab saadaolevaid lisaplakateid (poster1.jpg, poster2.jpg, poster3.jpg...) filmide ja telesaadete vaadetes."
+
+msgctxt "#31290"
+msgid "Thanks for using Aeon Tajo—I really hope you’re enjoying it. Creating and maintaining a Kodi skin like this takes hundreds of hours of work. If Aeon Tajo is something you enjoy and find useful, supporting it helps me keep working on it and ensures it can continue evolving in the future. [CR][CR]If you decide to do so, you’ll receive frequent updates with new features and bug fixes, along with videos, media packs, and easy-to-follow articles with detailed tips to help you get the most out of everything Aeon Tajo has to offer, together with my sincere gratitude for your support. [CR][CR]For more information, visit [B][COLOR=themecolor]patreon.com[/B][/COLOR] and search for the creator [COLOR=themecolor][B]Aeon Tajo[/B][/COLOR], or go to [COLOR=themecolor][B]patreon.com/aeontajo[/B][/COLOR].[CR][CR]Thanks!"
+msgstr "Täname Aeon Tajo kasutamise eest – ma tõesti loodan, et see teile meeldib.Sellise Kodi naha loomine ja hooldamine võtab sadu tunde.Kui Aeon Tajo on midagi, mis teile meeldib ja mis on teile kasulik, aitab selle toetamine mul sellega edasi töötada ja tagab, et see võib tulevikus edasi areneda.[CR][CR]Kui otsustate seda teha, saate sageli värskendusi uute funktsioonide ja veaparandustega, videoid, meediumipakette ja hõlpsasti jälgitavaid artikleid koos üksikasjalike näpunäidetega, mis aitavad teil kõigest Aeon Tajo pakutavast maksimumi võtta, ning minu siiras tänu teile toetuse eest.[CR][CR]Lisateabe saamiseks külastage veebisaiti [B][COLOR=themecolor]patreon.com[/B][/COLOR] ja otsige üles looja [COLOR=themecolor][B]Aeon Tajo[/B][/COLOR] või minge saidile [COLOR=themecolor][B]patreon.com/aeontajo[/B][CR][CR]ORThan].[CR]"
+
+msgctxt "#31291"
+msgid "Blurred album image as background in music visualisation screen"
+msgstr "Albumi udune pilt taustana muusika visualiseerimise ekraanil"
+
+msgctxt "#31292"
+msgid "Hide watched mark in video views"
+msgstr "Peida videovaadetes vaadatud märk"
+
+msgctxt "#31293"
+msgid "Disclaimer: Aeon Tajo does not provide any media content or sources. Users must provide their own content. Support will not be provided for any 'builds' nor online addons that offer copyrighted content."
+msgstr "Kohustustest loobumine: Aeon Tajo ei paku meediasisu ega allikaid.Kasutajad peavad esitama oma sisu.Autoriõigustega kaitstud sisu pakkuvate „ehituste” ega veebipõhiste lisandmoodulite puhul tuge ei pakuta."
+
+msgctxt "#31294"
+msgid "Change to "
+msgstr "Muuda vastu"
+
+msgctxt "#31295"
+msgid "Remember that you should adapt your advancedsetting.xml file to reflect this change, so as to prevent your extras content to be added inadvertently to the Kodi library."
+msgstr "Pidage meeles, et peaksite kohandama oma faili advancedsetting.xml seda muudatust kajastama, et vältida teie lisasisu kogemata lisamist Kodi teeki."
+
+msgctxt "#31296"
+msgid "Filmstrip"
+msgstr ""
+
+msgctxt "#31297"
+msgid "Select + Right Stick"
+msgstr "Valige + Parem pulk"
+
+msgctxt "#31298"
+msgid "Vertical Home menu"
+msgstr "Vertikaalne kodumenüü"
+
+msgctxt "#31299"
+msgid "Eject disc"
+msgstr "Eemaldage ketas"
+
+msgctxt "#31302"
+msgid "Play with PreShow"
+msgstr "Mängige PreShowga"
+
+msgctxt "#31303"
+msgid "Highlighted text colour"
+msgstr "Esiletõstetud teksti värv"
+
+msgctxt "#31304"
+msgid "Marks colour"
+msgstr "Märgib värvi"
+
+msgctxt "#31305"
+msgid "Current"
+msgstr "Praegune"
+
+msgctxt "#31306"
+msgid "Selected"
+msgstr "Valitud"
+
+msgctxt "#31311"
+msgid "Watched mark shape"
+msgstr "Vaadatud märgi kuju"
+
+msgctxt "#31312"
+msgid "Sliding background fanarts"
+msgstr "Libiseva taustaga fanartid"
+
+msgctxt "#31313"
+msgid "Kodi add-ons settings"
+msgstr "Kodi lisandmoodulite seaded"
+
+msgctxt "#31314"
+msgid "Install and update add-ons"
+msgstr "Installige ja värskendage lisandmooduleid"
+
+msgctxt "#31315"
+msgid "Download add-ons"
+msgstr "Laadige alla lisandmoodulid"
+
+msgctxt "#31316"
+msgid "Show Browser"
+msgstr "Kuva brauser"
+
+msgctxt "#31318"
+msgid "Hide Browser"
+msgstr "Peida brauser"
+
+msgctxt "#31319"
+msgid "Narrow view"
+msgstr "Kitsas vaade"
+
+msgctxt "#31322"
+msgid "Wide view"
+msgstr "Lai vaade"
+
+msgctxt "#31323"
+msgid "Actors in other movies and TV shows"
+msgstr "Näitlejad teistes filmides ja telesaadetes"
+
+msgctxt "#31324"
+msgid "Show similar movies/TV shows and artists/albums"
+msgstr "Näidake sarnaseid filme/telesaateid ja artiste/albumeid"
+
+msgctxt "#31325"
+msgid "Opens a new window in some video/music views showing other movies/TV shows or artists/albums similar or related to the current item."
+msgstr "Avab mõnes video/muusika vaates uue akna, mis näitab muid praeguse üksusega sarnaseid või sellega seotud filme/telesaateid või artiste/albumeid."
+
+msgctxt "#31326"
+msgid "Show similar"
+msgstr "Näita sarnast"
+
+msgctxt "#31327"
+msgid "Classic"
+msgstr "Klassikaline"
+
+msgctxt "#31329"
+msgid "Similar albums"
+msgstr "Sarnased albumid"
+
+msgctxt "#31330"
+msgid "No similar found"
+msgstr "Sarnast ei leitud"
+
+msgctxt "#31333"
+msgid "Wikipedia"
+msgstr "Vikipeedia"
+
+msgctxt "#31337"
+msgid "Click to select and open article's links"
+msgstr "Klõpsake artikli linkide valimiseks ja avamiseks"
+
+msgctxt "#31338"
+msgid "Click to search..."
+msgstr "Klõpsake otsimiseks..."
+
+msgctxt "#31339"
+msgid "Add/update music video links"
+msgstr "Lisa/värskenda muusikavideo linke"
+
+msgctxt "#31340"
+msgid "[B]CONFIGURE GAME SETTINGS[/B][CR][CR]Change gameplay options[CR]Keyboard settings · Configure rewind settings"
+msgstr "[B]KONFIGURERI MÄNGU SEADED[/B][CR][CR]Muutke mänguvalikuid[CR]Klaviatuuri seaded · Konfigureerige tagasikerimise seadeid"
+
+msgctxt "#31341"
+msgid "Narrow list"
+msgstr "Kitsas nimekiri"
+
+msgctxt "#31342"
+msgid "Wide list"
+msgstr "Lai nimekiri"
+
+msgctxt "#31343"
+msgid "Update videolinks"
+msgstr "Värskendage videolinke"
+
+msgctxt "#31344"
+msgid "Play all music videos"
+msgstr "Esitage kõiki muusikavideoid"
+
+msgctxt "#31345"
+msgid "No bookmarks created yet"
+msgstr "Järjehoidjaid pole veel loodud"
+
+msgctxt "#31346"
+msgid "Choose where to start"
+msgstr "Valige, kust alustada"
+
+msgctxt "#31347"
+msgid "Browse the list and click"
+msgstr "Sirvige loendit ja klõpsake"
+
+msgctxt "#31348"
+msgid "Show OSD controls"
+msgstr "Kuva OSD-juhtelemendid"
+
+msgctxt "#31349"
+msgid "Preparing list of music videos, please wait..."
+msgstr "Muusikavideote loendi ettevalmistamine, palun oodake..."
+
+msgctxt "#31350"
+msgid "Songs party mode"
+msgstr "Laulude peorežiim"
+
+msgctxt "#31351"
+msgid "Videolinks party mode"
+msgstr "Videolinkide peorežiim"
+
+msgctxt "#31352"
+msgid "No videolinks found"
+msgstr "Videolinke ei leitud"
+
+msgctxt "#31353"
+msgid "Click or arrow keys while playing to show the OSD"
+msgstr "OSD kuvamiseks klõpsake mängimise ajal nuppu või nooleklahve"
+
+msgctxt "#31354"
+msgid "While playing..."
+msgstr "Mängides..."
+
+msgctxt "#31355"
+msgid "Click or arrow keys to show the OSD"
+msgstr "OSD kuvamiseks klõpsake või nooleklahve"
+
+msgctxt "#31356"
+msgid "Shows the normal thumb (folder.jpg) in artists and albums music views."
+msgstr "Näitab tavalist pöialt (folder.jpg) artistide ja albumite muusikavaadetes."
+
+msgctxt "#31357"
+msgid "Shows the animated thumb (animatedthumb.gif) in artists and albums music views."
+msgstr "Näitab animeeritud pöialt (animatedthumb.gif) artistide ja albumite muusikavaadetes."
+
+msgctxt "#31358"
+msgid "Show a colour strip code on video elements"
+msgstr "Näidake videoelementidel värviriba koodi"
+
+msgctxt "#31359"
+msgid "Allows to quickly identify video file quality using a colour strip code when browsing movies and episodes in video views"
+msgstr "Võimaldab kiiresti tuvastada videofaili kvaliteedi, kasutades värviriba koodi, kui sirvite videovaadetes filme ja episoode"
+
+msgctxt "#31360"
+msgid "Library using Global Search"
+msgstr "Globaalset otsingut kasutav raamatukogu"
+
+msgctxt "#31361"
+msgid "TheMovieDB"
+msgstr ""
+
+msgctxt "#31362"
+msgid "Most Voted Movies"
+msgstr "Enim hääli saanud filmid"
+
+msgctxt "#31363"
+msgid "Crew"
+msgstr "Meeskond"
+
+msgctxt "#31364"
+msgid "Most Voted Shows"
+msgstr "Enim hääletatud saated"
+
+msgctxt "#31365"
+msgid "Random Shows"
+msgstr "Juhuslikud saated"
+
+msgctxt "#31366"
+msgid "Random Artists"
+msgstr "Juhuslikud artistid"
+
+msgctxt "#31367"
+msgid "Online info from TheMovieDB.org for videos"
+msgstr "Veebiinfo saidilt TheMovieDB.org videote jaoks"
+
+msgctxt "#31368"
+msgid "Get online info from TheMovieDB.org in movie and TVshow's info screen and widgets"
+msgstr "Hankige veebis teavet saidilt TheMovieDB.org filmi ja telesaadete teabeekraanilt ja vidinatelt"
+
+msgctxt "#31369"
+msgid "Snow effect - Off"
+msgstr "Lumeefekt – väljas"
+
+msgctxt "#31370"
+msgid "Snow effect - Light"
+msgstr "Lumeefekt – kerge"
+
+msgctxt "#31371"
+msgid "Snow effect - Medium"
+msgstr "Lumeefekt – keskmine"
+
+msgctxt "#31372"
+msgid "Snow effect - Heavy"
+msgstr "Lumeefekt – raske"
+
+msgctxt "#31373"
+msgid "Snow effect - Blizzard"
+msgstr "Lumeefekt – Blizzard"
+
+msgctxt "#31374"
+msgid "Click or arrow keys to exit"
+msgstr "Väljumiseks klõpsake või nooleklahve"
+
+msgctxt "#31375"
+msgid "Rewind"
+msgstr "Keri tagasi"
+
+msgctxt "#31376"
+msgid "Fast forward"
+msgstr "Kiiresti edasi"
+
+msgctxt "#31377"
+msgid "Step back"
+msgstr "Astuge tagasi"
+
+msgctxt "#31378"
+msgid "Step forward"
+msgstr "Astuge edasi"
+
+msgctxt "#31379"
+msgid "Previous chapter"
+msgstr "Eelmine peatükk"
+
+msgctxt "#31380"
+msgid "Next chapter"
+msgstr "Järgmine peatükk"
+
+msgctxt "#31381"
+msgid "Previous channel"
+msgstr "Eelmine kanal"
+
+msgctxt "#31382"
+msgid "Next channel"
+msgstr "Järgmine kanal"
+
+msgctxt "#31383"
+msgid "Show lyrics"
+msgstr "Näita laulusõnu"
+
+msgctxt "#31384"
+msgid "Hide lyrics"
+msgstr "Peida laulusõnad"
+
+msgctxt "#31385"
+msgid "Adjust lyrics"
+msgstr "Reguleerige laulusõnu"
+
+msgctxt "#31386"
+msgid "Hide resumable mark in video views"
+msgstr "Peida videovaadetes jätkamismärk"
+
+msgctxt "#31387"
+msgid "Hide unwatched mark in video views"
+msgstr "Peida videovaadetes vaatamata märk"
+
+msgctxt "#31388"
+msgid "Hide episodes unwatched mark in video views"
+msgstr "Peida videovaadetes vaatamata jagude märk"
+
+msgctxt "#31389"
+msgid "Same director"
+msgstr "Sama lavastaja"
+
+msgctxt "#31391"
+msgid "'Down' to show similars"
+msgstr "Sarnaste kuvamiseks 'alla'"
+
+msgctxt "#31392"
+msgid "'Right' to show similars"
+msgstr "'Õigus' näidata sarnaseid"
+
+msgctxt "#31393"
+msgid "Show logos"
+msgstr "Kuva logod"
+
+msgctxt "#31394"
+msgid "Show only titles"
+msgstr "Kuva ainult pealkirjad"
+
+msgctxt "#31395"
+msgid "Play automatically video links in song views"
+msgstr "Esita automaatselt videolinke lauluvaadetes"
+
+msgctxt "#31396"
+msgid "When you browse song views and stop for a few seconds, the video link for that song will play automatically (if available)."
+msgstr "Kui sirvite lugude vaateid ja peatute mõneks sekundiks, esitatakse selle loo videolink automaatselt (kui see on saadaval)."
+
+msgctxt "#31397"
+msgid "User reviews"
+msgstr "Kasutajate ülevaated"
+
+msgctxt "#31398"
+msgid "Horizontal Home menu"
+msgstr "Horisontaalne kodumenüü"
+
+msgctxt "#31399"
+msgid "Simple Home menu"
+msgstr "Lihtne kodumenüü"
+
+msgctxt "#31403"
+msgid "Widget type"
+msgstr "Vidina tüüp"
+
+msgctxt "#31404"
+msgid "Small widgets..."
+msgstr "Väikesed vidinad..."
+
+msgctxt "#31408"
+msgid "Fullscreen widgets..."
+msgstr "Täisekraani vidinad..."
+
+msgctxt "#31411"
+msgid "Force view..."
+msgstr "Sundvaade..."
+
+msgctxt "#31416"
+msgid "A view can't be disabled when is selected as \"forced\" for some media."
+msgstr "Vaadet ei saa keelata, kui see on mõne meedia jaoks valitud \"sunnitud\"."
+
+msgctxt "#31417"
+msgid "Only views that are not marked as disabled can be forced."
+msgstr "Sundida saab ainult vaateid, mis pole keelatud kui keelatud."
+
+msgctxt "#31418"
+msgid "Don't force views"
+msgstr "Ärge sundige vaateid peale"
+
+msgctxt "#31419"
+msgid "Forced view"
+msgstr "Sundvaade"
+
+msgctxt "#31420"
+msgid "Enable or disable views"
+msgstr "Lubage või keelake vaated"
+
+msgctxt "#31422"
+msgid "No embedded subs"
+msgstr "Manustatud alamreklaame pole"
+
+msgctxt "#31423"
+msgid "Auto-open audio/subtitle selector at video start"
+msgstr "Heli/subtiitrite valija automaatne avamine video käivitamisel"
+
+msgctxt "#31424"
+msgid "Automatically opens an audio and subtitle selector when starting playback of movies and episodes, allowing you to see which tracks are active and change them directly before continuing."
+msgstr "Filmide ja osade taasesituse alustamisel avab automaatselt heli- ja subtiitrite valija, mis võimaldab teil näha, millised lood on aktiivsed, ja muuta neid vahetult enne jätkamist."
+
+msgctxt "#31425"
+msgid "Search music video links for songs not in your library"
+msgstr "Otsige muusikavideolinkidelt lugusid, mida teie kogus pole"
+
+msgctxt "#31426"
+msgid "Similar artists on your library"
+msgstr "Sarnased artistid teie kogus"
+
+msgctxt "#31435"
+msgid "Albums by this artist in your library"
+msgstr "Selle esitaja albumid teie kogus"
+
+msgctxt "#31436"
+msgid "Online info from TheAudioDB.com for music"
+msgstr "Veebiinfo saidilt TheAudioDB.com muusika jaoks"
+
+msgctxt "#31437"
+msgid "Get online information from TheAudioDB.com on the artist and album information screen"
+msgstr "Hankige esitaja ja albumiteabe ekraanil veebiteavet saidilt TheAudioDB.com"
+
+msgctxt "#31438"
+msgid "TheAudioDb Helper supplies online data and artwork to display enhanced details for artists and music albums."
+msgstr "TheAudioDb Helper pakub veebiandmeid ja kunstiteoseid, et kuvada artistide ja muusikaalbumite täiustatud üksikasju."
+
+msgctxt "#31439"
+msgid "Record label"
+msgstr "Plaadifirma"
+
+msgctxt "#31440"
+msgid "Last.fm Plays"
+msgstr "Last.fm esitused"

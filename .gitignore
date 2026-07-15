@@ -1,0 +1,8 @@
+.DS_Store
+*.zip
+__pycache__/
+*.pyc
+media/Textures.xbt
+./media/Textures.xbt
+./media/Textures.xbt
+media/Textures.xbt

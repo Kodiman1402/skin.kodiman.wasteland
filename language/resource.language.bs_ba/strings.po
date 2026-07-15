@@ -1,0 +1,2224 @@
+# Kodi Media Center language file
+# Addon Name: Aeon Tajo
+# Addon id: skin.aeon.tajo
+# Addon Provider: manfeed
+msgid ""
+msgstr ""
+"Project-Id-Version: KODI Skins\n"
+"POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2026-03-28 23:42+0000\n"
+"Last-Translator: manfeed <aeon.tajo@gmail.com>\n"
+"Language-Team: Bosnian (Bosnia and Herzegovina)  <aeon.tajo@gmail.com>\n"
+"Language: bs_BA\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+msgctxt "Addon Summary"
+msgid "Aeon Tajo"
+msgstr "Aeon Tajo"
+
+msgctxt "Addon Description"
+msgid "Aeon Tajo: Changes everything so that nothing changes. Inspired on Aeon Nox 5 (thanks to BigNoid)."
+msgstr "Aeon Tajo: Mijenja sve tako da se ništa ne mijenja. Inspirisan Aeon Nox 5 (hvala BigNoid-u)."
+
+msgctxt "Addon Disclaimer"
+msgid "Mouse control is supported, althoug not recommended. It may not work correctly in all cases."
+msgstr "Kontrola mišem je podržana, iako se ne preporučuje. Možda neće raditi ispravno u svim slučajevima."
+
+msgctxt "#31000"
+msgid "Directed by"
+msgstr "Režija"
+
+msgctxt "#31001"
+msgid "Written by"
+msgstr "Scenario"
+
+msgctxt "#31002"
+msgid "Blurred album thumb"
+msgstr "Zamućena sličica albuma"
+
+msgctxt "#31003"
+msgid "Power Options"
+msgstr "Opcije napajanja"
+
+msgctxt "#31004"
+msgid "Working"
+msgstr "Rad u toku"
+
+msgctxt "#31005"
+msgid "Fixed"
+msgstr "Brzo"
+
+msgctxt "#31006"
+msgid "View Options"
+msgstr "Opcije prikaza"
+
+msgctxt "#31007"
+msgid "Setup home"
+msgstr "Podešavanje početne"
+
+msgctxt "#31008"
+msgid "Full screen"
+msgstr "Puni ekran"
+
+msgctxt "#31009"
+msgid "Total Duration"
+msgstr "Ukupno trajanje"
+
+msgctxt "#31010"
+msgid "Next episode"
+msgstr "Sljedeća epizoda"
+
+msgctxt "#31011"
+msgid "Latest episode"
+msgstr "Najnovija epizoda"
+
+msgctxt "#31012"
+msgid "Airs"
+msgstr "Emitovanje"
+
+msgctxt "#31013"
+msgid "Statistics"
+msgstr "Statistika"
+
+msgctxt "#31014"
+msgid "Extras"
+msgstr "Dodaci"
+
+msgctxt "#31015"
+msgid "Set path to video genre fanart folder"
+msgstr "Postavite putanju do fascikle video žanra fanart"
+
+msgctxt "#31016"
+msgid "Poster"
+msgstr "Poster"
+
+msgctxt "#31017"
+msgid "Set path to music genre fanart folder"
+msgstr "Postavite putanju do fascikle fanart muzičkog žanra"
+
+msgctxt "#31018"
+msgid "InfoPanel"
+msgstr "InfoPanel"
+
+msgctxt "#31019"
+msgid "Network"
+msgstr "Mreža"
+
+msgctxt "#31020"
+msgid "Extra-fanart"
+msgstr "Extra-fanart"
+
+msgctxt "#31021"
+msgid "Stage curtains"
+msgstr "Zavjese za scenu"
+
+msgctxt "#31022"
+msgid "Set multi-image background"
+msgstr "Postavite pozadinu sa više slika"
+
+msgctxt "#31023"
+msgid "Set single image background"
+msgstr "Postavite jednu sliku pozadine"
+
+msgctxt "#31024"
+msgid "Page"
+msgstr "Stranica"
+
+msgctxt "#31025"
+msgid "Items"
+msgstr "Predmeti"
+
+msgctxt "#31026"
+msgid "Misc Options"
+msgstr "Razne opcije"
+
+msgctxt "#31027"
+msgid "Set item background"
+msgstr "Postavite pozadinu stavke"
+
+msgctxt "#31028"
+msgid "Live DVD Cases"
+msgstr "Live DVD kućišta"
+
+msgctxt "#31029"
+msgid "Recent Movies"
+msgstr "Nedavni filmovi"
+
+msgctxt "#31030"
+msgid "Recent Episodes"
+msgstr "Nedavne epizode"
+
+msgctxt "#31031"
+msgid "Random Movies"
+msgstr "Slučajni filmovi"
+
+msgctxt "#31032"
+msgid "Recommended Movies"
+msgstr "Preporučeni filmovi"
+
+msgctxt "#31033"
+msgid "Random Episodes"
+msgstr "Random Episodes"
+
+msgctxt "#31034"
+msgid "Recommended Episodes"
+msgstr "Preporučene epizode"
+
+msgctxt "#31035"
+msgid "Random Songs"
+msgstr "Random Songs"
+
+msgctxt "#31036"
+msgid "Random Albums"
+msgstr "Slučajni albumi"
+
+msgctxt "#31037"
+msgid "Recent Albums"
+msgstr "Nedavni albumi"
+
+msgctxt "#31038"
+msgid "Recommended Albums"
+msgstr "Preporučeni albumi"
+
+msgctxt "#31039"
+msgid "Actions"
+msgstr "Akcije"
+
+msgctxt "#31040"
+msgid "Now Playing"
+msgstr "Sada svira"
+
+msgctxt "#31041"
+msgid "Select widget"
+msgstr "Odaberite widget"
+
+msgctxt "#31042"
+msgid "Show \"Now Playing\" information blended in the background"
+msgstr "Prikaži informacije \"Sada se reprodukuje\" utopljene u pozadini"
+
+msgctxt "#31043"
+msgid "Platform"
+msgstr "Platforma"
+
+msgctxt "#31044"
+msgid "Views: Plot outline | Info dialog: Full plot"
+msgstr "Pregledi: Nacrt parcele |Info dijalog: Cijeli zaplet"
+
+msgctxt "#31045"
+msgid "Views: Full plot | Info dialog: Plot outline"
+msgstr "Pregledi: Cijela parcela |Info dijaloški okvir: skica parcele"
+
+msgctxt "#31046"
+msgid "SEEKING"
+msgstr "SEEKING"
+
+msgctxt "#31047"
+msgid "Set item icon"
+msgstr "Postavite ikonu stavke"
+
+msgctxt "#31048"
+msgid "Visualisation Presets"
+msgstr "Visualization Presets"
+
+msgctxt "#31049"
+msgid "Select infoline"
+msgstr "Odaberite infoline"
+
+msgctxt "#31050"
+msgid "Sort: Ascending"
+msgstr "Sortiraj: Uzlazno"
+
+msgctxt "#31051"
+msgid "Sort: Descending"
+msgstr "Sortiraj: silazno"
+
+msgctxt "#31052"
+msgid "Movie library statistics"
+msgstr "Statistika filmske biblioteke"
+
+msgctxt "#31053"
+msgid "TV Show library statistics"
+msgstr "Statistika biblioteke TV emisije"
+
+msgctxt "#31054"
+msgid "Music library statistics"
+msgstr "Statistika muzičke biblioteke"
+
+msgctxt "#31055"
+msgid "Open playlist"
+msgstr "Otvori plejlistu"
+
+msgctxt "#31056"
+msgid "Save playlist"
+msgstr "Sačuvaj listu za reprodukciju"
+
+msgctxt "#31057"
+msgid "Close playlist"
+msgstr "Zatvori plejlistu"
+
+msgctxt "#31058"
+msgid "PVR information"
+msgstr "PVR informacije"
+
+msgctxt "#31059"
+msgid "Install Artist Slideshow add-on to enable this feature"
+msgstr "Instalirajte dodatak Artist Slideshow da omogućite ovu funkciju"
+
+msgctxt "#31060"
+msgid "This file is stacked, select the part you want to play from."
+msgstr "Ova datoteka je složena, izaberite koji dio želite da reprodukujete iz nje."
+
+msgctxt "#31061"
+msgid "Favourites statistics"
+msgstr "Omiljena statistika"
+
+msgctxt "#31062"
+msgid "Random movie fanart"
+msgstr "Nasumični filmski fanart"
+
+msgctxt "#31063"
+msgid "Random TV show fanart"
+msgstr "Nasumična TV emisija fanart"
+
+msgctxt "#31064"
+msgid "Random video fanart"
+msgstr "Slučajni video fanart"
+
+msgctxt "#31065"
+msgid "Random music fanart"
+msgstr "Slučajni muzički fanart"
+
+msgctxt "#31066"
+msgid "Random fanart"
+msgstr "Random fanart"
+
+msgctxt "#31067"
+msgid "Update rating"
+msgstr "Ažurirajte ocjenu"
+
+msgctxt "#31068"
+msgid "CD Wall"
+msgstr "CD Wall"
+
+msgctxt "#31069"
+msgid "Change location"
+msgstr "Promijeni lokaciju"
+
+msgctxt "#31070"
+msgid "Enable Cinema Experience integration"
+msgstr "Omogućite integraciju Cinema Experience"
+
+msgctxt "#31071"
+msgid "While browsing the library"
+msgstr "Dok pretražujete biblioteku"
+
+msgctxt "#31072"
+msgid "On open video info"
+msgstr "O otvorenim informacijama o videu"
+
+msgctxt "#31073"
+msgid "Move menu item"
+msgstr "Premesti stavku menija"
+
+msgctxt "#31074"
+msgid "Choose item to swap places with"
+msgstr "Odaberite stavku s kojom ćete zamijeniti mjesta"
+
+msgctxt "#31075"
+msgid "No extra features available"
+msgstr "Nisu dostupne dodatne funkcije"
+
+msgctxt "#31076"
+msgid "Landscape"
+msgstr "Landscape"
+
+msgctxt "#31077"
+msgid "ShowCase"
+msgstr "ShowCase"
+
+msgctxt "#31078"
+msgid "TriPanel"
+msgstr "TriPanel"
+
+msgctxt "#31079"
+msgid "Shift"
+msgstr "Shift"
+
+msgctxt "#31080"
+msgid "Manage submenu"
+msgstr "Upravljanje podmenijem"
+
+msgctxt "#31081"
+msgid "Enable custom submenus"
+msgstr "Omogućite prilagođene podmenije"
+
+msgctxt "#31082"
+msgid "Detach RSS feed from the main menu"
+msgstr "Odvojite RSS feed iz glavnog menija"
+
+msgctxt "#31083"
+msgid "Enable Next Aired information in the videolibrary"
+msgstr "Omogućite sljedeće emitirane informacije u videoteci"
+
+msgctxt "#31084"
+msgid "Conditional weather"
+msgstr "Uslovno vrijeme"
+
+msgctxt "#31085"
+msgid "Musicvideo library statistics"
+msgstr "Statistika muzičke video biblioteke"
+
+msgctxt "#31086"
+msgid "Icon"
+msgstr "Ikona"
+
+msgctxt "#31087"
+msgid "Banner"
+msgstr "Prekriven"
+
+msgctxt "#31088"
+msgid "BannerWall"
+msgstr "BannerWall"
+
+msgctxt "#31089"
+msgid "Play item on startup"
+msgstr "Pustite stavku pri pokretanju"
+
+msgctxt "#31090"
+msgid "Seconds"
+msgstr "Sekunde"
+
+msgctxt "#31091"
+msgid "Select items"
+msgstr "Odaberite stavke"
+
+msgctxt "#31092"
+msgid "Fullscreen fanart"
+msgstr "Fanart preko cijelog ekrana"
+
+msgctxt "#31093"
+msgid "LowList toggle"
+msgstr "LowList prekidač"
+
+msgctxt "#31094"
+msgid "List view layout"
+msgstr "Raspored prikaza liste"
+
+msgctxt "#31095"
+msgid "Slim List"
+msgstr "Slim List"
+
+msgctxt "#31096"
+msgid "Concert locations"
+msgstr "Koncertne lokacije"
+
+msgctxt "#31097"
+msgid "Movie playlist statistics"
+msgstr "Statistika plejliste filmova"
+
+msgctxt "#31098"
+msgid "TV Show playlist statistics"
+msgstr "Statistika plejliste TV emisije"
+
+msgctxt "#31099"
+msgid "Musicvideo playlist statistics"
+msgstr "Statistike Musicvideo plejliste"
+
+msgctxt "#31100"
+msgid "View:"
+msgstr "Pogledaj:"
+
+msgctxt "#31101"
+msgid "Choose view"
+msgstr "Odaberite prikaz"
+
+msgctxt "#31102"
+msgid "Background"
+msgstr "Pozadina"
+
+msgctxt "#31103"
+msgid "N/A"
+msgstr "N/A"
+
+msgctxt "#31104"
+msgid "Similar artists"
+msgstr "Slični umjetnici"
+
+msgctxt "#31105"
+msgid "More albums from"
+msgstr "Više albuma od"
+
+msgctxt "#31106"
+msgid "On info"
+msgstr "Na info"
+
+msgctxt "#31107"
+msgid "Persistent"
+msgstr "Persistent"
+
+msgctxt "#31108"
+msgid "Enable artist information feed (if available)"
+msgstr "Omogućite sažetak informacija o izvođaču (ako je dostupno)"
+
+msgctxt "#31109"
+msgid "Unwatched episode count"
+msgstr "Broj neodgledanih epizoda"
+
+msgctxt "#31110"
+msgid "Up next brings the option to watch right away the next episode of a TV show (Netflix/Prime video style)."
+msgstr "Up next donosi opciju da odmah pogledate sljedeću epizodu TV emisije (Netflix/Prime video stil)."
+
+msgctxt "#31111"
+msgid "Similar movies"
+msgstr "Slični filmovi"
+
+msgctxt "#31112"
+msgid "Movies directed by"
+msgstr "Filmovi u režiji"
+
+msgctxt "#31113"
+msgid "Movies written by"
+msgstr "Filmovi po scenariju"
+
+msgctxt "#31114"
+msgid "More movies from"
+msgstr "Više filmova iz"
+
+msgctxt "#31115"
+msgid "Similar TV shows"
+msgstr "Slične TV emisije"
+
+msgctxt "#31116"
+msgid "cycle fanart"
+msgstr "ciklus fanart"
+
+msgctxt "#31117"
+msgid "Fallback"
+msgstr "Fallback"
+
+msgctxt "#31118"
+msgid "Download extrafanart"
+msgstr "Preuzmite extrafanart"
+
+msgctxt "#31119"
+msgid "Show the movies from this director in your library or view online information on this director on TMDb?"
+msgstr "Prikažite filmove ovog režisera u svojoj biblioteci ili pregledajte informacije o ovom režiseru na mreži na TMDb-u?"
+
+msgctxt "#31120"
+msgid "TMDb"
+msgstr "TMDb"
+
+msgctxt "#31121"
+msgid "Disable autocomplete"
+msgstr "Onemogući automatsko dovršavanje"
+
+msgctxt "#31122"
+msgid "Disables the autocomplete feature of the virtual keyboard"
+msgstr "Onemogućava funkciju automatskog dovršavanja virtuelne tastature"
+
+msgctxt "#31123"
+msgid "Album review"
+msgstr "Recenzija albuma"
+
+msgctxt "#31124"
+msgid "Show Background \"Now Playing\" Video"
+msgstr "Prikaži pozadinski video \"Sada se reprodukuje\""
+
+msgctxt "#31125"
+msgid "Show Background \"Now Playing\" Visualisation"
+msgstr "Prikaži pozadinsku vizualizaciju \"Sada se reprodukuje\""
+
+msgctxt "#31126"
+msgid "Opacity level for widgets"
+msgstr "Nivo neprozirnosti za widgete"
+
+msgctxt "#31127"
+msgid "LiveTV Mod Settings"
+msgstr "LiveTV Mod postavke"
+
+msgctxt "#31128"
+msgid "Channels View"
+msgstr "Channels View"
+
+msgctxt "#31129"
+msgid "Hide Fanart in full screen visualisation"
+msgstr "Sakrij Fanart u vizualizaciji preko cijelog ekrana"
+
+msgctxt "#31130"
+msgid "Use \"Enigma2-style\" channel OSD"
+msgstr "Koristi \"Enigma2 stil\" OSD kanala"
+
+msgctxt "#31131"
+msgid "EPG Timeline View"
+msgstr "EPG Timeline View"
+
+msgctxt "#31132"
+msgid "Tuner:"
+msgstr "tjuner:"
+
+msgctxt "#31133"
+msgid "Timeline channels-type:"
+msgstr "Vrsta kanala na vremenskoj liniji:"
+
+msgctxt "#31134"
+msgid "Timeline view-type:"
+msgstr "Vrsta prikaza vremenske trake:"
+
+msgctxt "#31135"
+msgid "Infobar Options"
+msgstr "Opcije info trake"
+
+msgctxt "#31136"
+msgid "Infobar type:"
+msgstr "Tip infobara:"
+
+msgctxt "#31137"
+msgid "Hide encryption information"
+msgstr "Sakrij informacije o šifriranju"
+
+msgctxt "#31138"
+msgid "Hide tuner information"
+msgstr "Sakrij informacije o tjuneru"
+
+msgctxt "#31139"
+msgid "Hide signal information"
+msgstr "Sakrij informacije o signalu"
+
+msgctxt "#31140"
+msgid "Sideblade Options"
+msgstr "Sideblade Options"
+
+msgctxt "#31141"
+msgid "Hide Guide"
+msgstr "Sakrij vodič"
+
+msgctxt "#31142"
+msgid "Settings level"
+msgstr "Nivo postavki"
+
+msgctxt "#31143"
+msgid "Hide Recordings"
+msgstr "Sakrij snimke"
+
+msgctxt "#31144"
+msgid "Hide Timer"
+msgstr "Sakrij tajmer"
+
+msgctxt "#31145"
+msgid "Hide Search"
+msgstr "Sakrij pretragu"
+
+msgctxt "#31146"
+msgid "Rated"
+msgstr "Ocijenjeno"
+
+msgctxt "#31147"
+msgid "Change rating"
+msgstr "Promijeni ocjenu"
+
+msgctxt "#31148"
+msgid "List local library items"
+msgstr "Navedite predmete lokalne biblioteke"
+
+msgctxt "#31149"
+msgid "Online info from TMDb"
+msgstr "Online informacije sa TMDb"
+
+msgctxt "#31150"
+msgid "Select studio logo artwork"
+msgstr "Odaberite ilustraciju logotipa studija"
+
+msgctxt "#31151"
+msgid "Customize the studio logos by choosing a different logo pack. Note that this has no effect on the studio icons displayed in the \"List\" view."
+msgstr "Prilagodi logoe studija biranjem drugog paketa logoa. Napomena: ovo ne utiče na ikone studija prikazane u \"Lista\" prikazu."
+
+msgctxt "#31152"
+msgid "In progress movies"
+msgstr "U toku filmovi"
+
+msgctxt "#31153"
+msgid "Popular movies on TheMovieDB.org"
+msgstr "Popularni filmovi na TheMovieDB.org"
+
+msgctxt "#31154"
+msgid "Top rated movies on TheMovieDB.org"
+msgstr "Najbolje ocijenjeni filmovi na TheMovieDB.org"
+
+msgctxt "#31155"
+msgid "Movies currently in cinema"
+msgstr "Filmovi koji su trenutno u bioskopima"
+
+msgctxt "#31156"
+msgid "Upcoming movies"
+msgstr "Predstojeći filmovi"
+
+msgctxt "#31157"
+msgid "Multi movie widget"
+msgstr "Vidžet za više filmova"
+
+msgctxt "#31158"
+msgid "IMDb Top 250 movies"
+msgstr "IMDb Top 250 filmova"
+
+msgctxt "#31159"
+msgid "Event log"
+msgstr "Dnevnik događaja"
+
+msgctxt "#31160"
+msgid "Display background name"
+msgstr "Prikaži naziv pozadine"
+
+msgctxt "#31161"
+msgid "Display title of movie/TV show/artist on home screen if the background has a fanart slideshow as background"
+msgstr "Prikažite naslov filma/TV emisije/izvođača na početnom ekranu ako pozadina ima fanart slideshow kao pozadinu"
+
+msgctxt "#31162"
+msgid "min"
+msgstr "min"
+
+msgctxt "#31163"
+msgid "TIMESHIFT"
+msgstr "TIMESHIFT"
+
+msgctxt "#31164"
+msgid "Change weather icons"
+msgstr "Promijenite vremenske ikone"
+
+msgctxt "#31165"
+msgid "Layout"
+msgstr "Layout"
+
+msgctxt "#31166"
+msgid "Wall"
+msgstr "Ikone"
+
+msgctxt "#31167"
+msgid "You're watching"
+msgstr "Ti gledaš"
+
+msgctxt "#31168"
+msgid "h"
+msgstr "h"
+
+msgctxt "#31169"
+msgid "m"
+msgstr "m"
+
+msgctxt "#31170"
+msgid "Enable Netflix style pause screen"
+msgstr "Omogućite ekran pauze u stilu Netflixa"
+
+msgctxt "#31171"
+msgid "Shows an overview of the movie or episode 10 seconds after the video is paused."
+msgstr "Prikazuje pregled filma ili epizode 10 sekundi nakon što je video pauziran."
+
+msgctxt "#31172"
+msgid "Inactive"
+msgstr "Neaktivan"
+
+msgctxt "#31173"
+msgid "Decoder"
+msgstr "Dekoder"
+
+msgctxt "#31174"
+msgid "Hardware decoding"
+msgstr "Hardversko dekodiranje"
+
+msgctxt "#31175"
+msgid "press 'OK' to see more..."
+msgstr "pritisnite 'OK' da vidite više..."
+
+msgctxt "#31176"
+msgid "Enter text here..."
+msgstr "Ovdje unesite tekst..."
+
+msgctxt "#31177"
+msgid "Player controls"
+msgstr "Kontrole igrača"
+
+msgctxt "#31178"
+msgid "Playlist options"
+msgstr "Opcije plejliste"
+
+msgctxt "#31179"
+msgid "Critics"
+msgstr "Kritičari"
+
+msgctxt "#31180"
+msgid "Play main theme when browsing movies and TV shows"
+msgstr "Pustite glavnu temu prilikom pregledavanja filmova i TV emisija"
+
+msgctxt "#31181"
+msgid "Display cast in video views"
+msgstr "Prikaz u prikazima videa"
+
+msgctxt "#31182"
+msgid "Hide current time in media views"
+msgstr "Sakrijte trenutno vrijeme u prikazima medija"
+
+msgctxt "#31183"
+msgid "Hide number of items in media views"
+msgstr "Sakrij broj stavki u prikazima medija"
+
+msgctxt "#31184"
+msgid "Enable, disable and/or force video views"
+msgstr "Omogući, onemogući i/ili prisili prikaze videa"
+
+msgctxt "#31185"
+msgid "Enable, disable and/or force music views"
+msgstr "Omogući, onemogući i/ili prisili muzičke prikaze"
+
+msgctxt "#31186"
+msgid "Force Kodi to always use certain view when browsing each kind of media. Disabling views that you don't use could speed up browsing in some devices"
+msgstr "Prisili Kodi da uvijek koristi određeni prikaz pri pregledavanju svake vrste medija. Onemogućavanje prikaza koje ne koristite može ubrzati pregledavanje na nekim uređajima."
+
+msgctxt "#31187"
+msgid "Available for:"
+msgstr "Dostupno za:"
+
+msgctxt "#31188"
+msgid "Kiosk mode"
+msgstr "Način rada kioska"
+
+msgctxt "#31189"
+msgid "Disables the side media menu in views and most options to change Kodi, so as to prevent unwanted modifications."
+msgstr "Onemogućuje bočni izbornik medija u prikazima i većinu opcija za promjenu Kodi-ja, kako bi se spriječile neželjene modifikacije."
+
+msgctxt "#31190"
+msgid "In cinemas"
+msgstr "U bioskopima"
+
+msgctxt "#31191"
+msgid "In cinemas soon"
+msgstr "Uskoro u bioskopima"
+
+msgctxt "#31192"
+msgid "Spotify"
+msgstr "Spotify"
+
+msgctxt "#31193"
+msgid "Show images of the best-known actresses"
+msgstr "Pokažite slike najpoznatijih glumica"
+
+msgctxt "#31194"
+msgid "Search the Red Carpet add-on for images of the best-known actresses from the movie/TV show and display them alongside the cast."
+msgstr "Potražite u dodatku za Crveni tepih slike najpoznatijih glumica iz filma/TV emisije i prikažite ih pored glumačke ekipe."
+
+msgctxt "#31195"
+msgid "Show logos of film studios in video views"
+msgstr "Prikažite logotipe filmskih studija u video pregledima"
+
+msgctxt "#31196"
+msgid "Show logos of record labels in music albums views"
+msgstr "Prikažite logotipe izdavačkih kuća u prikazima muzičkih albuma"
+
+msgctxt "#31197"
+msgid "Show home music widget"
+msgstr "Prikaži widget za kućnu muziku"
+
+msgctxt "#31198"
+msgid "Show home video widget"
+msgstr "Prikaži widget za početni video"
+
+msgctxt "#31199"
+msgid "Colours, marks and home screen"
+msgstr "Boje, oznake i početni ekran"
+
+msgctxt "#31200"
+msgid "Is used to choose among different Kodi resource image pack to weather artwork and icons."
+msgstr "Koristi se za biranje između različitih paketa slika Kodi resursa za vrijeme umjetnina i ikona."
+
+msgctxt "#31201"
+msgid "Performance impact"
+msgstr "Uticaj na performanse"
+
+msgctxt "#31202"
+msgid "Plays music in the background while in Home and Settings screens. A default song collection is provided, but a different song folder can be used."
+msgstr "Reproducira muziku u pozadini dok je na početnom ekranu i ekranu postavki.Obezbeđena je podrazumevana kolekcija pesama, ali se može koristiti druga fascikla pesama."
+
+msgctxt "#31203"
+msgid "Select your own folder to use as background music. Make sure that it only contains music files."
+msgstr "Odaberite svoj folder koji ćete koristiti kao muziku u pozadini.Uvjerite se da sadrži samo muzičke fajlove."
+
+msgctxt "#31204"
+msgid "When enabled, widgets linked to each home menu item will appear automatically. If disabled, widgets remain hidden until the corresponding arrow key is pressed."
+msgstr "Kada je omogućeno, widgeti povezani sa svakom stavkom početnog menija će se automatski pojaviti.Ako je onemogućeno, widgeti ostaju skriveni dok se ne pritisne odgovarajuća tipka sa strelicom."
+
+msgctxt "#31205"
+msgid "Lyrics Source"
+msgstr "Lyrics Source"
+
+msgctxt "#31206"
+msgid "Customization"
+msgstr "Prilagodba"
+
+msgctxt "#31207"
+msgid "Views"
+msgstr "Pogledi"
+
+msgctxt "#31208"
+msgid "Home screen"
+msgstr "Početni ekran"
+
+msgctxt "#31209"
+msgid "Options"
+msgstr "Opcije"
+
+msgctxt "#31210"
+msgid "Select another image as default background"
+msgstr "Odaberite drugu sliku kao zadanu pozadinu"
+
+msgctxt "#31211"
+msgid "Changes the default Aeon Tajo background to another chosen by the user."
+msgstr "Mijenja zadanu Aeon Tajo pozadinu u drugu koju odabere korisnik."
+
+msgctxt "#31212"
+msgid "Current background path: "
+msgstr "Trenutna pozadinska putanja:"
+
+msgctxt "#31213"
+msgid "Reset skin default background"
+msgstr "Vratite zadanu pozadinu kože"
+
+msgctxt "#31214"
+msgid "Resets the default background provided with Aeon Tajo."
+msgstr "Resetuje podrazumevanu pozadinu koju daje Aeon Tajo."
+
+msgctxt "#31215"
+msgid "Show the coloured version of the icons rather than the monochrome version."
+msgstr "Prikaži obojenu verziju ikona umjesto monohromatsku verziju."
+
+msgctxt "#31216"
+msgid "Displays background and fanart images with a subtle motion effect across the screen."
+msgstr "Prikazuje pozadinu i fanart slike sa suptilnim efektom pokreta preko ekrana."
+
+msgctxt "#31217"
+msgid "Displays a list in the video views featuring thumbnail images of the main actors from the movie or TV show's cast."
+msgstr "Prikazuje listu u video prikazima sa sličicama glavnih glumaca iz filma ili TV emisije."
+
+msgctxt "#31218"
+msgid "Search the Studio Icons add-on for logo images of the film studios of the movie/TV show, and if found, display them while browsing the video views."
+msgstr "Pretražite dodatak Studio Icons za slike logotipa filmskih studija filma/TV emisije i ako ih pronađete, prikažite ih dok pretražujete video snimke."
+
+msgctxt "#31219"
+msgid "Search for the album's record label logo using the RecordLabel Icons addon, and if found, display it when browsing the music album views."
+msgstr "Potražite logotip izdavačke kuće pomoću dodatka RecordLabel Icons i ako ga pronađete, prikažite ga prilikom pregledavanja prikaza muzičkog albuma."
+
+msgctxt "#31220"
+msgid "Show rating"
+msgstr "Prikaži ocjenu"
+
+msgctxt "#31221"
+msgid "Show artist clearart"
+msgstr "Prikaži umjetniku clearart"
+
+msgctxt "#31222"
+msgid "Show CD"
+msgstr "Prikaži CD"
+
+msgctxt "#31223"
+msgid "Show Time"
+msgstr "Show Time"
+
+msgctxt "#31224"
+msgid "Animated posters"
+msgstr "Animirani posteri"
+
+msgctxt "#31225"
+msgid "Normal posters"
+msgstr "Normalni posteri"
+
+msgctxt "#31226"
+msgid "Extra posters"
+msgstr "Extra posters"
+
+msgctxt "#31227"
+msgid "Sets the transparency level of the home menu widgets."
+msgstr "Postavlja nivo transparentnosti vidžeta početnog menija."
+
+msgctxt "#31228"
+msgid "Displays main menu options in a vertical layout instead of a horizontal one."
+msgstr "Prikazuje opcije glavnog menija u vertikalnom rasporedu umesto u horizontalnom."
+
+msgctxt "#31229"
+msgid "Set another video file as startup intro"
+msgstr "Postavite drugi video fajl kao uvod za pokretanje"
+
+msgctxt "#31230"
+msgid "Choose another video file to play when Kodi starts instead of Aeon Tajo default. It's recommended to choose a short one. To stop playback and start using Kodi right away, click or press any arrow key."
+msgstr "Odaberite drugu video datoteku za reprodukciju kada se Kodi pokrene umjesto zadanog Aeon Tajoa.Preporučuje se da odaberete kratku.Da biste zaustavili reprodukciju i odmah počeli koristiti Kodi, kliknite ili pritisnite bilo koju tipku sa strelicom."
+
+msgctxt "#31231"
+msgid "Plays an intro video when launching Kodi"
+msgstr "Reproducira uvodni video prilikom pokretanja Kodija"
+
+msgctxt "#31232"
+msgid "Clear current intro video file and back to default"
+msgstr "Obrišite trenutni uvodni video fajl i vratite se na zadano"
+
+msgctxt "#31233"
+msgid "Clear the intro video file selected by the user and back to Aeon Tajo's default."
+msgstr "Obrišite datoteku uvodnog videa koju je odabrao korisnik i vratite se na zadanu vrijednost Aeon Tajoa."
+
+msgctxt "#31234"
+msgid "Adds a layer that simulates falling snow on all Kodi screens, with four available intensity levels."
+msgstr "Dodaje sloj koji simulira padanje snijega na svim Kodi ekranima, s četiri dostupna nivoa intenziteta."
+
+msgctxt "#31235"
+msgid "Override the current home menu backgrounds with this one"
+msgstr "Poništite trenutnu pozadinu početnog menija sa ovom"
+
+msgctxt "#31236"
+msgid "The background selections made in the Setup Main Menu screen will be preserved. Disabling this option will restore all previous backgrounds. This option is particularly designed for use during special seasons."
+msgstr "Odabir pozadine napravljen na ekranu glavnog menija podešavanja biće sačuvan.Onemogućavanje ove opcije će vratiti sve prethodne pozadine.Ova opcija je posebno dizajnirana za upotrebu u posebnim sezonama."
+
+msgctxt "#31237"
+msgid "No impact"
+msgstr "Nema uticaja"
+
+msgctxt "#31238"
+msgid "Very small"
+msgstr "Veoma mali"
+
+msgctxt "#31239"
+msgid "Small"
+msgstr "Mala"
+
+msgctxt "#31240"
+msgid "Moderate"
+msgstr "Umjereno"
+
+msgctxt "#31241"
+msgid "Pixel format"
+msgstr "Pixel format"
+
+msgctxt "#31242"
+msgid "System rendering speed"
+msgstr "Brzina renderiranja sistema"
+
+msgctxt "#31243"
+msgid "Hide actor's thumbnails"
+msgstr "Sakrij sličice glumaca"
+
+msgctxt "#31244"
+msgid "Show only a list of the actors' names, instead of also including their thumbnails."
+msgstr "Prikaži samo listu imena glumaca bez njihovih sličica."
+
+msgctxt "#31250"
+msgid "Automatic Full Screen when playing music"
+msgstr "Automatski puni ekran kada puštate muziku"
+
+msgctxt "#31251"
+msgid "Don't play melodies while in Home Screen"
+msgstr "Ne puštajte melodije dok ste na početnom ekranu"
+
+msgctxt "#31252"
+msgid "Always show home screen widgets"
+msgstr "Uvijek prikaži widgete početnog ekrana"
+
+msgctxt "#31253"
+msgid "Choose user audio playlist *.m3u (max.10 songs)"
+msgstr "Odaberite korisničku audio listu za reprodukciju *.m3u (maks. 10 pjesama)"
+
+msgctxt "#31254"
+msgid "Clear user playlist (back to default)"
+msgstr "Obriši korisničku listu za reprodukciju (vrata na zadano)"
+
+msgctxt "#31300"
+msgid "Overview"
+msgstr "Pregled"
+
+msgctxt "#31301"
+msgid "Last Updated"
+msgstr "Posljednje ažurirano"
+
+msgctxt "#31307"
+msgid "Hide Fanart"
+msgstr "Sakrij Fanart"
+
+msgctxt "#31308"
+msgid "Next aired"
+msgstr "Sljedeće emitirano"
+
+msgctxt "#31309"
+msgid "Memory Used:"
+msgstr "Korištena memorija:"
+
+msgctxt "#31310"
+msgid "Available audio tracks"
+msgstr "Dostupni audio zapisi"
+
+msgctxt "#31317"
+msgid "Set Fanart Path"
+msgstr "Postavite Fanart Path"
+
+msgctxt "#31320"
+msgid "Last Logged In"
+msgstr "Zadnja prijava"
+
+msgctxt "#31321"
+msgid "Karaoke Song Selector"
+msgstr "Birač karaoke pjesama"
+
+msgctxt "#31328"
+msgid "Recently Added"
+msgstr "Nedavno dodano"
+
+msgctxt "#31331"
+msgid "Installed"
+msgstr "Instalirano"
+
+msgctxt "#31332"
+msgid "Not Installed"
+msgstr "Nije instalirano"
+
+msgctxt "#31334"
+msgid "Required"
+msgstr "Obavezno"
+
+msgctxt "#31335"
+msgid "Recommended"
+msgstr "Preporučeno"
+
+msgctxt "#31336"
+msgid "Optional"
+msgstr "Opciono"
+
+msgctxt "#31390"
+msgid "Skin default"
+msgstr "Podrazumjevana maska"
+
+msgctxt "#31400"
+msgid "[B]CONFIGURE INTERFACE SETTINGS[/B][CR][CR]Change the skin · Set language and region · Setup remote controls[CR]Set up a screensaver · Setup master lock"
+msgstr "[B]KONFIGURIRAJTE POSTAVKE INTERFEJSA[/B][CR][CR]Promijenite izgled · Postavite jezik i regiju · Postavite daljinske upravljače[CR]Postavite čuvar ekrana · Postavite glavno zaključavanje"
+
+msgctxt "#31401"
+msgid "Menu - press 'OK'"
+msgstr "Meni - pritisnite 'OK'"
+
+msgctxt "#31402"
+msgid "Enable startup video intro"
+msgstr "Omogući uvodni video pri pokretanju"
+
+msgctxt "#31405"
+msgid "[B]MONITOR YOUR SYSTEM[/B][CR][CR]Check out your hardware · Monitor CPU usage[CR]Check Kodi revision number"
+msgstr "[B]PRAĆITE SVOJ SISTEM[/B][CR][CR]Provjerite svoj hardver · Pratite korištenje CPU-a[CR]Provjerite Kodi broj revizije"
+
+msgctxt "#31406"
+msgid "[B]CONFIGURE SYSTEM SETTINGS[/B][CR][CR]Setup and calibrate displays · Configure audio output · [CR]Set power saving options · Enable debugging"
+msgstr "[B]KONFIGURIRAJTE SISTEMSKE POSTAVKE[/B][CR][CR]Postavite i kalibrirajte ekrane · Konfigurirajte audio izlaz · [CR]Postavite opcije uštede energije · Omogućite otklanjanje grešaka"
+
+msgctxt "#31407"
+msgid "[B]SETUP PROFILES[/B][CR][CR]Setup and manage user profiles · Enable login screen[CR]Change password · Add a profile picture"
+msgstr "[B]POSTAVLJANJE PROFILA[/B][CR][CR]Podešavanje i upravljanje korisničkim profilima · Omogućavanje ekrana za prijavu[CR]Promjena lozinke · Dodajte sliku profila"
+
+msgctxt "#31409"
+msgid "[B]CONFIGURE TV SETTINGS[/B][CR][CR]Change full screen info · Manage EPG data settings"
+msgstr "[B]KONFIGURIRAJTE TV POSTAVKE[/B][CR][CR]Promijenite informacije preko cijelog ekrana · Upravljajte postavkama podataka EPG-a"
+
+msgctxt "#31410"
+msgid "[B]CONFIGURE SERVICE SETTINGS[/B][CR][CR]Setup control of Kodi via UPnP and HTTP · Configure file sharing[CR]Enable Zeroconf · Configure AirPlay"
+msgstr "[B]KONFIGURIRAJTE SERVISNE POSTAVKE[/B][CR][CR]Postavite kontrolu Kodi-a putem UPnP-a i HTTP-a · Konfigurirajte dijeljenje datoteka[CR]Omogućite Zeroconf · Konfigurirajte AirPlay"
+
+msgctxt "#31412"
+msgid "Select section"
+msgstr "Odaberite odjeljak"
+
+msgctxt "#31413"
+msgid "Local subtitle available"
+msgstr "Dostupan lokalni titl"
+
+msgctxt "#31414"
+msgid "[B]CONFIGURE PLAYER SETTINGS[/B][CR][CR]Configure video playback · Configure music playback · Configure picture slideshow[CR]Configure video language and subtitles"
+msgstr "[B]KONFIGURIRAJ POSTAVKE PLAYERA[/B][CR][CR]Konfiguriraj reprodukciju videa · Konfiguriraj reprodukciju muzike · Konfiguriraj projekciju slajdova[CR]Konfiguriraj jezik videa i titlove"
+
+msgctxt "#31415"
+msgid "[B]CONFIGURE MEDIA SETTINGS[/B][CR][CR]Set default select action · Configure file list options · Configure metadata options[CR]Manage databases"
+msgstr "[B]KONFIGURIRAJTE MEDIJSKE POSTAVKE[/B][CR][CR]Postavite zadanu akciju odabira · Konfigurirajte opcije liste datoteka · Konfigurirajte opcije metapodataka[CR]Upravljajte bazama podataka"
+
+msgctxt "#31421"
+msgid "Select your Kodi user profile[CR]to login and continue"
+msgstr "Odaberite svoj Kodi korisnički profil[CR]da se prijavite i nastavite"
+
+msgctxt "#31427"
+msgid "Skin Shortcuts is responsible for handling all aspects of the main menu."
+msgstr "Skin Shortcuts je odgovoran za rukovanje svim aspektima glavnog menija."
+
+msgctxt "#31428"
+msgid "The Grab Fanart script provides the random fanart slideshows for the main menu."
+msgstr "Grab Fanart skripta pruža nasumične fanart projekcije slajdova za glavni meni."
+
+msgctxt "#31429"
+msgid "Library Data Provider is a service that runs in the background to provide library data for widgets and live backgrounds as well as playlist statistics for infolines."
+msgstr "Dobavljač bibliotečkih podataka je usluga koja radi u pozadini kako bi pružila bibliotečke podatke za vidžete i pozadine uživo, kao i statistiku plejlista za infoline."
+
+msgctxt "#31430"
+msgid "Resource image addon for displaying the default white studio icons throughout the skin."
+msgstr "Dodatak za slike resursa za prikazivanje zadanih bijelih studijskih ikona kroz kožu."
+
+msgctxt "#31431"
+msgid "Resource image addon for displaying the default white recording label icons throughout the skin."
+msgstr "Dodatak za sliku resursa za prikazivanje zadanih bijelih ikona naljepnica za snimanje u cijeloj koži."
+
+msgctxt "#31432"
+msgid "Provides numerous Widget options and extended cast and crew metadata."
+msgstr "Pruža brojne Widget opcije i proširene metapodatke o glumcima i ekipi."
+
+msgctxt "#31433"
+msgid "Skin Info Service is used to display movie set information throughout the skin."
+msgstr "Skin Info Service se koristi za prikaz informacija o setu filma u cijeloj koži."
+
+msgctxt "#31434"
+msgid "Check MP3 Theme checks whether the user has put a theme.mp3 file in the corresponding movie/TV show folder to be played when browsing."
+msgstr "Check MP3 Theme provjerava da li je korisnik stavio datoteku theme.mp3 u odgovarajući folder za film/TV emisiju za reprodukciju prilikom pretraživanja."
+
+msgctxt "#31450"
+msgid "  •  Open Settings "
+msgstr "• Otvorite Postavke"
+
+msgctxt "#31451"
+msgid "  •  Click to Install"
+msgstr "• Kliknite za instaliranje"
+
+msgctxt "#31473"
+msgid "Aeon Tajo Helper provides the data to display the cast for movies and TV shows."
+msgstr "Aeon Tajo Helper pruža podatke za prikaz glumačke ekipe za filmove i TV emisije."
+
+msgctxt "#31474"
+msgid "CU LRC Lyrics is used to download, sync, and display lyrics during fullscreen music playback."
+msgstr "CU LRC Lyrics se koristi za preuzimanje, sinhronizaciju i prikaz teksta tokom reprodukcije muzike preko celog ekrana."
+
+msgctxt "#31475"
+msgid "Play Trailer makes possible to play movie trailers through a context menu. "
+msgstr "Play Trailer omogućava puštanje filmskih najava kroz kontekstni meni."
+
+msgctxt "#31476"
+msgid "Allows the use of Youtube to play trailers and other videos."
+msgstr "Omogućava korištenje Youtubea za reprodukciju najava i drugih video zapisa."
+
+msgctxt "#31477"
+msgid "Provides some cast actress images to be shown in video views."
+msgstr "Pruža neke glumačke slike glumica koje se prikazuju u video prikazima."
+
+msgctxt "#31478"
+msgid "Artist Slideshow is used to display artist fanart for both the home screen and during fullscreen music playback."
+msgstr "Projekcija slajdova umjetnika se koristi za prikaz fanart umjetnika i za početni ekran i za vrijeme reprodukcije muzike preko cijelog ekrana."
+
+msgctxt "#31479"
+msgid "AutoCompletion provides suggestions to be selected while using the virtual keyboard."
+msgstr "Automatsko dovršavanje pruža prijedloge za odabir dok koristite virtuelnu tastaturu."
+
+msgctxt "#31480"
+msgid "Library Editor Script uses JSON to directly edit your database information."
+msgstr "Library Editor Script koristi JSON za direktno uređivanje informacija vaše baze podataka."
+
+msgctxt "#31481"
+msgid "Global Search makes possible to search among all the items (movies, TV shows, music, actors, etc.) in your collection."
+msgstr "Globalna pretraga omogućava pretragu između svih stavki (filmova, TV emisija, muzike, glumaca itd.) u vašoj kolekciji."
+
+msgctxt "#31501"
+msgid "Channel group"
+msgstr "Grupa kanala"
+
+msgctxt "#31502"
+msgid "Live TV"
+msgstr "TV"
+
+msgctxt "#31503"
+msgid "Add Group"
+msgstr "Dodaj grupu"
+
+msgctxt "#31504"
+msgid "Rename Group"
+msgstr "Preimenuj grupu"
+
+msgctxt "#31505"
+msgid "Delete Group"
+msgstr "Izbriši grupu"
+
+msgctxt "#31506"
+msgid "Available[CR]Groups"
+msgstr "Dostupne[CR]Grupe"
+
+msgctxt "#31511"
+msgid "Channel Options"
+msgstr "Opcije kanala"
+
+msgctxt "#31512"
+msgid "Show similar movies in Shelf 3D view"
+msgstr "Prikažite slične filmove u 3D prikazu polica"
+
+msgctxt "#31901"
+msgid "36 Hour Forecast"
+msgstr "36-satna prognoza"
+
+msgctxt "#31902"
+msgid "Hourly Forecast"
+msgstr "Prognoza po satu"
+
+msgctxt "#31903"
+msgid "Weekend Forecast"
+msgstr "Prognoza za vikend"
+
+msgctxt "#31904"
+msgid "10 Day Forecast"
+msgstr "Prognoza za 10 dana"
+
+msgctxt "#31908"
+msgid "Chance of Precipitation"
+msgstr "Mogućnost padavina"
+
+msgctxt "#31909"
+msgid "Fetching forecast info..."
+msgstr "Preuzimanje informacija o prognozi..."
+
+msgctxt "#31910"
+msgid "Map & Alerts"
+msgstr "Mapa i upozorenja"
+
+msgctxt "#31911"
+msgid "Setup the Aeon Tajo main menu"
+msgstr "Postavite Aeon Tajo glavni meni"
+
+msgctxt "#31912"
+msgid "Customize the main menu with widgets, backgrounds and statistics. Add your own custom main menu items."
+msgstr "Prilagodite glavni meni sa widgetima, pozadinama i statistikom.Dodajte svoje vlastite prilagođene stavke glavnog menija."
+
+msgctxt "#31913"
+msgid "Aeon Tajo main menu vertical position"
+msgstr "Vertikalna pozicija glavnog menija Aeon Tajo"
+
+msgctxt "#31914"
+msgid "Change the vertical position of the main menu. Default is centered on screen."
+msgstr "Promijenite vertikalni položaj glavnog menija.Podrazumevano je centrirano na ekranu."
+
+msgctxt "#31915"
+msgid "Navigation style for horizontal lists"
+msgstr "Stil navigacije za horizontalne liste"
+
+msgctxt "#31916"
+msgid "Change the way horizontal lists scroll in Aeon Tajo. Default will scroll lists in a cycle. \"Fixed\" are lists with a beginning and end."
+msgstr "Promijeni način na koji se horizontalne liste pomiču u Aeon Tajo. Podrazumevano će liste da se kreću u ciklusu. \"Fiksirano\" su liste sa početkom i krajem."
+
+msgctxt "#31917"
+msgid "When enabled text scrolls automatically. When disabled manual scrolling is required. Note that most textboxes don't have a manual button."
+msgstr "Kada je omogućeno, tekst se automatski pomiče.Kada je onemogućeno, potrebno je ručno pomicanje.Imajte na umu da većina tekstualnih okvira nema ručno dugme."
+
+msgctxt "#31918"
+msgid "Projects the current playing video on the background behind the panels."
+msgstr "Projektuje video koji se trenutno reprodukuje na pozadinu iza panela."
+
+msgctxt "#31919"
+msgid "Projects the visualisation on the background behind the panels when music is played."
+msgstr "Projektuje vizualizaciju na pozadini iza panela kada se pušta muzika."
+
+msgctxt "#31920"
+msgid "Displays a widget on the Home screen with media information when music is playing."
+msgstr "Prikazuje widget na početnom ekranu sa informacijama o medijima kada svira muzika."
+
+msgctxt "#31921"
+msgid "Displays a widget on the Home screen with media information when a movie or episode is playing."
+msgstr "Prikazuje widget na početnom ekranu sa informacijama o medijima kada se igra film ili epizoda."
+
+msgctxt "#31922"
+msgid "This enables custom genre backgrounds when browsing through the videolibrary's genre node. Filenames should match the genre label. Extension must be .jpg."
+msgstr "Ovo omogućava prilagođene žanrovske pozadine prilikom pregledavanja žanrovskog čvora videoteke.Nazivi datoteka trebaju odgovarati oznaci žanra.Ekstenzija mora biti .jpg."
+
+msgctxt "#31923"
+msgid "Set a default select action to enable this item."
+msgstr "Postavite zadanu akciju odabira da biste omogućili ovu stavku."
+
+msgctxt "#31924"
+msgid "This enables custom genre backgrounds when browsing through the musiclibrary's genre node. Filenames should match the genre label. Extension must be .jpg."
+msgstr "Ovo omogućava prilagođene žanrovske pozadine pri pretraživanju žanrovskog čvora muzičke biblioteke.Nazivi datoteka trebaju odgovarati oznaci žanra.Ekstenzija mora biti .jpg."
+
+msgctxt "#31925"
+msgid "Pick one of the preset backgrounds or set your own images as the menu items background."
+msgstr "Odaberite jednu od unaprijed postavljenih pozadina ili postavite svoje slike kao pozadinu stavki menija."
+
+msgctxt "#31926"
+msgid "Select add-ons, playlists or favourites. Choose 'Custom' for any of Kodi's built-in functions. (http://kodi.wiki/?title=List_of_Built_In_Functions)"
+msgstr "Odaberite dodatke, liste za reprodukciju ili favorite.Odaberite "Prilagođeno" za bilo koju od ugrađenih funkcija Kodija.(http://kodi.wiki/?title=List_of_Built_In_Functions)"
+
+msgctxt "#31927"
+msgid "Resets all above values to their defaults."
+msgstr "Vraća sve gore navedene vrijednosti na zadane vrijednosti."
+
+msgctxt "#31928"
+msgid "Aeon Tajo main menu layout"
+msgstr "Aeon Tajo raspored glavnog menija"
+
+msgctxt "#31929"
+msgid "This setting defines how much items will be visible on the main menu. Options are 3 items or 5 items."
+msgstr "Ova postavka definira koliko će stavki biti vidljivo u glavnom meniju.Opcije su 3 stavke ili 5 stavki."
+
+msgctxt "#31930"
+msgid "Choose a widget to display on the Home screen to have easy access to content from the library."
+msgstr "Odaberite widget za prikaz na početnom ekranu kako biste imali lak pristup sadržaju iz biblioteke."
+
+msgctxt "#31931"
+msgid "Video plot preference"
+msgstr "Preference video zapleta"
+
+msgctxt "#31932"
+msgid "Show plot outline in the library views and full plot in the video information dialog or vice versa. Falls back to full plot if no outline is available."
+msgstr "Prikaži skicu grafikona u prikazima biblioteke i punu sliku u dijalogu informacija o video zapisu ili obrnuto.Vraća se na punu sliku ako nema dostupnih nacrta."
+
+msgctxt "#31933"
+msgid "Select an item to display on the left top of the main menu"
+msgstr "Odaberite stavku za prikaz na lijevom vrhu glavnog izbornika"
+
+msgctxt "#31935"
+msgid "Switch places with another menu item. Opens a dialog with a list of menu items to choose from."
+msgstr "Zamijenite mjesta pomoću druge stavke menija.Otvara dijalog sa listom stavki menija koje možete izabrati."
+
+msgctxt "#31937"
+msgid "Show the RSS feed on the bottom or top of the screen, depending on main menu position. Enabling this setting makes the submenu permanently visible."
+msgstr "Prikažite RSS feed na dnu ili na vrhu ekrana, u zavisnosti od pozicije glavnog menija.Omogućavanje ove postavke čini podmeni trajno vidljivim."
+
+msgctxt "#31938"
+msgid "Enables extra information in the TV show library, like TV show status, next / latest episode, etc. Depends on TV Show Next Aired add-on."
+msgstr "Omogućava dodatne informacije u biblioteci TV emisija, kao što su status TV emisije, sljedeća/najnovija epizoda, itd. Zavisi od dodatka TV emisije Next Aired."
+
+msgctxt "#31939"
+msgid "Hide Infopanel on scrolling"
+msgstr "Sakrijte infopanel pri pomicanju"
+
+msgctxt "#31940"
+msgid "Hides the infopanel for Showcase and Landscape view (if activated) while scrolling through the library. Set the amount of seconds to wait for the infopanel to appear when scrolling is stopped."
+msgstr "Sakriva tablu sa informacijama za prikaz izložbe i pejzaž (ako je aktiviran) dok se krećete kroz biblioteku.Podesite količinu u sekundi za čekanje da se infopanel pojavi kada se pomeranje zaustavi."
+
+msgctxt "#31941"
+msgid "Kiosk mode"
+msgstr "Način rada kioska"
+
+msgctxt "#31942"
+msgid "Disables the slide out menu (media menu) in the library as well as certain buttons in the media information dialogs. (Requires restart to take effect)"
+msgstr "Onemogućuje izvlačenje menija (meni medija) u biblioteci, kao i određena dugmad u dijalozima informacija o medijima.(Zahtijeva ponovno pokretanje da stupi na snagu)"
+
+msgctxt "#31943"
+msgid "Watched status indicator"
+msgstr "Indikator statusa gledanja"
+
+msgctxt "#31944"
+msgid "Choose which overlays to show on thumbs in icon based views. Note that the \"Resume\" flag takes precedent over any watched status."
+msgstr "Izaberi koje preklope da prikažeš na sličicama u prikazima zasnovanim na ikonama. Napomena: \"Nastavi\" zastavica ima prednost nad bilo kojim statusom gledanja."
+
+msgctxt "#31945"
+msgid "This toggles the layout of the List view. Default is a 7 item layout with extended info, \"Slim List\" is a 14 item, more basic layout"
+msgstr "Ovo mijenja raspored prikaza Liste. Podrazumevano je raspored od 7 stavki sa proširenim informacijama, \"Tanka lista\" je raspored od 14 stavki, osnovniji"
+
+msgctxt "#31950"
+msgid "WEATHER"
+msgstr "VRIJEME"
+
+msgctxt "#31951"
+msgid "PICTURES"
+msgstr "SLIKE"
+
+msgctxt "#31952"
+msgid "LIVE TV"
+msgstr "LIVE TV"
+
+msgctxt "#31953"
+msgid "VIDEOS"
+msgstr "VIDEOS"
+
+msgctxt "#31954"
+msgid "MOVIES"
+msgstr "FILMOVI"
+
+msgctxt "#31955"
+msgid "TV SHOWS"
+msgstr "TV SHOWS"
+
+msgctxt "#31956"
+msgid "MUSIC"
+msgstr "MUZIKA"
+
+msgctxt "#31957"
+msgid "APPS"
+msgstr "APPS"
+
+msgctxt "#31958"
+msgid "PLAY DISC"
+msgstr "PLAY DISC"
+
+msgctxt "#31959"
+msgid "SYSTEM"
+msgstr "SISTEM"
+
+msgctxt "#31960"
+msgid "CONCERTS"
+msgstr "KONCERTI"
+
+msgctxt "#31961"
+msgid "Hide ratings in list views"
+msgstr "Sakrij ocjene u prikazima liste"
+
+msgctxt "#31962"
+msgid "This toggles the visibility of ratings in views of type List, LowList and TriPanel, except if sorted by rating."
+msgstr "Ovim se mijenja vidljivost ocjena u prikazima tipa Lista, LowList i TriPanel, osim ako su sortirane po ocjeni."
+
+msgctxt "#31964"
+msgid "NoTo"
+msgstr "NoTo"
+
+msgctxt "#31965"
+msgid "Setup main menu"
+msgstr "Glavni meni podešavanja"
+
+msgctxt "#31966"
+msgid "Customize the main menu with widgets, backgrounds, submenus and statistics. Add your own custom main menu items."
+msgstr "Prilagodite glavni meni sa widgetima, pozadinama, podmenijima i statistikom.Dodajte svoje vlastite prilagođene stavke glavnog menija."
+
+msgctxt "#31967"
+msgid "Skin addons"
+msgstr "Dodaci za kožu"
+
+msgctxt "#31968"
+msgid "Addons used to enhance Aeon Tajo."
+msgstr "Dodaci koji se koriste za poboljšanje Aeon Tajoa."
+
+msgctxt "#31969"
+msgid "Skin options"
+msgstr "Opcije kože"
+
+msgctxt "#31970"
+msgid "Setup of melodies, the way of showing widgets, themes and cast for movies/TV shows and other options."
+msgstr "Podešavanje melodija, način prikazivanja widgeta, tema i cast za filmove/TV emisije i druge opcije."
+
+msgctxt "#31971"
+msgid "Colour of selected items"
+msgstr "Boja odabranih artikala"
+
+msgctxt "#31972"
+msgid "Youtube"
+msgstr "Youtube"
+
+msgctxt "#31973"
+msgid "Down for more"
+msgstr "Dolje za više"
+
+msgctxt "#31974"
+msgid "More movies featuring"
+msgstr "Više filmova koji uključuju"
+
+msgctxt "#31975"
+msgid "More TV shows featuring"
+msgstr "Više TV emisija s"
+
+msgctxt "#31976"
+msgid "Image gallery"
+msgstr "Galerija slika"
+
+msgctxt "#31977"
+msgid "Years old"
+msgstr "Godinama star"
+
+msgctxt "#31978"
+msgid "Click for more"
+msgstr "Kliknite za više"
+
+msgctxt "#31979"
+msgid "Left for more"
+msgstr "Ostavljeno za više"
+
+msgctxt "#31980"
+msgid "Right for more"
+msgstr "Pravo za više"
+
+msgctxt "#31981"
+msgid "Premiered"
+msgstr "Premijerno"
+
+msgctxt "#31982"
+msgid "Budget"
+msgstr "Budžet"
+
+msgctxt "#31983"
+msgid "Revenue"
+msgstr "Prihod"
+
+msgctxt "#31984"
+msgid "Awards"
+msgstr "Nagrade"
+
+msgctxt "#31985"
+msgid "Trending Movies"
+msgstr "Filmovi u trendu"
+
+msgctxt "#31986"
+msgid "Upcoming Movies"
+msgstr "Nadolazeći filmovi"
+
+msgctxt "#31987"
+msgid "Now Playing Movies"
+msgstr "Sada se reproduciraju filmovi"
+
+msgctxt "#31988"
+msgid "Top Rated Movies"
+msgstr "Najbolje ocijenjeni filmovi"
+
+msgctxt "#31989"
+msgid "Popular Movies"
+msgstr "Popular Filmovi"
+
+msgctxt "#31990"
+msgid "Discover Movies"
+msgstr "Otkrijte filmove"
+
+msgctxt "#31991"
+msgid "Trending Shows"
+msgstr "Trending Shows"
+
+msgctxt "#31992"
+msgid "Top Rated Shows"
+msgstr "Najbolje ocijenjene emisije"
+
+msgctxt "#31993"
+msgid "Popular Shows"
+msgstr "Popularne emisije"
+
+msgctxt "#31994"
+msgid "Discover Shows"
+msgstr "Otkrijte emisije"
+
+msgctxt "#31995"
+msgid "3D view"
+msgstr "3D prikaz"
+
+msgctxt "#31996"
+msgid "Extended view"
+msgstr "Prošireni pogled"
+
+msgctxt "#31997"
+msgid "Simple view"
+msgstr "Jednostavan pogled"
+
+msgctxt "#31998"
+msgid "Classic lyrics"
+msgstr "Classic lyrics"
+
+msgctxt "#31999"
+msgid "Screensaver Netflix style in media views"
+msgstr "Screensaver Netflix stil u prikazima medija"
+
+msgctxt "#31245"
+msgid "When in idle state for two minutes within a media view, a fullscreen slideshow of movies, TV shows, or artists' fanarts will be displayed, according to the section being browsed."
+msgstr "Kada je u stanju mirovanja dva minuta u prikazu medija, prikazat će se projekcija slajdova na cijelom ekranu filmova, TV emisija ili fanarta umjetnika, u skladu s odjeljkom koji se pregledava."
+
+msgctxt "#31246"
+msgid "Play automatically trailers in video views"
+msgstr "Automatski reprodukuj trejlere u prikazima videa"
+
+msgctxt "#31247"
+msgid "When you browse the video views and pause on a movie or TV show for a few seconds, the trailer automatically plays in a window."
+msgstr "Kada pregledate video snimke i pauzirate film ili TV emisiju na nekoliko sekundi, trejler se automatski reproducira u prozoru."
+
+msgctxt "#31248"
+msgid "All devices"
+msgstr "Svi uređaji"
+
+msgctxt "#31249"
+msgid "Powerful devices"
+msgstr "Moćni uređaji"
+
+msgctxt "#31255"
+msgid "Most powerful devices"
+msgstr "Najmoćniji uređaji"
+
+msgctxt "#31256"
+msgid "Delay 5 seconds"
+msgstr "Odgoda 5 sekundi"
+
+msgctxt "#31257"
+msgid "Delay 12 seconds"
+msgstr "Kašnjenje 12 sekundi"
+
+msgctxt "#31258"
+msgid "Info view 2"
+msgstr "Info prikaz 2"
+
+msgctxt "#31259"
+msgid "Info view 1"
+msgstr "Info prikaz 1"
+
+msgctxt "#31260"
+msgid "Play automatically songs while browsing music"
+msgstr "Automatski reprodukujte pesme dok pretražujete muziku"
+
+msgctxt "#31261"
+msgid "Enable automatic playback of songs from the current artist or album as background music while browsing music views."
+msgstr "Omogućite automatsku reprodukciju pjesama trenutnog izvođača ili albuma kao pozadinske muzike dok pretražujete muzičke prikaze."
+
+msgctxt "#31262"
+msgid "Set path to use another melodies music folder"
+msgstr "Postavite putanju za korištenje druge muzičke fascikle melodija"
+
+msgctxt "#31263"
+msgid "Clear current path and back to default melodies music folder"
+msgstr "Obrišite trenutnu putanju i vratite se u podrazumevani muzički folder melodija"
+
+msgctxt "#31264"
+msgid "Play melodies while in Home & Settings screens"
+msgstr "Pustite melodije dok ste na početnom ekranu i ekranima postavki"
+
+msgctxt "#31265"
+msgid "Show only background"
+msgstr "Prikaži samo pozadinu"
+
+msgctxt "#31266"
+msgid "TheMovieDb Helper provides data to display online ratings and additional information for movies and TV shows"
+msgstr "TheMovieDb Helper pruža podatke za prikaz online ocjena i dodatne informacije za filmove i TV emisije"
+
+msgctxt "#31267"
+msgid "Show online ratings for movies and TV shows"
+msgstr "Prikaži online ocjene za filmove i TV emisije"
+
+msgctxt "#31268"
+msgid "You have to restart Kodi for this option to take effect once the option has been activated. TMDb and Trakt should work out of the box. Metacritic and Rottentomatoes ratings require an OMDb API key. Get an OMDb API Key at http://www.omdbapi.com/apikey.aspx and afterward input the OMDb API Key into the TheMovieDb Helper settings."
+msgstr "Morate ponovo pokrenuti Kodi da bi ova opcija stupila na snagu nakon što je opcija aktivirana.TMDb i Trakt bi trebali raditi bez upotrebe.Metacritic i Rottentomatoes ocjene zahtijevaju OMDb API ključ.Nabavite OMDb API ključ na http://www.omdbapi.com/apikey.aspx i nakon toga unesite OMDb API ključ u postavke TheMovieDb Helper."
+
+msgctxt "#31269"
+msgid "Resource image addon for displaying coloured studio icons throughout the skin."
+msgstr "Dodatak za slike resursa za prikazivanje ikona studija u boji po cijeloj koži."
+
+msgctxt "#31270"
+msgid "Show colour icons for audio/video information"
+msgstr "Prikaži ikone u boji za audio/video informacije"
+
+msgctxt "#31271"
+msgid "Show extra features for movies and TV shows"
+msgstr "Prikaži dodatne funkcije za filmove i TV emisije"
+
+msgctxt "#31272"
+msgid "Display the additional features (media files) placed by the user in the 'extras' folder for a movie or TV show. Remember to modify your advancedsettings.xml file if needed."
+msgstr "Prikažite dodatne funkcije (medijske datoteke) koje je korisnik postavio u folder 'extras' za film ili TV emisiju.Ne zaboravite izmijeniti datoteku advancedsettings.xml ako je potrebno."
+
+msgctxt "#31273"
+msgid "Show extras"
+msgstr "Prikaži dodatke"
+
+msgctxt "#31274"
+msgid "Enable shifting colours effect in the default Aeon Tajo's background"
+msgstr "Omogućite efekat pomeranja boja u podrazumevanoj pozadini Aeon Tajoa"
+
+msgctxt "#31275"
+msgid "Activate a shifting colours effect in the default Aeon Tajo's background (only in the Home screen)."
+msgstr "Aktivirajte efekat promjene boja u zadanoj pozadini Aeon Tajoa (samo na početnom ekranu)."
+
+msgctxt "#31276"
+msgid "Name of user's additional features folder (if different to 'extras')"
+msgstr "Naziv foldera s dodatnim funkcijama korisnika (ako se razlikuje od 'extras')"
+
+msgctxt "#31277"
+msgid "Select image to show as background instead of default"
+msgstr "Odaberite sliku za prikaz kao pozadinu umjesto zadane"
+
+msgctxt "#31278"
+msgid "Browse for image"
+msgstr "Potražite sliku"
+
+msgctxt "#31279"
+msgid "Play music videos"
+msgstr "Reprodukuj muzičke videozapise"
+
+msgctxt "#31280"
+msgid "Play local albums"
+msgstr "Reprodukuj lokalne albume"
+
+msgctxt "#31281"
+msgid "Play songs"
+msgstr "Reprodukuj pjesme"
+
+msgctxt "#31282"
+msgid "Blurred album image as background"
+msgstr "Zamućena slika albuma kao pozadina"
+
+msgctxt "#31283"
+msgid "Browse for path"
+msgstr "Potražite putanju"
+
+msgctxt "#31284"
+msgid "Show extra features for music albums"
+msgstr "Prikaži dodatne funkcije za muzičke albume"
+
+msgctxt "#31285"
+msgid "Display the additional features (media files) placed by the user in the 'extras' folder for a music album. Remember to modify your advancedsettings.xml file if needed."
+msgstr "Prikažite dodatne funkcije (medijske datoteke) koje je korisnik postavio u folder 'extras' za muzički album.Ne zaboravite izmijeniti datoteku advancedsettings.xml ako je potrebno."
+
+msgctxt "#31286"
+msgid "When you browse the video views and pause on a movie or TV show for a few seconds, the main theme automatically plays in the background. This feature requires the user to place an mp3 file with the theme in the root folder of the movie or TV show. This file must be named theme.mp3."
+msgstr "Kada pretražujete video snimke i pauzirate film ili TV emisiju na nekoliko sekundi, glavna tema se automatski reproducira u pozadini.Ova funkcija zahtijeva od korisnika da postavi mp3 datoteku sa temom u korijenski folder filma ili TV emisije.Ovaj fajl mora biti nazvan theme.mp3."
+
+msgctxt "#31287"
+msgid "Shows the normal poster (poster.jpg) in movies and TV shows views."
+msgstr "Prikazuje normalan poster (poster.jpg) u filmovima i TV emisijama."
+
+msgctxt "#31288"
+msgid "Shows the animated poster (animatedposter.gif) in movies and TV shows views."
+msgstr "Prikazuje animirani poster (animatedposter.gif) u prikazima filmova i TV emisija."
+
+msgctxt "#31289"
+msgid "Shows the available extra posters (poster1.jpg, poster2.jpg, poster3.jpg...) in movies and TV shows views."
+msgstr "Prikazuje dostupne dodatne postere (poster1.jpg, poster2.jpg, poster3.jpg...) u prikazima filmova i TV emisija."
+
+msgctxt "#31290"
+msgid "Thanks for using Aeon Tajo—I really hope you’re enjoying it. Creating and maintaining a Kodi skin like this takes hundreds of hours of work. If Aeon Tajo is something you enjoy and find useful, supporting it helps me keep working on it and ensures it can continue evolving in the future. [CR][CR]If you decide to do so, you’ll receive frequent updates with new features and bug fixes, along with videos, media packs, and easy-to-follow articles with detailed tips to help you get the most out of everything Aeon Tajo has to offer, together with my sincere gratitude for your support. [CR][CR]For more information, visit [B][COLOR=themecolor]patreon.com[/B][/COLOR] and search for the creator [COLOR=themecolor][B]Aeon Tajo[/B][/COLOR], or go to [COLOR=themecolor][B]patreon.com/aeontajo[/B][/COLOR].[CR][CR]Thanks!"
+msgstr "Hvala što koristite Aeon Tajo — iskreno se nadam da vam se sviđa! Kreiranje i održavanje Kodi skina kao ovog zahtijeva stotine sati rada. Ako vam Aeon Tajo pruža zadovoljstvo i korisnim ga smatrate, vaša podrška mi pomaže da nastavim raditi na njemu. [CR][CR]Ako odlučite to učiniti, primit ćete česta ažuriranja s novim funkcijama i ispravcima grešaka, zajedno s videozapisima, medijskim paketima i detaljnim člancima s savjetima. [CR][CR]Za više informacija posjetite [B][COLOR=themecolor]patreon.com[/B][/COLOR] i potražite tvorca [COLOR=themecolor][B]Aeon Tajo[/B][/COLOR] ili idite na [COLOR=themecolor][B]patreon.com/aeontajo[/B][/COLOR].[CR][CR]Hvala!"
+
+msgctxt "#31291"
+msgid "Blurred album image as background in music visualisation screen"
+msgstr "Zamućena slika albuma kao pozadina na ekranu za vizuelizaciju muzike"
+
+msgctxt "#31292"
+msgid "Hide watched mark in video views"
+msgstr "Sakrij oznaku gledanja u pregledima videa"
+
+msgctxt "#31293"
+msgid "Disclaimer: Aeon Tajo does not provide any media content or sources. Users must provide their own content. Support will not be provided for any 'builds' nor online addons that offer copyrighted content."
+msgstr "Odricanje od odgovornosti: Aeon Tajo ne pruža nikakav medijski sadržaj ili izvore.Korisnici moraju dati svoj vlastiti sadržaj.Podrška neće biti pružena za bilo kakve 'gradnje' niti online dodatke koji nude sadržaj zaštićen autorskim pravima."
+
+msgctxt "#31294"
+msgid "Change to "
+msgstr "Promijenite u"
+
+msgctxt "#31295"
+msgid "Remember that you should adapt your advancedsetting.xml file to reflect this change, so as to prevent your extras content to be added inadvertently to the Kodi library."
+msgstr "Zapamtite da biste trebali prilagoditi svoju datoteku advancedsetting.xml tako da odražava ovu promjenu, kako biste spriječili da se vaš dodatni sadržaj nenamjerno doda u Kodi biblioteku."
+
+msgctxt "#31296"
+msgid "Filmstrip"
+msgstr "Filmstrip"
+
+msgctxt "#31297"
+msgid "Select + Right Stick"
+msgstr "Odaberite + Desni štap"
+
+msgctxt "#31298"
+msgid "Vertical Home menu"
+msgstr "Vertikalni početni meni"
+
+msgctxt "#31299"
+msgid "Eject disc"
+msgstr "Izbaci disk"
+
+msgctxt "#31302"
+msgid "Play with PreShow"
+msgstr "Igrajte se s PreShowom"
+
+msgctxt "#31303"
+msgid "Highlighted text colour"
+msgstr "Boja istaknutog teksta"
+
+msgctxt "#31304"
+msgid "Marks colour"
+msgstr "Boja oznaka"
+
+msgctxt "#31305"
+msgid "Current"
+msgstr "Current"
+
+msgctxt "#31306"
+msgid "Selected"
+msgstr "Odabrano"
+
+msgctxt "#31311"
+msgid "Watched mark shape"
+msgstr "Posmatrao oblik oznake"
+
+msgctxt "#31312"
+msgid "Sliding background fanarts"
+msgstr "Klizna pozadina fanarts"
+
+msgctxt "#31313"
+msgid "Kodi add-ons settings"
+msgstr "Postavke Kodi dodataka"
+
+msgctxt "#31314"
+msgid "Install and update add-ons"
+msgstr "Instalirajte i ažurirajte dodatke"
+
+msgctxt "#31315"
+msgid "Download add-ons"
+msgstr "Preuzmite dodatke"
+
+msgctxt "#31316"
+msgid "Show Browser"
+msgstr "Prikaži pretraživač"
+
+msgctxt "#31318"
+msgid "Hide Browser"
+msgstr "Sakrij pretraživač"
+
+msgctxt "#31319"
+msgid "Narrow view"
+msgstr "Uski pogled"
+
+msgctxt "#31322"
+msgid "Wide view"
+msgstr "Široki pogled"
+
+msgctxt "#31323"
+msgid "Actors in other movies and TV shows"
+msgstr "Glumci u drugim filmovima i TV emisijama"
+
+msgctxt "#31324"
+msgid "Show similar movies/TV shows and artists/albums"
+msgstr "Prikažite slične filmove/TV emisije i izvođače/albume"
+
+msgctxt "#31325"
+msgid "Opens a new window in some video/music views showing other movies/TV shows or artists/albums similar or related to the current item."
+msgstr "Otvara novi prozor u nekim prikazima videa/muzike koji prikazuje druge filmove/TV emisije ili izvođače/albume koji su slični ili povezani sa trenutnom stavkom."
+
+msgctxt "#31326"
+msgid "Show similar"
+msgstr "Prikaži slično"
+
+msgctxt "#31327"
+msgid "Classic"
+msgstr "Classic"
+
+msgctxt "#31329"
+msgid "Similar albums"
+msgstr "Slični albumi"
+
+msgctxt "#31330"
+msgid "No similar found"
+msgstr "Slično nije pronađeno"
+
+msgctxt "#31333"
+msgid "Wikipedia"
+msgstr "Wikipedia"
+
+msgctxt "#31337"
+msgid "Click to select and open article's links"
+msgstr "Kliknite da odaberete i otvorite veze do članaka"
+
+msgctxt "#31338"
+msgid "Click to search..."
+msgstr "Kliknite za pretragu..."
+
+msgctxt "#31339"
+msgid "Add/update music video links"
+msgstr "Dodaj/ažuriraj veze muzičkih videozapisa"
+
+msgctxt "#31340"
+msgid "[B]CONFIGURE GAME SETTINGS[/B][CR][CR]Change gameplay options[CR]Keyboard settings · Configure rewind settings"
+msgstr "[B]KONFIGURIRAJ POSTAVKE IGRE[/B][CR][CR]Promijeni opcije igranja[CR]Postavke tastature · Konfiguriraj postavke premotavanja"
+
+msgctxt "#31341"
+msgid "Narrow list"
+msgstr "Uska lista"
+
+msgctxt "#31342"
+msgid "Wide list"
+msgstr "Široka lista"
+
+msgctxt "#31343"
+msgid "Update videolinks"
+msgstr "Ažurirajte video linkove"
+
+msgctxt "#31344"
+msgid "Play all music videos"
+msgstr "Pustite sve muzičke video zapise"
+
+msgctxt "#31345"
+msgid "No bookmarks created yet"
+msgstr "Još nema kreiranih oznaka"
+
+msgctxt "#31346"
+msgid "Choose where to start"
+msgstr "Odaberite odakle početi"
+
+msgctxt "#31347"
+msgid "Browse the list and click"
+msgstr "Pregledajte listu i kliknite"
+
+msgctxt "#31348"
+msgid "Show OSD controls"
+msgstr "Prikaži OSD kontrole"
+
+msgctxt "#31349"
+msgid "Preparing list of music videos, please wait..."
+msgstr "Priprema liste muzičkih spotova, sačekajte..."
+
+msgctxt "#31350"
+msgid "Songs party mode"
+msgstr "Pjesme način zabave"
+
+msgctxt "#31351"
+msgid "Videolinks party mode"
+msgstr "Videolinks način zabave"
+
+msgctxt "#31352"
+msgid "No videolinks found"
+msgstr "Nisu pronađene video veze"
+
+msgctxt "#31353"
+msgid "Click or arrow keys while playing to show the OSD"
+msgstr "Pritisnite ili tastere sa strelicama tokom reprodukcije da biste prikazali OSD"
+
+msgctxt "#31354"
+msgid "While playing..."
+msgstr "Dok igrate..."
+
+msgctxt "#31355"
+msgid "Click or arrow keys to show the OSD"
+msgstr "Kliknite ili tipke sa strelicama da biste prikazali OSD"
+
+msgctxt "#31356"
+msgid "Shows the normal thumb (folder.jpg) in artists and albums music views."
+msgstr "Prikazuje normalan palac (folder.jpg) u prikazima muzike izvođača i albuma."
+
+msgctxt "#31357"
+msgid "Shows the animated thumb (animatedthumb.gif) in artists and albums music views."
+msgstr "Prikazuje animirani palac (animatedthumb.gif) u muzičkim prikazima izvođača i albuma."
+
+msgctxt "#31358"
+msgid "Show a colour strip code on video elements"
+msgstr "Prikažite kod trake u boji na video elementima"
+
+msgctxt "#31359"
+msgid "Allows to quickly identify video file quality using a colour strip code when browsing movies and episodes in video views"
+msgstr "Omogućava brzo prepoznavanje kvaliteta video datoteke pomoću koda trake u boji prilikom pregledavanja filmova i epizoda u prikazima videozapisa"
+
+msgctxt "#31360"
+msgid "Library using Global Search"
+msgstr "Biblioteka koristeći Globalnu pretragu"
+
+msgctxt "#31361"
+msgid "TheMovieDB"
+msgstr "TheMovieDB"
+
+msgctxt "#31362"
+msgid "Most Voted Movies"
+msgstr "Najglasani filmovi"
+
+msgctxt "#31363"
+msgid "Crew"
+msgstr "Posada"
+
+msgctxt "#31364"
+msgid "Most Voted Shows"
+msgstr "Najglasnije emisije"
+
+msgctxt "#31365"
+msgid "Random Shows"
+msgstr "Random Shows"
+
+msgctxt "#31366"
+msgid "Random Artists"
+msgstr "Random Artists"
+
+msgctxt "#31367"
+msgid "Online info from TheMovieDB.org for videos"
+msgstr "Online informacije sa TheMovieDB.org za video zapise"
+
+msgctxt "#31368"
+msgid "Get online info from TheMovieDB.org in movie and TVshow's info screen and widgets"
+msgstr "Dobijte informacije na mreži sa TheMovieDB.org na informativnom ekranu i widgetima filmova i TV emisija"
+
+msgctxt "#31369"
+msgid "Snow effect - Off"
+msgstr "Efekat snega - Isključeno"
+
+msgctxt "#31370"
+msgid "Snow effect - Light"
+msgstr "Efekat snega - Svetlost"
+
+msgctxt "#31371"
+msgid "Snow effect - Medium"
+msgstr "Efekat snega - Srednji"
+
+msgctxt "#31372"
+msgid "Snow effect - Heavy"
+msgstr "Efekat snijega - Teški"
+
+msgctxt "#31373"
+msgid "Snow effect - Blizzard"
+msgstr "Efekat snega - mećava"
+
+msgctxt "#31374"
+msgid "Click or arrow keys to exit"
+msgstr "Kliknite ili tipke sa strelicama za izlaz"
+
+msgctxt "#31375"
+msgid "Rewind"
+msgstr "Premotaj unazad"
+
+msgctxt "#31376"
+msgid "Fast forward"
+msgstr "Brzo naprijed"
+
+msgctxt "#31377"
+msgid "Step back"
+msgstr "Odmakni se"
+
+msgctxt "#31378"
+msgid "Step forward"
+msgstr "Korak naprijed"
+
+msgctxt "#31379"
+msgid "Previous chapter"
+msgstr "Prethodno poglavlje"
+
+msgctxt "#31380"
+msgid "Next chapter"
+msgstr "Sledeće poglavlje"
+
+msgctxt "#31381"
+msgid "Previous channel"
+msgstr "Prethodni kanal"
+
+msgctxt "#31382"
+msgid "Next channel"
+msgstr "Sljedeći kanal"
+
+msgctxt "#31383"
+msgid "Show lyrics"
+msgstr "Prikaži tekstove"
+
+msgctxt "#31384"
+msgid "Hide lyrics"
+msgstr "Sakrij tekstove"
+
+msgctxt "#31385"
+msgid "Adjust lyrics"
+msgstr "Prilagodite tekstove"
+
+msgctxt "#31386"
+msgid "Hide resumable mark in video views"
+msgstr "Sakrij oznaku nastavka u prikazima videa"
+
+msgctxt "#31387"
+msgid "Hide unwatched mark in video views"
+msgstr "Sakrij oznaku nepogledanog u prikazima videa"
+
+msgctxt "#31388"
+msgid "Hide episodes unwatched mark in video views"
+msgstr "Sakrij oznaku nepogledanih epizoda u prikazima videa"
+
+msgctxt "#31389"
+msgid "Same director"
+msgstr "Isti redatelj"
+
+msgctxt "#31391"
+msgid "'Down' to show similars"
+msgstr "'Dolje' za prikaz sličnih"
+
+msgctxt "#31392"
+msgid "'Right' to show similars"
+msgstr "'Desno' za prikaz sličnih"
+
+msgctxt "#31393"
+msgid "Show logos"
+msgstr "Prikaži logotipe"
+
+msgctxt "#31394"
+msgid "Show only titles"
+msgstr "Prikaži samo naslove"
+
+msgctxt "#31395"
+msgid "Play automatically video links in song views"
+msgstr "Automatski reprodukuj video veze u prikazima pjesama"
+
+msgctxt "#31396"
+msgid "When you browse song views and stop for a few seconds, the video link for that song will play automatically (if available)."
+msgstr "Kada pregledavate prikaze pjesama i zaustavite se nekoliko sekundi, video veza za tu pjesmu će se automatski reproducirati (ako je dostupna)."
+
+msgctxt "#31397"
+msgid "User reviews"
+msgstr "Recenzije korisnika"
+
+msgctxt "#31398"
+msgid "Horizontal Home menu"
+msgstr "Horizontalni glavni izbornik"
+
+msgctxt "#31399"
+msgid "Simple Home menu"
+msgstr "Pojednostavljeni glavni izbornik"
+
+msgctxt "#31403"
+msgid "Widget type"
+msgstr "Vrsta widgeta"
+
+msgctxt "#31404"
+msgid "Small widgets..."
+msgstr "Mali widgeti..."
+
+msgctxt "#31408"
+msgid "Fullscreen widgets..."
+msgstr "Widgeti na cijelom ekranu..."
+
+msgctxt "#31411"
+msgid "Force view..."
+msgstr "Prisili prikaz..."
+
+msgctxt "#31416"
+msgid "A view can't be disabled when is selected as \"forced\" for some media."
+msgstr "Prikaz ne može biti onemogućen kada je izabran kao \"prisilni\" za neke medije."
+
+msgctxt "#31417"
+msgid "Only views that are not marked as disabled can be forced."
+msgstr "Samo prikazi koji nisu označeni kao onemogućeni mogu biti prisilni."
+
+msgctxt "#31418"
+msgid "Don't force views"
+msgstr "Ne prisili prikaze"
+
+msgctxt "#31419"
+msgid "Forced view"
+msgstr "Prisilni prikaz"
+
+msgctxt "#31420"
+msgid "Enable or disable views"
+msgstr "Omogući ili onemogući prikaze"
+
+msgctxt "#31422"
+msgid "No embedded subs"
+msgstr "Bez ugrađenih titlova"
+
+msgctxt "#31423"
+msgid "Auto-open audio/subtitle selector at video start"
+msgstr "Automatski otvori birač zvuka/titlova pri pokretanju videa"
+
+msgctxt "#31424"
+msgid "Automatically opens an audio and subtitle selector when starting playback of movies and episodes, allowing you to see which tracks are active and change them directly before continuing."
+msgstr "Automatski otvara birač zvuka i titlova pri pokretanju reprodukcije filmova i epizoda, omogućavajući vam da vidite koji su zapisi aktivni i promijenite ih izravno prije nastavka."
+
+msgctxt "#31425"
+msgid "Search music video links for songs not in your library"
+msgstr "Traži veze muzičkih videozapisa za pjesme koje nisu u vašoj biblioteci"
+
+msgctxt "#31426"
+msgid "Similar artists on your library"
+msgstr "Slični izvođači u vašoj biblioteci"
+
+msgctxt "#31435"
+msgid "Albums by this artist in your library"
+msgstr "Albumi ovog izvođača u vašoj biblioteci"
+
+msgctxt "#31436"
+msgid "Online info from TheAudioDB.com for music"
+msgstr "Online informacije s TheAudioDB.com za muziku"
+
+msgctxt "#31437"
+msgid "Get online information from TheAudioDB.com on the artist and album information screen"
+msgstr "Preuzmi online informacije s TheAudioDB.com na ekranu s informacijama o izvođaču i albumu"
+
+msgctxt "#31438"
+msgid "TheAudioDb Helper supplies online data and artwork to display enhanced details for artists and music albums."
+msgstr "TheAudioDb Helper pruža online podatke i slike za prikaz proširenih detalja o izvođačima i muzičkim albumima."
+
+msgctxt "#31439"
+msgid "Record label"
+msgstr "Diskografska kuća"
+
+msgctxt "#31440"
+msgid "Last.fm Plays"
+msgstr "Reprodukcije na Last.fm"

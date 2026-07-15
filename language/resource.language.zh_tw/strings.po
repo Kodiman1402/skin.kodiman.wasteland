@@ -1,0 +1,2224 @@
+# Kodi Media Center language file
+# Addon Name: Aeon Tajo
+# Addon id: skin.aeon.tajo
+# Addon Provider: manfeed
+msgid ""
+msgstr ""
+"Project-Id-Version: KODI Skins\n"
+"POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2026-03-28 23:42+0000\n"
+"Last-Translator: manfeed <aeon.tajo@gmail.com>\n"
+"Language-Team: Chinese (Taiwan)  <aeon.tajo@gmail.com>\n"
+"Language: zh_tw\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+msgctxt "Addon Summary"
+msgid "Aeon Tajo"
+msgstr ""
+
+msgctxt "Addon Description"
+msgid "Aeon Tajo: Changes everything so that nothing changes. Inspired on Aeon Nox 5 (thanks to BigNoid)."
+msgstr "Aeon Tajo：改变一切，让一切都没有改变。灵感来自 Aeon Nox 5（感谢 BigNoid）。"
+
+msgctxt "Addon Disclaimer"
+msgid "Mouse control is supported, althoug not recommended. It may not work correctly in all cases."
+msgstr "支持鼠标控制，但不推荐。它可能无法在所有情况下正常工作。"
+
+msgctxt "#31000"
+msgid "Directed by"
+msgstr "導演"
+
+msgctxt "#31001"
+msgid "Written by"
+msgstr "編劇"
+
+msgctxt "#31002"
+msgid "Blurred album thumb"
+msgstr "模糊化專輯封面縮圖"
+
+msgctxt "#31003"
+msgid "Power Options"
+msgstr "電源選項"
+
+msgctxt "#31004"
+msgid "Working"
+msgstr "正在處理"
+
+msgctxt "#31005"
+msgid "Fixed"
+msgstr "固定"
+
+msgctxt "#31006"
+msgid "View Options"
+msgstr "檢視選項"
+
+msgctxt "#31007"
+msgid "Setup home"
+msgstr "設定首頁"
+
+msgctxt "#31008"
+msgid "Full screen"
+msgstr "全螢幕"
+
+msgctxt "#31009"
+msgid "Total Duration"
+msgstr "總計時間"
+
+msgctxt "#31010"
+msgid "Next episode"
+msgstr "下一集"
+
+msgctxt "#31011"
+msgid "Latest episode"
+msgstr "最近一集"
+
+msgctxt "#31012"
+msgid "Airs"
+msgstr "播映"
+
+msgctxt "#31013"
+msgid "Statistics"
+msgstr "統計"
+
+msgctxt "#31014"
+msgid "Extras"
+msgstr "額外資訊"
+
+msgctxt "#31015"
+msgid "Set path to video genre fanart folder"
+msgstr "設定音樂資料庫的路徑 (extrafanart和clearLOGO 所需要的)"
+
+msgctxt "#31016"
+msgid "Poster"
+msgstr "海報"
+
+msgctxt "#31017"
+msgid "Set path to music genre fanart folder"
+msgstr "設定音樂資料庫的路徑 (extrafanart和clearLOGO 所需要的)"
+
+msgctxt "#31018"
+msgid "InfoPanel"
+msgstr "資訊面板"
+
+msgctxt "#31019"
+msgid "Network"
+msgstr "網路"
+
+msgctxt "#31020"
+msgid "Extra-fanart"
+msgstr "額外的－專輯資訊"
+
+msgctxt "#31021"
+msgid "Stage curtains"
+msgstr "舞台布幕"
+
+msgctxt "#31022"
+msgid "Set multi-image background"
+msgstr "設定多重背景圖片"
+
+msgctxt "#31023"
+msgid "Set single image background"
+msgstr "設定單一圖片背景"
+
+msgctxt "#31024"
+msgid "Page"
+msgstr "頁"
+
+msgctxt "#31025"
+msgid "Items"
+msgstr "個項目"
+
+msgctxt "#31026"
+msgid "Misc Options"
+msgstr "其他選項"
+
+msgctxt "#31027"
+msgid "Set item background"
+msgstr "設定項目背景"
+
+msgctxt "#31028"
+msgid "Live DVD Cases"
+msgstr "現場 DVD 盒"
+
+msgctxt "#31029"
+msgid "Recent Movies"
+msgstr "最近的電影"
+
+msgctxt "#31030"
+msgid "Recent Episodes"
+msgstr "最近劇集"
+
+msgctxt "#31031"
+msgid "Random Movies"
+msgstr "隨機電影"
+
+msgctxt "#31032"
+msgid "Recommended Movies"
+msgstr "推薦電影"
+
+msgctxt "#31033"
+msgid "Random Episodes"
+msgstr "隨機劇集"
+
+msgctxt "#31034"
+msgid "Recommended Episodes"
+msgstr "推薦劇集"
+
+msgctxt "#31035"
+msgid "Random Songs"
+msgstr "隨機歌曲"
+
+msgctxt "#31036"
+msgid "Random Albums"
+msgstr "隨機專輯"
+
+msgctxt "#31037"
+msgid "Recent Albums"
+msgstr "最近的專輯"
+
+msgctxt "#31038"
+msgid "Recommended Albums"
+msgstr "推薦專輯"
+
+msgctxt "#31039"
+msgid "Actions"
+msgstr "動作"
+
+msgctxt "#31040"
+msgid "Now Playing"
+msgstr "正在播放"
+
+msgctxt "#31041"
+msgid "Select widget"
+msgstr "選擇小工具"
+
+msgctxt "#31042"
+msgid "Show \"Now Playing\" information blended in the background"
+msgstr "將\"播放中\"的資訊融合在背景中"
+
+msgctxt "#31043"
+msgid "Platform"
+msgstr "平台"
+
+msgctxt "#31044"
+msgid "Views: Plot outline | Info dialog: Full plot"
+msgstr "顯示: 短簡介 | 資訊對話框: 詳細介紹"
+
+msgctxt "#31045"
+msgid "Views: Full plot | Info dialog: Plot outline"
+msgstr "顯示: 詳細介紹 | 資訊對話框: 短簡介"
+
+msgctxt "#31046"
+msgid "SEEKING"
+msgstr "查找"
+
+msgctxt "#31047"
+msgid "Set item icon"
+msgstr "設定項目圖示"
+
+msgctxt "#31048"
+msgid "Visualisation Presets"
+msgstr "視覺效果預設值"
+
+msgctxt "#31049"
+msgid "Select infoline"
+msgstr "選擇資訊文字列"
+
+msgctxt "#31050"
+msgid "Sort: Ascending"
+msgstr "排序：遞增"
+
+msgctxt "#31051"
+msgid "Sort: Descending"
+msgstr "排序：遞減"
+
+msgctxt "#31052"
+msgid "Movie library statistics"
+msgstr "電影資料庫狀態"
+
+msgctxt "#31053"
+msgid "TV Show library statistics"
+msgstr "電視影集資料庫狀態"
+
+msgctxt "#31054"
+msgid "Music library statistics"
+msgstr "音樂資料庫狀態"
+
+msgctxt "#31055"
+msgid "Open playlist"
+msgstr "開啟播放清單"
+
+msgctxt "#31056"
+msgid "Save playlist"
+msgstr "儲存播放清單"
+
+msgctxt "#31057"
+msgid "Close playlist"
+msgstr "關閉播放清單"
+
+msgctxt "#31058"
+msgid "PVR information"
+msgstr "PVR 資訊"
+
+msgctxt "#31059"
+msgid "Install Artist Slideshow add-on to enable this feature"
+msgstr "安装 Artist Slideshow 插件以启用此功能"
+
+msgctxt "#31060"
+msgid "This file is stacked, select the part you want to play from."
+msgstr "這個檔案已堆疊，請選擇您要從哪個部分開始播放。"
+
+msgctxt "#31061"
+msgid "Favourites statistics"
+msgstr "收藏夾統計"
+
+msgctxt "#31062"
+msgid "Random movie fanart"
+msgstr "隨機電影劇照"
+
+msgctxt "#31063"
+msgid "Random TV show fanart"
+msgstr "隨機電視影集劇照"
+
+msgctxt "#31064"
+msgid "Random video fanart"
+msgstr "隨機影片劇照"
+
+msgctxt "#31065"
+msgid "Random music fanart"
+msgstr "隨機音樂演出者相關圖片"
+
+msgctxt "#31066"
+msgid "Random fanart"
+msgstr "隨機的相關圖片"
+
+msgctxt "#31067"
+msgid "Update rating"
+msgstr "更新評等"
+
+msgctxt "#31068"
+msgid "CD Wall"
+msgstr "CD 封面牆"
+
+msgctxt "#31069"
+msgid "Change location"
+msgstr "變更地區"
+
+msgctxt "#31070"
+msgid "Enable Cinema Experience integration"
+msgstr "啟用影院體驗集成"
+
+msgctxt "#31071"
+msgid "While browsing the library"
+msgstr "瀏覽資料庫時"
+
+msgctxt "#31072"
+msgid "On open video info"
+msgstr "開啟影片資訊時"
+
+msgctxt "#31073"
+msgid "Move menu item"
+msgstr "移動選單項目"
+
+msgctxt "#31074"
+msgid "Choose item to swap places with"
+msgstr "選擇要互換位置的項目"
+
+msgctxt "#31075"
+msgid "No extra features available"
+msgstr "沒有額外的功能可用"
+
+msgctxt "#31076"
+msgid "Landscape"
+msgstr "橫向"
+
+msgctxt "#31077"
+msgid "ShowCase"
+msgstr "包裝盒展示"
+
+msgctxt "#31078"
+msgid "TriPanel"
+msgstr "三面板"
+
+msgctxt "#31079"
+msgid "Shift"
+msgstr "轉換"
+
+msgctxt "#31080"
+msgid "Manage submenu"
+msgstr "管理副選單"
+
+msgctxt "#31081"
+msgid "Enable custom submenus"
+msgstr "啟用自訂副選單"
+
+msgctxt "#31082"
+msgid "Detach RSS feed from the main menu"
+msgstr "將RSS訊息與主選單脫鉤"
+
+msgctxt "#31083"
+msgid "Enable Next Aired information in the videolibrary"
+msgstr "在影片資料庫中開啟即將播映之影集的資料"
+
+msgctxt "#31084"
+msgid "Conditional weather"
+msgstr "天氣情況"
+
+msgctxt "#31085"
+msgid "Musicvideo library statistics"
+msgstr "音樂影片資料庫狀態"
+
+msgctxt "#31086"
+msgid "Icon"
+msgstr "圖示"
+
+msgctxt "#31087"
+msgid "Banner"
+msgstr "旗幟"
+
+msgctxt "#31088"
+msgid "BannerWall"
+msgstr "橫幅牆"
+
+msgctxt "#31089"
+msgid "Play item on startup"
+msgstr "在啟動時播放"
+
+msgctxt "#31090"
+msgid "Seconds"
+msgstr "秒"
+
+msgctxt "#31091"
+msgid "Select items"
+msgstr "選擇項目"
+
+msgctxt "#31092"
+msgid "Fullscreen fanart"
+msgstr "全螢幕相關圖片"
+
+msgctxt "#31093"
+msgid "LowList toggle"
+msgstr "低位列表模式開關"
+
+msgctxt "#31094"
+msgid "List view layout"
+msgstr "列表式排版"
+
+msgctxt "#31095"
+msgid "Slim List"
+msgstr "精簡式列表"
+
+msgctxt "#31096"
+msgid "Concert locations"
+msgstr "演唱會地點"
+
+msgctxt "#31097"
+msgid "Movie playlist statistics"
+msgstr "電影播放列表狀態"
+
+msgctxt "#31098"
+msgid "TV Show playlist statistics"
+msgstr "電視影集播放列表狀態"
+
+msgctxt "#31099"
+msgid "Musicvideo playlist statistics"
+msgstr "音樂影片播放列表狀態"
+
+msgctxt "#31100"
+msgid "View:"
+msgstr "排版:"
+
+msgctxt "#31101"
+msgid "Choose view"
+msgstr "選擇排版"
+
+msgctxt "#31102"
+msgid "Background"
+msgstr "背景"
+
+msgctxt "#31103"
+msgid "N/A"
+msgstr "N/A"
+
+msgctxt "#31104"
+msgid "Similar artists"
+msgstr "相似的演出者"
+
+msgctxt "#31105"
+msgid "More albums from"
+msgstr "更多專輯來自"
+
+msgctxt "#31106"
+msgid "On info"
+msgstr "僅在資訊畫面中"
+
+msgctxt "#31107"
+msgid "Persistent"
+msgstr "持續顯示"
+
+msgctxt "#31108"
+msgid "Enable artist information feed (if available)"
+msgstr "啟用演出者即時資訊接收(若有資料)"
+
+msgctxt "#31109"
+msgid "Unwatched episode count"
+msgstr "尚未看過的影集數"
+
+msgctxt "#31110"
+msgid "Up next brings the option to watch right away the next episode of a TV show (Netflix/Prime video style)."
+msgstr "接下来带来了立即观看下一集电视节目的选项（Netflix/Prime 视频风格）。"
+
+msgctxt "#31111"
+msgid "Similar movies"
+msgstr "類似的電影"
+
+msgctxt "#31112"
+msgid "Movies directed by"
+msgstr "電影導演為"
+
+msgctxt "#31113"
+msgid "Movies written by"
+msgstr "電影編劇為"
+
+msgctxt "#31114"
+msgid "More movies from"
+msgstr "更多電影來自"
+
+msgctxt "#31115"
+msgid "Similar TV shows"
+msgstr "類似的電視影集"
+
+msgctxt "#31116"
+msgid "cycle fanart"
+msgstr "輪播劇照"
+
+msgctxt "#31117"
+msgid "Fallback"
+msgstr "劇照圖合成底圖"
+
+msgctxt "#31118"
+msgid "Download extrafanart"
+msgstr "下載額外的同人畫"
+
+msgctxt "#31119"
+msgid "Show the movies from this director in your library or view online information on this director on TMDb?"
+msgstr "要顯示您資料庫中這位導演的電影作品或是查看他在TMDb線上資料庫中的資訊?"
+
+msgctxt "#31120"
+msgid "TMDb"
+msgstr "TMDb"
+
+msgctxt "#31121"
+msgid "Disable autocomplete"
+msgstr "停用自動完成"
+
+msgctxt "#31122"
+msgid "Disables the autocomplete feature of the virtual keyboard"
+msgstr "禁用虚拟键盘的自动完成功能"
+
+msgctxt "#31123"
+msgid "Album review"
+msgstr "專輯評論"
+
+msgctxt "#31124"
+msgid "Show Background \"Now Playing\" Video"
+msgstr "在背景顯示正在播放的影片"
+
+msgctxt "#31125"
+msgid "Show Background \"Now Playing\" Visualisation"
+msgstr "在背景顯示正在播放的視覺效果"
+
+msgctxt "#31126"
+msgid "Opacity level for widgets"
+msgstr "小部件的不透明度級別"
+
+msgctxt "#31127"
+msgid "LiveTV Mod Settings"
+msgstr "直播電視模組設置"
+
+msgctxt "#31128"
+msgid "Channels View"
+msgstr "頻道總覽"
+
+msgctxt "#31129"
+msgid "Hide Fanart in full screen visualisation"
+msgstr "在全螢幕視覺效果中隱藏 Fanart"
+
+msgctxt "#31130"
+msgid "Use \"Enigma2-style\" channel OSD"
+msgstr "使用「Enigma2 樣式」的頻道資訊面板"
+
+msgctxt "#31131"
+msgid "EPG Timeline View"
+msgstr "EPG 時間軸視圖"
+
+msgctxt "#31132"
+msgid "Tuner:"
+msgstr "選台器:"
+
+msgctxt "#31133"
+msgid "Timeline channels-type:"
+msgstr "頻道列表型時間軸:"
+
+msgctxt "#31134"
+msgid "Timeline view-type:"
+msgstr "畫面顯示型時間軸:"
+
+msgctxt "#31135"
+msgid "Infobar Options"
+msgstr "資訊列選項"
+
+msgctxt "#31136"
+msgid "Infobar type:"
+msgstr "資訊列類型:"
+
+msgctxt "#31137"
+msgid "Hide encryption information"
+msgstr "隱藏加密方式資訊"
+
+msgctxt "#31138"
+msgid "Hide tuner information"
+msgstr "隱藏選台器資訊"
+
+msgctxt "#31139"
+msgid "Hide signal information"
+msgstr "隱藏訊號資訊"
+
+msgctxt "#31140"
+msgid "Sideblade Options"
+msgstr "側邊列選項"
+
+msgctxt "#31141"
+msgid "Hide Guide"
+msgstr "隱藏節目指南"
+
+msgctxt "#31142"
+msgid "Settings level"
+msgstr "設定層級"
+
+msgctxt "#31143"
+msgid "Hide Recordings"
+msgstr "隱藏錄影檔"
+
+msgctxt "#31144"
+msgid "Hide Timer"
+msgstr "隱藏定時器"
+
+msgctxt "#31145"
+msgid "Hide Search"
+msgstr "隱藏搜尋器"
+
+msgctxt "#31146"
+msgid "Rated"
+msgstr "已評等"
+
+msgctxt "#31147"
+msgid "Change rating"
+msgstr "更新評等"
+
+msgctxt "#31148"
+msgid "List local library items"
+msgstr "列出本地端資料庫項目"
+
+msgctxt "#31149"
+msgid "Online info from TMDb"
+msgstr "線上資訊來自TMDb"
+
+msgctxt "#31150"
+msgid "Select studio logo artwork"
+msgstr "选择工作室徽标艺术品"
+
+msgctxt "#31151"
+msgid "Customize the studio logos by choosing a different logo pack. Note that this has no effect on the studio icons displayed in the \"List\" view."
+msgstr "通过选择不同的徽标包来自定义工作室徽标。请注意，这对“列表”视图中显示的工作室图标没有影响。"
+
+msgctxt "#31152"
+msgid "In progress movies"
+msgstr "攝製中的電影"
+
+msgctxt "#31153"
+msgid "Popular movies on TheMovieDB.org"
+msgstr "TheMovieDB.org 上的热门电影"
+
+msgctxt "#31154"
+msgid "Top rated movies on TheMovieDB.org"
+msgstr "TheMovieDB.org 上評分最高的電影"
+
+msgctxt "#31155"
+msgid "Movies currently in cinema"
+msgstr "目前正在电影院上映的电影"
+
+msgctxt "#31156"
+msgid "Upcoming movies"
+msgstr "即將上映的電影"
+
+msgctxt "#31157"
+msgid "Multi movie widget"
+msgstr "多電影小工具"
+
+msgctxt "#31158"
+msgid "IMDb Top 250 movies"
+msgstr "IMDb 排名前 250 名的電影"
+
+msgctxt "#31159"
+msgid "Event log"
+msgstr "活動記錄"
+
+msgctxt "#31160"
+msgid "Display background name"
+msgstr "顯示背景圖片名稱"
+
+msgctxt "#31161"
+msgid "Display title of movie/TV show/artist on home screen if the background has a fanart slideshow as background"
+msgstr "如果背景有同人畫幻燈片作為背景，則在主畫面上顯示電影/電視節目/藝術家的標題"
+
+msgctxt "#31162"
+msgid "min"
+msgstr "分"
+
+msgctxt "#31163"
+msgid "TIMESHIFT"
+msgstr ""
+
+msgctxt "#31164"
+msgid "Change weather icons"
+msgstr "更改天氣圖標"
+
+msgctxt "#31165"
+msgid "Layout"
+msgstr "版面"
+
+msgctxt "#31166"
+msgid "Wall"
+msgstr "牆"
+
+msgctxt "#31167"
+msgid "You're watching"
+msgstr "您現在看的是"
+
+msgctxt "#31168"
+msgid "h"
+msgstr "時"
+
+msgctxt "#31169"
+msgid "m"
+msgstr ""
+
+msgctxt "#31170"
+msgid "Enable Netflix style pause screen"
+msgstr "启用 Netflix 风格的暂停屏幕"
+
+msgctxt "#31171"
+msgid "Shows an overview of the movie or episode 10 seconds after the video is paused."
+msgstr "视频暂停 10 秒后显示电影或剧集的概述。"
+
+msgctxt "#31172"
+msgid "Inactive"
+msgstr "未啟動"
+
+msgctxt "#31173"
+msgid "Decoder"
+msgstr "解碼器"
+
+msgctxt "#31174"
+msgid "Hardware decoding"
+msgstr "硬體解碼"
+
+msgctxt "#31175"
+msgid "press 'OK' to see more..."
+msgstr "按“確定”查看更多..."
+
+msgctxt "#31176"
+msgid "Enter text here..."
+msgstr "在此輸入文字..."
+
+msgctxt "#31177"
+msgid "Player controls"
+msgstr "玩家控制"
+
+msgctxt "#31178"
+msgid "Playlist options"
+msgstr "播放清單選項"
+
+msgctxt "#31179"
+msgid "Critics"
+msgstr "批評家"
+
+msgctxt "#31180"
+msgid "Play main theme when browsing movies and TV shows"
+msgstr "浏览电影和电视节目时播放主旋律"
+
+msgctxt "#31181"
+msgid "Display cast in video views"
+msgstr "在视频视图中显示投射"
+
+msgctxt "#31182"
+msgid "Hide current time in media views"
+msgstr "在媒体视图中隐藏当前时间"
+
+msgctxt "#31183"
+msgid "Hide number of items in media views"
+msgstr "隱藏媒體視圖中的項目數"
+
+msgctxt "#31184"
+msgid "Enable, disable and/or force video views"
+msgstr "啟用、停用和/或強制視訊視圖"
+
+msgctxt "#31185"
+msgid "Enable, disable and/or force music views"
+msgstr "啟用、停用和/或強制音樂視圖"
+
+msgctxt "#31186"
+msgid "Force Kodi to always use certain view when browsing each kind of media. Disabling views that you don't use could speed up browsing in some devices"
+msgstr "強制 Kodi 在瀏覽每種媒體類型時始終使用特定視圖。停用未使用的視圖可能會加快某些裝置上的瀏覽速度。"
+
+msgctxt "#31187"
+msgid "Available for:"
+msgstr "適用於："
+
+msgctxt "#31188"
+msgid "Kiosk mode"
+msgstr "資訊亭模式"
+
+msgctxt "#31189"
+msgid "Disables the side media menu in views and most options to change Kodi, so as to prevent unwanted modifications."
+msgstr "停用視圖中的側面媒體選單和大多數更改 Kodi 的選項，以防止不必要的修改。"
+
+msgctxt "#31190"
+msgid "In cinemas"
+msgstr "在電影院"
+
+msgctxt "#31191"
+msgid "In cinemas soon"
+msgstr "即將在電影院上映"
+
+msgctxt "#31192"
+msgid "Spotify"
+msgstr ""
+
+msgctxt "#31193"
+msgid "Show images of the best-known actresses"
+msgstr "顯示最知名女演員的照片"
+
+msgctxt "#31194"
+msgid "Search the Red Carpet add-on for images of the best-known actresses from the movie/TV show and display them alongside the cast."
+msgstr "在红地毯插件中搜索电影/电视节目中最著名女演员的图像，并将其与演员阵容一起展示。"
+
+msgctxt "#31195"
+msgid "Show logos of film studios in video views"
+msgstr "在视频视图中显示电影制片厂的徽标"
+
+msgctxt "#31196"
+msgid "Show logos of record labels in music albums views"
+msgstr "在音乐专辑视图中显示唱片公司的徽标"
+
+msgctxt "#31197"
+msgid "Show home music widget"
+msgstr "顯示家庭音樂小工具"
+
+msgctxt "#31198"
+msgid "Show home video widget"
+msgstr "顯示家庭視訊小工具"
+
+msgctxt "#31199"
+msgid "Colours, marks and home screen"
+msgstr "顏色、標記和主螢幕"
+
+msgctxt "#31200"
+msgid "Is used to choose among different Kodi resource image pack to weather artwork and icons."
+msgstr "用于在不同的 Kodi 资源图像包中进行选择以天气图稿和图标。"
+
+msgctxt "#31201"
+msgid "Performance impact"
+msgstr "性能影響"
+
+msgctxt "#31202"
+msgid "Plays music in the background while in Home and Settings screens. A default song collection is provided, but a different song folder can be used."
+msgstr "在主屏幕和设置屏幕中播放背景音乐。提供了默认歌曲集，但可以使用不同的歌曲文件夹。"
+
+msgctxt "#31203"
+msgid "Select your own folder to use as background music. Make sure that it only contains music files."
+msgstr "選擇您自己的資料夾用作背景音樂。確保它僅包含音樂檔案。"
+
+msgctxt "#31204"
+msgid "When enabled, widgets linked to each home menu item will appear automatically. If disabled, widgets remain hidden until the corresponding arrow key is pressed."
+msgstr "启用后，链接到每个主菜单项的小部件将自动出现。如果停用，小部件將保持隱藏狀態，直到按下相應的箭頭鍵。"
+
+msgctxt "#31205"
+msgid "Lyrics Source"
+msgstr "歌詞來源"
+
+msgctxt "#31206"
+msgid "Customization"
+msgstr "客製化"
+
+msgctxt "#31207"
+msgid "Views"
+msgstr "意見"
+
+msgctxt "#31208"
+msgid "Home screen"
+msgstr "主螢幕"
+
+msgctxt "#31209"
+msgid "Options"
+msgstr "選項"
+
+msgctxt "#31210"
+msgid "Select another image as default background"
+msgstr "選擇另一張圖像作為預設背景"
+
+msgctxt "#31211"
+msgid "Changes the default Aeon Tajo background to another chosen by the user."
+msgstr "將預設的 Aeon Tajo 背景更改為用戶選擇的另一個背景。"
+
+msgctxt "#31212"
+msgid "Current background path: "
+msgstr "目前後台路徑："
+
+msgctxt "#31213"
+msgid "Reset skin default background"
+msgstr "重置皮膚預設背景"
+
+msgctxt "#31214"
+msgid "Resets the default background provided with Aeon Tajo."
+msgstr "重置 Aeon Tajo 提供的預設背景。"
+
+msgctxt "#31215"
+msgid "Show the coloured version of the icons rather than the monochrome version."
+msgstr "顯示圖示的彩色版本而不是單色版本。"
+
+msgctxt "#31216"
+msgid "Displays background and fanart images with a subtle motion effect across the screen."
+msgstr "在螢幕上顯示背景和同人畫圖像，並具有微妙的運動效果。"
+
+msgctxt "#31217"
+msgid "Displays a list in the video views featuring thumbnail images of the main actors from the movie or TV show's cast."
+msgstr "在視訊視圖中顯示一個列表，其中包含電影或電視節目演員陣容中主要演員的縮圖。"
+
+msgctxt "#31218"
+msgid "Search the Studio Icons add-on for logo images of the film studios of the movie/TV show, and if found, display them while browsing the video views."
+msgstr "在工作室图标插件中搜索电影/电视节目的电影工作室的徽标图像，如果找到，则在浏览视频视图时显示它们。"
+
+msgctxt "#31219"
+msgid "Search for the album's record label logo using the RecordLabel Icons addon, and if found, display it when browsing the music album views."
+msgstr "使用 RecordLabel Icons 插件搜尋專輯的唱片公司徽標，如果找到，則在瀏覽音樂專輯視圖時顯示它。"
+
+msgctxt "#31220"
+msgid "Show rating"
+msgstr "顯示評分"
+
+msgctxt "#31221"
+msgid "Show artist clearart"
+msgstr "顯示藝術家clearart"
+
+msgctxt "#31222"
+msgid "Show CD"
+msgstr "展示光碟"
+
+msgctxt "#31223"
+msgid "Show Time"
+msgstr "演出時間"
+
+msgctxt "#31224"
+msgid "Animated posters"
+msgstr "動畫海報"
+
+msgctxt "#31225"
+msgid "Normal posters"
+msgstr "普通海報"
+
+msgctxt "#31226"
+msgid "Extra posters"
+msgstr "額外的海報"
+
+msgctxt "#31227"
+msgid "Sets the transparency level of the home menu widgets."
+msgstr "設定主選單小工具的透明度等級。"
+
+msgctxt "#31228"
+msgid "Displays main menu options in a vertical layout instead of a horizontal one."
+msgstr "以垂直佈局而不是水平佈局顯示主選單選項。"
+
+msgctxt "#31229"
+msgid "Set another video file as startup intro"
+msgstr "設定另一個視訊檔案作為啟動介紹"
+
+msgctxt "#31230"
+msgid "Choose another video file to play when Kodi starts instead of Aeon Tajo default. It's recommended to choose a short one. To stop playback and start using Kodi right away, click or press any arrow key."
+msgstr "選擇 Kodi 啟動時播放的另一個視訊文件，而不是 Aeon Tajo 預設的視訊檔案。建議選擇短款。若要停止播放並立即開始使用 Kodi，請按一下或按任何箭頭鍵。"
+
+msgctxt "#31231"
+msgid "Plays an intro video when launching Kodi"
+msgstr "啟動 Kodi 時播放介紹視頻"
+
+msgctxt "#31232"
+msgid "Clear current intro video file and back to default"
+msgstr "清除目前介紹影片檔案並恢復為預設值"
+
+msgctxt "#31233"
+msgid "Clear the intro video file selected by the user and back to Aeon Tajo's default."
+msgstr "清除使用者選擇的介紹影片檔案並返回 Aeon Tajo 的預設值。"
+
+msgctxt "#31234"
+msgid "Adds a layer that simulates falling snow on all Kodi screens, with four available intensity levels."
+msgstr "新增一個在所有 Kodi 螢幕上模擬落雪的圖層，具有四個可用的強度等級。"
+
+msgctxt "#31235"
+msgid "Override the current home menu backgrounds with this one"
+msgstr "用這個覆蓋目前的主選單背景"
+
+msgctxt "#31236"
+msgid "The background selections made in the Setup Main Menu screen will be preserved. Disabling this option will restore all previous backgrounds. This option is particularly designed for use during special seasons."
+msgstr "在設定主選單畫面中所做的背景選擇將被保留。停用此選項將恢復所有先前的背景。此選項專為特殊季節使用而設計。"
+
+msgctxt "#31237"
+msgid "No impact"
+msgstr "無影響"
+
+msgctxt "#31238"
+msgid "Very small"
+msgstr "很小"
+
+msgctxt "#31239"
+msgid "Small"
+msgstr "小號"
+
+msgctxt "#31240"
+msgid "Moderate"
+msgstr "中等"
+
+msgctxt "#31241"
+msgid "Pixel format"
+msgstr "像素格式"
+
+msgctxt "#31242"
+msgid "System rendering speed"
+msgstr "系統渲染速度"
+
+msgctxt "#31243"
+msgid "Hide actor's thumbnails"
+msgstr "隱藏演員縮圖"
+
+msgctxt "#31244"
+msgid "Show only a list of the actors' names, instead of also including their thumbnails."
+msgstr "僅顯示演員姓名清單，不包括其縮圖。"
+
+msgctxt "#31250"
+msgid "Automatic Full Screen when playing music"
+msgstr "播放音樂時自動全螢幕"
+
+msgctxt "#31251"
+msgid "Don't play melodies while in Home Screen"
+msgstr "不要在主畫面中播放旋律"
+
+msgctxt "#31252"
+msgid "Always show home screen widgets"
+msgstr "始終顯示主螢幕小工具"
+
+msgctxt "#31253"
+msgid "Choose user audio playlist *.m3u (max.10 songs)"
+msgstr "選擇使用者音訊播放清單 *.m3u（最多 10 首歌曲）"
+
+msgctxt "#31254"
+msgid "Clear user playlist (back to default)"
+msgstr "清除使用者播放清單（恢復預設）"
+
+msgctxt "#31300"
+msgid "Overview"
+msgstr "概覽"
+
+msgctxt "#31301"
+msgid "Last Updated"
+msgstr "最後更新"
+
+msgctxt "#31307"
+msgid "Hide Fanart"
+msgstr "隱藏 Fanart"
+
+msgctxt "#31308"
+msgid "Next aired"
+msgstr "接下來播出"
+
+msgctxt "#31309"
+msgid "Memory Used:"
+msgstr "已使用記憶體："
+
+msgctxt "#31310"
+msgid "Available audio tracks"
+msgstr "可用音訊軌道"
+
+msgctxt "#31317"
+msgid "Set Fanart Path"
+msgstr "設定 Fanart 路徑"
+
+msgctxt "#31320"
+msgid "Last Logged In"
+msgstr "上次登入在"
+
+msgctxt "#31321"
+msgid "Karaoke Song Selector"
+msgstr "卡拉OK歌曲選擇器"
+
+msgctxt "#31328"
+msgid "Recently Added"
+msgstr "最近新增"
+
+msgctxt "#31331"
+msgid "Installed"
+msgstr "已安裝"
+
+msgctxt "#31332"
+msgid "Not Installed"
+msgstr "未安裝"
+
+msgctxt "#31334"
+msgid "Required"
+msgstr "必要的"
+
+msgctxt "#31335"
+msgid "Recommended"
+msgstr "推薦"
+
+msgctxt "#31336"
+msgid "Optional"
+msgstr "選用"
+
+msgctxt "#31390"
+msgid "Skin default"
+msgstr "面板預設"
+
+msgctxt "#31400"
+msgid "[B]CONFIGURE INTERFACE SETTINGS[/B][CR][CR]Change the skin · Set language and region · Setup remote controls[CR]Set up a screensaver · Setup master lock"
+msgstr "[B]設定介面設定[/B][CR][CR]更改皮膚·設定語言和區域·設定遙控器[CR]設定螢幕保護程式·設定主鎖"
+
+msgctxt "#31401"
+msgid "Menu - press 'OK'"
+msgstr "選單 - 按“確定”"
+
+msgctxt "#31402"
+msgid "Enable startup video intro"
+msgstr "啟用啟動影片介紹"
+
+msgctxt "#31405"
+msgid "[B]MONITOR YOUR SYSTEM[/B][CR][CR]Check out your hardware · Monitor CPU usage[CR]Check Kodi revision number"
+msgstr "[B]監視你的系統[/B][CR][CR]檢查你的硬體 · 監視 CPU 使用量[CR]檢查 Kodi 版本"
+
+msgctxt "#31406"
+msgid "[B]CONFIGURE SYSTEM SETTINGS[/B][CR][CR]Setup and calibrate displays · Configure audio output · [CR]Set power saving options · Enable debugging"
+msgstr "[B]設定係統設定[/B][CR][CR]設定與校準顯示器·設定音訊輸出·[CR]設定省電選項·啟用調試"
+
+msgctxt "#31407"
+msgid "[B]SETUP PROFILES[/B][CR][CR]Setup and manage user profiles · Enable login screen[CR]Change password · Add a profile picture"
+msgstr "[B]設定設定檔[/B][CR][CR]設定與管理使用者設定檔·啟用登入畫面[CR]變更密碼·新增個人資料圖片"
+
+msgctxt "#31409"
+msgid "[B]CONFIGURE TV SETTINGS[/B][CR][CR]Change full screen info · Manage EPG data settings"
+msgstr "[B]電視設定[/B][CR][CR]修改全螢幕資訊 · 管理電子節目表資料設定"
+
+msgctxt "#31410"
+msgid "[B]CONFIGURE SERVICE SETTINGS[/B][CR][CR]Setup control of Kodi via UPnP and HTTP · Configure file sharing[CR]Enable Zeroconf · Configure AirPlay"
+msgstr "[B]配置服務設定[/B][CR][CR]設定透過 UPnP 和 HTTP 控製 Kodi · 配置檔案分享[CR]啟用 Zeroconf · 配置 AirPlay"
+
+msgctxt "#31412"
+msgid "Select section"
+msgstr "選擇段落"
+
+msgctxt "#31413"
+msgid "Local subtitle available"
+msgstr "有本地語言的字幕可選用"
+
+msgctxt "#31414"
+msgid "[B]CONFIGURE PLAYER SETTINGS[/B][CR][CR]Configure video playback · Configure music playback · Configure picture slideshow[CR]Configure video language and subtitles"
+msgstr "[B]設定播放器設定[/B][CR][CR]設定影片播放·設定音樂播放·設定圖片幻燈片[CR]設定視訊語言和字幕"
+
+msgctxt "#31415"
+msgid "[B]CONFIGURE MEDIA SETTINGS[/B][CR][CR]Set default select action · Configure file list options · Configure metadata options[CR]Manage databases"
+msgstr "[B]設定媒體設定[/B][CR][CR]設定預設選擇操作·設定檔清單選項·設定元資料選項[CR]管理資料庫"
+
+msgctxt "#31421"
+msgid "Select your Kodi user profile[CR]to login and continue"
+msgstr "選擇您的 Kodi 使用者設定檔[CR]登入並繼續"
+
+msgctxt "#31427"
+msgid "Skin Shortcuts is responsible for handling all aspects of the main menu."
+msgstr "Skin Shortcuts 負責處理主選單的各個方面。"
+
+msgctxt "#31428"
+msgid "The Grab Fanart script provides the random fanart slideshows for the main menu."
+msgstr "Grab Fanart這個腳本可在主選單中顯示隨機的劇照圖片輪播。"
+
+msgctxt "#31429"
+msgid "Library Data Provider is a service that runs in the background to provide library data for widgets and live backgrounds as well as playlist statistics for infolines."
+msgstr "Library Data Provider是一個背景服務，提供資料庫資訊給小工具、動態背景及資訊文字列中的播放列表狀態。"
+
+msgctxt "#31430"
+msgid "Resource image addon for displaying the default white studio icons throughout the skin."
+msgstr "提供預設白色製片公司商標圖片的附加元件。"
+
+msgctxt "#31431"
+msgid "Resource image addon for displaying the default white recording label icons throughout the skin."
+msgstr "提供預設白色唱片發行廠牌商標圖片的附加元件。"
+
+msgctxt "#31432"
+msgid "Provides numerous Widget options and extended cast and crew metadata."
+msgstr "提供大量的小部件選項和擴展的演員和工作人員元數據。"
+
+msgctxt "#31433"
+msgid "Skin Info Service is used to display movie set information throughout the skin."
+msgstr "Skin Info Service用來顯示電影合集的相關資料。"
+
+msgctxt "#31434"
+msgid "Check MP3 Theme checks whether the user has put a theme.mp3 file in the corresponding movie/TV show folder to be played when browsing."
+msgstr "檢查MP3主題檢查使用者是否已將theme.mp3檔案放入對應的電影/電視劇資料夾中以供瀏覽時播放。"
+
+msgctxt "#31450"
+msgid "  •  Open Settings "
+msgstr "  •   開啟設定 "
+
+msgctxt "#31451"
+msgid "  •  Click to Install"
+msgstr "• 點選安裝"
+
+msgctxt "#31473"
+msgid "Aeon Tajo Helper provides the data to display the cast for movies and TV shows."
+msgstr "Aeon Tajo Helper 提供顯示電影和電視節目演員陣容的數據。"
+
+msgctxt "#31474"
+msgid "CU LRC Lyrics is used to download, sync, and display lyrics during fullscreen music playback."
+msgstr "CU LRC Lyrics是用來下載歌詞，並在全螢幕音樂播放畫面中同步顯示。"
+
+msgctxt "#31475"
+msgid "Play Trailer makes possible to play movie trailers through a context menu. "
+msgstr "播放預告片可以透過上下文選單播放電影預告片。"
+
+msgctxt "#31476"
+msgid "Allows the use of Youtube to play trailers and other videos."
+msgstr "允許使用 Youtube 播放預告片和其他影片。"
+
+msgctxt "#31477"
+msgid "Provides some cast actress images to be shown in video views."
+msgstr "提供一些要在視訊視圖中顯示的演員圖像。"
+
+msgctxt "#31478"
+msgid "Artist Slideshow is used to display artist fanart for both the home screen and during fullscreen music playback."
+msgstr "Artist Slideshow用來在首頁及全螢幕音樂播放畫面中顯示藝人的相關圖片。"
+
+msgctxt "#31479"
+msgid "AutoCompletion provides suggestions to be selected while using the virtual keyboard."
+msgstr "自動完成功能提供使用虛擬鍵盤時要選擇的建議。"
+
+msgctxt "#31480"
+msgid "Library Editor Script uses JSON to directly edit your database information."
+msgstr "Library Editor Script使用JSON來直接編輯你的資料庫內容。"
+
+msgctxt "#31481"
+msgid "Global Search makes possible to search among all the items (movies, TV shows, music, actors, etc.) in your collection."
+msgstr "全域搜尋可以在您收藏的所有項目（電影、電視節目、音樂、演員等）中進行搜尋。"
+
+msgctxt "#31501"
+msgid "Channel group"
+msgstr "頻道群組"
+
+msgctxt "#31502"
+msgid "Live TV"
+msgstr "電視"
+
+msgctxt "#31503"
+msgid "Add Group"
+msgstr "新增群組"
+
+msgctxt "#31504"
+msgid "Rename Group"
+msgstr "重新命名群組"
+
+msgctxt "#31505"
+msgid "Delete Group"
+msgstr "刪除群組"
+
+msgctxt "#31506"
+msgid "Available[CR]Groups"
+msgstr "可用的[CR]群組"
+
+msgctxt "#31511"
+msgid "Channel Options"
+msgstr "頻道選項"
+
+msgctxt "#31512"
+msgid "Show similar movies in Shelf 3D view"
+msgstr "在架子 3D 視圖中顯示類似的電影"
+
+msgctxt "#31901"
+msgid "36 Hour Forecast"
+msgstr "36小時預報"
+
+msgctxt "#31902"
+msgid "Hourly Forecast"
+msgstr "每小時預報"
+
+msgctxt "#31903"
+msgid "Weekend Forecast"
+msgstr "一週預報"
+
+msgctxt "#31904"
+msgid "10 Day Forecast"
+msgstr "10天預報"
+
+msgctxt "#31908"
+msgid "Chance of Precipitation"
+msgstr "降雨機率"
+
+msgctxt "#31909"
+msgid "Fetching forecast info..."
+msgstr "正在擷取預報資訊..."
+
+msgctxt "#31910"
+msgid "Map & Alerts"
+msgstr "地圖 & 警報"
+
+msgctxt "#31911"
+msgid "Setup the Aeon Tajo main menu"
+msgstr "設定 Aeon Tajo 主選單"
+
+msgctxt "#31912"
+msgid "Customize the main menu with widgets, backgrounds and statistics. Add your own custom main menu items."
+msgstr "使用小工具、背景和統計資料自訂主選單。新增您自己的自訂主選單項目。"
+
+msgctxt "#31913"
+msgid "Aeon Tajo main menu vertical position"
+msgstr "Aeon Tajo 主選單垂直位置"
+
+msgctxt "#31914"
+msgid "Change the vertical position of the main menu. Default is centered on screen."
+msgstr "更改主選單的垂直位置。預設位於螢幕中央。"
+
+msgctxt "#31915"
+msgid "Navigation style for horizontal lists"
+msgstr "橫式列表的瀏覽樣式"
+
+msgctxt "#31916"
+msgid "Change the way horizontal lists scroll in Aeon Tajo. Default will scroll lists in a cycle. \"Fixed\" are lists with a beginning and end."
+msgstr "更改 Aeon Tajo 中水平列表的滾動方式。預設會循環滾動清單。「固定」是具有開頭和結尾的列表。"
+
+msgctxt "#31917"
+msgid "When enabled text scrolls automatically. When disabled manual scrolling is required. Note that most textboxes don't have a manual button."
+msgstr "啟用後，文字會自動滾動。當需要禁用手動滾動時。請注意，大多數文字方塊沒有手動按鈕。"
+
+msgctxt "#31918"
+msgid "Projects the current playing video on the background behind the panels."
+msgstr "將播放中的影片投影在介面區塊後的背景中。"
+
+msgctxt "#31919"
+msgid "Projects the visualisation on the background behind the panels when music is played."
+msgstr "播放音樂時將音訊視覺化效果投影在介面區塊後的背景中。"
+
+msgctxt "#31920"
+msgid "Displays a widget on the Home screen with media information when music is playing."
+msgstr "播放音樂時在首頁中以小工具形態顯示該音軌的媒體資訊。"
+
+msgctxt "#31921"
+msgid "Displays a widget on the Home screen with media information when a movie or episode is playing."
+msgstr "播放影片或影集時在首頁中以小工具形態顯示該影片的媒體資訊。"
+
+msgctxt "#31922"
+msgid "This enables custom genre backgrounds when browsing through the videolibrary's genre node. Filenames should match the genre label. Extension must be .jpg."
+msgstr "當使用電影類型模式瀏覽影片資料庫時，使用自訂的類型背景圖。請將圖檔命名為該類型的文字，並須為jpg格式。"
+
+msgctxt "#31923"
+msgid "Set a default select action to enable this item."
+msgstr "設定預設選擇操作以啟用此項目。"
+
+msgctxt "#31924"
+msgid "This enables custom genre backgrounds when browsing through the musiclibrary's genre node. Filenames should match the genre label. Extension must be .jpg."
+msgstr "當使用音樂類型模式瀏覽音樂資料庫時，使用自訂的類型背景圖。請將圖檔命名為該類型的文字，並須為jpg格式。"
+
+msgctxt "#31925"
+msgid "Pick one of the preset backgrounds or set your own images as the menu items background."
+msgstr "選擇一種預設背景或將您自己的圖像設定為選單項目背景。"
+
+msgctxt "#31926"
+msgid "Select add-ons, playlists or favourites. Choose 'Custom' for any of Kodi's built-in functions. (http://kodi.wiki/?title=List_of_Built_In_Functions)"
+msgstr "選擇附加元件、播放清單或收藏夾。為 Kodi 的任何內建功能選擇「自訂」。(http://kodi.wiki/?title=List_of_Built_In_Functions)"
+
+msgctxt "#31927"
+msgid "Resets all above values to their defaults."
+msgstr "將以上所有選項重設至預設值。"
+
+msgctxt "#31928"
+msgid "Aeon Tajo main menu layout"
+msgstr "Aeon Tajo 主選單佈局"
+
+msgctxt "#31929"
+msgid "This setting defines how much items will be visible on the main menu. Options are 3 items or 5 items."
+msgstr "此設定定義主選單上可見的項目數。選項有 3 項或 5 項。"
+
+msgctxt "#31930"
+msgid "Choose a widget to display on the Home screen to have easy access to content from the library."
+msgstr "選擇要在首頁中顯示的小工具來快速進入資料庫的指定內容。"
+
+msgctxt "#31931"
+msgid "Video plot preference"
+msgstr "影片介紹內容"
+
+msgctxt "#31932"
+msgid "Show plot outline in the library views and full plot in the video information dialog or vice versa. Falls back to full plot if no outline is available."
+msgstr "決定要在資料庫模式中的影片資訊區塊顯示短簡介或完整介紹。若沒有可用的短簡介，則會自動顯示完整介紹文字。"
+
+msgctxt "#31933"
+msgid "Select an item to display on the left top of the main menu"
+msgstr "選擇要在主選單左上角顯示的物件"
+
+msgctxt "#31935"
+msgid "Switch places with another menu item. Opens a dialog with a list of menu items to choose from."
+msgstr "與另一個選單項目互換位置。請開啟對話框後從項目列表中選用。"
+
+msgctxt "#31937"
+msgid "Show the RSS feed on the bottom or top of the screen, depending on main menu position. Enabling this setting makes the submenu permanently visible."
+msgstr "在畫面中顯示RSS內容，顯示位置視主選單的排版而定，會在畫面下端或上端。此功能開啟時副選單會永遠顯示。"
+
+msgctxt "#31938"
+msgid "Enables extra information in the TV show library, like TV show status, next / latest episode, etc. Depends on TV Show Next Aired add-on."
+msgstr "在電視影集資料庫中顯示額外資訊，如播映狀態，下集及新番等資訊。視TV Show Next Aired 這個附加元件所提供內容而定。"
+
+msgctxt "#31939"
+msgid "Hide Infopanel on scrolling"
+msgstr "捲動時隱藏資訊面板"
+
+msgctxt "#31940"
+msgid "Hides the infopanel for Showcase and Landscape view (if activated) while scrolling through the library. Set the amount of seconds to wait for the infopanel to appear when scrolling is stopped."
+msgstr "在庫中捲動時隱藏展示和橫向視圖的資訊面板（如果已啟動）。設定滾動停止時等待訊息面板出現的秒數。"
+
+msgctxt "#31941"
+msgid "Kiosk mode"
+msgstr "Kiosk模式"
+
+msgctxt "#31942"
+msgid "Disables the slide out menu (media menu) in the library as well as certain buttons in the media information dialogs. (Requires restart to take effect)"
+msgstr "停用庫中的滑出選單（媒體選單）以及媒體訊息對話框中的某些按鈕。（需要重新啟動才能生效）"
+
+msgctxt "#31943"
+msgid "Watched status indicator"
+msgstr "是否已看過的標記"
+
+msgctxt "#31944"
+msgid "Choose which overlays to show on thumbs in icon based views. Note that the \"Resume\" flag takes precedent over any watched status."
+msgstr "選擇在基於圖示的視圖中拇指上顯示哪些疊加層。請注意，「恢復」標誌優先於任何觀看狀態。"
+
+msgctxt "#31945"
+msgid "This toggles the layout of the List view. Default is a 7 item layout with extended info, \"Slim List\" is a 14 item, more basic layout"
+msgstr "用來切換列表的顯示模式。預設值為7個項目，並外加延伸資訊內容，\"精簡列表\"可顯示14個項目，內容為基本資料"
+
+msgctxt "#31950"
+msgid "WEATHER"
+msgstr "天氣"
+
+msgctxt "#31951"
+msgid "PICTURES"
+msgstr "圖片"
+
+msgctxt "#31952"
+msgid "LIVE TV"
+msgstr "直播電視"
+
+msgctxt "#31953"
+msgid "VIDEOS"
+msgstr "影片"
+
+msgctxt "#31954"
+msgid "MOVIES"
+msgstr "電影"
+
+msgctxt "#31955"
+msgid "TV SHOWS"
+msgstr "電視劇"
+
+msgctxt "#31956"
+msgid "MUSIC"
+msgstr "音樂"
+
+msgctxt "#31957"
+msgid "APPS"
+msgstr "應用程式系統"
+
+msgctxt "#31958"
+msgid "PLAY DISC"
+msgstr "播放光碟"
+
+msgctxt "#31959"
+msgid "SYSTEM"
+msgstr "系統"
+
+msgctxt "#31960"
+msgid "CONCERTS"
+msgstr "演唱會"
+
+msgctxt "#31961"
+msgid "Hide ratings in list views"
+msgstr "隱藏列表排版模式中的評等資訊"
+
+msgctxt "#31962"
+msgid "This toggles the visibility of ratings in views of type List, LowList and TriPanel, except if sorted by rating."
+msgstr "在某些排版模式中不顯示評等資料，包括類型列表、低位列表及三面板模式，除非以評等作為排序依據。"
+
+msgctxt "#31964"
+msgid "NoTo"
+msgstr "思源黑體"
+
+msgctxt "#31965"
+msgid "Setup main menu"
+msgstr "設定主選單"
+
+msgctxt "#31966"
+msgid "Customize the main menu with widgets, backgrounds, submenus and statistics. Add your own custom main menu items."
+msgstr "使用小工具、背景、子選單和統計資料自訂主選單。新增您自己的自訂主選單項目。"
+
+msgctxt "#31967"
+msgid "Skin addons"
+msgstr "皮膚插件"
+
+msgctxt "#31968"
+msgid "Addons used to enhance Aeon Tajo."
+msgstr "用於增強 Aeon Tajo 的插件。"
+
+msgctxt "#31969"
+msgid "Skin options"
+msgstr "皮膚選項"
+
+msgctxt "#31970"
+msgid "Setup of melodies, the way of showing widgets, themes and cast for movies/TV shows and other options."
+msgstr "旋律的設定、小工具的顯示方式、電影/電視節目的主題和演員陣容以及其他選項。"
+
+msgctxt "#31971"
+msgid "Colour of selected items"
+msgstr "所選項目的顏色"
+
+msgctxt "#31972"
+msgid "Youtube"
+msgstr "Youtube"
+
+msgctxt "#31973"
+msgid "Down for more"
+msgstr "按\"下\"顯示更多"
+
+msgctxt "#31974"
+msgid "More movies featuring"
+msgstr "更多電影上映"
+
+msgctxt "#31975"
+msgid "More TV shows featuring"
+msgstr "更多出演的電視劇"
+
+msgctxt "#31976"
+msgid "Image gallery"
+msgstr "圖片庫"
+
+msgctxt "#31977"
+msgid "Years old"
+msgstr "歲數"
+
+msgctxt "#31978"
+msgid "Click for more"
+msgstr "點選以顯示更多資訊"
+
+msgctxt "#31979"
+msgid "Left for more"
+msgstr "留下更多"
+
+msgctxt "#31980"
+msgid "Right for more"
+msgstr "適合更多"
+
+msgctxt "#31981"
+msgid "Premiered"
+msgstr "首映"
+
+msgctxt "#31982"
+msgid "Budget"
+msgstr "預算"
+
+msgctxt "#31983"
+msgid "Revenue"
+msgstr "營收"
+
+msgctxt "#31984"
+msgid "Awards"
+msgstr "獎項"
+
+msgctxt "#31985"
+msgid "Trending Movies"
+msgstr "受矚目的電影"
+
+msgctxt "#31986"
+msgid "Upcoming Movies"
+msgstr "即將上映的電影"
+
+msgctxt "#31987"
+msgid "Now Playing Movies"
+msgstr "正在播放電影"
+
+msgctxt "#31988"
+msgid "Top Rated Movies"
+msgstr "最受好評電影"
+
+msgctxt "#31989"
+msgid "Popular Movies"
+msgstr "熱門電影"
+
+msgctxt "#31990"
+msgid "Discover Movies"
+msgstr "發現電影"
+
+msgctxt "#31991"
+msgid "Trending Shows"
+msgstr "受矚目的影集"
+
+msgctxt "#31992"
+msgid "Top Rated Shows"
+msgstr "最受好評的節目"
+
+msgctxt "#31993"
+msgid "Popular Shows"
+msgstr "熱門節目"
+
+msgctxt "#31994"
+msgid "Discover Shows"
+msgstr "探索節目"
+
+msgctxt "#31995"
+msgid "3D view"
+msgstr "3D視圖"
+
+msgctxt "#31996"
+msgid "Extended view"
+msgstr "擴展視圖"
+
+msgctxt "#31997"
+msgid "Simple view"
+msgstr "簡單視圖"
+
+msgctxt "#31998"
+msgid "Classic lyrics"
+msgstr "經典歌詞"
+
+msgctxt "#31999"
+msgid "Screensaver Netflix style in media views"
+msgstr "媒體視圖中的螢幕保護程式 Netflix 風格"
+
+msgctxt "#31245"
+msgid "When in idle state for two minutes within a media view, a fullscreen slideshow of movies, TV shows, or artists' fanarts will be displayed, according to the section being browsed."
+msgstr "當在媒體視圖中處於空閒狀態兩分鐘時，將根據正在瀏覽的部分顯示電影、電視節目或藝術家同人作品的全螢幕幻燈片。"
+
+msgctxt "#31246"
+msgid "Play automatically trailers in video views"
+msgstr "在視訊視圖中自動播放預告片"
+
+msgctxt "#31247"
+msgid "When you browse the video views and pause on a movie or TV show for a few seconds, the trailer automatically plays in a window."
+msgstr "當您瀏覽視訊視圖並在電影或電視節目上暫停幾秒鐘時，預告片會自動在視窗中播放。"
+
+msgctxt "#31248"
+msgid "All devices"
+msgstr "所有設備"
+
+msgctxt "#31249"
+msgid "Powerful devices"
+msgstr "強大的設備"
+
+msgctxt "#31255"
+msgid "Most powerful devices"
+msgstr "最強大的設備"
+
+msgctxt "#31256"
+msgid "Delay 5 seconds"
+msgstr "延遲5秒"
+
+msgctxt "#31257"
+msgid "Delay 12 seconds"
+msgstr "延遲12秒"
+
+msgctxt "#31258"
+msgid "Info view 2"
+msgstr "資訊視圖2"
+
+msgctxt "#31259"
+msgid "Info view 1"
+msgstr "資訊查看1"
+
+msgctxt "#31260"
+msgid "Play automatically songs while browsing music"
+msgstr "瀏覽音樂時自動播放歌曲"
+
+msgctxt "#31261"
+msgid "Enable automatic playback of songs from the current artist or album as background music while browsing music views."
+msgstr "瀏覽音樂視圖時啟用自動播放目前藝人或專輯中的歌曲作為背景音樂。"
+
+msgctxt "#31262"
+msgid "Set path to use another melodies music folder"
+msgstr "設定路徑以使用另一個旋律音樂資料夾"
+
+msgctxt "#31263"
+msgid "Clear current path and back to default melodies music folder"
+msgstr "清除目前路徑並返回預設旋律音樂資料夾"
+
+msgctxt "#31264"
+msgid "Play melodies while in Home & Settings screens"
+msgstr "在主畫面和設定畫面中播放旋律"
+
+msgctxt "#31265"
+msgid "Show only background"
+msgstr "僅顯示背景"
+
+msgctxt "#31266"
+msgid "TheMovieDb Helper provides data to display online ratings and additional information for movies and TV shows"
+msgstr "TheMovieDb Helper 提供數據來顯示電影和電視節目的線上評級以及附加資訊"
+
+msgctxt "#31267"
+msgid "Show online ratings for movies and TV shows"
+msgstr "顯示電影和電視節目的線上評級"
+
+msgctxt "#31268"
+msgid "You have to restart Kodi for this option to take effect once the option has been activated. TMDb and Trakt should work out of the box. Metacritic and Rottentomatoes ratings require an OMDb API key. Get an OMDb API Key at http://www.omdbapi.com/apikey.aspx and afterward input the OMDb API Key into the TheMovieDb Helper settings."
+msgstr "啟動該選項後，您必須重新啟動 Kodi 才能使該選項生效。TMDb 和 Trakt 應該可以開箱即用。Metacritic 和 Rottentomatoes 評級需要 OMDb API 金鑰。從 http://www.omdbapi.com/apikey.aspx 取得 OMDb API 金鑰，然後將 OMDb API 金鑰輸入到 TheMovieDb Helper 設定中。"
+
+msgctxt "#31269"
+msgid "Resource image addon for displaying coloured studio icons throughout the skin."
+msgstr "資源圖像插件，用於在整個皮膚中顯示彩色工作室圖示。"
+
+msgctxt "#31270"
+msgid "Show colour icons for audio/video information"
+msgstr "顯示音訊/視訊訊息的顏色圖示"
+
+msgctxt "#31271"
+msgid "Show extra features for movies and TV shows"
+msgstr "顯示電影和電視節目的額外功能"
+
+msgctxt "#31272"
+msgid "Display the additional features (media files) placed by the user in the 'extras' folder for a movie or TV show. Remember to modify your advancedsettings.xml file if needed."
+msgstr "顯示使用者放置在電影或電視節目的「extras」資料夾中的附加功能（媒體檔案）。如果需要，請記得修改您的advancedsettings.xml 檔案。"
+
+msgctxt "#31273"
+msgid "Show extras"
+msgstr "顯示額外內容"
+
+msgctxt "#31274"
+msgid "Enable shifting colours effect in the default Aeon Tajo's background"
+msgstr "在預設的 Aeon Tajo 背景中啟用變色效果"
+
+msgctxt "#31275"
+msgid "Activate a shifting colours effect in the default Aeon Tajo's background (only in the Home screen)."
+msgstr "在預設的 Aeon Tajo 背景中啟動變色效果（僅在主畫面中）。"
+
+msgctxt "#31276"
+msgid "Name of user's additional features folder (if different to 'extras')"
+msgstr "使用者附加功能資料夾的名稱（如果與「extras」不同）"
+
+msgctxt "#31277"
+msgid "Select image to show as background instead of default"
+msgstr "選擇要顯示為背景的圖像而不是預設圖像"
+
+msgctxt "#31278"
+msgid "Browse for image"
+msgstr "瀏覽圖像"
+
+msgctxt "#31279"
+msgid "Play music videos"
+msgstr "播放音樂影片"
+
+msgctxt "#31280"
+msgid "Play local albums"
+msgstr "播放本機專輯"
+
+msgctxt "#31281"
+msgid "Play songs"
+msgstr "播放歌曲"
+
+msgctxt "#31282"
+msgid "Blurred album image as background"
+msgstr "作為背景的模糊專輯圖像"
+
+msgctxt "#31283"
+msgid "Browse for path"
+msgstr "瀏覽路徑"
+
+msgctxt "#31284"
+msgid "Show extra features for music albums"
+msgstr "顯示音樂專輯的額外功能"
+
+msgctxt "#31285"
+msgid "Display the additional features (media files) placed by the user in the 'extras' folder for a music album. Remember to modify your advancedsettings.xml file if needed."
+msgstr "顯示使用者放置在音樂專輯的「extras」資料夾中的附加功能（媒體檔案）。如果需要，請記得修改您的advancedsettings.xml 檔案。"
+
+msgctxt "#31286"
+msgid "When you browse the video views and pause on a movie or TV show for a few seconds, the main theme automatically plays in the background. This feature requires the user to place an mp3 file with the theme in the root folder of the movie or TV show. This file must be named theme.mp3."
+msgstr "當您瀏覽視訊視圖並在電影或電視節目上暫停幾秒鐘時，主題會自動在背景播放。此功能要求使用者將主題的 mp3 檔案放置在電影或電視節目的根資料夾中。該檔案必須命名為 theme.mp3。"
+
+msgctxt "#31287"
+msgid "Shows the normal poster (poster.jpg) in movies and TV shows views."
+msgstr "在影片和電視節目檢視中顯示普通海報 (poster.jpg)。"
+
+msgctxt "#31288"
+msgid "Shows the animated poster (animatedposter.gif) in movies and TV shows views."
+msgstr "在電影和電視節目視圖中顯示動畫海報 (animatedposter.gif)。"
+
+msgctxt "#31289"
+msgid "Shows the available extra posters (poster1.jpg, poster2.jpg, poster3.jpg...) in movies and TV shows views."
+msgstr "在影片和電視節目檢視中顯示可用的額外海報（poster1.jpg、poster2.jpg、poster3.jpg...）。"
+
+msgctxt "#31290"
+msgid "Thanks for using Aeon Tajo—I really hope you’re enjoying it. Creating and maintaining a Kodi skin like this takes hundreds of hours of work. If Aeon Tajo is something you enjoy and find useful, supporting it helps me keep working on it and ensures it can continue evolving in the future. [CR][CR]If you decide to do so, you’ll receive frequent updates with new features and bug fixes, along with videos, media packs, and easy-to-follow articles with detailed tips to help you get the most out of everything Aeon Tajo has to offer, together with my sincere gratitude for your support. [CR][CR]For more information, visit [B][COLOR=themecolor]patreon.com[/B][/COLOR] and search for the creator [COLOR=themecolor][B]Aeon Tajo[/B][/COLOR], or go to [COLOR=themecolor][B]patreon.com/aeontajo[/B][/COLOR].[CR][CR]Thanks!"
+msgstr "感謝使用 Aeon Tajo — 真誠希望您喜歡它！建立和維護像這樣的 Kodi 佈景主題需要數百小時的工作。如果 Aeon Tajo 讓您感到愉悅並覺得有用，您的支持將幫助我繼續完善它，並確保它在未來持續發展。[CR][CR]如果您決定支持，您將收到包含新功能和錯誤修復的頻繁更新，以及視訊、媒體套件和詳細文章，提供充分利用 Aeon Tajo 所有功能的技巧，以及我對您支持的真誠感謝。[CR][CR]如需更多資訊，請造訪 [B][COLOR=themecolor]patreon.com[/B][/COLOR] 並搜尋創作者 [COLOR=themecolor][B]Aeon Tajo[/B][/COLOR]，或前往 [COLOR=themecolor][B]patreon.com/aeontajo[/B][/COLOR]。[CR][CR]感謝！"
+
+msgctxt "#31291"
+msgid "Blurred album image as background in music visualisation screen"
+msgstr "模糊的專輯圖像作為音樂視覺化螢幕中的背景"
+
+msgctxt "#31292"
+msgid "Hide watched mark in video views"
+msgstr "隱藏影片視圖中的觀看標記"
+
+msgctxt "#31293"
+msgid "Disclaimer: Aeon Tajo does not provide any media content or sources. Users must provide their own content. Support will not be provided for any 'builds' nor online addons that offer copyrighted content."
+msgstr "免責聲明：Aeon Tajo 不提供任何媒體內容或來源。用戶必須提供自己的內容。不會為任何提供受版權保護內容的「建置」或線上外掛程式提供支援。"
+
+msgctxt "#31294"
+msgid "Change to "
+msgstr "更改為"
+
+msgctxt "#31295"
+msgid "Remember that you should adapt your advancedsetting.xml file to reflect this change, so as to prevent your extras content to be added inadvertently to the Kodi library."
+msgstr "請記住，您應該調整advancedsetting.xml 檔案以反映此更改，以防止您的額外內容無意中添加到Kodi 庫中。"
+
+msgctxt "#31296"
+msgid "Filmstrip"
+msgstr ""
+
+msgctxt "#31297"
+msgid "Select + Right Stick"
+msgstr "選擇+右搖桿"
+
+msgctxt "#31298"
+msgid "Vertical Home menu"
+msgstr "垂直主頁選單"
+
+msgctxt "#31299"
+msgid "Eject disc"
+msgstr "彈出光碟"
+
+msgctxt "#31302"
+msgid "Play with PreShow"
+msgstr "玩 PreShow"
+
+msgctxt "#31303"
+msgid "Highlighted text colour"
+msgstr "突出顯示的文字顏色"
+
+msgctxt "#31304"
+msgid "Marks colour"
+msgstr "標記顏色"
+
+msgctxt "#31305"
+msgid "Current"
+msgstr "目前"
+
+msgctxt "#31306"
+msgid "Selected"
+msgstr "已選擇"
+
+msgctxt "#31311"
+msgid "Watched mark shape"
+msgstr "觀察標記形狀"
+
+msgctxt "#31312"
+msgid "Sliding background fanarts"
+msgstr "滑動背景同人畫"
+
+msgctxt "#31313"
+msgid "Kodi add-ons settings"
+msgstr "Kodi 附加元件設置"
+
+msgctxt "#31314"
+msgid "Install and update add-ons"
+msgstr "安裝和更新附加元件"
+
+msgctxt "#31315"
+msgid "Download add-ons"
+msgstr "下載附加元件"
+
+msgctxt "#31316"
+msgid "Show Browser"
+msgstr "顯示瀏覽器"
+
+msgctxt "#31318"
+msgid "Hide Browser"
+msgstr "隱藏瀏覽器"
+
+msgctxt "#31319"
+msgid "Narrow view"
+msgstr "視野狹窄"
+
+msgctxt "#31322"
+msgid "Wide view"
+msgstr "視野開闊"
+
+msgctxt "#31323"
+msgid "Actors in other movies and TV shows"
+msgstr "其他電影和電視節目中的演員"
+
+msgctxt "#31324"
+msgid "Show similar movies/TV shows and artists/albums"
+msgstr "顯示類似的電影/電視節目和藝術家/專輯"
+
+msgctxt "#31325"
+msgid "Opens a new window in some video/music views showing other movies/TV shows or artists/albums similar or related to the current item."
+msgstr "在某些視頻/音樂視圖中打開一個新窗口，顯示與當前項目類似或相關的其他電影/電視節目或藝術家/專輯。"
+
+msgctxt "#31326"
+msgid "Show similar"
+msgstr "顯示類似"
+
+msgctxt "#31327"
+msgid "Classic"
+msgstr "經典"
+
+msgctxt "#31329"
+msgid "Similar albums"
+msgstr "類似專輯"
+
+msgctxt "#31330"
+msgid "No similar found"
+msgstr "沒有找到類似的"
+
+msgctxt "#31333"
+msgid "Wikipedia"
+msgstr "維基百科"
+
+msgctxt "#31337"
+msgid "Click to select and open article's links"
+msgstr "點擊以選擇並打開文章的鏈接"
+
+msgctxt "#31338"
+msgid "Click to search..."
+msgstr "點選搜尋..."
+
+msgctxt "#31339"
+msgid "Add/update music video links"
+msgstr "新增/更新音樂影片連結"
+
+msgctxt "#31340"
+msgid "[B]CONFIGURE GAME SETTINGS[/B][CR][CR]Change gameplay options[CR]Keyboard settings · Configure rewind settings"
+msgstr "[B]設定遊戲設定[/B][CR][CR]更改遊戲選項[CR]鍵盤設定·設定快退設定"
+
+msgctxt "#31341"
+msgid "Narrow list"
+msgstr "縮減名單"
+
+msgctxt "#31342"
+msgid "Wide list"
+msgstr "廣泛的名單"
+
+msgctxt "#31343"
+msgid "Update videolinks"
+msgstr "更新影片連結"
+
+msgctxt "#31344"
+msgid "Play all music videos"
+msgstr "播放所有音樂視頻"
+
+msgctxt "#31345"
+msgid "No bookmarks created yet"
+msgstr "尚未建立書籤"
+
+msgctxt "#31346"
+msgid "Choose where to start"
+msgstr "選擇從哪裡開始"
+
+msgctxt "#31347"
+msgid "Browse the list and click"
+msgstr "瀏覽清單並點擊"
+
+msgctxt "#31348"
+msgid "Show OSD controls"
+msgstr "顯示 OSD 控件"
+
+msgctxt "#31349"
+msgid "Preparing list of music videos, please wait..."
+msgstr "正在準備音樂視頻列表，請稍候..."
+
+msgctxt "#31350"
+msgid "Songs party mode"
+msgstr "歌曲派對模式"
+
+msgctxt "#31351"
+msgid "Videolinks party mode"
+msgstr "影片連結派對模式"
+
+msgctxt "#31352"
+msgid "No videolinks found"
+msgstr "找不到視頻鏈接"
+
+msgctxt "#31353"
+msgid "Click or arrow keys while playing to show the OSD"
+msgstr "播放時點選或方向鍵可顯示 OSD"
+
+msgctxt "#31354"
+msgid "While playing..."
+msgstr "玩的時候..."
+
+msgctxt "#31355"
+msgid "Click or arrow keys to show the OSD"
+msgstr "按一下或箭頭鍵顯示 OSD"
+
+msgctxt "#31356"
+msgid "Shows the normal thumb (folder.jpg) in artists and albums music views."
+msgstr "在藝術家和專輯音樂視圖中顯示正常縮圖 (folder.jpg)。"
+
+msgctxt "#31357"
+msgid "Shows the animated thumb (animatedthumb.gif) in artists and albums music views."
+msgstr "在藝術家和專輯音樂視圖中顯示動畫拇指 (animatedthumb.gif)。"
+
+msgctxt "#31358"
+msgid "Show a colour strip code on video elements"
+msgstr "在影片元素上顯示色帶代碼"
+
+msgctxt "#31359"
+msgid "Allows to quickly identify video file quality using a colour strip code when browsing movies and episodes in video views"
+msgstr "在視訊視圖中瀏覽影片和劇集時，可以使用色帶程式碼快速識別視訊檔案質量"
+
+msgctxt "#31360"
+msgid "Library using Global Search"
+msgstr "使用全域搜尋的圖書館"
+
+msgctxt "#31361"
+msgid "TheMovieDB"
+msgstr ""
+
+msgctxt "#31362"
+msgid "Most Voted Movies"
+msgstr "得票最多的電影"
+
+msgctxt "#31363"
+msgid "Crew"
+msgstr "船員"
+
+msgctxt "#31364"
+msgid "Most Voted Shows"
+msgstr "得票最多的節目"
+
+msgctxt "#31365"
+msgid "Random Shows"
+msgstr "隨機節目"
+
+msgctxt "#31366"
+msgid "Random Artists"
+msgstr "隨機藝術家"
+
+msgctxt "#31367"
+msgid "Online info from TheMovieDB.org for videos"
+msgstr "來自 TheMovieDB.org 的視頻在線信息"
+
+msgctxt "#31368"
+msgid "Get online info from TheMovieDB.org in movie and TVshow's info screen and widgets"
+msgstr "在電影和電視節目的資訊螢幕和小部件中從 TheMovieDB.org 獲取在線信息"
+
+msgctxt "#31369"
+msgid "Snow effect - Off"
+msgstr "雪花效果 - 關閉"
+
+msgctxt "#31370"
+msgid "Snow effect - Light"
+msgstr "雪花效果 - 光"
+
+msgctxt "#31371"
+msgid "Snow effect - Medium"
+msgstr "雪花效果 - 中"
+
+msgctxt "#31372"
+msgid "Snow effect - Heavy"
+msgstr "雪效果 - 重"
+
+msgctxt "#31373"
+msgid "Snow effect - Blizzard"
+msgstr "雪效果 - 暴風雪"
+
+msgctxt "#31374"
+msgid "Click or arrow keys to exit"
+msgstr "單擊或方向鍵退出"
+
+msgctxt "#31375"
+msgid "Rewind"
+msgstr "倒帶"
+
+msgctxt "#31376"
+msgid "Fast forward"
+msgstr "快轉"
+
+msgctxt "#31377"
+msgid "Step back"
+msgstr "退後一步"
+
+msgctxt "#31378"
+msgid "Step forward"
+msgstr "向前邁出一步"
+
+msgctxt "#31379"
+msgid "Previous chapter"
+msgstr "上一章"
+
+msgctxt "#31380"
+msgid "Next chapter"
+msgstr "下一章"
+
+msgctxt "#31381"
+msgid "Previous channel"
+msgstr "上一個頻道"
+
+msgctxt "#31382"
+msgid "Next channel"
+msgstr "下一個頻道"
+
+msgctxt "#31383"
+msgid "Show lyrics"
+msgstr "顯示歌詞"
+
+msgctxt "#31384"
+msgid "Hide lyrics"
+msgstr "隱藏歌詞"
+
+msgctxt "#31385"
+msgid "Adjust lyrics"
+msgstr "調整歌詞"
+
+msgctxt "#31386"
+msgid "Hide resumable mark in video views"
+msgstr "在視訊視圖中隱藏可繼續標記"
+
+msgctxt "#31387"
+msgid "Hide unwatched mark in video views"
+msgstr "在視訊視圖中隱藏未觀看標記"
+
+msgctxt "#31388"
+msgid "Hide episodes unwatched mark in video views"
+msgstr "在視訊視圖中隱藏未觀看劇集標記"
+
+msgctxt "#31389"
+msgid "Same director"
+msgstr "相同導演"
+
+msgctxt "#31391"
+msgid "'Down' to show similars"
+msgstr "按'下'顯示相似內容"
+
+msgctxt "#31392"
+msgid "'Right' to show similars"
+msgstr "按'右'顯示相似內容"
+
+msgctxt "#31393"
+msgid "Show logos"
+msgstr "顯示標誌"
+
+msgctxt "#31394"
+msgid "Show only titles"
+msgstr "僅顯示標題"
+
+msgctxt "#31395"
+msgid "Play automatically video links in song views"
+msgstr "在歌曲視圖中自動播放視訊連結"
+
+msgctxt "#31396"
+msgid "When you browse song views and stop for a few seconds, the video link for that song will play automatically (if available)."
+msgstr "當您瀏覽歌曲視圖並停留幾秒鐘時，該歌曲的視訊連結將自動播放（如果可用）。"
+
+msgctxt "#31397"
+msgid "User reviews"
+msgstr "使用者評價"
+
+msgctxt "#31398"
+msgid "Horizontal Home menu"
+msgstr "水平主選單"
+
+msgctxt "#31399"
+msgid "Simple Home menu"
+msgstr "簡化主選單"
+
+msgctxt "#31403"
+msgid "Widget type"
+msgstr "小工具類型"
+
+msgctxt "#31404"
+msgid "Small widgets..."
+msgstr "小型小工具..."
+
+msgctxt "#31408"
+msgid "Fullscreen widgets..."
+msgstr "全螢幕小工具..."
+
+msgctxt "#31411"
+msgid "Force view..."
+msgstr "強制視圖..."
+
+msgctxt "#31416"
+msgid "A view can't be disabled when is selected as \"forced\" for some media."
+msgstr "當某些媒體被選擇為「強制」時，無法停用視圖。"
+
+msgctxt "#31417"
+msgid "Only views that are not marked as disabled can be forced."
+msgstr "只有未標記為已停用的視圖才能被強制。"
+
+msgctxt "#31418"
+msgid "Don't force views"
+msgstr "不強制視圖"
+
+msgctxt "#31419"
+msgid "Forced view"
+msgstr "強制視圖"
+
+msgctxt "#31420"
+msgid "Enable or disable views"
+msgstr "啟用或停用視圖"
+
+msgctxt "#31422"
+msgid "No embedded subs"
+msgstr "無內嵌字幕"
+
+msgctxt "#31423"
+msgid "Auto-open audio/subtitle selector at video start"
+msgstr "視訊開始時自動開啟音訊/字幕選擇器"
+
+msgctxt "#31424"
+msgid "Automatically opens an audio and subtitle selector when starting playback of movies and episodes, allowing you to see which tracks are active and change them directly before continuing."
+msgstr "在開始播放電影和劇集時自動開啟音訊和字幕選擇器，讓您可以查看哪些軌道處於活動狀態，並在繼續之前直接變更它們。"
+
+msgctxt "#31425"
+msgid "Search music video links for songs not in your library"
+msgstr "搜尋不在您媒體庫中的歌曲的音樂影片連結"
+
+msgctxt "#31426"
+msgid "Similar artists on your library"
+msgstr "您媒體庫中的相似藝術家"
+
+msgctxt "#31435"
+msgid "Albums by this artist in your library"
+msgstr "您媒體庫中該藝術家的專輯"
+
+msgctxt "#31436"
+msgid "Online info from TheAudioDB.com for music"
+msgstr "TheAudioDB.com 提供的音樂線上資訊"
+
+msgctxt "#31437"
+msgid "Get online information from TheAudioDB.com on the artist and album information screen"
+msgstr "在藝術家和專輯資訊畫面上取得 TheAudioDB.com 的線上資訊"
+
+msgctxt "#31438"
+msgid "TheAudioDb Helper supplies online data and artwork to display enhanced details for artists and music albums."
+msgstr "TheAudioDb Helper 提供線上資料和圖像，以顯示藝術家和音樂專輯的擴充詳細資訊。"
+
+msgctxt "#31439"
+msgid "Record label"
+msgstr "唱片公司"
+
+msgctxt "#31440"
+msgid "Last.fm Plays"
+msgstr "Last.fm 播放次數"

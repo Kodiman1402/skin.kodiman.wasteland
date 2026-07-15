@@ -1,0 +1,2224 @@
+# Kodi Media Center language file
+# Addon Name: Aeon Tajo
+# Addon id: skin.aeon.tajo
+# Addon Provider: manfeed
+msgid ""
+msgstr ""
+"Project-Id-Version: KODI Skins\n"
+"POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2026-03-28 23:42+0000\n"
+"Last-Translator: manfeed <aeon.tajo@gmail.com>\n"
+"Language-Team: Catalan (Spain)  <aeon.tajo@gmail.com>\n"
+"Language: ca_es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+msgctxt "Addon Summary"
+msgid "Aeon Tajo"
+msgstr "Aeon Tajo"
+
+msgctxt "Addon Description"
+msgid "Aeon Tajo: Changes everything so that nothing changes. Inspired on Aeon Nox 5 (thanks to BigNoid)."
+msgstr "Aeon Tajo: Ho canvia tot perquè no canviï res. Inspirat en Aeon Nox 5 (gràcies a BigNoid)."
+
+msgctxt "Addon Disclaimer"
+msgid "Mouse control is supported, althoug not recommended. It may not work correctly in all cases."
+msgstr "El control amb ratolí és compatible, tot i que no es recomana. Pot no funcionar correctament en tots els casos."
+
+msgctxt "#31000"
+msgid "Directed by"
+msgstr "Dirigida per"
+
+msgctxt "#31001"
+msgid "Written by"
+msgstr "Escrita per"
+
+msgctxt "#31002"
+msgid "Blurred album thumb"
+msgstr "Miniatura d'àlbum difuminada"
+
+msgctxt "#31003"
+msgid "Power Options"
+msgstr "Opcions d'energia"
+
+msgctxt "#31004"
+msgid "Working"
+msgstr "Processant"
+
+msgctxt "#31005"
+msgid "Fixed"
+msgstr "Fixa"
+
+msgctxt "#31006"
+msgid "View Options"
+msgstr "Opcions de la vista"
+
+msgctxt "#31007"
+msgid "Setup home"
+msgstr "Configurar inici"
+
+msgctxt "#31008"
+msgid "Full screen"
+msgstr "Pantalla completa"
+
+msgctxt "#31009"
+msgid "Total Duration"
+msgstr "Duració total"
+
+msgctxt "#31010"
+msgid "Next episode"
+msgstr "Episodi Següent"
+
+msgctxt "#31011"
+msgid "Latest episode"
+msgstr "Últim episodi"
+
+msgctxt "#31012"
+msgid "Airs"
+msgstr "Emetrà"
+
+msgctxt "#31013"
+msgid "Statistics"
+msgstr "Estadístiques"
+
+msgctxt "#31014"
+msgid "Extras"
+msgstr "Extres"
+
+msgctxt "#31015"
+msgid "Set path to video genre fanart folder"
+msgstr "Estableix el camí a la carpeta de fanart del gènere de vídeo"
+
+msgctxt "#31016"
+msgid "Poster"
+msgstr "Cartell"
+
+msgctxt "#31017"
+msgid "Set path to music genre fanart folder"
+msgstr "Estableix el camí a la carpeta de fanart del gènere musical"
+
+msgctxt "#31018"
+msgid "InfoPanel"
+msgstr "Panell Informatiu"
+
+msgctxt "#31019"
+msgid "Network"
+msgstr "Xarxa"
+
+msgctxt "#31020"
+msgid "Extra-fanart"
+msgstr "Extra-fanart"
+
+msgctxt "#31021"
+msgid "Stage curtains"
+msgstr "Cortines d'escenari"
+
+msgctxt "#31022"
+msgid "Set multi-image background"
+msgstr "Estableix fons de diverses imatges"
+
+msgctxt "#31023"
+msgid "Set single image background"
+msgstr "Estableix el fons d'una sola imatge"
+
+msgctxt "#31024"
+msgid "Page"
+msgstr "Pàgina"
+
+msgctxt "#31025"
+msgid "Items"
+msgstr "Elements"
+
+msgctxt "#31026"
+msgid "Misc Options"
+msgstr "Opcions vàries"
+
+msgctxt "#31027"
+msgid "Set item background"
+msgstr "Estableix el fons de l'element"
+
+msgctxt "#31028"
+msgid "Live DVD Cases"
+msgstr "Cases de DVD en directe"
+
+msgctxt "#31029"
+msgid "Recent Movies"
+msgstr "Pel·lícules recents"
+
+msgctxt "#31030"
+msgid "Recent Episodes"
+msgstr "Episodis recents"
+
+msgctxt "#31031"
+msgid "Random Movies"
+msgstr "Pel·lícules aleatòries"
+
+msgctxt "#31032"
+msgid "Recommended Movies"
+msgstr "Pel·lícules recomanades"
+
+msgctxt "#31033"
+msgid "Random Episodes"
+msgstr "Episodis aleatoris"
+
+msgctxt "#31034"
+msgid "Recommended Episodes"
+msgstr "Episodis recomanats"
+
+msgctxt "#31035"
+msgid "Random Songs"
+msgstr "Cançons aleatòries"
+
+msgctxt "#31036"
+msgid "Random Albums"
+msgstr "Àlbums aleatoris"
+
+msgctxt "#31037"
+msgid "Recent Albums"
+msgstr "Àlbums recents"
+
+msgctxt "#31038"
+msgid "Recommended Albums"
+msgstr "Àlbums recomanats"
+
+msgctxt "#31039"
+msgid "Actions"
+msgstr "Accións"
+
+msgctxt "#31040"
+msgid "Now Playing"
+msgstr "S'està reproduint"
+
+msgctxt "#31041"
+msgid "Select widget"
+msgstr "Seleccioneu el giny"
+
+msgctxt "#31042"
+msgid "Show \"Now Playing\" information blended in the background"
+msgstr "Mostra informació de \"Reproduint ara\" fusionada al fons"
+
+msgctxt "#31043"
+msgid "Platform"
+msgstr "Plataforma"
+
+msgctxt "#31044"
+msgid "Views: Plot outline | Info dialog: Full plot"
+msgstr "Vistes: Esquema argumental | Diàleg d'informació: trama completa"
+
+msgctxt "#31045"
+msgid "Views: Full plot | Info dialog: Plot outline"
+msgstr "Vistes: Trama completa | Diàleg d'informació: esquema argumental"
+
+msgctxt "#31046"
+msgid "SEEKING"
+msgstr "BUSCANT"
+
+msgctxt "#31047"
+msgid "Set item icon"
+msgstr "Estableix la icona d'element"
+
+msgctxt "#31048"
+msgid "Visualisation Presets"
+msgstr "Visualitzacions preestablertes"
+
+msgctxt "#31049"
+msgid "Select infoline"
+msgstr "Seleccioneu la línia d'informació"
+
+msgctxt "#31050"
+msgid "Sort: Ascending"
+msgstr "Ordena: Ascendent"
+
+msgctxt "#31051"
+msgid "Sort: Descending"
+msgstr "Ordena: Descendent"
+
+msgctxt "#31052"
+msgid "Movie library statistics"
+msgstr "Estadístiques de la cinemateca"
+
+msgctxt "#31053"
+msgid "TV Show library statistics"
+msgstr "Estadístiques de la biblioteca de programes de televisió"
+
+msgctxt "#31054"
+msgid "Music library statistics"
+msgstr "Estadístiques de la biblioteca musical"
+
+msgctxt "#31055"
+msgid "Open playlist"
+msgstr "Obre la llista reproducció"
+
+msgctxt "#31056"
+msgid "Save playlist"
+msgstr "Desa la llista de reproducció"
+
+msgctxt "#31057"
+msgid "Close playlist"
+msgstr "Tanca la llista de reproducció"
+
+msgctxt "#31058"
+msgid "PVR information"
+msgstr "Informació PVR"
+
+msgctxt "#31059"
+msgid "Install Artist Slideshow add-on to enable this feature"
+msgstr "Instal·leu el complement Artist Slideshow per activar aquesta funció"
+
+msgctxt "#31060"
+msgid "This file is stacked, select the part you want to play from."
+msgstr "Aquest fitxer està agrupat, seleccioneu la part que desitgeu reproduir."
+
+msgctxt "#31061"
+msgid "Favourites statistics"
+msgstr "Estadístiques de favorits"
+
+msgctxt "#31062"
+msgid "Random movie fanart"
+msgstr "Fanart de pel·lícules aleatòries"
+
+msgctxt "#31063"
+msgid "Random TV show fanart"
+msgstr "Fanart de programes de televisió aleatoris"
+
+msgctxt "#31064"
+msgid "Random video fanart"
+msgstr "Fanart de vídeo aleatori"
+
+msgctxt "#31065"
+msgid "Random music fanart"
+msgstr "Fanart de música aleatòria"
+
+msgctxt "#31066"
+msgid "Random fanart"
+msgstr "Fanart aleatori"
+
+msgctxt "#31067"
+msgid "Update rating"
+msgstr "Actualitzar la qualificació"
+
+msgctxt "#31068"
+msgid "CD Wall"
+msgstr "CD Wall"
+
+msgctxt "#31069"
+msgid "Change location"
+msgstr "Canviar ubicació"
+
+msgctxt "#31070"
+msgid "Enable Cinema Experience integration"
+msgstr "Activa la integració de Cinema Experience"
+
+msgctxt "#31071"
+msgid "While browsing the library"
+msgstr "Mentre navegueu per la biblioteca"
+
+msgctxt "#31072"
+msgid "On open video info"
+msgstr "A la informació del vídeo oberta"
+
+msgctxt "#31073"
+msgid "Move menu item"
+msgstr "Mou l'element del menú"
+
+msgctxt "#31074"
+msgid "Choose item to swap places with"
+msgstr "Trieu l'element amb el qual voleu canviar de lloc"
+
+msgctxt "#31075"
+msgid "No extra features available"
+msgstr "No hi ha funcions addicionals disponibles"
+
+msgctxt "#31076"
+msgid "Landscape"
+msgstr "Apaïsat"
+
+msgctxt "#31077"
+msgid "ShowCase"
+msgstr "ShowCase"
+
+msgctxt "#31078"
+msgid "TriPanel"
+msgstr "Panell triple"
+
+msgctxt "#31079"
+msgid "Shift"
+msgstr "Majúscules"
+
+msgctxt "#31080"
+msgid "Manage submenu"
+msgstr "Gestiona el submenú"
+
+msgctxt "#31081"
+msgid "Enable custom submenus"
+msgstr "Activa els submenús personalitzats"
+
+msgctxt "#31082"
+msgid "Detach RSS feed from the main menu"
+msgstr "Separa el canal RSS del menú principal"
+
+msgctxt "#31083"
+msgid "Enable Next Aired information in the videolibrary"
+msgstr "Activa la informació de la següent emissió a la videoteca"
+
+msgctxt "#31084"
+msgid "Conditional weather"
+msgstr "Temps condicional"
+
+msgctxt "#31085"
+msgid "Musicvideo library statistics"
+msgstr "Estadístiques de la biblioteca de vídeos musicals"
+
+msgctxt "#31086"
+msgid "Icon"
+msgstr "Icona"
+
+msgctxt "#31087"
+msgid "Banner"
+msgstr "Bandera"
+
+msgctxt "#31088"
+msgid "BannerWall"
+msgstr "BannerWall"
+
+msgctxt "#31089"
+msgid "Play item on startup"
+msgstr "Reprodueix l'element a l'arrencada"
+
+msgctxt "#31090"
+msgid "Seconds"
+msgstr "Segons"
+
+msgctxt "#31091"
+msgid "Select items"
+msgstr "Seleccioneu elements"
+
+msgctxt "#31092"
+msgid "Fullscreen fanart"
+msgstr "Fanart a pantalla completa"
+
+msgctxt "#31093"
+msgid "LowList toggle"
+msgstr "Commuta LowList"
+
+msgctxt "#31094"
+msgid "List view layout"
+msgstr "Disseny de la vista de llista"
+
+msgctxt "#31095"
+msgid "Slim List"
+msgstr "Slim List"
+
+msgctxt "#31096"
+msgid "Concert locations"
+msgstr "Llocs de concerts"
+
+msgctxt "#31097"
+msgid "Movie playlist statistics"
+msgstr "Estadístiques de llistes de reproducció de pel·lícules"
+
+msgctxt "#31098"
+msgid "TV Show playlist statistics"
+msgstr "Estadístiques de llistes de reproducció de programes de televisió"
+
+msgctxt "#31099"
+msgid "Musicvideo playlist statistics"
+msgstr "Estadístiques de llistes de reproducció de vídeos musicals"
+
+msgctxt "#31100"
+msgid "View:"
+msgstr "Visualització:"
+
+msgctxt "#31101"
+msgid "Choose view"
+msgstr "Trieu vista"
+
+msgctxt "#31102"
+msgid "Background"
+msgstr "Fons"
+
+msgctxt "#31103"
+msgid "N/A"
+msgstr "N/A"
+
+msgctxt "#31104"
+msgid "Similar artists"
+msgstr "Artistes semblants"
+
+msgctxt "#31105"
+msgid "More albums from"
+msgstr "Més àlbums de"
+
+msgctxt "#31106"
+msgid "On info"
+msgstr "Sobre la informació"
+
+msgctxt "#31107"
+msgid "Persistent"
+msgstr "Persistent"
+
+msgctxt "#31108"
+msgid "Enable artist information feed (if available)"
+msgstr "Activa el feed d'informació de l'artista (si està disponible)"
+
+msgctxt "#31109"
+msgid "Unwatched episode count"
+msgstr "Recompte d'episodis no vists"
+
+msgctxt "#31110"
+msgid "Up next brings the option to watch right away the next episode of a TV show (Netflix/Prime video style)."
+msgstr "A continuació ofereix l'opció de veure immediatament el següent episodi d'un programa de televisió (estil de vídeo Netflix/Prime)."
+
+msgctxt "#31111"
+msgid "Similar movies"
+msgstr "Pel·lícules semblants"
+
+msgctxt "#31112"
+msgid "Movies directed by"
+msgstr "Pel·lícules dirigides per"
+
+msgctxt "#31113"
+msgid "Movies written by"
+msgstr "Pel·lícules escrites per"
+
+msgctxt "#31114"
+msgid "More movies from"
+msgstr "Més pel·lícules de"
+
+msgctxt "#31115"
+msgid "Similar TV shows"
+msgstr "Programes de televisió similars"
+
+msgctxt "#31116"
+msgid "cycle fanart"
+msgstr "ciclo fanart"
+
+msgctxt "#31117"
+msgid "Fallback"
+msgstr "Retrocés"
+
+msgctxt "#31118"
+msgid "Download extrafanart"
+msgstr "Descarrega extrafanart"
+
+msgctxt "#31119"
+msgid "Show the movies from this director in your library or view online information on this director on TMDb?"
+msgstr "Mostra les pel·lícules d'aquest director a la teva biblioteca o consulta informació en línia sobre aquest director a TMDb?"
+
+msgctxt "#31120"
+msgid "TMDb"
+msgstr "TMDb"
+
+msgctxt "#31121"
+msgid "Disable autocomplete"
+msgstr "Desactiva l'emplenament automàtic"
+
+msgctxt "#31122"
+msgid "Disables the autocomplete feature of the virtual keyboard"
+msgstr "Desactiva la funció d'emplenament automàtic del teclat virtual"
+
+msgctxt "#31123"
+msgid "Album review"
+msgstr "Ressenya de l'àlbum"
+
+msgctxt "#31124"
+msgid "Show Background \"Now Playing\" Video"
+msgstr "Mostra el vídeo en reproducció en el fons"
+
+msgctxt "#31125"
+msgid "Show Background \"Now Playing\" Visualisation"
+msgstr "Mostra la visualització en reproducció en el fons"
+
+msgctxt "#31126"
+msgid "Opacity level for widgets"
+msgstr "Nivell d'opacitat dels ginys"
+
+msgctxt "#31127"
+msgid "LiveTV Mod Settings"
+msgstr "Configuració del mod de LiveTV"
+
+msgctxt "#31128"
+msgid "Channels View"
+msgstr "Vista de canals"
+
+msgctxt "#31129"
+msgid "Hide Fanart in full screen visualisation"
+msgstr "Amaga el fanart a la visualització de pantalla completa"
+
+msgctxt "#31130"
+msgid "Use \"Enigma2-style\" channel OSD"
+msgstr "Utilitza OSD de canal estil \"Enigma2\""
+
+msgctxt "#31131"
+msgid "EPG Timeline View"
+msgstr "Visualització de la línia de temps de l'EPG"
+
+msgctxt "#31132"
+msgid "Tuner:"
+msgstr "Sintonitzador:"
+
+msgctxt "#31133"
+msgid "Timeline channels-type:"
+msgstr "Tipus de canals de cronologia:"
+
+msgctxt "#31134"
+msgid "Timeline view-type:"
+msgstr "Tipus de visualització de la cronologia:"
+
+msgctxt "#31135"
+msgid "Infobar Options"
+msgstr "Opcions de la barra d'informació"
+
+msgctxt "#31136"
+msgid "Infobar type:"
+msgstr "Tipus de barra d'informació:"
+
+msgctxt "#31137"
+msgid "Hide encryption information"
+msgstr "Amaga la informació d'encriptació"
+
+msgctxt "#31138"
+msgid "Hide tuner information"
+msgstr "Amaga la informació del sintonitzador"
+
+msgctxt "#31139"
+msgid "Hide signal information"
+msgstr "Amaga la informació del senyal"
+
+msgctxt "#31140"
+msgid "Sideblade Options"
+msgstr "Opcions de sideblade"
+
+msgctxt "#31141"
+msgid "Hide Guide"
+msgstr "Amaga la guia"
+
+msgctxt "#31142"
+msgid "Settings level"
+msgstr "Nivell d'opcions"
+
+msgctxt "#31143"
+msgid "Hide Recordings"
+msgstr "Oculta els enregistraments"
+
+msgctxt "#31144"
+msgid "Hide Timer"
+msgstr "Amaga el temporitzador"
+
+msgctxt "#31145"
+msgid "Hide Search"
+msgstr "Amaga la cerca"
+
+msgctxt "#31146"
+msgid "Rated"
+msgstr "Valoració"
+
+msgctxt "#31147"
+msgid "Change rating"
+msgstr "Canvia la qualificació"
+
+msgctxt "#31148"
+msgid "List local library items"
+msgstr "Llista els articles de la biblioteca local"
+
+msgctxt "#31149"
+msgid "Online info from TMDb"
+msgstr "Informació en línia de TMDb"
+
+msgctxt "#31150"
+msgid "Select studio logo artwork"
+msgstr "Seleccioneu el logotip de l'estudi"
+
+msgctxt "#31151"
+msgid "Customize the studio logos by choosing a different logo pack. Note that this has no effect on the studio icons displayed in the \"List\" view."
+msgstr "Personalitza els logotips d'estudi triant un paquet de logotips diferent. Tingues en compte que això no té cap efecte sobre les icones d'estudi que es mostren a la vista \"Llista\"."
+
+msgctxt "#31152"
+msgid "In progress movies"
+msgstr "Pel·lícules en curs"
+
+msgctxt "#31153"
+msgid "Popular movies on TheMovieDB.org"
+msgstr "Pel·lícules populars a TheMovieDB.org"
+
+msgctxt "#31154"
+msgid "Top rated movies on TheMovieDB.org"
+msgstr "Pel·lícules amb millor puntuació a TheMovieDB.org"
+
+msgctxt "#31155"
+msgid "Movies currently in cinema"
+msgstr "Pel·lícules actualment al cinema"
+
+msgctxt "#31156"
+msgid "Upcoming movies"
+msgstr "Pròximes pel·lícules"
+
+msgctxt "#31157"
+msgid "Multi movie widget"
+msgstr "Giny de múltiples pel·lícules"
+
+msgctxt "#31158"
+msgid "IMDb Top 250 movies"
+msgstr "Les 250 millors pel·lícules d'IMDb"
+
+msgctxt "#31159"
+msgid "Event log"
+msgstr "Registre d'esdeveniments"
+
+msgctxt "#31160"
+msgid "Display background name"
+msgstr "Mostra el nom del fons"
+
+msgctxt "#31161"
+msgid "Display title of movie/TV show/artist on home screen if the background has a fanart slideshow as background"
+msgstr "Mostra el títol de la pel·lícula/programa de televisió/artista a la pantalla d'inici si el fons té una presentació de diapositives de fanart com a fons"
+
+msgctxt "#31162"
+msgid "min"
+msgstr "min"
+
+msgctxt "#31163"
+msgid "TIMESHIFT"
+msgstr "TIMESHIFT"
+
+msgctxt "#31164"
+msgid "Change weather icons"
+msgstr "Canvia les icones del temps"
+
+msgctxt "#31165"
+msgid "Layout"
+msgstr "Disseny"
+
+msgctxt "#31166"
+msgid "Wall"
+msgstr "Paret"
+
+msgctxt "#31167"
+msgid "You're watching"
+msgstr "Estàs mirant"
+
+msgctxt "#31168"
+msgid "h"
+msgstr "h"
+
+msgctxt "#31169"
+msgid "m"
+msgstr "m"
+
+msgctxt "#31170"
+msgid "Enable Netflix style pause screen"
+msgstr "Activa la pantalla de pausa d'estil Netflix"
+
+msgctxt "#31171"
+msgid "Shows an overview of the movie or episode 10 seconds after the video is paused."
+msgstr "Mostra una visió general de la pel·lícula o de l'episodi 10 segons després de la pausa del vídeo."
+
+msgctxt "#31172"
+msgid "Inactive"
+msgstr "Inactiu"
+
+msgctxt "#31173"
+msgid "Decoder"
+msgstr "Descodificador"
+
+msgctxt "#31174"
+msgid "Hardware decoding"
+msgstr "Descodificació del maquinari"
+
+msgctxt "#31175"
+msgid "press 'OK' to see more..."
+msgstr "premeu "D'acord" per veure'n més..."
+
+msgctxt "#31176"
+msgid "Enter text here..."
+msgstr "Introduïu aquí el text..."
+
+msgctxt "#31177"
+msgid "Player controls"
+msgstr "Controls del jugador"
+
+msgctxt "#31178"
+msgid "Playlist options"
+msgstr "Opcions de la llista de reproducció"
+
+msgctxt "#31179"
+msgid "Critics"
+msgstr "Crítics"
+
+msgctxt "#31180"
+msgid "Play main theme when browsing movies and TV shows"
+msgstr "Reprodueix el tema principal quan navegues per pel·lícules i programes de televisió"
+
+msgctxt "#31181"
+msgid "Display cast in video views"
+msgstr "Mostra l'emissió en visualitzacions de vídeo"
+
+msgctxt "#31182"
+msgid "Hide current time in media views"
+msgstr "Amaga l'hora actual a les visualitzacions multimèdia"
+
+msgctxt "#31183"
+msgid "Hide number of items in media views"
+msgstr "Amaga el nombre d'elements a les visualitzacions multimèdia"
+
+msgctxt "#31184"
+msgid "Enable, disable and/or force video views"
+msgstr "Activa, desactiva i/o força les visualitzacions de vídeo"
+
+msgctxt "#31185"
+msgid "Enable, disable and/or force music views"
+msgstr "Activa, desactiva i/o força les visualitzacions de música"
+
+msgctxt "#31186"
+msgid "Force Kodi to always use certain view when browsing each kind of media. Disabling views that you don't use could speed up browsing in some devices"
+msgstr "Força Kodi a utilitzar sempre una vista determinada quan navegui per cada tipus de suport.Desactivar les vistes que no feu servir podria accelerar la navegació en alguns dispositius"
+
+msgctxt "#31187"
+msgid "Available for:"
+msgstr "Disponible per a:"
+
+msgctxt "#31188"
+msgid "Kiosk mode"
+msgstr "Mode quiosc"
+
+msgctxt "#31189"
+msgid "Disables the side media menu in views and most options to change Kodi, so as to prevent unwanted modifications."
+msgstr "Desactiva el menú multimèdia lateral a les visualitzacions i la majoria d'opcions per canviar Kodi, per tal d'evitar modificacions no desitjades."
+
+msgctxt "#31190"
+msgid "In cinemas"
+msgstr "Als cinemes"
+
+msgctxt "#31191"
+msgid "In cinemas soon"
+msgstr "Aviat als cinemes"
+
+msgctxt "#31192"
+msgid "Spotify"
+msgstr "Spotify"
+
+msgctxt "#31193"
+msgid "Show images of the best-known actresses"
+msgstr "Mostra imatges de les actrius més conegudes"
+
+msgctxt "#31194"
+msgid "Search the Red Carpet add-on for images of the best-known actresses from the movie/TV show and display them alongside the cast."
+msgstr "Cerca al complement de la catifa vermella imatges de les actrius més conegudes de la pel·lícula/programa de televisió i mostra-les al costat del repartiment."
+
+msgctxt "#31195"
+msgid "Show logos of film studios in video views"
+msgstr "Mostra els logotips dels estudis de cinema en visualitzacions de vídeo"
+
+msgctxt "#31196"
+msgid "Show logos of record labels in music albums views"
+msgstr "Mostra els logotips de les discogràfiques a les vistes d'àlbums de música"
+
+msgctxt "#31197"
+msgid "Show home music widget"
+msgstr "Mostra el giny de música de casa"
+
+msgctxt "#31198"
+msgid "Show home video widget"
+msgstr "Mostra el giny de vídeo domèstic"
+
+msgctxt "#31199"
+msgid "Colours, marks and home screen"
+msgstr "Colors, marques i pantalla d'inici"
+
+msgctxt "#31200"
+msgid "Is used to choose among different Kodi resource image pack to weather artwork and icons."
+msgstr "S'utilitza per triar entre diferents paquets d'imatges de recursos de Kodi per meteoritzar obres d'art i icones."
+
+msgctxt "#31201"
+msgid "Performance impact"
+msgstr "Impacte en el rendiment"
+
+msgctxt "#31202"
+msgid "Plays music in the background while in Home and Settings screens. A default song collection is provided, but a different song folder can be used."
+msgstr "Reprodueix música en segon pla mentre es troba a les pantalles d'inici i Configuració.Es proporciona una col·lecció de cançons predeterminada, però es pot utilitzar una carpeta de cançons diferent."
+
+msgctxt "#31203"
+msgid "Select your own folder to use as background music. Make sure that it only contains music files."
+msgstr "Seleccioneu la vostra pròpia carpeta per utilitzar-la com a música de fons.Assegureu-vos que només conté fitxers de música."
+
+msgctxt "#31204"
+msgid "When enabled, widgets linked to each home menu item will appear automatically. If disabled, widgets remain hidden until the corresponding arrow key is pressed."
+msgstr "Quan està activat, els ginys enllaçats a cada element del menú d'inici apareixeran automàticament.Si està desactivat, els ginys romandran ocults fins que es prem la tecla de fletxa corresponent."
+
+msgctxt "#31205"
+msgid "Lyrics Source"
+msgstr "Origen de les lletres"
+
+msgctxt "#31206"
+msgid "Customization"
+msgstr "Personalització"
+
+msgctxt "#31207"
+msgid "Views"
+msgstr "Vistes"
+
+msgctxt "#31208"
+msgid "Home screen"
+msgstr "Pantalla d'inici"
+
+msgctxt "#31209"
+msgid "Options"
+msgstr "Opcions"
+
+msgctxt "#31210"
+msgid "Select another image as default background"
+msgstr "Seleccioneu una altra imatge com a fons predeterminat"
+
+msgctxt "#31211"
+msgid "Changes the default Aeon Tajo background to another chosen by the user."
+msgstr "Canvia el fons predeterminat de l'Aeon Tajo per un altre escollit per l'usuari."
+
+msgctxt "#31212"
+msgid "Current background path: "
+msgstr "Camí de fons actual:"
+
+msgctxt "#31213"
+msgid "Reset skin default background"
+msgstr "Restableix el fons predeterminat de la pell"
+
+msgctxt "#31214"
+msgid "Resets the default background provided with Aeon Tajo."
+msgstr "Restableix el fons predeterminat proporcionat amb Aeon Tajo."
+
+msgctxt "#31215"
+msgid "Show the coloured version of the icons rather than the monochrome version."
+msgstr "Mostra la versió de color de les icones en lloc de la versió monocroma."
+
+msgctxt "#31216"
+msgid "Displays background and fanart images with a subtle motion effect across the screen."
+msgstr "Mostra imatges de fons i fanart amb un efecte de moviment subtil a la pantalla."
+
+msgctxt "#31217"
+msgid "Displays a list in the video views featuring thumbnail images of the main actors from the movie or TV show's cast."
+msgstr "Mostra una llista a les visualitzacions de vídeo amb imatges en miniatura dels actors principals del repartiment de la pel·lícula o del programa de televisió."
+
+msgctxt "#31218"
+msgid "Search the Studio Icons add-on for logo images of the film studios of the movie/TV show, and if found, display them while browsing the video views."
+msgstr "Cerqueu al complement d'icones d'estudi imatges de logotip dels estudis de cinema de la pel·lícula/programa de televisió i, si les trobeu, mostreu-les mentre navegueu per les visualitzacions de vídeo."
+
+msgctxt "#31219"
+msgid "Search for the album's record label logo using the RecordLabel Icons addon, and if found, display it when browsing the music album views."
+msgstr "Cerqueu el logotip de la discogràfica de l'àlbum mitjançant el complement d'icones de RecordLabel i, si el trobeu, mostra'l quan navegueu per les vistes de l'àlbum de música."
+
+msgctxt "#31220"
+msgid "Show rating"
+msgstr "Mostra la valoració"
+
+msgctxt "#31221"
+msgid "Show artist clearart"
+msgstr "Mostra l'artista clearart"
+
+msgctxt "#31222"
+msgid "Show CD"
+msgstr "Mostra CD"
+
+msgctxt "#31223"
+msgid "Show Time"
+msgstr "Mostra l'hora"
+
+msgctxt "#31224"
+msgid "Animated posters"
+msgstr "Cartells animats"
+
+msgctxt "#31225"
+msgid "Normal posters"
+msgstr "Cartells normals"
+
+msgctxt "#31226"
+msgid "Extra posters"
+msgstr "Cartells addicionals"
+
+msgctxt "#31227"
+msgid "Sets the transparency level of the home menu widgets."
+msgstr "Estableix el nivell de transparència dels ginys del menú d'inici."
+
+msgctxt "#31228"
+msgid "Displays main menu options in a vertical layout instead of a horizontal one."
+msgstr "Mostra les opcions del menú principal en una disposició vertical en lloc d'una horitzontal."
+
+msgctxt "#31229"
+msgid "Set another video file as startup intro"
+msgstr "Estableix un altre fitxer de vídeo com a introducció d'inici"
+
+msgctxt "#31230"
+msgid "Choose another video file to play when Kodi starts instead of Aeon Tajo default. It's recommended to choose a short one. To stop playback and start using Kodi right away, click or press any arrow key."
+msgstr "Trieu un altre fitxer de vídeo per reproduir-lo quan s'iniciï Kodi en comptes de l'Aeon Tajo per defecte.Es recomana triar-ne un de curt.Per aturar la reproducció i començar a utilitzar Kodi immediatament, feu clic o premeu qualsevol tecla de fletxa."
+
+msgctxt "#31231"
+msgid "Plays an intro video when launching Kodi"
+msgstr "Reprodueix un vídeo d'introducció en iniciar Kodi"
+
+msgctxt "#31232"
+msgid "Clear current intro video file and back to default"
+msgstr "Esborra el fitxer de vídeo d'introducció actual i torna al valor predeterminat"
+
+msgctxt "#31233"
+msgid "Clear the intro video file selected by the user and back to Aeon Tajo's default."
+msgstr "Netegeu el fitxer de vídeo d'introducció seleccionat per l'usuari i torneu al valor predeterminat d'Aeon Tajo."
+
+msgctxt "#31234"
+msgid "Adds a layer that simulates falling snow on all Kodi screens, with four available intensity levels."
+msgstr "Afegeix una capa que simula la caiguda de neu a totes les pantalles de Kodi, amb quatre nivells d'intensitat disponibles."
+
+msgctxt "#31235"
+msgid "Override the current home menu backgrounds with this one"
+msgstr "Substituïu els fons actuals del menú d'inici amb aquest"
+
+msgctxt "#31236"
+msgid "The background selections made in the Setup Main Menu screen will be preserved. Disabling this option will restore all previous backgrounds. This option is particularly designed for use during special seasons."
+msgstr "Es conservaran les seleccions de fons fetes a la pantalla del menú principal de configuració.Si desactiveu aquesta opció, es restauraran tots els fons anteriors.Aquesta opció està especialment dissenyada per utilitzar-la durant estacions especials."
+
+msgctxt "#31237"
+msgid "No impact"
+msgstr "Sense impacte"
+
+msgctxt "#31238"
+msgid "Very small"
+msgstr "Molt petit"
+
+msgctxt "#31239"
+msgid "Small"
+msgstr "Petit"
+
+msgctxt "#31240"
+msgid "Moderate"
+msgstr "Moderat"
+
+msgctxt "#31241"
+msgid "Pixel format"
+msgstr "Format de píxels"
+
+msgctxt "#31242"
+msgid "System rendering speed"
+msgstr "Velocitat de renderització del sistema"
+
+msgctxt "#31243"
+msgid "Hide actor's thumbnails"
+msgstr "Amaga les miniatures de l'actor"
+
+msgctxt "#31244"
+msgid "Show only a list of the actors' names, instead of also including their thumbnails."
+msgstr "Mostra només una llista dels noms dels actors, en lloc d'incloure també les seves miniatures."
+
+msgctxt "#31250"
+msgid "Automatic Full Screen when playing music"
+msgstr "Pantalla completa automàtica quan es reprodueix música"
+
+msgctxt "#31251"
+msgid "Don't play melodies while in Home Screen"
+msgstr "No reproduïu melodies a la pantalla d'inici"
+
+msgctxt "#31252"
+msgid "Always show home screen widgets"
+msgstr "Mostra sempre els ginys de la pantalla d'inici"
+
+msgctxt "#31253"
+msgid "Choose user audio playlist *.m3u (max.10 songs)"
+msgstr "Trieu la llista de reproducció d'àudio de l'usuari *.m3u (màxim 10 cançons)"
+
+msgctxt "#31254"
+msgid "Clear user playlist (back to default)"
+msgstr "Esborra la llista de reproducció d'usuari (torna al valor predeterminat)"
+
+msgctxt "#31300"
+msgid "Overview"
+msgstr "Visió general"
+
+msgctxt "#31301"
+msgid "Last Updated"
+msgstr "Actualització més recent"
+
+msgctxt "#31307"
+msgid "Hide Fanart"
+msgstr "Amaga el fanart"
+
+msgctxt "#31308"
+msgid "Next aired"
+msgstr "Seguidament emesa"
+
+msgctxt "#31309"
+msgid "Memory Used:"
+msgstr "Memòria utilitzada:"
+
+msgctxt "#31310"
+msgid "Available audio tracks"
+msgstr "Pistes d'àudio disponibles"
+
+msgctxt "#31317"
+msgid "Set Fanart Path"
+msgstr "Estableix el camí del fanart"
+
+msgctxt "#31320"
+msgid "Last Logged In"
+msgstr "Últim accés el"
+
+msgctxt "#31321"
+msgid "Karaoke Song Selector"
+msgstr "Selector de cançons del karaoke"
+
+msgctxt "#31328"
+msgid "Recently Added"
+msgstr "Afegits recentment"
+
+msgctxt "#31331"
+msgid "Installed"
+msgstr "Instal·lat"
+
+msgctxt "#31332"
+msgid "Not Installed"
+msgstr "No instal·lat"
+
+msgctxt "#31334"
+msgid "Required"
+msgstr "Obligatori"
+
+msgctxt "#31335"
+msgid "Recommended"
+msgstr "Recomanat"
+
+msgctxt "#31336"
+msgid "Optional"
+msgstr "Opcional"
+
+msgctxt "#31390"
+msgid "Skin default"
+msgstr "Predeterminat de l'aparença"
+
+msgctxt "#31400"
+msgid "[B]CONFIGURE INTERFACE SETTINGS[/B][CR][CR]Change the skin · Set language and region · Setup remote controls[CR]Set up a screensaver · Setup master lock"
+msgstr "[B]CONFIGURA LA CONFIGURACIÓ DE LA INTERFÀCIE[/B][CR][CR]Canvia la pell · Configura l'idioma i la regió · Configura els comandaments a distància[CR]Configura un salvapantalles · Configura el bloqueig mestre"
+
+msgctxt "#31401"
+msgid "Menu - press 'OK'"
+msgstr "Menú: premeu "D'acord""
+
+msgctxt "#31402"
+msgid "Enable startup video intro"
+msgstr "Activa la introducció del vídeo d'inici"
+
+msgctxt "#31405"
+msgid "[B]MONITOR YOUR SYSTEM[/B][CR][CR]Check out your hardware · Monitor CPU usage[CR]Check Kodi revision number"
+msgstr "[B]MONITORITZA EL TEU SISTEMA[/B][CR][CR]Comprova el teu hardware · Monitoritza l'ús de la CPU[CR]Comprova la versió de l'Kodi"
+
+msgctxt "#31406"
+msgid "[B]CONFIGURE SYSTEM SETTINGS[/B][CR][CR]Setup and calibrate displays · Configure audio output · [CR]Set power saving options · Enable debugging"
+msgstr "[B]CONFIGURA LA CONFIGURACIÓ DEL SISTEMA[/B][CR][CR]Configura i calibra les pantalles · Configura la sortida d'àudio · [CR]Configura les opcions d'estalvi d'energia · Activa la depuració"
+
+msgctxt "#31407"
+msgid "[B]SETUP PROFILES[/B][CR][CR]Setup and manage user profiles · Enable login screen[CR]Change password · Add a profile picture"
+msgstr "[B]CONFIGURA ELS PERFILS[/B][CR][CR]Configura i gestiona els perfils d'usuari · Activa la pantalla d'inici de sessió[CR]Canvia la contrasenya · Afegeix una foto de perfil"
+
+msgctxt "#31409"
+msgid "[B]CONFIGURE TV SETTINGS[/B][CR][CR]Change full screen info · Manage EPG data settings"
+msgstr "[B]CONFIGUREU ELS PARÀMETRES DE TV[/B][CR][CR]Canvia la informació de pantalla completa · Gestiona els paràmetres de les dades EPG"
+
+msgctxt "#31410"
+msgid "[B]CONFIGURE SERVICE SETTINGS[/B][CR][CR]Setup control of Kodi via UPnP and HTTP · Configure file sharing[CR]Enable Zeroconf · Configure AirPlay"
+msgstr "[B]CONFIGUREU ELS PARÀMETRES DE SERVEI[/B][CR][CR]Configureu el control de l'Kodi a través de UPnP i HTTP[CR]Configureu l'ús compartit de fitxers · Habiliteu el Zeroconf · Configureu l'AirPlay"
+
+msgctxt "#31412"
+msgid "Select section"
+msgstr "Seleccioneu la secció"
+
+msgctxt "#31413"
+msgid "Local subtitle available"
+msgstr "Subtítol local disponible"
+
+msgctxt "#31414"
+msgid "[B]CONFIGURE PLAYER SETTINGS[/B][CR][CR]Configure video playback · Configure music playback · Configure picture slideshow[CR]Configure video language and subtitles"
+msgstr "[B]CONFIGURA LA CONFIGURACIÓ DEL REPRODUCTOR[/B][CR][CR]Configura la reproducció de vídeo · Configura la reproducció de música · Configura la presentació de diapositives[CR]Configura l'idioma i els subtítols del vídeo"
+
+msgctxt "#31415"
+msgid "[B]CONFIGURE MEDIA SETTINGS[/B][CR][CR]Set default select action · Configure file list options · Configure metadata options[CR]Manage databases"
+msgstr "[B]CONFIGURA LA CONFIGURACIÓ DELS MEDIA[/B][CR][CR]Estableix l'acció de selecció predeterminada · Configura les opcions de la llista de fitxers · Configura les opcions de metadades[CR]Gestiona les bases de dades"
+
+msgctxt "#31421"
+msgid "Select your Kodi user profile[CR]to login and continue"
+msgstr "Seleccioneu el vostre perfil d'usuari de Kodi[CR]per autenticar-vos i continuar"
+
+msgctxt "#31427"
+msgid "Skin Shortcuts is responsible for handling all aspects of the main menu."
+msgstr "Les dreceres de la pell són responsables de gestionar tots els aspectes del menú principal."
+
+msgctxt "#31428"
+msgid "The Grab Fanart script provides the random fanart slideshows for the main menu."
+msgstr "L'script Grab Fanart proporciona les presentacions de diapositives de fanart aleatòries per al menú principal."
+
+msgctxt "#31429"
+msgid "Library Data Provider is a service that runs in the background to provide library data for widgets and live backgrounds as well as playlist statistics for infolines."
+msgstr "Proveïdor de dades de la biblioteca és un servei que s'executa en segon pla per proporcionar dades de biblioteca per a ginys i fons en directe, així com estadístiques de llistes de reproducció per a línies d'informació."
+
+msgctxt "#31430"
+msgid "Resource image addon for displaying the default white studio icons throughout the skin."
+msgstr "Complement d'imatge de recursos per mostrar les icones d'estudi blanques predeterminades a tota la pell."
+
+msgctxt "#31431"
+msgid "Resource image addon for displaying the default white recording label icons throughout the skin."
+msgstr "Complement d'imatge de recursos per mostrar les icones d'etiquetes de gravació blanques predeterminades a tota la pell."
+
+msgctxt "#31432"
+msgid "Provides numerous Widget options and extended cast and crew metadata."
+msgstr "Proporciona nombroses opcions de widget i metadades ampliades de repartiment i equip."
+
+msgctxt "#31433"
+msgid "Skin Info Service is used to display movie set information throughout the skin."
+msgstr "El servei d'informació de la pell s'utilitza per mostrar la informació del conjunt de pel·lícules a tota la pell."
+
+msgctxt "#31434"
+msgid "Check MP3 Theme checks whether the user has put a theme.mp3 file in the corresponding movie/TV show folder to be played when browsing."
+msgstr "Comprova el tema MP3 comprova si l'usuari ha posat un fitxer theme.mp3 a la carpeta corresponent de pel·lícules/programa de televisió per reproduir-lo durant la navegació."
+
+msgctxt "#31450"
+msgid "  •  Open Settings "
+msgstr "• Obriu Configuració"
+
+msgctxt "#31451"
+msgid "  •  Click to Install"
+msgstr "• Feu clic per instal·lar"
+
+msgctxt "#31473"
+msgid "Aeon Tajo Helper provides the data to display the cast for movies and TV shows."
+msgstr "Aeon Tajo Helper proporciona les dades per mostrar el repartiment de pel·lícules i programes de televisió."
+
+msgctxt "#31474"
+msgid "CU LRC Lyrics is used to download, sync, and display lyrics during fullscreen music playback."
+msgstr "Les lletres de CU LRC s'utilitzen per descarregar, sincronitzar i mostrar lletres durant la reproducció de música a pantalla completa."
+
+msgctxt "#31475"
+msgid "Play Trailer makes possible to play movie trailers through a context menu. "
+msgstr "Play Trailer permet reproduir tràilers de pel·lícules mitjançant un menú contextual."
+
+msgctxt "#31476"
+msgid "Allows the use of Youtube to play trailers and other videos."
+msgstr "Permet l'ús de Youtube per reproduir tràilers i altres vídeos."
+
+msgctxt "#31477"
+msgid "Provides some cast actress images to be shown in video views."
+msgstr "Proporciona algunes imatges d'actriu de repartiment per mostrar-les en visualitzacions de vídeo."
+
+msgctxt "#31478"
+msgid "Artist Slideshow is used to display artist fanart for both the home screen and during fullscreen music playback."
+msgstr "La presentació de diapositives d'artista s'utilitza per mostrar el fanart de l'artista tant a la pantalla d'inici com durant la reproducció de música a pantalla completa."
+
+msgctxt "#31479"
+msgid "AutoCompletion provides suggestions to be selected while using the virtual keyboard."
+msgstr "L'autocompleció ofereix suggeriments per seleccionar-los mentre s'utilitza el teclat virtual."
+
+msgctxt "#31480"
+msgid "Library Editor Script uses JSON to directly edit your database information."
+msgstr "Library Editor Script utilitza JSON per editar directament la informació de la vostra base de dades."
+
+msgctxt "#31481"
+msgid "Global Search makes possible to search among all the items (movies, TV shows, music, actors, etc.) in your collection."
+msgstr "La cerca global permet cercar entre tots els elements (pel·lícules, programes de televisió, música, actors, etc.) de la vostra col·lecció."
+
+msgctxt "#31501"
+msgid "Channel group"
+msgstr "Grup del canal"
+
+msgctxt "#31502"
+msgid "Live TV"
+msgstr "TV en directe"
+
+msgctxt "#31503"
+msgid "Add Group"
+msgstr "Afegeix un grup"
+
+msgctxt "#31504"
+msgid "Rename Group"
+msgstr "Canvia el nom del grup"
+
+msgctxt "#31505"
+msgid "Delete Group"
+msgstr "Elimina el grup"
+
+msgctxt "#31506"
+msgid "Available[CR]Groups"
+msgstr "Grups[CR]disponibles"
+
+msgctxt "#31511"
+msgid "Channel Options"
+msgstr "Opcions del canal"
+
+msgctxt "#31512"
+msgid "Show similar movies in Shelf 3D view"
+msgstr "Mostra pel·lícules similars a la vista 3D de prestatge"
+
+msgctxt "#31901"
+msgid "36 Hour Forecast"
+msgstr "Predicció a 36 hores"
+
+msgctxt "#31902"
+msgid "Hourly Forecast"
+msgstr "Predicció per hores"
+
+msgctxt "#31903"
+msgid "Weekend Forecast"
+msgstr "Predicció del cap de setmana"
+
+msgctxt "#31904"
+msgid "10 Day Forecast"
+msgstr "Predicció a 10 dies"
+
+msgctxt "#31908"
+msgid "Chance of Precipitation"
+msgstr "Possibilitat de precipitació"
+
+msgctxt "#31909"
+msgid "Fetching forecast info..."
+msgstr "S'està obtenint la informació de la predicció..."
+
+msgctxt "#31910"
+msgid "Map & Alerts"
+msgstr "Mapa i alertes"
+
+msgctxt "#31911"
+msgid "Setup the Aeon Tajo main menu"
+msgstr "Configura el menú principal de l'Aeon Tajo"
+
+msgctxt "#31912"
+msgid "Customize the main menu with widgets, backgrounds and statistics. Add your own custom main menu items."
+msgstr "Personalitza el menú principal amb ginys, fons i estadístiques.Afegeix els teus propis elements personalitzats del menú principal."
+
+msgctxt "#31913"
+msgid "Aeon Tajo main menu vertical position"
+msgstr "Posició vertical del menú principal Aeon Tajo"
+
+msgctxt "#31914"
+msgid "Change the vertical position of the main menu. Default is centered on screen."
+msgstr "Canvia la posició vertical del menú principal.El valor predeterminat es centra a la pantalla."
+
+msgctxt "#31915"
+msgid "Navigation style for horizontal lists"
+msgstr "Estil de navegació per a llistes horitzontals"
+
+msgctxt "#31916"
+msgid "Change the way horizontal lists scroll in Aeon Tajo. Default will scroll lists in a cycle. \"Fixed\" are lists with a beginning and end."
+msgstr "Canvia la manera com es desplacen les llistes horitzontals a Aeon Tajo. Per defecte, les llistes es desplaçaran en un cicle. \"Fix\" són llistes amb un principi i un final."
+
+msgctxt "#31917"
+msgid "When enabled text scrolls automatically. When disabled manual scrolling is required. Note that most textboxes don't have a manual button."
+msgstr "Quan està activat, el text es desplaça automàticament.Quan està desactivat, es requereix el desplaçament manual.Tingueu en compte que la majoria de quadres de text no tenen un botó manual."
+
+msgctxt "#31918"
+msgid "Projects the current playing video on the background behind the panels."
+msgstr "Projecta el vídeo en reproducció actual al fons darrere dels panells."
+
+msgctxt "#31919"
+msgid "Projects the visualisation on the background behind the panels when music is played."
+msgstr "Projecta la visualització al fons darrere dels panells quan es reprodueix música."
+
+msgctxt "#31920"
+msgid "Displays a widget on the Home screen with media information when music is playing."
+msgstr "Mostra un widget a la pantalla d'inici amb informació multimèdia quan es reprodueix música."
+
+msgctxt "#31921"
+msgid "Displays a widget on the Home screen with media information when a movie or episode is playing."
+msgstr "Mostra un widget a la pantalla d'inici amb informació multimèdia quan es reprodueix una pel·lícula o un episodi."
+
+msgctxt "#31922"
+msgid "This enables custom genre backgrounds when browsing through the videolibrary's genre node. Filenames should match the genre label. Extension must be .jpg."
+msgstr "Això permet els fons de gènere personalitzats quan navegueu pel node de gènere de la videoteca.Els noms dels fitxers han de coincidir amb l'etiqueta del gènere.L'extensió ha de ser .jpg."
+
+msgctxt "#31923"
+msgid "Set a default select action to enable this item."
+msgstr "Estableix una acció de selecció predeterminada per habilitar aquest element."
+
+msgctxt "#31924"
+msgid "This enables custom genre backgrounds when browsing through the musiclibrary's genre node. Filenames should match the genre label. Extension must be .jpg."
+msgstr "Això permet els fons de gènere personalitzats quan navegueu pel node de gènere de la biblioteca musical.Els noms dels fitxers han de coincidir amb l'etiqueta del gènere.L'extensió ha de ser .jpg."
+
+msgctxt "#31925"
+msgid "Pick one of the preset backgrounds or set your own images as the menu items background."
+msgstr "Trieu un dels fons predefinits o configureu les vostres pròpies imatges com a fons dels elements del menú."
+
+msgctxt "#31926"
+msgid "Select add-ons, playlists or favourites. Choose 'Custom' for any of Kodi's built-in functions. (http://kodi.wiki/?title=List_of_Built_In_Functions)"
+msgstr "Seleccioneu complements, llistes de reproducció o preferits.Trieu "Personalitzat" per a qualsevol de les funcions integrades de Kodi.(http://kodi.wiki/?title=Llista_de_funcions_integrades)"
+
+msgctxt "#31927"
+msgid "Resets all above values to their defaults."
+msgstr "Restableix tots els valors anteriors als valors predeterminats."
+
+msgctxt "#31928"
+msgid "Aeon Tajo main menu layout"
+msgstr "Disseny del menú principal d'Aeon Tajo"
+
+msgctxt "#31929"
+msgid "This setting defines how much items will be visible on the main menu. Options are 3 items or 5 items."
+msgstr "Aquesta configuració defineix quants elements seran visibles al menú principal.Les opcions són 3 o 5 elements."
+
+msgctxt "#31930"
+msgid "Choose a widget to display on the Home screen to have easy access to content from the library."
+msgstr "Trieu un widget per mostrar-lo a la pantalla d'inici per accedir fàcilment al contingut de la biblioteca."
+
+msgctxt "#31931"
+msgid "Video plot preference"
+msgstr "Preferència de trama de vídeo"
+
+msgctxt "#31932"
+msgid "Show plot outline in the library views and full plot in the video information dialog or vice versa. Falls back to full plot if no outline is available."
+msgstr "Mostra l'esquema argumental a les vistes de la biblioteca i la trama completa al diàleg d'informació del vídeo o viceversa. Si no hi ha cap esquema argumental disponible mostrarà la trama completa."
+
+msgctxt "#31933"
+msgid "Select an item to display on the left top of the main menu"
+msgstr "Seleccioneu un element per mostrar a la part superior esquerra del menú principal"
+
+msgctxt "#31935"
+msgid "Switch places with another menu item. Opens a dialog with a list of menu items to choose from."
+msgstr "Canvia de lloc amb un altre element del menú.Obre un diàleg amb una llista d'elements de menú per triar."
+
+msgctxt "#31937"
+msgid "Show the RSS feed on the bottom or top of the screen, depending on main menu position. Enabling this setting makes the submenu permanently visible."
+msgstr "Mostra el canal RSS a la part inferior o superior de la pantalla, segons la posició del menú principal.Activar aquesta configuració fa que el submenú sigui visible permanentment."
+
+msgctxt "#31938"
+msgid "Enables extra information in the TV show library, like TV show status, next / latest episode, etc. Depends on TV Show Next Aired add-on."
+msgstr "Habilita informació addicional a la biblioteca de programes de televisió, com ara l'estat del programa de televisió, l'episodi següent/darrer, etc. Depèn del complement del programa de televisió Next Aired."
+
+msgctxt "#31939"
+msgid "Hide Infopanel on scrolling"
+msgstr "Amaga el panell d'informació en desplaçar-se"
+
+msgctxt "#31940"
+msgid "Hides the infopanel for Showcase and Landscape view (if activated) while scrolling through the library. Set the amount of seconds to wait for the infopanel to appear when scrolling is stopped."
+msgstr "Oculta el tauler d'informació per a la vista Showcase i Landscape (si està activat) mentre us desplaceu per la biblioteca.Estableix la quantitat de segons per esperar que aparegui el tauler d'informació quan s'atura el desplaçament."
+
+msgctxt "#31941"
+msgid "Kiosk mode"
+msgstr "Mode Quiosc"
+
+msgctxt "#31942"
+msgid "Disables the slide out menu (media menu) in the library as well as certain buttons in the media information dialogs. (Requires restart to take effect)"
+msgstr "Desactiva el menú lliscant (menú multimèdia) a la biblioteca, així com certs botons als diàlegs d'informació multimèdia.(Requereix un reinici per tenir efecte)"
+
+msgctxt "#31943"
+msgid "Watched status indicator"
+msgstr "Indicador d'estat observat"
+
+msgctxt "#31944"
+msgid "Choose which overlays to show on thumbs in icon based views. Note that the \"Resume\" flag takes precedent over any watched status."
+msgstr "Tria quines superposicions mostrar a les miniatures en vistes basades en icones. Tingues en compte que la bandera \"Reprendre\" té prioritat sobre qualsevol estat de visualització."
+
+msgctxt "#31945"
+msgid "This toggles the layout of the List view. Default is a 7 item layout with extended info, \"Slim List\" is a 14 item, more basic layout"
+msgstr "Això canvia el disseny de la vista Llista. Per defecte és un disseny de 7 elements amb informació ampliada, \"Llista prima\" és un disseny de 14 elements, més bàsic"
+
+msgctxt "#31950"
+msgid "WEATHER"
+msgstr "EL TEMPS"
+
+msgctxt "#31951"
+msgid "PICTURES"
+msgstr "IMATGES"
+
+msgctxt "#31952"
+msgid "LIVE TV"
+msgstr "TV EN DIRECTE"
+
+msgctxt "#31953"
+msgid "VIDEOS"
+msgstr "VÍDEOS"
+
+msgctxt "#31954"
+msgid "MOVIES"
+msgstr "PEL·LÍCULES"
+
+msgctxt "#31955"
+msgid "TV SHOWS"
+msgstr "SÈRIES DE TV"
+
+msgctxt "#31956"
+msgid "MUSIC"
+msgstr "MÚSICA"
+
+msgctxt "#31957"
+msgid "APPS"
+msgstr "APLICACIONS"
+
+msgctxt "#31958"
+msgid "PLAY DISC"
+msgstr "REPRODUIR DISC"
+
+msgctxt "#31959"
+msgid "SYSTEM"
+msgstr "SISTEMA"
+
+msgctxt "#31960"
+msgstr "CONCERTS"
+msgstr "CONCERTS"
+
+msgctxt "#31961"
+msgid "Hide ratings in list views"
+msgstr "Amaga les puntuacions a les visualitzacions de llista"
+
+msgctxt "#31962"
+msgid "This toggles the visibility of ratings in views of type List, LowList and TriPanel, except if sorted by rating."
+msgstr "Això alterna la visibilitat de les valoracions a les vistes de tipus List, LowList i TriPanel, excepte si s'ordenen per classificació."
+
+msgctxt "#31964"
+msgid "NoTo"
+msgstr "NoTo"
+
+msgctxt "#31965"
+msgid "Setup main menu"
+msgstr "Configura el menú principal"
+
+msgctxt "#31966"
+msgid "Customize the main menu with widgets, backgrounds, submenus and statistics. Add your own custom main menu items."
+msgstr "Personalitza el menú principal amb ginys, fons, submenús i estadístiques.Afegeix els teus propis elements personalitzats del menú principal."
+
+msgctxt "#31967"
+msgid "Skin addons"
+msgstr "Addons de la pell"
+
+msgctxt "#31968"
+msgid "Addons used to enhance Aeon Tajo."
+msgstr "Addons utilitzats per millorar Aeon Tajo."
+
+msgctxt "#31969"
+msgid "Skin options"
+msgstr "Opcions de pell"
+
+msgctxt "#31970"
+msgid "Setup of melodies, the way of showing widgets, themes and cast for movies/TV shows and other options."
+msgstr "Configuració de melodies, la manera de mostrar ginys, temes i repartiment per a pel·lícules/programes de televisió i altres opcions."
+
+msgctxt "#31971"
+msgid "Colour of selected items"
+msgstr "Color dels elements seleccionats"
+
+msgctxt "#31972"
+msgid "Youtube"
+msgstr "Youtube"
+
+msgctxt "#31973"
+msgid "Down for more"
+msgstr "Avall per més"
+
+msgctxt "#31974"
+msgid "More movies featuring"
+msgstr "Més pel·lícules que inclouen"
+
+msgctxt "#31975"
+msgid "More TV shows featuring"
+msgstr "Més programes de televisió que inclouen"
+
+msgctxt "#31976"
+msgid "Image gallery"
+msgstr "Galeria d'imatges"
+
+msgctxt "#31977"
+msgid "Years old"
+msgstr "Anys d'edat"
+
+msgctxt "#31978"
+msgid "Click for more"
+msgstr "Feu clic per a més"
+
+msgctxt "#31979"
+msgid "Left for more"
+msgstr "Queda per més"
+
+msgctxt "#31980"
+msgid "Right for more"
+msgstr "Just per a més"
+
+msgctxt "#31981"
+msgid "Premiered"
+msgstr "Estrenat"
+
+msgctxt "#31982"
+msgid "Budget"
+msgstr "Pressupost"
+
+msgctxt "#31983"
+msgid "Revenue"
+msgstr "Ingressos"
+
+msgctxt "#31984"
+msgid "Awards"
+msgstr "Premis"
+
+msgctxt "#31985"
+msgid "Trending Movies"
+msgstr "Pel·lícules de tendència"
+
+msgctxt "#31986"
+msgid "Upcoming Movies"
+msgstr "Pròximes pel·lícules"
+
+msgctxt "#31987"
+msgid "Now Playing Movies"
+msgstr "Ara reproduint pel·lícules"
+
+msgctxt "#31988"
+msgid "Top Rated Movies"
+msgstr "Pel·lícules amb millor puntuació"
+
+msgctxt "#31989"
+msgid "Popular Movies"
+msgstr "Pel·lícules populars"
+
+msgctxt "#31990"
+msgid "Discover Movies"
+msgstr "Descobreix pel·lícules"
+
+msgctxt "#31991"
+msgid "Trending Shows"
+msgstr "Espectacles de tendència"
+
+msgctxt "#31992"
+msgid "Top Rated Shows"
+msgstr "Espectacles amb millor puntuació"
+
+msgctxt "#31993"
+msgid "Popular Shows"
+msgstr "Espectacles populars"
+
+msgctxt "#31994"
+msgid "Discover Shows"
+msgstr "Descobreix Espectacles"
+
+msgctxt "#31995"
+msgid "3D view"
+msgstr "vista 3D"
+
+msgctxt "#31996"
+msgid "Extended view"
+msgstr "Vista ampliada"
+
+msgctxt "#31997"
+msgid "Simple view"
+msgstr "Vista senzilla"
+
+msgctxt "#31998"
+msgid "Classic lyrics"
+msgstr "Lletres clàssiques"
+
+msgctxt "#31999"
+msgid "Screensaver Netflix style in media views"
+msgstr "Salvapantalles estil Netflix en visualitzacions multimèdia"
+
+msgctxt "#31245"
+msgid "When in idle state for two minutes within a media view, a fullscreen slideshow of movies, TV shows, or artists' fanarts will be displayed, according to the section being browsed."
+msgstr "Quan estigui en estat inactiu durant dos minuts dins d'una visualització multimèdia, es mostrarà una presentació de diapositives a pantalla completa de pel·lícules, programes de televisió o fanarts d'artistes, segons la secció que s'està navegant."
+
+msgctxt "#31246"
+msgid "Play automatically trailers in video views"
+msgstr "Reprodueix automàticament tràilers en visualitzacions de vídeo"
+
+msgctxt "#31247"
+msgid "When you browse the video views and pause on a movie or TV show for a few seconds, the trailer automatically plays in a window."
+msgstr "Quan navegueu per les visualitzacions de vídeo i feu una pausa en una pel·lícula o programa de televisió durant uns segons, el tràiler es reprodueix automàticament en una finestra."
+
+msgctxt "#31248"
+msgid "All devices"
+msgstr "Tots els dispositius"
+
+msgctxt "#31249"
+msgid "Powerful devices"
+msgstr "Dispositius potents"
+
+msgctxt "#31255"
+msgid "Most powerful devices"
+msgstr "Els dispositius més potents"
+
+msgctxt "#31256"
+msgid "Delay 5 seconds"
+msgstr "Retard 5 segons"
+
+msgctxt "#31257"
+msgid "Delay 12 seconds"
+msgstr "Retard 12 segons"
+
+msgctxt "#31258"
+msgid "Info view 2"
+msgstr "Vista d'informació 2"
+
+msgctxt "#31259"
+msgid "Info view 1"
+msgstr "Vista d'informació 1"
+
+msgctxt "#31260"
+msgid "Play automatically songs while browsing music"
+msgstr "Reprodueix cançons automàticament mentre navegues per música"
+
+msgctxt "#31261"
+msgid "Enable automatic playback of songs from the current artist or album as background music while browsing music views."
+msgstr "Activeu la reproducció automàtica de cançons de l'artista o àlbum actual com a música de fons mentre navegueu per visualitzacions de música."
+
+msgctxt "#31262"
+msgid "Set path to use another melodies music folder"
+msgstr "Estableix el camí per utilitzar una altra carpeta de música de melodies"
+
+msgctxt "#31263"
+msgid "Clear current path and back to default melodies music folder"
+msgstr "Esborra el camí actual i torna a la carpeta de música de melodies predeterminada"
+
+msgctxt "#31264"
+msgid "Play melodies while in Home & Settings screens"
+msgstr "Reprodueix melodies a les pantalles d'inici i de configuració"
+
+msgctxt "#31265"
+msgid "Show only background"
+msgstr "Mostra només el fons"
+
+msgctxt "#31266"
+msgid "TheMovieDb Helper provides data to display online ratings and additional information for movies and TV shows"
+msgstr "TheMovieDb Helper proporciona dades per mostrar puntuacions en línia i informació addicional per a pel·lícules i programes de televisió"
+
+msgctxt "#31267"
+msgid "Show online ratings for movies and TV shows"
+msgstr "Mostra puntuacions en línia de pel·lícules i programes de televisió"
+
+msgctxt "#31268"
+msgid "You have to restart Kodi for this option to take effect once the option has been activated. TMDb and Trakt should work out of the box. Metacritic and Rottentomatoes ratings require an OMDb API key. Get an OMDb API Key at http://www.omdbapi.com/apikey.aspx and afterward input the OMDb API Key into the TheMovieDb Helper settings."
+msgstr "Heu de reiniciar Kodi perquè aquesta opció tingui efecte un cop s'hagi activat.TMDb i Trakt haurien de funcionar fora de la caixa.Les classificacions de Metacritic i Rottentomatoes requereixen una clau d'API OMDb.Obteniu una clau de l'API d'OMDb a http://www.omdbapi.com/apikey.aspx i després introduïu la clau de l'API d'OMDb a la configuració de TheMovieDb Helper."
+
+msgctxt "#31269"
+msgid "Resource image addon for displaying coloured studio icons throughout the skin."
+msgstr "Complement d'imatge de recursos per mostrar icones d'estudi de colors a tota la pell."
+
+msgctxt "#31270"
+msgid "Show colour icons for audio/video information"
+msgstr "Mostra icones de color per a informació d'àudio/vídeo"
+
+msgctxt "#31271"
+msgid "Show extra features for movies and TV shows"
+msgstr "Mostra funcions addicionals per a pel·lícules i programes de televisió"
+
+msgctxt "#31272"
+msgid "Display the additional features (media files) placed by the user in the 'extras' folder for a movie or TV show. Remember to modify your advancedsettings.xml file if needed."
+msgstr "Mostra les funcions addicionals (fitxers multimèdia) col·locades per l'usuari a la carpeta "extres" d'una pel·lícula o programa de televisió.Recordeu modificar el fitxer advancedsettings.xml si cal."
+
+msgctxt "#31273"
+msgid "Show extras"
+msgstr "Mostra extres"
+
+msgctxt "#31274"
+msgid "Enable shifting colours effect in the default Aeon Tajo's background"
+msgstr "Activa l'efecte de canvi de colors al fons predeterminat de l'Aeon Tajo"
+
+msgctxt "#31275"
+msgid "Activate a shifting colours effect in the default Aeon Tajo's background (only in the Home screen)."
+msgstr "Activeu un efecte de canvi de colors al fons predeterminat de l'Aeon Tajo (només a la pantalla d'inici)."
+
+msgctxt "#31276"
+msgid "Name of user's additional features folder (if different to 'extras')"
+msgstr "Nom de la carpeta de funcions addicionals de l'usuari (si és diferent de "extres")"
+
+msgctxt "#31277"
+msgid "Select image to show as background instead of default"
+msgstr "Seleccioneu la imatge per mostrar-la com a fons en lloc de la predeterminada"
+
+msgctxt "#31278"
+msgid "Browse for image"
+msgstr "Busqueu la imatge"
+
+msgctxt "#31279"
+msgid "Play music videos"
+msgstr "Reprodueix vídeos musicals"
+
+msgctxt "#31280"
+msgid "Play local albums"
+msgstr "Reprodueix àlbums locals"
+
+msgctxt "#31281"
+msgid "Play songs"
+msgstr "Reproduir cançons"
+
+msgctxt "#31282"
+msgid "Blurred album image as background"
+msgstr "Imatge de l'àlbum borrosa com a fons"
+
+msgctxt "#31283"
+msgid "Browse for path"
+msgstr "Busqueu el camí"
+
+msgctxt "#31284"
+msgid "Show extra features for music albums"
+msgstr "Mostra funcions addicionals per als àlbums de música"
+
+msgctxt "#31285"
+msgid "Display the additional features (media files) placed by the user in the 'extras' folder for a music album. Remember to modify your advancedsettings.xml file if needed."
+msgstr "Mostra les funcions addicionals (fitxers multimèdia) col·locades per l'usuari a la carpeta "extres" d'un àlbum de música.Recordeu modificar el fitxer advancedsettings.xml si cal."
+
+msgctxt "#31286"
+msgid "When you browse the video views and pause on a movie or TV show for a few seconds, the main theme automatically plays in the background. This feature requires the user to place an mp3 file with the theme in the root folder of the movie or TV show. This file must be named theme.mp3."
+msgstr "Quan navegueu per les visualitzacions de vídeo i feu una pausa en una pel·lícula o programa de televisió durant uns segons, el tema principal es reprodueix automàticament en segon pla.Aquesta funció requereix que l'usuari col·loqui un fitxer mp3 amb el tema a la carpeta arrel de la pel·lícula o programa de televisió.Aquest fitxer s'ha de denominar theme.mp3."
+
+msgctxt "#31287"
+msgid "Shows the normal poster (poster.jpg) in movies and TV shows views."
+msgstr "Mostra el pòster normal (poster.jpg) en visualitzacions de pel·lícules i programes de televisió."
+
+msgctxt "#31288"
+msgid "Shows the animated poster (animatedposter.gif) in movies and TV shows views."
+msgstr "Mostra el pòster animat (animatedposter.gif) en visualitzacions de pel·lícules i programes de televisió."
+
+msgctxt "#31289"
+msgid "Shows the available extra posters (poster1.jpg, poster2.jpg, poster3.jpg...) in movies and TV shows views."
+msgstr "Mostra els pòsters addicionals disponibles (poster1.jpg, poster2.jpg, poster3.jpg...) a les visualitzacions de pel·lícules i programes de televisió."
+
+msgctxt "#31290"
+msgid "Thanks for using Aeon Tajo—I really hope you’re enjoying it. Creating and maintaining a Kodi skin like this takes hundreds of hours of work. If Aeon Tajo is something you enjoy and find useful, supporting it helps me keep working on it and ensures it can continue evolving in the future. [CR][CR]If you decide to do so, you’ll receive frequent updates with new features and bug fixes, along with videos, media packs, and easy-to-follow articles with detailed tips to help you get the most out of everything Aeon Tajo has to offer, together with my sincere gratitude for your support. [CR][CR]For more information, visit [B][COLOR=themecolor]patreon.com[/B][/COLOR] and search for the creator [COLOR=themecolor][B]Aeon Tajo[/B][/COLOR], or go to [COLOR=themecolor][B]patreon.com/aeontajo[/B][/COLOR].[CR][CR]Thanks!"
+msgstr "Gràcies per utilitzar Aeon Tajo, espero que us agradi.Crear i mantenir una pell de Kodi com aquesta requereix centenars d'hores de treball.Si Aeon Tajo és una cosa que us agrada i us és útil, donar-hi suport m'ajuda a seguir treballant-hi i garanteix que pugui seguir evolucionant en el futur.[CR][CR]Si decideixes fer-ho, rebràs actualitzacions freqüents amb noves funcions i correccions d'errors, juntament amb vídeos, paquets multimèdia i articles fàcils de seguir amb consells detallats per ajudar-te a treure el màxim profit de tot el que Aeon Tajo t'ofereix, juntament amb el meu agraïment sincer pel teu suport.[CR][CR]Per obtenir més informació, visiteu [B][COLOR=themecolor]patreon.com[/B][/COLOR] i cerqueu el creador [COLOR=themecolor][B]Aeon Tajo[/B][/COLOR] o aneu a [COLOR=themecolor][B]patreon.com/aeontajo[/B][/COLOR].[k!][/COLOR].[k!][CR]T]."
+
+msgctxt "#31291"
+msgid "Blurred album image as background in music visualisation screen"
+msgstr "Imatge de l'àlbum borrosa com a fons a la pantalla de visualització de música"
+
+msgctxt "#31292"
+msgid "Hide watched mark in video views"
+msgstr "Amaga la marca de visualització a les visualitzacions de vídeo"
+
+msgctxt "#31293"
+msgid "Disclaimer: Aeon Tajo does not provide any media content or sources. Users must provide their own content. Support will not be provided for any 'builds' nor online addons that offer copyrighted content."
+msgstr "Exempció de responsabilitat: Aeon Tajo no proporciona cap contingut o font de mitjans.Els usuaris han de proporcionar el seu propi contingut.No es proporcionarà assistència per a cap "construcció" ni complement en línia que ofereixi contingut amb drets d'autor."
+
+msgctxt "#31294"
+msgid "Change to "
+msgstr "Canvia a"
+
+msgctxt "#31295"
+msgid "Remember that you should adapt your advancedsetting.xml file to reflect this change, so as to prevent your extras content to be added inadvertently to the Kodi library."
+msgstr "Recordeu que hauríeu d'adaptar el vostre fitxer advancedsetting.xml per reflectir aquest canvi, per evitar que el vostre contingut addicional s'afegeixi sense voler a la biblioteca de Kodi."
+
+msgctxt "#31296"
+msgid "Filmstrip"
+msgstr "Filmstrip"
+
+msgctxt "#31297"
+msgid "Select + Right Stick"
+msgstr "Seleccioneu + Stick dret"
+
+msgctxt "#31298"
+msgid "Vertical Home menu"
+msgstr "Menú d'inici vertical"
+
+msgctxt "#31299"
+msgid "Eject disc"
+msgstr "Expulsa el disc"
+
+msgctxt "#31302"
+msgid "Play with PreShow"
+msgstr "Juga amb PreShow"
+
+msgctxt "#31303"
+msgid "Highlighted text colour"
+msgstr "Color del text ressaltat"
+
+msgctxt "#31304"
+msgid "Marks colour"
+msgstr "Marca el color"
+
+msgctxt "#31305"
+msgid "Current"
+msgstr "Actual"
+
+msgctxt "#31306"
+msgid "Selected"
+msgstr "Seleccionat"
+
+msgctxt "#31311"
+msgid "Watched mark shape"
+msgstr "Forma de marca observada"
+
+msgctxt "#31312"
+msgid "Sliding background fanarts"
+msgstr "Fanarts de fons lliscant"
+
+msgctxt "#31313"
+msgid "Kodi add-ons settings"
+msgstr "Configuració dels complements de Kodi"
+
+msgctxt "#31314"
+msgid "Install and update add-ons"
+msgstr "Instal·leu i actualitzeu complements"
+
+msgctxt "#31315"
+msgid "Download add-ons"
+msgstr "Descarrega els complements"
+
+msgctxt "#31316"
+msgid "Show Browser"
+msgstr "Mostra el navegador"
+
+msgctxt "#31318"
+msgid "Hide Browser"
+msgstr "Amaga el navegador"
+
+msgctxt "#31319"
+msgid "Narrow view"
+msgstr "Vista estreta"
+
+msgctxt "#31322"
+msgid "Wide view"
+msgstr "Vista àmplia"
+
+msgctxt "#31323"
+msgid "Actors in other movies and TV shows"
+msgstr "Actors d'altres pel·lícules i programes de televisió"
+
+msgctxt "#31324"
+msgid "Show similar movies/TV shows and artists/albums"
+msgstr "Mostra pel·lícules/programes de televisió i artistes/àlbums similars"
+
+msgctxt "#31325"
+msgid "Opens a new window in some video/music views showing other movies/TV shows or artists/albums similar or related to the current item."
+msgstr "Obre una finestra nova en algunes visualitzacions de vídeo/música que mostren altres pel·lícules/programes de televisió o artistes/àlbums similars o relacionats amb l'element actual."
+
+msgctxt "#31326"
+msgid "Show similar"
+msgstr "Mostra similar"
+
+msgctxt "#31327"
+msgid "Classic"
+msgstr "Clàssic"
+
+msgctxt "#31329"
+msgid "Similar albums"
+msgstr "Àlbums semblants"
+
+msgctxt "#31330"
+msgid "No similar found"
+msgstr "No s'ha trobat cap semblant"
+
+msgctxt "#31333"
+msgid "Wikipedia"
+msgstr "Viquipèdia"
+
+msgctxt "#31337"
+msgid "Click to select and open article's links"
+msgstr "Feu clic per seleccionar i obrir els enllaços de l'article"
+
+msgctxt "#31338"
+msgid "Click to search..."
+msgstr "Feu clic per cercar..."
+
+msgctxt "#31339"
+msgid "Add/update music video links"
+msgstr "Afegeix/actualitza enllaços de vídeos musicals"
+
+msgctxt "#31340"
+msgid "[B]CONFIGURE GAME SETTINGS[/B][CR][CR]Change gameplay options[CR]Keyboard settings · Configure rewind settings"
+msgstr "[B]CONFIGURA LA CONFIGURACIÓ DEL JOC[/B][CR][CR]Canvia les opcions de joc[CR]Configuració del teclat · Configura la configuració de rebobinat"
+
+msgctxt "#31341"
+msgid "Narrow list"
+msgstr "Llista estreta"
+
+msgctxt "#31342"
+msgid "Wide list"
+msgstr "Llista àmplia"
+
+msgctxt "#31343"
+msgid "Update videolinks"
+msgstr "Actualitza els enllaços de vídeo"
+
+msgctxt "#31344"
+msgid "Play all music videos"
+msgstr "Reprodueix tots els vídeos musicals"
+
+msgctxt "#31345"
+msgid "No bookmarks created yet"
+msgstr "Encara no s'han creat cap marcador"
+
+msgctxt "#31346"
+msgid "Choose where to start"
+msgstr "Trieu per on començar"
+
+msgctxt "#31347"
+msgid "Browse the list and click"
+msgstr "Navega per la llista i fes clic"
+
+msgctxt "#31348"
+msgid "Show OSD controls"
+msgstr "Mostra els controls OSD"
+
+msgctxt "#31349"
+msgid "Preparing list of music videos, please wait..."
+msgstr "S'està preparant la llista de vídeos musicals, espereu..."
+
+msgctxt "#31350"
+msgid "Songs party mode"
+msgstr "Mode festa de cançons"
+
+msgctxt "#31351"
+msgid "Videolinks party mode"
+msgstr "Mode festa d'enllaços de vídeo"
+
+msgctxt "#31352"
+msgid "No videolinks found"
+msgstr "No s'han trobat enllaços de vídeo"
+
+msgctxt "#31353"
+msgid "Click or arrow keys while playing to show the OSD"
+msgstr "Feu clic o les tecles de fletxa mentre jugueu per mostrar l'OSD"
+
+msgctxt "#31354"
+msgid "While playing..."
+msgstr "Mentre juga..."
+
+msgctxt "#31355"
+msgid "Click or arrow keys to show the OSD"
+msgstr "Feu clic o amb les tecles de fletxa per mostrar l'OSD"
+
+msgctxt "#31356"
+msgid "Shows the normal thumb (folder.jpg) in artists and albums music views."
+msgstr "Mostra el polze normal (folder.jpg) a les visualitzacions de música d'artistes i àlbums."
+
+msgctxt "#31357"
+msgid "Shows the animated thumb (animatedthumb.gif) in artists and albums music views."
+msgstr "Mostra el polze animat (animatedthumb.gif) a les visualitzacions de música d'artistes i àlbums."
+
+msgctxt "#31358"
+msgid "Show a colour strip code on video elements"
+msgstr "Mostra un codi de tira de colors als elements de vídeo"
+
+msgctxt "#31359"
+msgid "Allows to quickly identify video file quality using a colour strip code when browsing movies and episodes in video views"
+msgstr "Permet identificar ràpidament la qualitat dels fitxers de vídeo mitjançant un codi de tira de color quan navegueu per pel·lícules i episodis en visualitzacions de vídeo"
+
+msgctxt "#31360"
+msgid "Library using Global Search"
+msgstr "Biblioteca utilitzant la cerca global"
+
+msgctxt "#31361"
+msgid "TheMovieDB"
+msgstr "TheMovieDB"
+
+msgctxt "#31362"
+msgid "Most Voted Movies"
+msgstr "Pel·lícules més votades"
+
+msgctxt "#31363"
+msgid "Crew"
+msgstr "Tripulació"
+
+msgctxt "#31364"
+msgid "Most Voted Shows"
+msgstr "Espectacles més votats"
+
+msgctxt "#31365"
+msgid "Random Shows"
+msgstr "Espectacles aleatoris"
+
+msgctxt "#31366"
+msgid "Random Artists"
+msgstr "Artistes aleatoris"
+
+msgctxt "#31367"
+msgid "Online info from TheMovieDB.org for videos"
+msgstr "Informació en línia de TheMovieDB.org per als vídeos"
+
+msgctxt "#31368"
+msgid "Get online info from TheMovieDB.org in movie and TVshow's info screen and widgets"
+msgstr "Obteniu informació en línia de TheMovieDB.org a la pantalla d'informació i els ginys de pel·lícules i programes de televisió"
+
+msgctxt "#31369"
+msgid "Snow effect - Off"
+msgstr "Efecte neu - Desactivat"
+
+msgctxt "#31370"
+msgid "Snow effect - Light"
+msgstr "Efecte neu - Llum"
+
+msgctxt "#31371"
+msgid "Snow effect - Medium"
+msgstr "Efecte neu - Mitjà"
+
+msgctxt "#31372"
+msgid "Snow effect - Heavy"
+msgstr "Efecte neu - Pesat"
+
+msgctxt "#31373"
+msgid "Snow effect - Blizzard"
+msgstr "Efecte neu - Tempesta de neu"
+
+msgctxt "#31374"
+msgid "Click or arrow keys to exit"
+msgstr "Feu clic o amb les tecles de fletxa per sortir"
+
+msgctxt "#31375"
+msgid "Rewind"
+msgstr "Rebobinar"
+
+msgctxt "#31376"
+msgid "Fast forward"
+msgstr "Avança ràpid"
+
+msgctxt "#31377"
+msgid "Step back"
+msgstr "Fes un pas enrere"
+
+msgctxt "#31378"
+msgid "Step forward"
+msgstr "Pas endavant"
+
+msgctxt "#31379"
+msgid "Previous chapter"
+msgstr "Capítol anterior"
+
+msgctxt "#31380"
+msgid "Next chapter"
+msgstr "Següent capítol"
+
+msgctxt "#31381"
+msgid "Previous channel"
+msgstr "Canal anterior"
+
+msgctxt "#31382"
+msgid "Next channel"
+msgstr "Següent canal"
+
+msgctxt "#31383"
+msgid "Show lyrics"
+msgstr "Mostra la lletra"
+
+msgctxt "#31384"
+msgid "Hide lyrics"
+msgstr "Amaga la lletra"
+
+msgctxt "#31385"
+msgid "Adjust lyrics"
+msgstr "Ajusta la lletra"
+
+msgctxt "#31386"
+msgid "Hide resumable mark in video views"
+msgstr "Amaga la marca reprèn a les visualitzacions de vídeo"
+
+msgctxt "#31387"
+msgid "Hide unwatched mark in video views"
+msgstr "Amaga la marca no vista a les visualitzacions de vídeo"
+
+msgctxt "#31388"
+msgid "Hide episodes unwatched mark in video views"
+msgstr "Amaga la marca d'episodis no vists a les visualitzacions de vídeo"
+
+msgctxt "#31389"
+msgid "Same director"
+msgstr "El mateix director"
+
+msgctxt "#31391"
+msgid "'Down' to show similars"
+msgstr ""Abaix" per mostrar similars"
+
+msgctxt "#31392"
+msgid "'Right' to show similars"
+msgstr ""Dret" per mostrar semblants"
+
+msgctxt "#31393"
+msgid "Show logos"
+msgstr "Mostra logotips"
+
+msgctxt "#31394"
+msgid "Show only titles"
+msgstr "Mostra només els títols"
+
+msgctxt "#31395"
+msgid "Play automatically video links in song views"
+msgstr "Reprodueix automàticament enllaços de vídeo en visualitzacions de cançons"
+
+msgctxt "#31396"
+msgid "When you browse song views and stop for a few seconds, the video link for that song will play automatically (if available)."
+msgstr "Quan navegueu per visualitzacions de cançons i us atureu uns segons, l'enllaç del vídeo d'aquesta cançó es reproduirà automàticament (si està disponible)."
+
+msgctxt "#31397"
+msgid "User reviews"
+msgstr "Opinions dels usuaris"
+
+msgctxt "#31398"
+msgid "Horizontal Home menu"
+msgstr "Menú d'inici horitzontal"
+
+msgctxt "#31399"
+msgid "Simple Home menu"
+msgstr "Menú d'inici senzill"
+
+msgctxt "#31403"
+msgid "Widget type"
+msgstr "Tipus de widget"
+
+msgctxt "#31404"
+msgid "Small widgets..."
+msgstr "Petits ginys..."
+
+msgctxt "#31408"
+msgid "Fullscreen widgets..."
+msgstr "Ginys de pantalla completa..."
+
+msgctxt "#31411"
+msgid "Force view..."
+msgstr "Força la vista..."
+
+msgctxt "#31416"
+msgid "A view can't be disabled when is selected as \"forced\" for some media."
+msgstr "Una vista no es pot desactivar quan està seleccionada com a \"forçada\" per a alguns mitjans."
+
+msgctxt "#31417"
+msgid "Only views that are not marked as disabled can be forced."
+msgstr "Només es poden forçar les visualitzacions que no estiguin marcades com a desactivades."
+
+msgctxt "#31418"
+msgid "Don't force views"
+msgstr "No forçar les vistes"
+
+msgctxt "#31419"
+msgid "Forced view"
+msgstr "Vista forçada"
+
+msgctxt "#31420"
+msgid "Enable or disable views"
+msgstr "Activa o desactiva les visualitzacions"
+
+msgctxt "#31422"
+msgid "No embedded subs"
+msgstr "No hi ha subscriptors incrustats"
+
+msgctxt "#31423"
+msgid "Auto-open audio/subtitle selector at video start"
+msgstr "Obre automàticament el selector d'àudio/subtítols a l'inici del vídeo"
+
+msgctxt "#31424"
+msgid "Automatically opens an audio and subtitle selector when starting playback of movies and episodes, allowing you to see which tracks are active and change them directly before continuing."
+msgstr "Obre automàticament un selector d'àudio i subtítols quan s'inicia la reproducció de pel·lícules i episodis, la qual cosa us permet veure quines pistes estan actives i canviar-les directament abans de continuar."
+
+msgctxt "#31425"
+msgid "Search music video links for songs not in your library"
+msgstr "Cerca enllaços de vídeos musicals per a cançons que no es troben a la teva biblioteca"
+
+msgctxt "#31426"
+msgid "Similar artists on your library"
+msgstr "Artistes similars a la teva biblioteca"
+
+msgctxt "#31435"
+msgid "Albums by this artist in your library"
+msgstr "Àlbums d'aquest artista a la teva biblioteca"
+
+msgctxt "#31436"
+msgid "Online info from TheAudioDB.com for music"
+msgstr "Informació en línia de TheAudioDB.com per a música"
+
+msgctxt "#31437"
+msgid "Get online information from TheAudioDB.com on the artist and album information screen"
+msgstr "Obteniu informació en línia de TheAudioDB.com a la pantalla d'informació de l'artista i de l'àlbum"
+
+msgctxt "#31438"
+msgid "TheAudioDb Helper supplies online data and artwork to display enhanced details for artists and music albums."
+msgstr "TheAudioDb Helper proporciona dades en línia i obres d'art per mostrar detalls millorats dels artistes i dels àlbums de música."
+
+msgctxt "#31439"
+msgid "Record label"
+msgstr "Segell discogràfic"
+
+msgctxt "#31440"
+msgid "Last.fm Plays"
+msgstr "Es reprodueix Last.fm"

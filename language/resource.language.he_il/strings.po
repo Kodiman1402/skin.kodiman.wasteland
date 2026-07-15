@@ -1,0 +1,2224 @@
+# Kodi Media Center language file
+# Addon Name: Aeon Tajo
+# Addon id: skin.aeon.tajo
+# Addon Provider: manfeed
+msgid ""
+msgstr ""
+"Project-Id-Version: KODI Skins\n"
+"POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2026-03-28 23:42+0000\n"
+"Last-Translator: manfeed <aeon.tajo@gmail.com>\n"
+"Language-Team: Hebrew (Israel)  <aeon.tajo@gmail.com>\n"
+"Language: he_il\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+msgctxt "Addon Summary"
+msgid "Aeon Tajo"
+msgstr ""
+
+msgctxt "Addon Description"
+msgid "Aeon Tajo: Changes everything so that nothing changes. Inspired on Aeon Nox 5 (thanks to BigNoid)."
+msgstr "Aeon Tajo: משנה הכל כך ששום דבר לא משתנה.בהשראת Aeon Nox 5 (תודה ל-BigNoid)."
+
+msgctxt "Addon Disclaimer"
+msgid "Mouse control is supported, althoug not recommended. It may not work correctly in all cases."
+msgstr "שליטה בעכבר נתמכת, אם כי לא מומלץ.ייתכן שהוא לא יעבוד כראוי בכל המקרים."
+
+msgctxt "#31000"
+msgid "Directed by"
+msgstr "בימוי"
+
+msgctxt "#31001"
+msgid "Written by"
+msgstr "כתיבה"
+
+msgctxt "#31002"
+msgid "Blurred album thumb"
+msgstr "תמונת אלבום ממוזערת מטושטשת"
+
+msgctxt "#31003"
+msgid "Power Options"
+msgstr "אפשרויות חשמל"
+
+msgctxt "#31004"
+msgid "Working"
+msgstr "עסוק"
+
+msgctxt "#31005"
+msgid "Fixed"
+msgstr "מקובע"
+
+msgctxt "#31006"
+msgid "View Options"
+msgstr "אפשרויות תצוגה"
+
+msgctxt "#31007"
+msgid "Setup home"
+msgstr "הגדרת מסך הבית"
+
+msgctxt "#31008"
+msgid "Full screen"
+msgstr "מסך מלא"
+
+msgctxt "#31009"
+msgid "Total Duration"
+msgstr "אורך כולל"
+
+msgctxt "#31010"
+msgid "Next episode"
+msgstr "פרק הבא"
+
+msgctxt "#31011"
+msgid "Latest episode"
+msgstr "פרק אחרון"
+
+msgctxt "#31012"
+msgid "Airs"
+msgstr "מועד שידור"
+
+msgctxt "#31013"
+msgid "Statistics"
+msgstr "סטטיסטיקה"
+
+msgctxt "#31014"
+msgid "Extras"
+msgstr "מיוחדים"
+
+msgctxt "#31015"
+msgid "Set path to video genre fanart folder"
+msgstr "קביעת נתיב תיקיית פאנארט של סגנונות וידאו"
+
+msgctxt "#31016"
+msgid "Poster"
+msgstr "פוסטר"
+
+msgctxt "#31017"
+msgid "Set path to music genre fanart folder"
+msgstr "קבע נתיב תיקיית פאנארט של סגנונות מוזיקה"
+
+msgctxt "#31018"
+msgid "InfoPanel"
+msgstr "לוח מידע"
+
+msgctxt "#31019"
+msgid "Network"
+msgstr "רשת"
+
+msgctxt "#31020"
+msgid "Extra-fanart"
+msgstr "פאנארט נוסף"
+
+msgctxt "#31021"
+msgid "Stage curtains"
+msgstr "וילונות במה"
+
+msgctxt "#31022"
+msgid "Set multi-image background"
+msgstr "הגדרת רקע מרובה תמונות"
+
+msgctxt "#31023"
+msgid "Set single image background"
+msgstr "הגדרת רקע עם תמונה בודדת"
+
+msgctxt "#31024"
+msgid "Page"
+msgstr "עמוד"
+
+msgctxt "#31025"
+msgid "Items"
+msgstr "פריטים"
+
+msgctxt "#31026"
+msgid "Misc Options"
+msgstr "אפשרויות שונות"
+
+msgctxt "#31027"
+msgid "Set item background"
+msgstr "בחירת רקע פריט"
+
+msgctxt "#31028"
+msgid "Live DVD Cases"
+msgstr "קופסאות DVD מונפשות"
+
+msgctxt "#31029"
+msgid "Recent Movies"
+msgstr "סרטים אחרונים"
+
+msgctxt "#31030"
+msgid "Recent Episodes"
+msgstr "פרקים אחרונים"
+
+msgctxt "#31031"
+msgid "Random Movies"
+msgstr "סרטים אקראיים"
+
+msgctxt "#31032"
+msgid "Recommended Movies"
+msgstr "סרטים מומלצים"
+
+msgctxt "#31033"
+msgid "Random Episodes"
+msgstr "פרקים אקראיים"
+
+msgctxt "#31034"
+msgid "Recommended Episodes"
+msgstr "פרקים מומלצים"
+
+msgctxt "#31035"
+msgid "Random Songs"
+msgstr "שירים אקראיים"
+
+msgctxt "#31036"
+msgid "Random Albums"
+msgstr "אלבומים אקראיים"
+
+msgctxt "#31037"
+msgid "Recent Albums"
+msgstr "אלבומים אחרונים"
+
+msgctxt "#31038"
+msgid "Recommended Albums"
+msgstr "אלבומים מומלצים"
+
+msgctxt "#31039"
+msgid "Actions"
+msgstr "פעולות"
+
+msgctxt "#31040"
+msgid "Now Playing"
+msgstr "מנגן כעת"
+
+msgctxt "#31041"
+msgid "Select widget"
+msgstr "בחירת יישומון"
+
+msgctxt "#31042"
+msgid "Show \"Now Playing\" information blended in the background"
+msgstr "הצג פרטי מנגן כעת כחלק מהרקע"
+
+msgctxt "#31043"
+msgid "Platform"
+msgstr "פלטפורמה"
+
+msgctxt "#31044"
+msgid "Views: Plot outline | Info dialog: Full plot"
+msgstr "תצוגות: תקציר עלילה | מסך מידע: עלילה מלאה"
+
+msgctxt "#31045"
+msgid "Views: Full plot | Info dialog: Plot outline"
+msgstr "תצוגות: עלילה מלאה | מסך מידע: תקציר עלילה"
+
+msgctxt "#31046"
+msgid "SEEKING"
+msgstr "מעביר"
+
+msgctxt "#31047"
+msgid "Set item icon"
+msgstr "בחירת סמל פריט"
+
+msgctxt "#31048"
+msgid "Visualisation Presets"
+msgstr "קביעוני חיזוי"
+
+msgctxt "#31049"
+msgid "Select infoline"
+msgstr "בחירת שורת מידע"
+
+msgctxt "#31050"
+msgid "Sort: Ascending"
+msgstr "סדר מיון: עולה"
+
+msgctxt "#31051"
+msgid "Sort: Descending"
+msgstr "סדר מיון: יורד"
+
+msgctxt "#31052"
+msgid "Movie library statistics"
+msgstr "סטטיסטיקת ספריית הסרטים"
+
+msgctxt "#31053"
+msgid "TV Show library statistics"
+msgstr "סטטיסטיקת ספריית הסדרות"
+
+msgctxt "#31054"
+msgid "Music library statistics"
+msgstr "סטטיסטיקת ספריית המוזיקה"
+
+msgctxt "#31055"
+msgid "Open playlist"
+msgstr "פתיחת רשימת ניגון"
+
+msgctxt "#31056"
+msgid "Save playlist"
+msgstr "שמירת רשימת ניגון"
+
+msgctxt "#31057"
+msgid "Close playlist"
+msgstr "סגירת רשימת ניגון"
+
+msgctxt "#31058"
+msgid "PVR information"
+msgstr "פרטי טלוויזיה חיה"
+
+msgctxt "#31059"
+msgid "Install Artist Slideshow add-on to enable this feature"
+msgstr "התקן את תוסף מצגת אמן כדי להפעיל תכונה זו"
+
+msgctxt "#31060"
+msgid "This file is stacked, select the part you want to play from."
+msgstr "קובץ זה שייך לערימה. יש לבחור חלק ממנו יתחיל הניגון."
+
+msgctxt "#31061"
+msgid "Favourites statistics"
+msgstr "סטטיסטיקות מועדפים"
+
+msgctxt "#31062"
+msgid "Random movie fanart"
+msgstr "פאנארט סרט אקראי"
+
+msgctxt "#31063"
+msgid "Random TV show fanart"
+msgstr "פאנארט סדרה אקראית"
+
+msgctxt "#31064"
+msgid "Random video fanart"
+msgstr "פאנארט וידאו אקראי"
+
+msgctxt "#31065"
+msgid "Random music fanart"
+msgstr "פאנארט מוזיקה אקראית"
+
+msgctxt "#31066"
+msgid "Random fanart"
+msgstr "פאנארט אקראי"
+
+msgctxt "#31067"
+msgid "Update rating"
+msgstr "עדכון דירוג"
+
+msgctxt "#31068"
+msgid "CD Wall"
+msgstr "קיר דיסקים"
+
+msgctxt "#31069"
+msgid "Change location"
+msgstr "שינוי מיקום"
+
+msgctxt "#31070"
+msgid "Enable Cinema Experience integration"
+msgstr "אפשר שילוב Cinema Experience"
+
+msgctxt "#31071"
+msgid "While browsing the library"
+msgstr "בעת עיון בספרייה"
+
+msgctxt "#31072"
+msgid "On open video info"
+msgstr "בעת פתיחת פרטי וידאו"
+
+msgctxt "#31073"
+msgid "Move menu item"
+msgstr "הזזת פריט תפריט"
+
+msgctxt "#31074"
+msgid "Choose item to swap places with"
+msgstr "יש לבחור פריט שיוחלף עימו מיקום"
+
+msgctxt "#31075"
+msgid "No extra features available"
+msgstr "תכונות מיוחדות לא זמינות"
+
+msgctxt "#31076"
+msgid "Landscape"
+msgstr "תמונת נוף"
+
+msgctxt "#31077"
+msgid "ShowCase"
+msgstr "תצוגת עטיפות"
+
+msgctxt "#31078"
+msgid "TriPanel"
+msgstr "תלת לוח"
+
+msgctxt "#31079"
+msgid "Shift"
+msgstr "הזזה"
+
+msgctxt "#31080"
+msgid "Manage submenu"
+msgstr "ניהול תת תפריט"
+
+msgctxt "#31081"
+msgid "Enable custom submenus"
+msgstr "אפשר תת תפריטים מתואמים אישית"
+
+msgctxt "#31082"
+msgid "Detach RSS feed from the main menu"
+msgstr "נתק עדכוני חדשות מהתפריט הראשי"
+
+msgctxt "#31083"
+msgid "Enable Next Aired information in the videolibrary"
+msgstr "אפשר פרטי השידור הבא בספריית הווידאו"
+
+msgctxt "#31084"
+msgid "Conditional weather"
+msgstr "מזג אוויר מותנה"
+
+msgctxt "#31085"
+msgid "Musicvideo library statistics"
+msgstr "סטטיסטיקת ספריית סרטוני המוזיקה"
+
+msgctxt "#31086"
+msgid "Icon"
+msgstr "סמליל"
+
+msgctxt "#31087"
+msgid "Banner"
+msgstr "כרזה"
+
+msgctxt "#31088"
+msgid "BannerWall"
+msgstr "קיר כרזות"
+
+msgctxt "#31089"
+msgid "Play item on startup"
+msgstr "נגן פריט בעת ההפעלה"
+
+msgctxt "#31090"
+msgid "Seconds"
+msgstr "שניות"
+
+msgctxt "#31091"
+msgid "Select items"
+msgstr "בחירת פריטים"
+
+msgctxt "#31092"
+msgid "Fullscreen fanart"
+msgstr "פאנארט מסך מלא"
+
+msgctxt "#31093"
+msgid "LowList toggle"
+msgstr "מיתוג רשימה נמוכה"
+
+msgctxt "#31094"
+msgid "List view layout"
+msgstr "פריסת תצוגת רשימה"
+
+msgctxt "#31095"
+msgid "Slim List"
+msgstr "רשימה דקה"
+
+msgctxt "#31096"
+msgid "Concert locations"
+msgstr "מיקומי הופעה"
+
+msgctxt "#31097"
+msgid "Movie playlist statistics"
+msgstr "סטטיסטיקת רשימת ניגון סרטים"
+
+msgctxt "#31098"
+msgid "TV Show playlist statistics"
+msgstr "סטטיסטיקת רשימת ניגון סדרות"
+
+msgctxt "#31099"
+msgid "Musicvideo playlist statistics"
+msgstr "סטטיסטיקת רשימת ניגון סרטוני המוזיקה"
+
+msgctxt "#31100"
+msgid "View:"
+msgstr "תצוגה:"
+
+msgctxt "#31101"
+msgid "Choose view"
+msgstr "בחר מראה"
+
+msgctxt "#31102"
+msgid "Background"
+msgstr "רקע"
+
+msgctxt "#31103"
+msgid "N/A"
+msgstr "לא זמין"
+
+msgctxt "#31104"
+msgid "Similar artists"
+msgstr "אמנים דומים"
+
+msgctxt "#31105"
+msgid "More albums from"
+msgstr "אלבומים נוספים מ-"
+
+msgctxt "#31106"
+msgid "On info"
+msgstr "בעת הצגת מידע"
+
+msgctxt "#31107"
+msgid "Persistent"
+msgstr "מתמיד"
+
+msgctxt "#31108"
+msgid "Enable artist information feed (if available)"
+msgstr "אפשר הזנת פרטי אמן (אם זמינה)"
+
+msgctxt "#31109"
+msgid "Unwatched episode count"
+msgstr "מספר פרקים שלא נצפו"
+
+msgctxt "#31110"
+msgid "Up next brings the option to watch right away the next episode of a TV show (Netflix/Prime video style)."
+msgstr "Up Next מביא את האפשרות לצפות מיד בפרק הבא של תוכנית טלוויזיה (סגנון וידאו של Netflix/Prime)."
+
+msgctxt "#31111"
+msgid "Similar movies"
+msgstr "סרטים דומים"
+
+msgctxt "#31112"
+msgid "Movies directed by"
+msgstr "סרטים שבוימו על ידי"
+
+msgctxt "#31113"
+msgid "Movies written by"
+msgstr "סרטים שנכתבו על ידי"
+
+msgctxt "#31114"
+msgid "More movies from"
+msgstr "סרטים נוספים מ"
+
+msgctxt "#31115"
+msgid "Similar TV shows"
+msgstr "סדרות טלויזיה דומות"
+
+msgctxt "#31116"
+msgid "cycle fanart"
+msgstr "פאנארט מחזורי"
+
+msgctxt "#31117"
+msgid "Fallback"
+msgstr "איחזור"
+
+msgctxt "#31118"
+msgid "Download extrafanart"
+msgstr "הורד את extrafanart"
+
+msgctxt "#31119"
+msgid "Show the movies from this director in your library or view online information on this director on TMDb?"
+msgstr "להראות סרטים מבימאי זה בספריה שלך או לצפות במידע באינטרנט על בימאי זה באתר TMDB?"
+
+msgctxt "#31120"
+msgid "TMDb"
+msgstr "TMDB"
+
+msgctxt "#31121"
+msgid "Disable autocomplete"
+msgstr "השבת השלמה אוטומטית"
+
+msgctxt "#31122"
+msgid "Disables the autocomplete feature of the virtual keyboard"
+msgstr "משבית את תכונת ההשלמה האוטומטית של המקלדת הווירטואלית"
+
+msgctxt "#31123"
+msgid "Album review"
+msgstr "סקירת אלבום"
+
+msgctxt "#31124"
+msgid "Show Background \"Now Playing\" Video"
+msgstr "הצג וידאו מנגן כעת כרקע"
+
+msgctxt "#31125"
+msgid "Show Background \"Now Playing\" Visualisation"
+msgstr "הצג חיזוי מנגן כעת כרקע"
+
+msgctxt "#31126"
+msgid "Opacity level for widgets"
+msgstr "רמת אטימות עבור ווידג'טים"
+
+msgctxt "#31127"
+msgid "LiveTV Mod Settings"
+msgstr "הגדרות LiveTV Mod"
+
+msgctxt "#31128"
+msgid "Channels View"
+msgstr "צפה בערוצים"
+
+msgctxt "#31129"
+msgid "Hide Fanart in full screen visualisation"
+msgstr "הסתר פאנארט כשהחיזוי במסך מלא"
+
+msgctxt "#31130"
+msgid "Use \"Enigma2-style\" channel OSD"
+msgstr "תשתמש בתצוגת ערוצים בסגנון Enigma2"
+
+msgctxt "#31131"
+msgid "EPG Timeline View"
+msgstr "תצוגת ציר זמן של EPG"
+
+msgctxt "#31132"
+msgid "Tuner:"
+msgstr "מקלט:"
+
+msgctxt "#31133"
+msgid "Timeline channels-type:"
+msgstr "ערוצים בסגנון ציר זמן:"
+
+msgctxt "#31134"
+msgid "Timeline view-type:"
+msgstr "סוג תצוגת ציר זמן:"
+
+msgctxt "#31135"
+msgid "Infobar Options"
+msgstr "אפשרויות סרגל מידע"
+
+msgctxt "#31136"
+msgid "Infobar type:"
+msgstr "סוג סרגל מידע:"
+
+msgctxt "#31137"
+msgid "Hide encryption information"
+msgstr "הסתר מידע על הצפנה"
+
+msgctxt "#31138"
+msgid "Hide tuner information"
+msgstr "הסתר מידע על המקלט"
+
+msgctxt "#31139"
+msgid "Hide signal information"
+msgstr "הסתר מידע על עוצמת אות"
+
+msgctxt "#31140"
+msgid "Sideblade Options"
+msgstr "אפשרויות סרגל צדדי"
+
+msgctxt "#31141"
+msgid "Hide Guide"
+msgstr "הסתר מדריך"
+
+msgctxt "#31142"
+msgid "Settings level"
+msgstr "רמת הגדרות"
+
+msgctxt "#31143"
+msgid "Hide Recordings"
+msgstr "הסתר הקלטות"
+
+msgctxt "#31144"
+msgid "Hide Timer"
+msgstr "הסתר שעון עצר"
+
+msgctxt "#31145"
+msgid "Hide Search"
+msgstr "הסתר חיפוש"
+
+msgctxt "#31146"
+msgid "Rated"
+msgstr "דירוג"
+
+msgctxt "#31147"
+msgid "Change rating"
+msgstr "שנה דרוג"
+
+msgctxt "#31148"
+msgid "List local library items"
+msgstr "רשימת פריטים בספריה המקומית"
+
+msgctxt "#31149"
+msgid "Online info from TMDb"
+msgstr "מידע מקוון מ-TMDb"
+
+msgctxt "#31150"
+msgid "Select studio logo artwork"
+msgstr "בחר יצירות אמנות של לוגו סטודיו"
+
+msgctxt "#31151"
+msgid "Customize the studio logos by choosing a different logo pack. Note that this has no effect on the studio icons displayed in the \"List\" view."
+msgstr "התאם אישית את לוגו הסטודיו על ידי בחירת חבילת לוגו אחרת.שימו לב שאין לכך השפעה על אייקוני הסטודיו המוצגים בתצוגת \"רשימה\"."
+
+msgctxt "#31152"
+msgid "In progress movies"
+msgstr "סרטים בתהליך"
+
+msgctxt "#31153"
+msgid "Popular movies on TheMovieDB.org"
+msgstr "סרטים פופולריים ב-TheMovieDB.org"
+
+msgctxt "#31154"
+msgid "Top rated movies on TheMovieDB.org"
+msgstr "סרטים בדירוג הגבוה ביותר ב-TheMovieDB.org"
+
+msgctxt "#31155"
+msgid "Movies currently in cinema"
+msgstr "סרטים כרגע בקולנוע"
+
+msgctxt "#31156"
+msgid "Upcoming movies"
+msgstr "סרטים בקרוב"
+
+msgctxt "#31157"
+msgid "Multi movie widget"
+msgstr "ווידג'ט רב סרטים"
+
+msgctxt "#31158"
+msgid "IMDb Top 250 movies"
+msgstr "IMDb 250 הסרטים המובילים"
+
+msgctxt "#31159"
+msgid "Event log"
+msgstr "יומן אירועים"
+
+msgctxt "#31160"
+msgid "Display background name"
+msgstr "הצג שם רקע"
+
+msgctxt "#31161"
+msgid "Display title of movie/TV show/artist on home screen if the background has a fanart slideshow as background"
+msgstr "הצג את הכותרת של הסרט/תוכנית הטלוויזיה/אמן במסך הבית אם ברקע יש מצגת פנטסטית כרקע"
+
+msgctxt "#31162"
+msgid "min"
+msgstr "דק'"
+
+msgctxt "#31163"
+msgid "TIMESHIFT"
+msgstr ""
+
+msgctxt "#31164"
+msgid "Change weather icons"
+msgstr "שנה סמלי מזג אוויר"
+
+msgctxt "#31165"
+msgid "Layout"
+msgstr "פריסה"
+
+msgctxt "#31166"
+msgid "Wall"
+msgstr "קיר"
+
+msgctxt "#31167"
+msgid "You're watching"
+msgstr "אתה צופה"
+
+msgctxt "#31168"
+msgid "h"
+msgstr ""
+
+msgctxt "#31169"
+msgid "m"
+msgstr ""
+
+msgctxt "#31170"
+msgid "Enable Netflix style pause screen"
+msgstr "אפשר מסך השהיה בסגנון Netflix"
+
+msgctxt "#31171"
+msgid "Shows an overview of the movie or episode 10 seconds after the video is paused."
+msgstr "מציג סקירה כללית של הסרט או הפרק 10 שניות לאחר השהיית הסרטון."
+
+msgctxt "#31172"
+msgid "Inactive"
+msgstr "לא פעיל"
+
+msgctxt "#31173"
+msgid "Decoder"
+msgstr "מפענח"
+
+msgctxt "#31174"
+msgid "Hardware decoding"
+msgstr "פענוח חומרה"
+
+msgctxt "#31175"
+msgid "press 'OK' to see more..."
+msgstr "לחץ על 'אישור' כדי לראות עוד..."
+
+msgctxt "#31176"
+msgid "Enter text here..."
+msgstr "הכנס כאן טקסט..."
+
+msgctxt "#31177"
+msgid "Player controls"
+msgstr "פקדי שחקן"
+
+msgctxt "#31178"
+msgid "Playlist options"
+msgstr "אפשרויות רשימת ניגון"
+
+msgctxt "#31179"
+msgid "Critics"
+msgstr "מבקרים"
+
+msgctxt "#31180"
+msgid "Play main theme when browsing movies and TV shows"
+msgstr "הפעל את הנושא הראשי בעת גלישה בסרטים ובתוכניות טלוויזיה"
+
+msgctxt "#31181"
+msgid "Display cast in video views"
+msgstr "הצג שחקנים בצפיות בסרטון"
+
+msgctxt "#31182"
+msgid "Hide current time in media views"
+msgstr "הסתר את השעה הנוכחית בתצוגות מדיה"
+
+msgctxt "#31183"
+msgid "Hide number of items in media views"
+msgstr "הסתר מספר פריטים בתצוגות מדיה"
+
+msgctxt "#31184"
+msgid "Enable, disable and/or force video views"
+msgstr "הפעל, השבת ו/או כפה צפיות בסרטון"
+
+msgctxt "#31185"
+msgid "Enable, disable and/or force music views"
+msgstr "אפשר, השבת ו/או כפה תצוגות מוזיקה"
+
+msgctxt "#31186"
+msgid "Force Kodi to always use certain view when browsing each kind of media. Disabling views that you don't use could speed up browsing in some devices"
+msgstr "כפה על קודי להשתמש תמיד בתצוגה מסוימת בעת גלישה בכל סוג של מדיה.השבתת תצוגות שאינך משתמש בהן עשויה להאיץ את הגלישה במכשירים מסוימים"
+
+msgctxt "#31187"
+msgid "Available for:"
+msgstr "זמין עבור:"
+
+msgctxt "#31188"
+msgid "Kiosk mode"
+msgstr "מצב קיוסק"
+
+msgctxt "#31189"
+msgid "Disables the side media menu in views and most options to change Kodi, so as to prevent unwanted modifications."
+msgstr "משבית את תפריט המדיה הצדדי בתצוגות וברוב האפשרויות לשינוי קודי, כדי למנוע שינויים לא רצויים."
+
+msgctxt "#31190"
+msgid "In cinemas"
+msgstr "בבתי קולנוע"
+
+msgctxt "#31191"
+msgid "In cinemas soon"
+msgstr "בקרוב בבתי הקולנוע"
+
+msgctxt "#31192"
+msgid "Spotify"
+msgstr ""
+
+msgctxt "#31193"
+msgid "Show images of the best-known actresses"
+msgstr "הצג תמונות של השחקניות הידועות ביותר"
+
+msgctxt "#31194"
+msgid "Search the Red Carpet add-on for images of the best-known actresses from the movie/TV show and display them alongside the cast."
+msgstr "חפש בתוסף השטיח האדום תמונות של השחקניות המוכרות ביותר מהסרט/תוכנית הטלוויזיה והצג אותן לצד צוות השחקנים."
+
+msgctxt "#31195"
+msgid "Show logos of film studios in video views"
+msgstr "הצג לוגו של אולפני סרטים בתצוגות וידאו"
+
+msgctxt "#31196"
+msgid "Show logos of record labels in music albums views"
+msgstr "הצג לוגו של חברות תקליטים בתצוגות של אלבומי מוזיקה"
+
+msgctxt "#31197"
+msgid "Show home music widget"
+msgstr "הצג ווידג'ט של מוזיקה ביתית"
+
+msgctxt "#31198"
+msgid "Show home video widget"
+msgstr "הצג ווידג'ט של וידאו ביתי"
+
+msgctxt "#31199"
+msgid "Colours, marks and home screen"
+msgstr "צבעים, סימנים ומסך בית"
+
+msgctxt "#31200"
+msgid "Is used to choose among different Kodi resource image pack to weather artwork and icons."
+msgstr "משמש לבחירה בין חבילת תמונה שונה של משאבי Kodi למזג אוויר ביצירות אמנות ואייקונים."
+
+msgctxt "#31201"
+msgid "Performance impact"
+msgstr "השפעה על הביצועים"
+
+msgctxt "#31202"
+msgid "Plays music in the background while in Home and Settings screens. A default song collection is provided, but a different song folder can be used."
+msgstr "משמיע מוזיקה ברקע במסכי בית והגדרות.אוסף שירים המוגדר כברירת מחדל מסופק, אך ניתן להשתמש בתיקיית שירים אחרת."
+
+msgctxt "#31203"
+msgid "Select your own folder to use as background music. Make sure that it only contains music files."
+msgstr "בחר תיקייה משלך שתשמש כמוזיקת רקע.ודא שהוא מכיל רק קובצי מוזיקה."
+
+msgctxt "#31204"
+msgid "When enabled, widgets linked to each home menu item will appear automatically. If disabled, widgets remain hidden until the corresponding arrow key is pressed."
+msgstr "כאשר מופעל, ווידג'טים המקושרים לכל פריט בתפריט הבית יופיעו אוטומטית.אם מושבת, ווידג'טים נשארים מוסתרים עד ללחיצה על מקש החץ המתאים."
+
+msgctxt "#31205"
+msgid "Lyrics Source"
+msgstr "מקור מילות שיר"
+
+msgctxt "#31206"
+msgid "Customization"
+msgstr "התאמה אישית"
+
+msgctxt "#31207"
+msgid "Views"
+msgstr "צפיות"
+
+msgctxt "#31208"
+msgid "Home screen"
+msgstr "מסך הבית"
+
+msgctxt "#31209"
+msgid "Options"
+msgstr "אפשרויות"
+
+msgctxt "#31210"
+msgid "Select another image as default background"
+msgstr "בחר תמונה אחרת כרקע ברירת מחדל"
+
+msgctxt "#31211"
+msgid "Changes the default Aeon Tajo background to another chosen by the user."
+msgstr "משנה את ברירת המחדל של Aeon Tajo לרקע אחר שנבחר על ידי המשתמש."
+
+msgctxt "#31212"
+msgid "Current background path: "
+msgstr "נתיב הרקע הנוכחי:"
+
+msgctxt "#31213"
+msgid "Reset skin default background"
+msgstr "אפס את רקע ברירת המחדל של העור"
+
+msgctxt "#31214"
+msgid "Resets the default background provided with Aeon Tajo."
+msgstr "מאפס את רקע ברירת המחדל המסופק עם Aeon Tajo."
+
+msgctxt "#31215"
+msgid "Show the coloured version of the icons rather than the monochrome version."
+msgstr "הצג את הגרסה הצבעונית של הסמלים במקום את הגרסה המונוכרום."
+
+msgctxt "#31216"
+msgid "Displays background and fanart images with a subtle motion effect across the screen."
+msgstr "מציג תמונות רקע וfanart עם אפקט תנועה עדין על פני המסך."
+
+msgctxt "#31217"
+msgid "Displays a list in the video views featuring thumbnail images of the main actors from the movie or TV show's cast."
+msgstr "מציג רשימה בתצוגות הווידאו הכוללת תמונות ממוזערות של השחקנים הראשיים מהצוות של הסרט או תוכנית הטלוויזיה."
+
+msgctxt "#31218"
+msgid "Search the Studio Icons add-on for logo images of the film studios of the movie/TV show, and if found, display them while browsing the video views."
+msgstr "חפש בתוסף Studio Icons תמונות לוגו של אולפני הסרטים של הסרט/תוכנית הטלוויזיה, ואם נמצאו, הצג אותן תוך כדי גלישה בתצוגות הווידאו."
+
+msgctxt "#31219"
+msgid "Search for the album's record label logo using the RecordLabel Icons addon, and if found, display it when browsing the music album views."
+msgstr "חפש את לוגו חברת התקליטים של האלבום באמצעות התוסף RecordLabel Icons, ואם נמצא, הצג אותו בעת גלישה בתצוגות אלבומי המוזיקה."
+
+msgctxt "#31220"
+msgid "Show rating"
+msgstr "הצג דירוג"
+
+msgctxt "#31221"
+msgid "Show artist clearart"
+msgstr "הצג אמן קליר"
+
+msgctxt "#31222"
+msgid "Show CD"
+msgstr "הצג תקליטור"
+
+msgctxt "#31223"
+msgid "Show Time"
+msgstr "הצג זמן"
+
+msgctxt "#31224"
+msgid "Animated posters"
+msgstr "פוסטרים מונפשים"
+
+msgctxt "#31225"
+msgid "Normal posters"
+msgstr "פוסטרים רגילים"
+
+msgctxt "#31226"
+msgid "Extra posters"
+msgstr "פוסטרים נוספים"
+
+msgctxt "#31227"
+msgid "Sets the transparency level of the home menu widgets."
+msgstr "מגדיר את רמת השקיפות של ווידג'טים של תפריט הבית."
+
+msgctxt "#31228"
+msgid "Displays main menu options in a vertical layout instead of a horizontal one."
+msgstr "מציג אפשרויות תפריט ראשי בפריסה אנכית במקום אופקית."
+
+msgctxt "#31229"
+msgid "Set another video file as startup intro"
+msgstr "הגדר קובץ וידאו אחר כמבוא להפעלה"
+
+msgctxt "#31230"
+msgid "Choose another video file to play when Kodi starts instead of Aeon Tajo default. It's recommended to choose a short one. To stop playback and start using Kodi right away, click or press any arrow key."
+msgstr "בחר קובץ וידאו אחר להפעלה כאשר Kodi מופעל במקום ברירת המחדל של Aeon Tajo.מומלץ לבחור קצר.כדי להפסיק את ההשמעה ולהתחיל להשתמש בקודי מיד, לחץ או הקש על מקש חץ כלשהו."
+
+msgctxt "#31231"
+msgid "Plays an intro video when launching Kodi"
+msgstr "מנגן סרטון מבוא בעת הפעלת Kodi"
+
+msgctxt "#31232"
+msgid "Clear current intro video file and back to default"
+msgstr "נקה את קובץ וידאו המבוא הנוכחי וחזרה לברירת המחדל"
+
+msgctxt "#31233"
+msgid "Clear the intro video file selected by the user and back to Aeon Tajo's default."
+msgstr "נקה את קובץ סרטון ההקדמה שנבחר על ידי המשתמש וחזרה לברירת המחדל של Aeon Tajo."
+
+msgctxt "#31234"
+msgid "Adds a layer that simulates falling snow on all Kodi screens, with four available intensity levels."
+msgstr "מוסיף שכבה המדמה שלג יורד בכל מסכי Kodi, עם ארבע רמות עוצמה זמינות."
+
+msgctxt "#31235"
+msgid "Override the current home menu backgrounds with this one"
+msgstr "תעקוף את הרקע הנוכחי של תפריט הבית עם זה"
+
+msgctxt "#31236"
+msgid "The background selections made in the Setup Main Menu screen will be preserved. Disabling this option will restore all previous backgrounds. This option is particularly designed for use during special seasons."
+msgstr "בחירות הרקע שנעשו במסך התפריט הראשי של הגדרות יישמרו.השבתת אפשרות זו תשחזר את כל הרקעים הקודמים.אפשרות זו מיועדת במיוחד לשימוש בעונות מיוחדות."
+
+msgctxt "#31237"
+msgid "No impact"
+msgstr "אין השפעה"
+
+msgctxt "#31238"
+msgid "Very small"
+msgstr "קטן מאוד"
+
+msgctxt "#31239"
+msgid "Small"
+msgstr "קטן"
+
+msgctxt "#31240"
+msgid "Moderate"
+msgstr "מתון"
+
+msgctxt "#31241"
+msgid "Pixel format"
+msgstr "פורמט פיקסל"
+
+msgctxt "#31242"
+msgid "System rendering speed"
+msgstr "מהירות עיבוד המערכת"
+
+msgctxt "#31243"
+msgid "Hide actor's thumbnails"
+msgstr "הסתר את התמונות הממוזערות של השחקן"
+
+msgctxt "#31244"
+msgid "Show only a list of the actors' names, instead of also including their thumbnails."
+msgstr "הצג רק רשימה של שמות השחקנים, במקום לכלול גם את התמונות הממוזערות שלהם."
+
+msgctxt "#31250"
+msgid "Automatic Full Screen when playing music"
+msgstr "מסך מלא אוטומטי בעת השמעת מוזיקה"
+
+msgctxt "#31251"
+msgid "Don't play melodies while in Home Screen"
+msgstr "אל תנגן מנגינות בזמן מסך הבית"
+
+msgctxt "#31252"
+msgid "Always show home screen widgets"
+msgstr "הצג תמיד ווידג'טים של מסך הבית"
+
+msgctxt "#31253"
+msgid "Choose user audio playlist *.m3u (max.10 songs)"
+msgstr "בחר רשימת השמעת אודיו למשתמש *.m3u (מקסימום 10 שירים)"
+
+msgctxt "#31254"
+msgid "Clear user playlist (back to default)"
+msgstr "נקה רשימת השמעה של משתמשים (חזרה לברירת המחדל)"
+
+msgctxt "#31300"
+msgid "Overview"
+msgstr "סקירה"
+
+msgctxt "#31301"
+msgid "Last Updated"
+msgstr "עודכן לאחרונה"
+
+msgctxt "#31307"
+msgid "Hide Fanart"
+msgstr "הסתר פאנארט"
+
+msgctxt "#31308"
+msgid "Next aired"
+msgstr "הבא שודר"
+
+msgctxt "#31309"
+msgid "Memory Used:"
+msgstr "זכרון בשימוש:"
+
+msgctxt "#31310"
+msgid "Available audio tracks"
+msgstr "רצועות שמע זמינות"
+
+msgctxt "#31317"
+msgid "Set Fanart Path"
+msgstr "הגדרת נתיב פאנארט"
+
+msgctxt "#31320"
+msgid "Last Logged In"
+msgstr "חובר לאחרונה"
+
+msgctxt "#31321"
+msgid "Karaoke Song Selector"
+msgstr "בוחר שיר קריוקי"
+
+msgctxt "#31328"
+msgid "Recently Added"
+msgstr "נוסף לאחרונה"
+
+msgctxt "#31331"
+msgid "Installed"
+msgstr "מותקן"
+
+msgctxt "#31332"
+msgid "Not Installed"
+msgstr "לא מותקן"
+
+msgctxt "#31334"
+msgid "Required"
+msgstr "נדרש"
+
+msgctxt "#31335"
+msgid "Recommended"
+msgstr "מומלץ"
+
+msgctxt "#31336"
+msgid "Optional"
+msgstr "אופציונלי"
+
+msgctxt "#31390"
+msgid "Skin default"
+msgstr "ברירת מחדל של המעטפת"
+
+msgctxt "#31400"
+msgid "[B]CONFIGURE INTERFACE SETTINGS[/B][CR][CR]Change the skin · Set language and region · Setup remote controls[CR]Set up a screensaver · Setup master lock"
+msgstr "[B]הגדר את הגדרות הממשק[/B][CR][CR]שנה את העור · הגדר שפה ואזור · הגדר שלטים רחוקים[CR]הגדר שומר מסך · הגדרת מנעול ראשי"
+
+msgctxt "#31401"
+msgid "Menu - press 'OK'"
+msgstr "תפריט - לחץ על 'אישור'"
+
+msgctxt "#31402"
+msgid "Enable startup video intro"
+msgstr "אפשר מבוא וידאו הפעלה"
+
+msgctxt "#31405"
+msgid "[B]MONITOR YOUR SYSTEM[/B][CR][CR]Check out your hardware · Monitor CPU usage[CR]Check Kodi revision number"
+msgstr "[B]בדיקת פרטי המערכת[/B][CR][CR]פירוט חומרה · ניטור עומס על המעבד[CR]הצגת גרסת קודי"
+
+msgctxt "#31406"
+msgid "[B]CONFIGURE SYSTEM SETTINGS[/B][CR][CR]Setup and calibrate displays · Configure audio output · [CR]Set power saving options · Enable debugging"
+msgstr "[B]הגדר את הגדרות המערכת[/B][CR][CR]הגדר וכיול צגים · הגדר פלט אודיו · [CR]הגדר אפשרויות חיסכון בחשמל · אפשר איתור באגים"
+
+msgctxt "#31407"
+msgid "[B]SETUP PROFILES[/B][CR][CR]Setup and manage user profiles · Enable login screen[CR]Change password · Add a profile picture"
+msgstr "[B]שינוי הגדרות משתמש[/B][CR][CR]יצירת חשבונות משתמש שונים והגדרתם · אפשור מסך כניסה[CR]שינוי סיסמה · הוספת תמונת משתמש"
+
+msgctxt "#31409"
+msgid "[B]CONFIGURE TV SETTINGS[/B][CR][CR]Change full screen info · Manage EPG data settings"
+msgstr "[B]שינוי הגדרות טלוויזיה[/B][CR][CR]שינוי המידע המוצג במסך מלא · ניהול הגדרות נתוני לוח השידורים"
+
+msgctxt "#31410"
+msgid "[B]CONFIGURE SERVICE SETTINGS[/B][CR][CR]Setup control of Kodi via UPnP and HTTP · Configure file sharing[CR]Enable Zeroconf · Configure AirPlay"
+msgstr "[B]שינוי הגדרות שירותים[/B][CR][CR]הגדרות שליטה על קודי דרך UPnP ו־HTTP · הגדרות שיתוף קבצים[CR]הפעלת Zeroconf · הגדרות AirPlay"
+
+msgctxt "#31412"
+msgid "Select section"
+msgstr "בחירת מדור"
+
+msgctxt "#31413"
+msgid "Local subtitle available"
+msgstr "כתובית מקומית זמינה"
+
+msgctxt "#31414"
+msgid "[B]CONFIGURE PLAYER SETTINGS[/B][CR][CR]Configure video playback · Configure music playback · Configure picture slideshow[CR]Configure video language and subtitles"
+msgstr "[B]הגדר את הגדרות הנגן[/B][CR][CR]הגדר את הפעלת הווידאו · הגדר את הפעלת המוזיקה · הגדר את מצגת תמונות[CR]הגדר את שפת הווידאו ואת הכתוביות"
+
+msgctxt "#31415"
+msgid "[B]CONFIGURE MEDIA SETTINGS[/B][CR][CR]Set default select action · Configure file list options · Configure metadata options[CR]Manage databases"
+msgstr "[B]הגדר את הגדרות המדיה[/B][CR][CR]הגדר פעולת בחירת ברירת מחדל · הגדר אפשרויות של רשימת קבצים · הגדר אפשרויות מטא נתונים[CR]נהל מסדי נתונים"
+
+msgctxt "#31421"
+msgid "Select your Kodi user profile[CR]to login and continue"
+msgstr "יש לבחור חשבון משתמש בקודי[CR]להתחברות והמשך"
+
+msgctxt "#31427"
+msgid "Skin Shortcuts is responsible for handling all aspects of the main menu."
+msgstr "קיצורי עור אחראית לטיפול בכל ההיבטים של התפריט הראשי."
+
+msgctxt "#31428"
+msgid "The Grab Fanart script provides the random fanart slideshows for the main menu."
+msgstr "סקריפט Grab Fanart מושך מצגות פאנארט אקראיות עבור התפריט הראשי."
+
+msgctxt "#31429"
+msgid "Library Data Provider is a service that runs in the background to provide library data for widgets and live backgrounds as well as playlist statistics for infolines."
+msgstr "שירות Library Data Provider פועל ברקע ומספק נתוני ספרייה עבור יישומונים ורקעים חיים וכן סטטיסטיקות רשימות ניגון עבור infolines."
+
+msgctxt "#31430"
+msgid "Resource image addon for displaying the default white studio icons throughout the skin."
+msgstr "משאבי הרחבת תמונה נועדו להצגת ברירת המחדל של סמלילי האולפן הלבנים בכל רחבי המעטפת."
+
+msgctxt "#31431"
+msgid "Resource image addon for displaying the default white recording label icons throughout the skin."
+msgstr "הרחבת Resource image נועדה להצגת ברירת המחדל של סמלילי הקלטה לבנים ברחבי המעטפת."
+
+msgctxt "#31432"
+msgid "Provides numerous Widget options and extended cast and crew metadata."
+msgstr "מספק אפשרויות ווידג'ט רבות ומטא נתונים מורחבים של צוות וצוות."
+
+msgctxt "#31433"
+msgid "Skin Info Service is used to display movie set information throughout the skin."
+msgstr "שירות מידע המעטפת משמש להצגת מידע על הסרט בכל חלקי המעטפת."
+
+msgctxt "#31434"
+msgid "Check MP3 Theme checks whether the user has put a theme.mp3 file in the corresponding movie/TV show folder to be played when browsing."
+msgstr "Check MP3 Theme בודק אם המשתמש שם קובץ theme.mp3 בתיקיית הסרטים/תוכנית הטלוויזיה המתאימה להפעלה בעת הגלישה."
+
+msgctxt "#31450"
+msgid "  •  Open Settings "
+msgstr "  • פתח הגדרות "
+
+msgctxt "#31451"
+msgid "  •  Click to Install"
+msgstr "• לחץ כדי להתקין"
+
+msgctxt "#31473"
+msgid "Aeon Tajo Helper provides the data to display the cast for movies and TV shows."
+msgstr "Aeon Tajo Helper מספק את הנתונים להצגת צוות השחקנים עבור סרטים ותוכניות טלוויזיה."
+
+msgctxt "#31474"
+msgid "CU LRC Lyrics is used to download, sync, and display lyrics during fullscreen music playback."
+msgstr "CU LRC Lyrics משמש להורדה, סנכרון והצגת מילים במהלך השמעת מוזיקה במסך מלא."
+
+msgctxt "#31475"
+msgid "Play Trailer makes possible to play movie trailers through a context menu. "
+msgstr "שחק טריילר מאפשר להפעיל טריילרים לסרטים דרך תפריט ההקשר."
+
+msgctxt "#31476"
+msgid "Allows the use of Youtube to play trailers and other videos."
+msgstr "מאפשר שימוש ב-YouTube להפעלת טריילרים וסרטונים אחרים."
+
+msgctxt "#31477"
+msgid "Provides some cast actress images to be shown in video views."
+msgstr "מספק כמה תמונות של שחקנית שחקנים שיוצגו בתצוגות וידאו."
+
+msgctxt "#31478"
+msgid "Artist Slideshow is used to display artist fanart for both the home screen and during fullscreen music playback."
+msgstr "הצגת שקופיות של אמן משמשת להצגת אמנות אמן הן במסך הבית והן במהלך השמעת מוזיקה במסך מלא."
+
+msgctxt "#31479"
+msgid "AutoCompletion provides suggestions to be selected while using the virtual keyboard."
+msgstr "השלמה אוטומטית מספקת הצעות לבחירה בעת שימוש במקלדת הוירטואלית."
+
+msgctxt "#31480"
+msgid "Library Editor Script uses JSON to directly edit your database information."
+msgstr "ספריית עורך סקריפט משתמש ב-JSON כדי לערוך ישירות את פרטי מסד הנתונים שלך."
+
+msgctxt "#31481"
+msgid "Global Search makes possible to search among all the items (movies, TV shows, music, actors, etc.) in your collection."
+msgstr "חיפוש גלובלי מאפשר חיפוש בין כל הפריטים (סרטים, תוכניות טלוויזיה, מוזיקה, שחקנים וכו') באוסף שלך."
+
+msgctxt "#31501"
+msgid "Channel group"
+msgstr "קבוצת ערוצים"
+
+msgctxt "#31502"
+msgid "Live TV"
+msgstr "טלוויזיה חיה"
+
+msgctxt "#31503"
+msgid "Add Group"
+msgstr "הוספת קבוצה"
+
+msgctxt "#31504"
+msgid "Rename Group"
+msgstr "שינוי שם קבוצה"
+
+msgctxt "#31505"
+msgid "Delete Group"
+msgstr "מחיקת קבוצה"
+
+msgctxt "#31506"
+msgid "Available[CR]Groups"
+msgstr "קבוצות[CR]זמינות"
+
+msgctxt "#31511"
+msgid "Channel Options"
+msgstr "אפשרויות ערוץ"
+
+msgctxt "#31512"
+msgid "Show similar movies in Shelf 3D view"
+msgstr "הצג סרטים דומים בתצוגת מדף תלת-ממדית"
+
+msgctxt "#31901"
+msgid "36 Hour Forecast"
+msgstr "תחזית ל־36 שעות"
+
+msgctxt "#31902"
+msgid "Hourly Forecast"
+msgstr "תחזית לפי שעה"
+
+msgctxt "#31903"
+msgid "Weekend Forecast"
+msgstr "תחזית לסופ\"ש"
+
+msgctxt "#31904"
+msgid "10 Day Forecast"
+msgstr "תחזית ל־10 יום"
+
+msgctxt "#31908"
+msgid "Chance of Precipitation"
+msgstr "סיכוי למשקעים"
+
+msgctxt "#31909"
+msgid "Fetching forecast info..."
+msgstr "מאחזר פרטי תחזית..."
+
+msgctxt "#31910"
+msgid "Map & Alerts"
+msgstr "מפה והתרעות"
+
+msgctxt "#31911"
+msgid "Setup the Aeon Tajo main menu"
+msgstr "הגדרת תפריט המעטפת הראשי"
+
+msgctxt "#31912"
+msgid "Customize the main menu with widgets, backgrounds and statistics. Add your own custom main menu items."
+msgstr "התאמה אישית של התפריט הראשי בעזרת יישומונים, רקעים וסטטיסטיקה. ניתן להוסיף פריט תפריט ראשי מותאם אישית."
+
+msgctxt "#31913"
+msgid "Aeon Tajo main menu vertical position"
+msgstr "התפריט הראשי של Aeon Tajo מיקום אנכי"
+
+msgctxt "#31914"
+msgid "Change the vertical position of the main menu. Default is centered on screen."
+msgstr "שנה את המיקום האנכי של התפריט הראשי.ברירת המחדל מרוכזת במסך."
+
+msgctxt "#31915"
+msgid "Navigation style for horizontal lists"
+msgstr "סגנון ניווט רשימה אופקית"
+
+msgctxt "#31916"
+msgid "Change the way horizontal lists scroll in Aeon Tajo. Default will scroll lists in a cycle. \"Fixed\" are lists with a beginning and end."
+msgstr "שינוי אופן גלילת רשימה אופקית. ברירת המחדל היא גלילה מעגלית/מחזורית. \"מקובע\" היא רשימה עם סוף והתחלה."
+
+msgctxt "#31917"
+msgid "When enabled text scrolls automatically. When disabled manual scrolling is required. Note that most textboxes don't have a manual button."
+msgstr "כאשר מופעל טקסט גלילה אוטומטית.כאשר מושבת נדרשת גלילה ידנית.שים לב שלרוב תיבות הטקסט אין כפתור ידני."
+
+msgctxt "#31918"
+msgid "Projects the current playing video on the background behind the panels."
+msgstr "מציג ברקע מאחורי הלוחות, את הווידאו שמנוגן."
+
+msgctxt "#31919"
+msgid "Projects the visualisation on the background behind the panels when music is played."
+msgstr "מציג ברקע מאחורי הלוחות, את חיזוי המוזיקה שמנוגנת."
+
+msgctxt "#31920"
+msgid "Displays a widget on the Home screen with media information when music is playing."
+msgstr "מציג יישומון במסך הבית עם פרטי המדיה בעת ניגון מוזיקה."
+
+msgctxt "#31921"
+msgid "Displays a widget on the Home screen with media information when a movie or episode is playing."
+msgstr "מציג יישומון במסך הבית עם פרטי המדיה בעת ניגון סרט או פרק."
+
+msgctxt "#31922"
+msgid "This enables custom genre backgrounds when browsing through the videolibrary's genre node. Filenames should match the genre label. Extension must be .jpg."
+msgstr "מאפשר שימוש בתמונת רקע של סגנון מתואמת אישית בעת עיון במסך הסינון עפ\"י סגנון בספריית הווידאו. שם הקובץ חייב להתאים לתווית הסגנון. סיומת הקובץ חייבת להיות jpg."
+
+msgctxt "#31923"
+msgid "Set a default select action to enable this item."
+msgstr "על מנת לאפשר פריט זה יש לקבוע פעולת ברירת מחדל בעת בחירת הפריט."
+
+msgctxt "#31924"
+msgid "This enables custom genre backgrounds when browsing through the musiclibrary's genre node. Filenames should match the genre label. Extension must be .jpg."
+msgstr "מאפשר שימוש בתמונת רקע של סגנון מתואמת אישית בעת עיון במסך הסינון עפ\"י סגנון בספריית המוזיקה. שם הקובץ חייב להתאים לתווית הסגנון. סיומת הקובץ חייבת להיות jpg."
+
+msgctxt "#31925"
+msgid "Pick one of the preset backgrounds or set your own images as the menu items background."
+msgstr "יש לבחור מאחד הרקעים שהוגדרו מראש או תמונה מותאמת אישית בתור רקע פריט תפריט."
+
+msgctxt "#31926"
+msgid "Select add-ons, playlists or favourites. Choose 'Custom' for any of Kodi's built-in functions. (http://kodi.wiki/?title=List_of_Built_In_Functions)"
+msgstr "ניתן לבחור בהרחבה, רשימת ניגון או מועדף. בחירת מותאם אישית לשימוש בכל אחת מהפונקציות המובנות בקודי. (מידע נוסף http://kodi.wiki/?title=List_of_Built_In_Functions)"
+
+msgctxt "#31927"
+msgid "Resets all above values to their defaults."
+msgstr "איפוס כל הערכים שלעיל לערכי ברירת המחדל שלהם."
+
+msgctxt "#31928"
+msgid "Aeon Tajo main menu layout"
+msgstr "פריסת תפריט המעטפת הראשי"
+
+msgctxt "#31929"
+msgid "This setting defines how much items will be visible on the main menu. Options are 3 items or 5 items."
+msgstr "הגדרה זו קובעת מספר הפריטים הגלויים בתפריט הראשי. האפשרויות הן 3 או 5 פריטים."
+
+msgctxt "#31930"
+msgid "Choose a widget to display on the Home screen to have easy access to content from the library."
+msgstr "בחירת יישומון להצגה במסך הבית לגישה מהירה לתוכן שבספרייה."
+
+msgctxt "#31931"
+msgid "Video plot preference"
+msgstr "העדפת עלילת וידאו"
+
+msgctxt "#31932"
+msgid "Show plot outline in the library views and full plot in the video information dialog or vice versa. Falls back to full plot if no outline is available."
+msgstr "הצג קווי עלילה בתצוגות הספרייה ועלילה מלאה בתיבת הדו-שיח מידע וידאו או להפך. אם אין קווי עלילה, יציג עלילה מלאה."
+
+msgctxt "#31933"
+msgid "Select an item to display on the left top of the main menu"
+msgstr "בחירת פריט להצגה בפינה השמאלית העליונה של התפריט הראשי"
+
+msgctxt "#31935"
+msgid "Switch places with another menu item. Opens a dialog with a list of menu items to choose from."
+msgstr "החלפת מקום עם פריט תפריט אחר. נפתח דיאלוג עם רשימת פריטי תפריט לבחירה."
+
+msgctxt "#31937"
+msgid "Show the RSS feed on the bottom or top of the screen, depending on main menu position. Enabling this setting makes the submenu permanently visible."
+msgstr "הצגת הזנת RSS בתחתית או בראש המסך, בהתאם למיקום התפריט הראשי. הפעלת הגדרה זו תגרום לכך שהתפריט המשני תמיד יהיה גלוי."
+
+msgctxt "#31938"
+msgid "Enables extra information in the TV show library, like TV show status, next / latest episode, etc. Depends on TV Show Next Aired add-on."
+msgstr "מאפשר הצגת מידע נוסף בספריית הסדרות, כמו מצב הסדרה, פרק הבא / אחרון וכד'. תלוי בהרחבה TV Show Next Aired."
+
+msgctxt "#31939"
+msgid "Hide Infopanel on scrolling"
+msgstr "הסתר לוח מידע בעת גלילה"
+
+msgctxt "#31940"
+msgid "Hides the infopanel for Showcase and Landscape view (if activated) while scrolling through the library. Set the amount of seconds to wait for the infopanel to appear when scrolling is stopped."
+msgstr "מסתיר לוח מידע מהתצוגות ShowCase ותמונת רקע (אם מופעל) בעת גלילה בספרייה. קביעת מספר השניות לאחר עצירת הגלילה עד שיופיע לוח מידע."
+
+msgctxt "#31941"
+msgid "Kiosk mode"
+msgstr "מצב קיוסק"
+
+msgctxt "#31942"
+msgid "Disables the slide out menu (media menu) in the library as well as certain buttons in the media information dialogs. (Requires restart to take effect)"
+msgstr "מנטרל את התפריט הצץ (תפריט המדיה) בספרייה ובנוסף גם מספר כפתורים במסכי מידע המדיה. (דורש הפעלה מחדש)"
+
+msgctxt "#31943"
+msgid "Watched status indicator"
+msgstr "דגל מצב נצפה"
+
+msgctxt "#31944"
+msgid "Choose which overlays to show on thumbs in icon based views. Note that the \"Resume\" flag takes precedent over any watched status."
+msgstr "בחירת המציינים שיוצמדו לתמונה ממוזערת בתצוגה מבוססת סמלים. יש לשים לב שהדגל \"המשך\" מקבל עדיפות על כל מצב צפיה אחר."
+
+msgctxt "#31945"
+msgid "This toggles the layout of the List view. Default is a 7 item layout with extended info, \"Slim List\" is a 14 item, more basic layout"
+msgstr "משנה את מראה תצוגת רשימה. ברירת מחדל היא 7 פריטים עם מידע מורחב, \"רשימה דקה\" הוא מערך בסיסי יותר הכולל 14 פריטים"
+
+msgctxt "#31950"
+msgid "WEATHER"
+msgstr "מזג אוויר"
+
+msgctxt "#31951"
+msgid "PICTURES"
+msgstr "תמונות"
+
+msgctxt "#31952"
+msgid "LIVE TV"
+msgstr "טלוויזיה חיה"
+
+msgctxt "#31953"
+msgid "VIDEOS"
+msgstr "וידאו"
+
+msgctxt "#31954"
+msgid "MOVIES"
+msgstr "סרטים"
+
+msgctxt "#31955"
+msgid "TV SHOWS"
+msgstr "סדרות"
+
+msgctxt "#31956"
+msgid "MUSIC"
+msgstr "מוזיקה"
+
+msgctxt "#31957"
+msgid "APPS"
+msgstr "תוכנות"
+
+msgctxt "#31958"
+msgid "PLAY DISC"
+msgstr "ניגון דיסק"
+
+msgctxt "#31959"
+msgid "SYSTEM"
+msgstr "מערכת"
+
+msgctxt "#31960"
+msgid "CONCERTS"
+msgstr "הופעות"
+
+msgctxt "#31961"
+msgid "Hide ratings in list views"
+msgstr "הסתר דירוגים בתצוגות הרשימה"
+
+msgctxt "#31962"
+msgid "This toggles the visibility of ratings in views of type List, LowList and TriPanel, except if sorted by rating."
+msgstr "הפעולה מחליפה את הניראות של דירוגי בתצוגות של סוג הרשימה, רשימה-נמוכה, תלת-לוח, למעט אם ממוין לפי דירוג."
+
+msgctxt "#31964"
+msgid "NoTo"
+msgstr "NoTo"
+
+msgctxt "#31965"
+msgid "Setup main menu"
+msgstr "הגדר את התפריט הראשי"
+
+msgctxt "#31966"
+msgid "Customize the main menu with widgets, backgrounds, submenus and statistics. Add your own custom main menu items."
+msgstr "התאם אישית את התפריט הראשי עם ווידג'טים, רקעים, תפריטי משנה וסטטיסטיקה.הוסף פריטי תפריט ראשי מותאמים אישית משלך."
+
+msgctxt "#31967"
+msgid "Skin addons"
+msgstr "תוספות עור"
+
+msgctxt "#31968"
+msgid "Addons used to enhance Aeon Tajo."
+msgstr "תוספות המשמשות לשיפור Aeon Tajo."
+
+msgctxt "#31969"
+msgid "Skin options"
+msgstr "אפשרויות עור"
+
+msgctxt "#31970"
+msgid "Setup of melodies, the way of showing widgets, themes and cast for movies/TV shows and other options."
+msgstr "הגדרת מנגינות, דרך הצגת ווידג'טים, ערכות נושא וקאסט לסרטים/תוכניות טלוויזיה ואפשרויות נוספות."
+
+msgctxt "#31971"
+msgid "Colour of selected items"
+msgstr "צבע של פריטים נבחרים"
+
+msgctxt "#31972"
+msgid "Youtube"
+msgstr "יו-טיוב"
+
+msgctxt "#31973"
+msgid "Down for more"
+msgstr "לחץ מטה כדי לקבל עוד"
+
+msgctxt "#31974"
+msgid "More movies featuring"
+msgstr "סרטים נוספים שמציגים"
+
+msgctxt "#31975"
+msgid "More TV shows featuring"
+msgstr "עוד תכניות טלוויזיה הכוללות"
+
+msgctxt "#31976"
+msgid "Image gallery"
+msgstr "גלריית תמונות"
+
+msgctxt "#31977"
+msgid "Years old"
+msgstr "בן שנים"
+
+msgctxt "#31978"
+msgid "Click for more"
+msgstr "לחץ לעוד"
+
+msgctxt "#31979"
+msgid "Left for more"
+msgstr "עזב לעוד"
+
+msgctxt "#31980"
+msgid "Right for more"
+msgstr "מתאים ליותר"
+
+msgctxt "#31981"
+msgid "Premiered"
+msgstr "הופעת בכורה"
+
+msgctxt "#31982"
+msgid "Budget"
+msgstr "תקציב"
+
+msgctxt "#31983"
+msgid "Revenue"
+msgstr "הכנסה"
+
+msgctxt "#31984"
+msgid "Awards"
+msgstr "פרסים"
+
+msgctxt "#31985"
+msgid "Trending Movies"
+msgstr "מגמות סרטים"
+
+msgctxt "#31986"
+msgid "Upcoming Movies"
+msgstr "בקרוב בקולנוע"
+
+msgctxt "#31987"
+msgid "Now Playing Movies"
+msgstr "עכשיו משחק סרטים"
+
+msgctxt "#31988"
+msgid "Top Rated Movies"
+msgstr "סרטים בדירוג גבוה"
+
+msgctxt "#31989"
+msgid "Popular Movies"
+msgstr "סרטים פופולרים"
+
+msgctxt "#31990"
+msgid "Discover Movies"
+msgstr "גלה סרטים"
+
+msgctxt "#31991"
+msgid "Trending Shows"
+msgstr "סדרות טרנדיות"
+
+msgctxt "#31992"
+msgid "Top Rated Shows"
+msgstr "תוכניות עם הדירוג הגבוה ביותר"
+
+msgctxt "#31993"
+msgid "Popular Shows"
+msgstr "תוכניות פופולריות"
+
+msgctxt "#31994"
+msgstr "Discover Shows"
+msgstr "Discover Shows"
+
+msgctxt "#31995"
+msgid "3D view"
+msgstr "תצוגת תלת מימד"
+
+msgctxt "#31996"
+msgid "Extended view"
+msgstr "תצוגה מורחבת"
+
+msgctxt "#31997"
+msgid "Simple view"
+msgstr "נוף פשוט"
+
+msgctxt "#31998"
+msgid "Classic lyrics"
+msgstr "מילים קלאסיות"
+
+msgctxt "#31999"
+msgid "Screensaver Netflix style in media views"
+msgstr "שומר מסך בסגנון נטפליקס בתצוגות מדיה"
+
+msgctxt "#31245"
+msgid "When in idle state for two minutes within a media view, a fullscreen slideshow of movies, TV shows, or artists' fanarts will be displayed, according to the section being browsed."
+msgstr "במצב לא פעיל למשך שתי דקות בתצוגת מדיה, תוצג מצגת שקופיות במסך מלא של סרטים, תוכניות טלוויזיה או חובבי אמנים, בהתאם לסעיף העיון."
+
+msgctxt "#31246"
+msgid "Play automatically trailers in video views"
+msgstr "הפעל אוטומטית טריילרים בצפיות בסרטון"
+
+msgctxt "#31247"
+msgid "When you browse the video views and pause on a movie or TV show for a few seconds, the trailer automatically plays in a window."
+msgstr "כאשר אתה מעיין בצפיות הווידאו ומשהה בסרט או בתוכנית טלוויזיה למשך מספר שניות, הטריילר מופעל אוטומטית בחלון."
+
+msgctxt "#31248"
+msgid "All devices"
+msgstr "כל המכשירים"
+
+msgctxt "#31249"
+msgid "Powerful devices"
+msgstr "מכשירים עוצמתיים"
+
+msgctxt "#31255"
+msgid "Most powerful devices"
+msgstr "המכשירים החזקים ביותר"
+
+msgctxt "#31256"
+msgid "Delay 5 seconds"
+msgstr "עיכוב 5 שניות"
+
+msgctxt "#31257"
+msgid "Delay 12 seconds"
+msgstr "עיכוב 12 שניות"
+
+msgctxt "#31258"
+msgid "Info view 2"
+msgstr "תצוגת מידע 2"
+
+msgctxt "#31259"
+msgid "Info view 1"
+msgstr "תצוגת מידע 1"
+
+msgctxt "#31260"
+msgid "Play automatically songs while browsing music"
+msgstr "הפעל שירים אוטומטית בזמן גלישה במוזיקה"
+
+msgctxt "#31261"
+msgid "Enable automatic playback of songs from the current artist or album as background music while browsing music views."
+msgstr "אפשר השמעה אוטומטית של שירים מהאמן או האלבום הנוכחי כמוזיקת רקע תוך כדי גלישה בתצוגות מוזיקה."
+
+msgctxt "#31262"
+msgid "Set path to use another melodies music folder"
+msgstr "הגדר נתיב לשימוש בתיקיית מוזיקת מנגינות אחרת"
+
+msgctxt "#31263"
+msgid "Clear current path and back to default melodies music folder"
+msgstr "נקה את הנתיב הנוכחי וחזרה לתיקיית המוזיקה של מנגינות ברירת המחדל"
+
+msgctxt "#31264"
+msgid "Play melodies while in Home & Settings screens"
+msgstr "נגן מנגינות במסכי בית והגדרות"
+
+msgctxt "#31265"
+msgid "Show only background"
+msgstr "הצג רק רקע"
+
+msgctxt "#31266"
+msgid "TheMovieDb Helper provides data to display online ratings and additional information for movies and TV shows"
+msgstr "TheMovieDb Helper מספק נתונים להצגת דירוגים מקוונים ומידע נוסף עבור סרטים ותוכניות טלוויזיה"
+
+msgctxt "#31267"
+msgid "Show online ratings for movies and TV shows"
+msgstr "הצג דירוגים מקוונים של סרטים ותוכניות טלוויזיה"
+
+msgctxt "#31268"
+msgid "You have to restart Kodi for this option to take effect once the option has been activated. TMDb and Trakt should work out of the box. Metacritic and Rottentomatoes ratings require an OMDb API key. Get an OMDb API Key at http://www.omdbapi.com/apikey.aspx and afterward input the OMDb API Key into the TheMovieDb Helper settings."
+msgstr "עליך להפעיל מחדש את Kodi כדי שהאפשרות הזו תיכנס לתוקף לאחר הפעלת האפשרות.TMDb ו-Trakt אמורים לעבוד מחוץ לקופסה.דירוגי Metacritic ו-Rottentomatoes דורשים מפתח API של OMDb.קבל מפתח API של OMDb בכתובת http://www.omdbapi.com/apikey.aspx ולאחר מכן הזן את מפתח OMDb API להגדרות TheMovieDb Helper."
+
+msgctxt "#31269"
+msgid "Resource image addon for displaying coloured studio icons throughout the skin."
+msgstr "תוסף תמונת משאבים להצגת אייקוני סטודיו צבעוניים בכל העור."
+
+msgctxt "#31270"
+msgid "Show colour icons for audio/video information"
+msgstr "הצג סמלי צבע עבור מידע אודיו/וידאו"
+
+msgctxt "#31271"
+msgid "Show extra features for movies and TV shows"
+msgstr "הצג תכונות נוספות עבור סרטים ותוכניות טלוויזיה"
+
+msgctxt "#31272"
+msgid "Display the additional features (media files) placed by the user in the 'extras' folder for a movie or TV show. Remember to modify your advancedsettings.xml file if needed."
+msgstr "הצג את התכונות הנוספות (קובצי מדיה) שהציב המשתמש בתיקיית 'תוספות' עבור סרט או תוכנית טלוויזיה.זכור לשנות את קובץ advancedsettings.xml במידת הצורך."
+
+msgctxt "#31273"
+msgid "Show extras"
+msgstr "הצג תוספות"
+
+msgctxt "#31274"
+msgid "Enable shifting colours effect in the default Aeon Tajo's background"
+msgstr "אפשר אפקט של שינוי צבעים ברקע ברירת המחדל של Aeon Tajo"
+
+msgctxt "#31275"
+msgid "Activate a shifting colours effect in the default Aeon Tajo's background (only in the Home screen)."
+msgstr "הפעל אפקט של שינוי צבעים ברקע ברירת המחדל של Aeon Tajo (רק במסך הבית)."
+
+msgctxt "#31276"
+msgid "Name of user's additional features folder (if different to 'extras')"
+msgstr "שם תיקיית התכונות הנוספות של המשתמש (אם שונה מ'תוספות')"
+
+msgctxt "#31277"
+msgid "Select image to show as background instead of default"
+msgstr "בחר תמונה להצגה כרקע במקום ברירת מחדל"
+
+msgctxt "#31278"
+msgid "Browse for image"
+msgstr "עיין בתמונה"
+
+msgctxt "#31279"
+msgid "Play music videos"
+msgstr "הפעל סרטוני מוזיקה"
+
+msgctxt "#31280"
+msgid "Play local albums"
+msgstr "הפעל אלבומים מקומיים"
+
+msgctxt "#31281"
+msgid "Play songs"
+msgstr "נגן שירים"
+
+msgctxt "#31282"
+msgid "Blurred album image as background"
+msgstr "תמונת אלבום מטושטשת כרקע"
+
+msgctxt "#31283"
+msgid "Browse for path"
+msgstr "עיין בנתיב"
+
+msgctxt "#31284"
+msgid "Show extra features for music albums"
+msgstr "הצג תכונות נוספות עבור אלבומי מוזיקה"
+
+msgctxt "#31285"
+msgid "Display the additional features (media files) placed by the user in the 'extras' folder for a music album. Remember to modify your advancedsettings.xml file if needed."
+msgstr "הצג את התכונות הנוספות (קבצי מדיה) שהציב המשתמש בתיקיית 'תוספות' עבור אלבום מוזיקה.זכור לשנות את קובץ advancedsettings.xml במידת הצורך."
+
+msgctxt "#31286"
+msgid "When you browse the video views and pause on a movie or TV show for a few seconds, the main theme automatically plays in the background. This feature requires the user to place an mp3 file with the theme in the root folder of the movie or TV show. This file must be named theme.mp3."
+msgstr "כאשר אתה מעיין בצפיות הווידאו ומשהה בסרט או בתוכנית טלוויזיה למשך מספר שניות, הנושא הראשי מופעל אוטומטית ברקע.תכונה זו מחייבת את המשתמש למקם קובץ mp3 עם ערכת הנושא בתיקיית השורש של הסרט או תוכנית הטלוויזיה.קובץ זה חייב להיות בשם theme.mp3."
+
+msgctxt "#31287"
+msgid "Shows the normal poster (poster.jpg) in movies and TV shows views."
+msgstr "מציג את הפוסטר הרגיל (poster.jpg) בצפיות בסרטים ובתוכניות טלוויזיה."
+
+msgctxt "#31288"
+msgid "Shows the animated poster (animatedposter.gif) in movies and TV shows views."
+msgstr "מציג את הפוסטר המונפש (animatedposter.gif) בתצוגות של סרטים ותוכניות טלוויזיה."
+
+msgctxt "#31289"
+msgid "Shows the available extra posters (poster1.jpg, poster2.jpg, poster3.jpg...) in movies and TV shows views."
+msgstr "מציג את הפוסטרים הנוספים הזמינים (פוסטר1.jpg, poster2.jpg, poster3.jpg...) בתצוגות של סרטים ותוכניות טלוויזיה."
+
+msgctxt "#31290"
+msgid "Thanks for using Aeon Tajo—I really hope you’re enjoying it. Creating and maintaining a Kodi skin like this takes hundreds of hours of work. If Aeon Tajo is something you enjoy and find useful, supporting it helps me keep working on it and ensures it can continue evolving in the future. [CR][CR]If you decide to do so, you’ll receive frequent updates with new features and bug fixes, along with videos, media packs, and easy-to-follow articles with detailed tips to help you get the most out of everything Aeon Tajo has to offer, together with my sincere gratitude for your support. [CR][CR]For more information, visit [B][COLOR=themecolor]patreon.com[/B][/COLOR] and search for the creator [COLOR=themecolor][B]Aeon Tajo[/B][/COLOR], or go to [COLOR=themecolor][B]patreon.com/aeontajo[/B][/COLOR].[CR][CR]Thanks!"
+msgstr "תודה על השימוש ב-Aeon Tajo - אני באמת מקווה שאתה נהנה מזה.יצירה ותחזוקה של עור קודי כזה לוקח מאות שעות עבודה.אם Aeon Tajo הוא משהו שאתה נהנה ומוצא בו שימושי, התמיכה בו עוזרת לי להמשיך לעבוד עליו ומבטיחה שהוא יוכל להמשיך ולהתפתח בעתיד.[CR][CR]אם תחליט לעשות זאת, תקבל עדכונים תכופים עם תכונות חדשות ותיקוני באגים, יחד עם סרטונים, ערכות מדיה ומאמרים קלים למעקב עם טיפים מפורטים שיעזרו לך להפיק את המרב מכל מה שיש ל-Aeon Tajo להציע, יחד עם תודתי הכנה על תמיכתך.[CR][CR]למידע נוסף, בקר בכתובת [B][COLOR=themecolor]patreon.com[/B][/COLOR] וחפש את היוצר [COLOR=themecolor][B]Aeon Tajo[/B][/COLOR], או עבור אל [COLOR=themecolor][B]patreon.com/aeontajo[CR]]/B][han!/C!"
+
+msgctxt "#31291"
+msgid "Blurred album image as background in music visualisation screen"
+msgstr "תמונת אלבום מטושטשת כרקע במסך הדמיית מוזיקה"
+
+msgctxt "#31292"
+msgid "Hide watched mark in video views"
+msgstr "הסתר את הסימן שנצפה בצפיות בסרטון"
+
+msgctxt "#31293"
+msgid "Disclaimer: Aeon Tajo does not provide any media content or sources. Users must provide their own content. Support will not be provided for any 'builds' nor online addons that offer copyrighted content."
+msgstr "כתב ויתור: Aeon Tajo אינו מספק תוכן מדיה או מקורות כלשהם.על המשתמשים לספק תוכן משלהם.לא תינתן תמיכה עבור כל 'בניין' או תוספות מקוונות המציעות תוכן המוגן בזכויות יוצרים."
+
+msgctxt "#31294"
+msgid "Change to "
+msgstr "שנה ל"
+
+msgctxt "#31295"
+msgid "Remember that you should adapt your advancedsetting.xml file to reflect this change, so as to prevent your extras content to be added inadvertently to the Kodi library."
+msgstr "זכור שעליך להתאים את קובץ advancedsetting.xml שלך לשקף את השינוי הזה, כדי למנוע את הוספת תוכן התוספות שלך בשוגג לספריית Kodi."
+
+msgctxt "#31296"
+msgid "Filmstrip"
+msgstr ""
+
+msgctxt "#31297"
+msgid "Select + Right Stick"
+msgstr "בחר + מקל ימני"
+
+msgctxt "#31298"
+msgid "Vertical Home menu"
+msgstr "תפריט בית אנכי"
+
+msgctxt "#31299"
+msgid "Eject disc"
+msgstr "הוצא דיסק"
+
+msgctxt "#31302"
+msgid "Play with PreShow"
+msgstr "שחק עם PreShow"
+
+msgctxt "#31303"
+msgid "Highlighted text colour"
+msgstr "צבע טקסט מודגש"
+
+msgctxt "#31304"
+msgid "Marks colour"
+msgstr "מסמן צבע"
+
+msgctxt "#31305"
+msgid "Current"
+msgstr "נוכחי"
+
+msgctxt "#31306"
+msgid "Selected"
+msgstr "נבחר"
+
+msgctxt "#31311"
+msgid "Watched mark shape"
+msgstr "צפו בצורת סימן"
+
+msgctxt "#31312"
+msgid "Sliding background fanarts"
+msgstr "אוהדי רקע מחליקים"
+
+msgctxt "#31313"
+msgid "Kodi add-ons settings"
+msgstr "הגדרות תוספות Kodi"
+
+msgctxt "#31314"
+msgid "Install and update add-ons"
+msgstr "התקן ועדכן תוספות"
+
+msgctxt "#31315"
+msgid "Download add-ons"
+msgstr "הורד תוספות"
+
+msgctxt "#31316"
+msgid "Show Browser"
+msgstr "הצג דפדפן"
+
+msgctxt "#31318"
+msgid "Hide Browser"
+msgstr "הסתר דפדפן"
+
+msgctxt "#31319"
+msgid "Narrow view"
+msgstr "נוף צר"
+
+msgctxt "#31322"
+msgid "Wide view"
+msgstr "נוף רחב"
+
+msgctxt "#31323"
+msgid "Actors in other movies and TV shows"
+msgstr "שחקנים בסרטים ובתוכניות טלוויזיה אחרות"
+
+msgctxt "#31324"
+msgid "Show similar movies/TV shows and artists/albums"
+msgstr "הצג סרטים/תוכניות טלוויזיה ואמנים/אלבומים דומים"
+
+msgctxt "#31325"
+msgid "Opens a new window in some video/music views showing other movies/TV shows or artists/albums similar or related to the current item."
+msgstr "פותח חלון חדש בתצוגות וידאו/מוזיקה מסוימות המציגות סרטים/תוכניות טלוויזיה אחרות או אמנים/אלבומים דומים או קשורים לפריט הנוכחי."
+
+msgctxt "#31326"
+msgid "Show similar"
+msgstr "הצג דומה"
+
+msgctxt "#31327"
+msgid "Classic"
+msgstr "קלאסי"
+
+msgctxt "#31329"
+msgid "Similar albums"
+msgstr "אלבומים דומים"
+
+msgctxt "#31330"
+msgid "No similar found"
+msgstr "לא נמצא דומה"
+
+msgctxt "#31333"
+msgid "Wikipedia"
+msgstr "ויקיפדיה"
+
+msgctxt "#31337"
+msgid "Click to select and open article's links"
+msgstr "לחץ כדי לבחור ולפתוח את הקישורים של המאמר"
+
+msgctxt "#31338"
+msgid "Click to search..."
+msgstr "לחץ לחיפוש..."
+
+msgctxt "#31339"
+msgid "Add/update music video links"
+msgstr "הוסף/עדכן קישורי סרטוני מוזיקה"
+
+msgctxt "#31340"
+msgid "[B]CONFIGURE GAME SETTINGS[/B][CR][CR]Change gameplay options[CR]Keyboard settings · Configure rewind settings"
+msgstr "[B]הגדר הגדרות משחק[/B][CR][CR]שנה אפשרויות משחק[CR]הגדרות מקלדת · הגדר הגדרות הרצה לאחור"
+
+msgctxt "#31341"
+msgid "Narrow list"
+msgstr "רשימה מצומצמת"
+
+msgctxt "#31342"
+msgid "Wide list"
+msgstr "רשימה רחבה"
+
+msgctxt "#31343"
+msgid "Update videolinks"
+msgstr "עדכן קישורי וידאו"
+
+msgctxt "#31344"
+msgid "Play all music videos"
+msgstr "הפעל את כל סרטוני המוזיקה"
+
+msgctxt "#31345"
+msgid "No bookmarks created yet"
+msgstr "עדיין לא נוצרו סימניות"
+
+msgctxt "#31346"
+msgid "Choose where to start"
+msgstr "בחר היכן להתחיל"
+
+msgctxt "#31347"
+msgid "Browse the list and click"
+msgstr "עיין ברשימה ולחץ"
+
+msgctxt "#31348"
+msgid "Show OSD controls"
+msgstr "הצג פקדי OSD"
+
+msgctxt "#31349"
+msgid "Preparing list of music videos, please wait..."
+msgstr "מכין רשימת קליפים, אנא המתן..."
+
+msgctxt "#31350"
+msgid "Songs party mode"
+msgstr "מצב מסיבות שירים"
+
+msgctxt "#31351"
+msgid "Videolinks party mode"
+msgstr "מצב מסיבה של Videolinks"
+
+msgctxt "#31352"
+msgid "No videolinks found"
+msgstr "לא נמצאו קישורי וידאו"
+
+msgctxt "#31353"
+msgid "Click or arrow keys while playing to show the OSD"
+msgstr "לחץ או מקשי החצים תוך כדי משחק כדי להציג את ה-OSD"
+
+msgctxt "#31354"
+msgid "While playing..."
+msgstr "תוך כדי משחק..."
+
+msgctxt "#31355"
+msgid "Click or arrow keys to show the OSD"
+msgstr "לחץ או מקשי החצים כדי להציג את ה-OSD"
+
+msgctxt "#31356"
+msgid "Shows the normal thumb (folder.jpg) in artists and albums music views."
+msgstr "מציג את האגודל הרגיל (folder.jpg) בתצוגות מוזיקה של אמנים ואלבומים."
+
+msgctxt "#31357"
+msgid "Shows the animated thumb (animatedthumb.gif) in artists and albums music views."
+msgstr "מציג את האגודל המונפש (animatedthumb.gif) בתצוגות מוזיקה של אמנים ואלבומים."
+
+msgctxt "#31358"
+msgid "Show a colour strip code on video elements"
+msgstr "הצג קוד רצועת צבע על רכיבי וידאו"
+
+msgctxt "#31359"
+msgid "Allows to quickly identify video file quality using a colour strip code when browsing movies and episodes in video views"
+msgstr "מאפשר לזהות במהירות את איכות קובץ הווידאו באמצעות קוד רצועת צבע בעת עיון בסרטים ובפרקים בתצוגות וידאו"
+
+msgctxt "#31360"
+msgid "Library using Global Search"
+msgstr "ספרייה באמצעות חיפוש גלובלי"
+
+msgctxt "#31361"
+msgid "TheMovieDB"
+msgstr ""
+
+msgctxt "#31362"
+msgid "Most Voted Movies"
+msgstr "הסרטים המובחרים ביותר"
+
+msgctxt "#31363"
+msgid "Crew"
+msgstr "צוות"
+
+msgctxt "#31364"
+msgid "Most Voted Shows"
+msgstr "התוכניות המובחרות ביותר"
+
+msgctxt "#31365"
+msgid "Random Shows"
+msgstr "מופעים אקראיים"
+
+msgctxt "#31366"
+msgid "Random Artists"
+msgstr "אמנים אקראיים"
+
+msgctxt "#31367"
+msgid "Online info from TheMovieDB.org for videos"
+msgstr "מידע מקוון מ-TheMovieDB.org לסרטונים"
+
+msgctxt "#31368"
+msgid "Get online info from TheMovieDB.org in movie and TVshow's info screen and widgets"
+msgstr "קבל מידע מקוון מ-TheMovieDB.org במסך המידע ובווידג'טים של הסרטים והטלוויזיה"
+
+msgctxt "#31369"
+msgid "Snow effect - Off"
+msgstr "אפקט שלג - כבוי"
+
+msgctxt "#31370"
+msgid "Snow effect - Light"
+msgstr "אפקט שלג - אור"
+
+msgctxt "#31371"
+msgid "Snow effect - Medium"
+msgstr "אפקט שלג - בינוני"
+
+msgctxt "#31372"
+msgid "Snow effect - Heavy"
+msgstr "אפקט שלג - כבד"
+
+msgctxt "#31373"
+msgid "Snow effect - Blizzard"
+msgstr "אפקט שלג - סופת שלגים"
+
+msgctxt "#31374"
+msgid "Click or arrow keys to exit"
+msgstr "לחץ או מקשי החצים כדי לצאת"
+
+msgctxt "#31375"
+msgid "Rewind"
+msgstr "הרצה אחורה"
+
+msgctxt "#31376"
+msgid "Fast forward"
+msgstr "מהר קדימה"
+
+msgctxt "#31377"
+msgid "Step back"
+msgstr "צעד אחורה"
+
+msgctxt "#31378"
+msgid "Step forward"
+msgstr "צעד קדימה"
+
+msgctxt "#31379"
+msgid "Previous chapter"
+msgstr "הפרק הקודם"
+
+msgctxt "#31380"
+msgid "Next chapter"
+msgstr "הפרק הבא"
+
+msgctxt "#31381"
+msgid "Previous channel"
+msgstr "הערוץ הקודם"
+
+msgctxt "#31382"
+msgid "Next channel"
+msgstr "הערוץ הבא"
+
+msgctxt "#31383"
+msgid "Show lyrics"
+msgstr "הצג מילים"
+
+msgctxt "#31384"
+msgid "Hide lyrics"
+msgstr "הסתר את המילים"
+
+msgctxt "#31385"
+msgid "Adjust lyrics"
+msgstr "התאם את המילים"
+
+msgctxt "#31386"
+msgid "Hide resumable mark in video views"
+msgstr "הסתר סימן שניתן לחדש בצפיות בסרטון"
+
+msgctxt "#31387"
+msgid "Hide unwatched mark in video views"
+msgstr "הסתר סימן שלא נצפה בצפיות בסרטון"
+
+msgctxt "#31388"
+msgid "Hide episodes unwatched mark in video views"
+msgstr "הסתר את הסימן של פרקים שלא נצפו בצפיות בסרטון"
+
+msgctxt "#31389"
+msgid "Same director"
+msgstr "אותו במאי"
+
+msgctxt "#31391"
+msgid "'Down' to show similars"
+msgstr "'למטה' כדי להראות דומים"
+
+msgctxt "#31392"
+msgid "'Right' to show similars"
+msgstr "'נכון' להראות דומים"
+
+msgctxt "#31393"
+msgid "Show logos"
+msgstr "הצג לוגואים"
+
+msgctxt "#31394"
+msgid "Show only titles"
+msgstr "הצג רק כותרות"
+
+msgctxt "#31395"
+msgid "Play automatically video links in song views"
+msgstr "הפעל אוטומטית קישורי וידאו בצפיות בשירים"
+
+msgctxt "#31396"
+msgid "When you browse song views and stop for a few seconds, the video link for that song will play automatically (if available)."
+msgstr "כאשר אתה מעיין בצפיות בשיר ועוצר לכמה שניות, קישור הווידאו של השיר הזה יופעל אוטומטית (אם זמין)."
+
+msgctxt "#31397"
+msgid "User reviews"
+msgstr "ביקורות משתמשים"
+
+msgctxt "#31398"
+msgid "Horizontal Home menu"
+msgstr "תפריט בית אופקי"
+
+msgctxt "#31399"
+msgid "Simple Home menu"
+msgstr "תפריט בית פשוט"
+
+msgctxt "#31403"
+msgid "Widget type"
+msgstr "סוג יישומון"
+
+msgctxt "#31404"
+msgid "Small widgets..."
+msgstr "ווידג'טים קטנים..."
+
+msgctxt "#31408"
+msgid "Fullscreen widgets..."
+msgstr "ווידג'טים במסך מלא..."
+
+msgctxt "#31411"
+msgid "Force view..."
+msgstr "כפה תצוגה..."
+
+msgctxt "#31416"
+msgid "A view can't be disabled when is selected as \"forced\" for some media."
+msgstr "לא ניתן להשבית תצוגה כאשר היא נבחרה כ\"מאולצת\" עבור מדיה מסוימת."
+
+msgctxt "#31417"
+msgid "Only views that are not marked as disabled can be forced."
+msgstr "ניתן לכפות רק תצוגות שאינן מסומנות כמושבתות."
+
+msgctxt "#31418"
+msgid "Don't force views"
+msgstr "אל תכריח דעות"
+
+msgctxt "#31419"
+msgid "Forced view"
+msgstr "תצוגה מאולצת"
+
+msgctxt "#31420"
+msgid "Enable or disable views"
+msgstr "הפעל או השבת תצוגות"
+
+msgctxt "#31422"
+msgid "No embedded subs"
+msgstr "אין תת משובצים"
+
+msgctxt "#31423"
+msgid "Auto-open audio/subtitle selector at video start"
+msgstr "פתיחה אוטומטית של בורר השמע/כתוביות עם תחילת הווידאו"
+
+msgctxt "#31424"
+msgid "Automatically opens an audio and subtitle selector when starting playback of movies and episodes, allowing you to see which tracks are active and change them directly before continuing."
+msgstr "פותח אוטומטית בורר שמע וכתוביות בעת התחלת השמעת סרטים ופרקים, ומאפשר לך לראות אילו רצועות פעילות ולשנות אותן ישירות לפני שתמשיך."
+
+msgctxt "#31425"
+msgid "Search music video links for songs not in your library"
+msgstr "חפש קישורי סרטוני מוזיקה עבור שירים שאינם בספרייה שלך"
+
+msgctxt "#31426"
+msgid "Similar artists on your library"
+msgstr "אמנים דומים בספרייה שלך"
+
+msgctxt "#31435"
+msgid "Albums by this artist in your library"
+msgstr "אלבומים של אמן זה בספרייה שלך"
+
+msgctxt "#31436"
+msgid "Online info from TheAudioDB.com for music"
+msgstr "מידע מקוון מ-TheAudioDB.com למוזיקה"
+
+msgctxt "#31437"
+msgid "Get online information from TheAudioDB.com on the artist and album information screen"
+msgstr "קבל מידע מקוון מ-TheAudioDB.com במסך המידע על האמן והאלבום"
+
+msgctxt "#31438"
+msgid "TheAudioDb Helper supplies online data and artwork to display enhanced details for artists and music albums."
+msgstr "TheAudioDb Helper מספק נתונים מקוונים ויצירות אמנות כדי להציג פרטים משופרים עבור אמנים ואלבומי מוזיקה."
+
+msgctxt "#31439"
+msgid "Record label"
+msgstr "חברת תקליטים"
+
+msgctxt "#31440"
+msgstr "Last.fm Plays"
+msgstr "Last.fm Plays"

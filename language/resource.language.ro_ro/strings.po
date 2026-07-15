@@ -1,0 +1,2224 @@
+# Kodi Media Center language file
+# Addon Name: Aeon Tajo
+# Addon id: skin.aeon.tajo
+# Addon Provider: manfeed
+msgid ""
+msgstr ""
+"Project-Id-Version: KODI Skins\n"
+"POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2026-03-28 23:42+0000\n"
+"Last-Translator: manfeed <aeon.tajo@gmail.com>\n"
+"Language-Team: Romanian  <aeon.tajo@gmail.com>\n"
+"Language: ro_ro\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+msgctxt "Addon Summary"
+msgid "Aeon Tajo"
+msgstr ""
+
+msgctxt "Addon Description"
+msgid "Aeon Tajo: Changes everything so that nothing changes. Inspired on Aeon Nox 5 (thanks to BigNoid)."
+msgstr "Aeon Tajo: Schimbă totul, astfel încât nimic să nu se schimbe.Inspirat pe Aeon Nox 5 (mulțumită lui BigNoid)."
+
+msgctxt "Addon Disclaimer"
+msgid "Mouse control is supported, althoug not recommended. It may not work correctly in all cases."
+msgstr "Controlul mouse-ului este acceptat, deși nu este recomandat.Este posibil să nu funcționeze corect în toate cazurile."
+
+msgctxt "#31000"
+msgid "Directed by"
+msgstr "Regizat de"
+
+msgctxt "#31001"
+msgid "Written by"
+msgstr "Scris de"
+
+msgctxt "#31002"
+msgid "Blurred album thumb"
+msgstr "Iconița album încețoșată"
+
+msgctxt "#31003"
+msgid "Power Options"
+msgstr "Opțiuni de alimentare"
+
+msgctxt "#31004"
+msgid "Working"
+msgstr "Procesare"
+
+msgctxt "#31005"
+msgid "Fixed"
+msgstr "Fixă"
+
+msgctxt "#31006"
+msgid "View Options"
+msgstr "Opțiuni vizualizare"
+
+msgctxt "#31007"
+msgid "Setup home"
+msgstr "Configurare pagină inițială"
+
+msgctxt "#31008"
+msgid "Full screen"
+msgstr "Ecran complet"
+
+msgctxt "#31009"
+msgid "Total Duration"
+msgstr "Durata Totală"
+
+msgctxt "#31010"
+msgid "Next episode"
+msgstr "Următorul episod"
+
+msgctxt "#31011"
+msgid "Latest episode"
+msgstr "Ultimele episoade"
+
+msgctxt "#31012"
+msgid "Airs"
+msgstr "Este difuzat"
+
+msgctxt "#31013"
+msgid "Statistics"
+msgstr "Statistici"
+
+msgctxt "#31014"
+msgid "Extras"
+msgstr "Extra"
+
+msgctxt "#31015"
+msgid "Set path to video genre fanart folder"
+msgstr "Stabilește calea către dosarul de decoruri din genul video"
+
+msgctxt "#31016"
+msgid "Poster"
+msgstr "Afiș"
+
+msgctxt "#31017"
+msgid "Set path to music genre fanart folder"
+msgstr "Stabilește calea către dosarul de decoruri din genul muzică"
+
+msgctxt "#31018"
+msgid "InfoPanel"
+msgstr "Panou de informații"
+
+msgctxt "#31019"
+msgid "Network"
+msgstr "Rețea"
+
+msgctxt "#31020"
+msgid "Extra-fanart"
+msgstr "Decoruri extra"
+
+msgctxt "#31021"
+msgid "Stage curtains"
+msgstr "Perdele scenă"
+
+msgctxt "#31022"
+msgid "Set multi-image background"
+msgstr "Setează fundal imagine multiplă"
+
+msgctxt "#31023"
+msgid "Set single image background"
+msgstr "Setează fundal imagine unică"
+
+msgctxt "#31024"
+msgid "Page"
+msgstr "Pagina"
+
+msgctxt "#31025"
+msgid "Items"
+msgstr "Elemente"
+
+msgctxt "#31026"
+msgid "Misc Options"
+msgstr "Opțiuni diverse"
+
+msgctxt "#31027"
+msgid "Set item background"
+msgstr "Definire fundal element"
+
+msgctxt "#31028"
+msgid "Live DVD Cases"
+msgstr "Carcase DVD"
+
+msgctxt "#31029"
+msgid "Recent Movies"
+msgstr "Filme recente"
+
+msgctxt "#31030"
+msgid "Recent Episodes"
+msgstr "Episoade recente"
+
+msgctxt "#31031"
+msgid "Random Movies"
+msgstr "Filme aleatorii"
+
+msgctxt "#31032"
+msgid "Recommended Movies"
+msgstr "Filme recomandate"
+
+msgctxt "#31033"
+msgid "Random Episodes"
+msgstr "Episoade aleatorii"
+
+msgctxt "#31034"
+msgid "Recommended Episodes"
+msgstr "Episoade recomandate"
+
+msgctxt "#31035"
+msgid "Random Songs"
+msgstr "Cântece aleatorii"
+
+msgctxt "#31036"
+msgid "Random Albums"
+msgstr "Albume aleatorii"
+
+msgctxt "#31037"
+msgid "Recent Albums"
+msgstr "Albume recente"
+
+msgctxt "#31038"
+msgid "Recommended Albums"
+msgstr "Albume recomandate"
+
+msgctxt "#31039"
+msgid "Actions"
+msgstr "Acțiuni"
+
+msgctxt "#31040"
+msgid "Now Playing"
+msgstr "În redare"
+
+msgctxt "#31041"
+msgid "Select widget"
+msgstr "Selectare widget"
+
+msgctxt "#31042"
+msgid "Show \"Now Playing\" information blended in the background"
+msgstr "Afișează informația \"Rulează acum\" topită în fundal"
+
+msgctxt "#31043"
+msgid "Platform"
+msgstr "Platformă"
+
+msgctxt "#31044"
+msgid "Views: Plot outline | Info dialog: Full plot"
+msgstr "Vizualizări: Intrigă scurtă | Dialog informativ: Intriga completă"
+
+msgctxt "#31045"
+msgid "Views: Full plot | Info dialog: Plot outline"
+msgstr "Vizualizări: Intrigă completă | Dialog informativ: Intriga pe scurt"
+
+msgctxt "#31046"
+msgid "SEEKING"
+msgstr "DERULARE"
+
+msgctxt "#31047"
+msgid "Set item icon"
+msgstr "Alegere pictogramă element"
+
+msgctxt "#31048"
+msgid "Visualisation Presets"
+msgstr "Vizualizări predefinite"
+
+msgctxt "#31049"
+msgid "Select infoline"
+msgstr "Selectare linie informativă"
+
+msgctxt "#31050"
+msgid "Sort: Ascending"
+msgstr "Sortare: Ascendentă"
+
+msgctxt "#31051"
+msgid "Sort: Descending"
+msgstr "Sortare: Descendentă"
+
+msgctxt "#31052"
+msgid "Movie library statistics"
+msgstr "Statistici mediatecă filme"
+
+msgctxt "#31053"
+msgid "TV Show library statistics"
+msgstr "Statistici mediatecă seriale"
+
+msgctxt "#31054"
+msgid "Music library statistics"
+msgstr "Statistici mediatecă audio"
+
+msgctxt "#31055"
+msgid "Open playlist"
+msgstr "Deschide listă de redare"
+
+msgctxt "#31056"
+msgid "Save playlist"
+msgstr "Salvează lista de redare"
+
+msgctxt "#31057"
+msgid "Close playlist"
+msgstr "Închide lista de redare"
+
+msgctxt "#31058"
+msgid "PVR information"
+msgstr "Informaţii PVR"
+
+msgctxt "#31059"
+msgid "Install Artist Slideshow add-on to enable this feature"
+msgstr "Instalați suplimentul Artist Slideshow pentru a activa această funcție"
+
+msgctxt "#31060"
+msgid "This file is stacked, select the part you want to play from."
+msgstr "Acest fișier este în stivă, selectați partea din care doriți să redați."
+
+msgctxt "#31061"
+msgid "Favourites statistics"
+msgstr "Statistici favorite"
+
+msgctxt "#31062"
+msgid "Random movie fanart"
+msgstr "Decor film aleatoriu"
+
+msgctxt "#31063"
+msgid "Random TV show fanart"
+msgstr "Decor serial aleatoriu"
+
+msgctxt "#31064"
+msgid "Random video fanart"
+msgstr "Decor video aleatoriu"
+
+msgctxt "#31065"
+msgid "Random music fanart"
+msgstr "Decor muzică aleatoriu"
+
+msgctxt "#31066"
+msgid "Random fanart"
+msgstr "Decor aleatoriu"
+
+msgctxt "#31067"
+msgid "Update rating"
+msgstr "Actualizează nota"
+
+msgctxt "#31068"
+msgid "CD Wall"
+msgstr "Perete discuri"
+
+msgctxt "#31069"
+msgid "Change location"
+msgstr "Schimbare locație"
+
+msgctxt "#31070"
+msgid "Enable Cinema Experience integration"
+msgstr "Activați integrarea Cinema Experience"
+
+msgctxt "#31071"
+msgid "While browsing the library"
+msgstr "În timp ce se navighează prin mediatecă"
+
+msgctxt "#31072"
+msgid "On open video info"
+msgstr "Informații video la deschidere"
+
+msgctxt "#31073"
+msgid "Move menu item"
+msgstr "Mută element meniu"
+
+msgctxt "#31074"
+msgid "Choose item to swap places with"
+msgstr "Alegeți elementul cu care veți schimba locul"
+
+msgctxt "#31075"
+msgid "No extra features available"
+msgstr "Nu sunt disponibile alte facilități"
+
+msgctxt "#31076"
+msgid "Landscape"
+msgstr "Panoramă"
+
+msgctxt "#31077"
+msgid "ShowCase"
+msgstr "Vitrină"
+
+msgctxt "#31078"
+msgid "TriPanel"
+msgstr "Panou triplu"
+
+msgctxt "#31079"
+msgid "Shift"
+msgstr "Shift"
+
+msgctxt "#31080"
+msgid "Manage submenu"
+msgstr "Administrare submeniu"
+
+msgctxt "#31081"
+msgid "Enable custom submenus"
+msgstr "Activează submeniuri personalizate"
+
+msgctxt "#31082"
+msgid "Detach RSS feed from the main menu"
+msgstr "Detașează fluxul RSS de meniul principal"
+
+msgctxt "#31083"
+msgid "Enable Next Aired information in the videolibrary"
+msgstr "Activează informațiile despre Difuzate in curând în mediateca video"
+
+msgctxt "#31084"
+msgid "Conditional weather"
+msgstr "Vreme condițională"
+
+msgctxt "#31085"
+msgid "Musicvideo library statistics"
+msgstr "Statistici mediatecă videoclipuri muzicale"
+
+msgctxt "#31086"
+msgid "Icon"
+msgstr "Pictogramă"
+
+msgctxt "#31087"
+msgid "Banner"
+msgstr "Acoperire"
+
+msgctxt "#31088"
+msgid "BannerWall"
+msgstr "Perete reclame"
+
+msgctxt "#31089"
+msgid "Play item on startup"
+msgstr "Redă element la pornire"
+
+msgctxt "#31090"
+msgid "Seconds"
+msgstr "Secunde"
+
+msgctxt "#31091"
+msgid "Select items"
+msgstr "Selectați elemente"
+
+msgctxt "#31092"
+msgid "Fullscreen fanart"
+msgstr "Creație artistică pe tot ecranul"
+
+msgctxt "#31093"
+msgid "LowList toggle"
+msgstr "Comutator listă mică"
+
+msgctxt "#31094"
+msgid "List view layout"
+msgstr "Aranjament vizualizare listă"
+
+msgctxt "#31095"
+msgid "Slim List"
+msgstr "Listă subțire"
+
+msgctxt "#31096"
+msgid "Concert locations"
+msgstr "Locații concerte"
+
+msgctxt "#31097"
+msgid "Movie playlist statistics"
+msgstr "Statistici listă de redare filme"
+
+msgctxt "#31098"
+msgid "TV Show playlist statistics"
+msgstr "Statistici listă de redare seriale"
+
+msgctxt "#31099"
+msgid "Musicvideo playlist statistics"
+msgstr "Statistici listă de redare videoclipuri muzicale"
+
+msgctxt "#31100"
+msgid "View:"
+msgstr "Vizualizare:"
+
+msgctxt "#31101"
+msgid "Choose view"
+msgstr "Alegere vizualizare"
+
+msgctxt "#31102"
+msgid "Background"
+msgstr "Fundal"
+
+msgctxt "#31103"
+msgid "N/A"
+msgstr "N/A"
+
+msgctxt "#31104"
+msgid "Similar artists"
+msgstr "Artişti similari"
+
+msgctxt "#31105"
+msgid "More albums from"
+msgstr "Mai multe albume de la"
+
+msgctxt "#31106"
+msgid "On info"
+msgstr "Informații"
+
+msgctxt "#31107"
+msgid "Persistent"
+msgstr "Persistent"
+
+msgctxt "#31108"
+msgid "Enable artist information feed (if available)"
+msgstr "Afișează fluxul de informații despre artist (dacă este disponibil)"
+
+msgctxt "#31109"
+msgid "Unwatched episode count"
+msgstr "Număr de episoade nevăzute"
+
+msgctxt "#31110"
+msgid "Up next brings the option to watch right away the next episode of a TV show (Netflix/Prime video style)."
+msgstr "Up next aduce opțiunea de a viziona imediat următorul episod al unei emisiuni TV (stil video Netflix/Prime)."
+
+msgctxt "#31111"
+msgid "Similar movies"
+msgstr "Filme similare"
+
+msgctxt "#31112"
+msgid "Movies directed by"
+msgstr "Filme regizate de"
+
+msgctxt "#31113"
+msgid "Movies written by"
+msgstr "Filme scrise de"
+
+msgctxt "#31114"
+msgid "More movies from"
+msgstr "Mai multe filme de la"
+
+msgctxt "#31115"
+msgid "Similar TV shows"
+msgstr "Seriale similare"
+
+msgctxt "#31116"
+msgid "cycle fanart"
+msgstr "Rotește decorul"
+
+msgctxt "#31117"
+msgid "Fallback"
+msgstr "Rezervă"
+
+msgctxt "#31118"
+msgid "Download extrafanart"
+msgstr "Descărcați extrafanart"
+
+msgctxt "#31119"
+msgid "Show the movies from this director in your library or view online information on this director on TMDb?"
+msgstr "Afișați filmele acestui regizor în biblioteca dvs. sau vizualizați informații online despre acest regizor pe TMDb?"
+
+msgctxt "#31120"
+msgid "TMDb"
+msgstr "TMDb"
+
+msgctxt "#31121"
+msgid "Disable autocomplete"
+msgstr "Dezactivează completarea automată"
+
+msgctxt "#31122"
+msgid "Disables the autocomplete feature of the virtual keyboard"
+msgstr "Dezactivează funcția de completare automată a tastaturii virtuale"
+
+msgctxt "#31123"
+msgid "Album review"
+msgstr "Recenzie album"
+
+msgctxt "#31124"
+msgid "Show Background \"Now Playing\" Video"
+msgstr "Arată video „Acum în redare” pe fundal"
+
+msgctxt "#31125"
+msgid "Show Background \"Now Playing\" Visualisation"
+msgstr "Arată vizualizare „Acum în redare” pe fundal"
+
+msgctxt "#31126"
+msgid "Opacity level for widgets"
+msgstr "Nivel de opacitate pentru widget-uri"
+
+msgctxt "#31127"
+msgid "LiveTV Mod Settings"
+msgstr "Setări mod LiveTV"
+
+msgctxt "#31128"
+msgid "Channels View"
+msgstr "Vizualizare canale"
+
+msgctxt "#31129"
+msgid "Hide Fanart in full screen visualisation"
+msgstr "Ascunde Fanart în modul de vizualizare full screen"
+
+msgctxt "#31130"
+msgid "Use \"Enigma2-style\" channel OSD"
+msgstr "Folosiți afișajul pe ecran OSD \"Enigma2-style\""
+
+msgctxt "#31131"
+msgid "EPG Timeline View"
+msgstr "Vizualizare cronologie EPG"
+
+msgctxt "#31132"
+msgid "Tuner:"
+msgstr "Tuner:"
+
+msgctxt "#31133"
+msgid "Timeline channels-type:"
+msgstr "Tip de canale cronologice:"
+
+msgctxt "#31134"
+msgid "Timeline view-type:"
+msgstr "Tip vizualizare cronologie:"
+
+msgctxt "#31135"
+msgid "Infobar Options"
+msgstr "Opțiuni bară de informații"
+
+msgctxt "#31136"
+msgid "Infobar type:"
+msgstr "Tip bară de informații:"
+
+msgctxt "#31137"
+msgid "Hide encryption information"
+msgstr "Ascunde informații criptare"
+
+msgctxt "#31138"
+msgid "Hide tuner information"
+msgstr "Ascunde informații prinzător"
+
+msgctxt "#31139"
+msgid "Hide signal information"
+msgstr "Ascunde informații semnal"
+
+msgctxt "#31140"
+msgid "Sideblade Options"
+msgstr "Opțiuni laterale"
+
+msgctxt "#31141"
+msgid "Hide Guide"
+msgstr "Ascunde ghidul"
+
+msgctxt "#31142"
+msgid "Settings level"
+msgstr "Nivel setări"
+
+msgctxt "#31143"
+msgid "Hide Recordings"
+msgstr "Ascunde înregistrările"
+
+msgctxt "#31144"
+msgid "Hide Timer"
+msgstr "Ascunde cronometrul"
+
+msgctxt "#31145"
+msgid "Hide Search"
+msgstr "Ascunde căutarea"
+
+msgctxt "#31146"
+msgid "Rated"
+msgstr "Evaluat"
+
+msgctxt "#31147"
+msgid "Change rating"
+msgstr "Modificați evaluarea"
+
+msgctxt "#31148"
+msgid "List local library items"
+msgstr "Listează elementele din mediateca locală"
+
+msgctxt "#31149"
+msgid "Online info from TMDb"
+msgstr "Informații online de la TMDb"
+
+msgctxt "#31150"
+msgid "Select studio logo artwork"
+msgstr "Selectați opera de artă a logo-ului studioului"
+
+msgctxt "#31151"
+msgid "Customize the studio logos by choosing a different logo pack. Note that this has no effect on the studio icons displayed in the \"List\" view."
+msgstr "Personalizați siglele studioului alegând un alt pachet de logo-uri.Rețineți că acest lucru nu are niciun efect asupra pictogramelor studio afișate în vizualizarea \"List\"."
+
+msgctxt "#31152"
+msgid "In progress movies"
+msgstr "Filme în curs de vizionare"
+
+msgctxt "#31153"
+msgid "Popular movies on TheMovieDB.org"
+msgstr "Filme populare pe TheMovieDB.org"
+
+msgctxt "#31154"
+msgid "Top rated movies on TheMovieDB.org"
+msgstr "Filme cu cele mai bune cote pe TheMovieDB.org"
+
+msgctxt "#31155"
+msgid "Movies currently in cinema"
+msgstr "Filme în prezent în cinema"
+
+msgctxt "#31156"
+msgid "Upcoming movies"
+msgstr "Filme viitoare"
+
+msgctxt "#31157"
+msgid "Multi movie widget"
+msgstr "Widget cu mai multe filme"
+
+msgctxt "#31158"
+msgid "IMDb Top 250 movies"
+msgstr "IMDb Top 250 de filme"
+
+msgctxt "#31159"
+msgid "Event log"
+msgstr "Jurnal de evenimente"
+
+msgctxt "#31160"
+msgid "Display background name"
+msgstr "Afișează numele de fundal"
+
+msgctxt "#31161"
+msgid "Display title of movie/TV show/artist on home screen if the background has a fanart slideshow as background"
+msgstr "Afișează titlul filmului/emisiunii TV/artistului pe ecranul de pornire dacă fundalul are ca fundal o prezentare de diapozitive cu fanart"
+
+msgctxt "#31162"
+msgid "min"
+msgstr "min"
+
+msgctxt "#31163"
+msgid "TIMESHIFT"
+msgstr ""
+
+msgctxt "#31164"
+msgid "Change weather icons"
+msgstr "Schimbați pictogramele meteo"
+
+msgctxt "#31165"
+msgid "Layout"
+msgstr "Aranjament"
+
+msgctxt "#31166"
+msgid "Wall"
+msgstr "Imagini"
+
+msgctxt "#31167"
+msgid "You're watching"
+msgstr "Te uiți"
+
+msgctxt "#31168"
+msgid "h"
+msgstr ""
+
+msgctxt "#31169"
+msgid "m"
+msgstr ""
+
+msgctxt "#31170"
+msgid "Enable Netflix style pause screen"
+msgstr "Activați ecranul de pauză în stil Netflix"
+
+msgctxt "#31171"
+msgid "Shows an overview of the movie or episode 10 seconds after the video is paused."
+msgstr "Afișează o prezentare generală a filmului sau a episodului la 10 secunde după ce videoclipul este întrerupt."
+
+msgctxt "#31172"
+msgid "Inactive"
+msgstr "Inactiv"
+
+msgctxt "#31173"
+msgid "Decoder"
+msgstr "Decodor"
+
+msgctxt "#31174"
+msgid "Hardware decoding"
+msgstr "Decodare hardware"
+
+msgctxt "#31175"
+msgid "press 'OK' to see more..."
+msgstr "apăsați „OK” pentru a vedea mai multe..."
+
+msgctxt "#31176"
+msgid "Enter text here..."
+msgstr "Introduceți text"
+
+msgctxt "#31177"
+msgid "Player controls"
+msgstr "Comenzile jucătorului"
+
+msgctxt "#31178"
+msgid "Playlist options"
+msgstr "Opțiuni listă de redare"
+
+msgctxt "#31179"
+msgid "Critics"
+msgstr "Criticii"
+
+msgctxt "#31180"
+msgid "Play main theme when browsing movies and TV shows"
+msgstr "Redați tema principală când răsfoiți filme și emisiuni TV"
+
+msgctxt "#31181"
+msgid "Display cast in video views"
+msgstr "Afișează proiecția în vizionări video"
+
+msgctxt "#31182"
+msgid "Hide current time in media views"
+msgstr "Ascundeți ora curentă în vizualizările media"
+
+msgctxt "#31183"
+msgid "Hide number of items in media views"
+msgstr "Ascundeți numărul de articole din vizualizările media"
+
+msgctxt "#31184"
+msgid "Enable, disable and/or force video views"
+msgstr "Activați, dezactivați și/sau forțați vizualizările video"
+
+msgctxt "#31185"
+msgid "Enable, disable and/or force music views"
+msgstr "Activați, dezactivați și/sau forțați vizualizările muzicale"
+
+msgctxt "#31186"
+msgid "Force Kodi to always use certain view when browsing each kind of media. Disabling views that you don't use could speed up browsing in some devices"
+msgstr "Forțați Kodi să folosească întotdeauna o anumită vizualizare la navigarea prin fiecare tip de media. Dezactivarea vizualizărilor neutilizate poate accelera navigarea pe unele dispozitive."
+
+msgctxt "#31187"
+msgid "Available for:"
+msgstr "Disponibil pentru:"
+
+msgctxt "#31188"
+msgid "Kiosk mode"
+msgstr "Modul chioșc"
+
+msgctxt "#31189"
+msgid "Disables the side media menu in views and most options to change Kodi, so as to prevent unwanted modifications."
+msgstr "Dezactivează meniul media lateral în vizualizări și majoritatea opțiunilor pentru a schimba Kodi, pentru a preveni modificările nedorite."
+
+msgctxt "#31190"
+msgid "In cinemas"
+msgstr "În cinematografe"
+
+msgctxt "#31191"
+msgid "In cinemas soon"
+msgstr "În curând în cinematografe"
+
+msgctxt "#31192"
+msgid "Spotify"
+msgstr ""
+
+msgctxt "#31193"
+msgid "Show images of the best-known actresses"
+msgstr "Arată imagini cu cele mai cunoscute actrițe"
+
+msgctxt "#31194"
+msgid "Search the Red Carpet add-on for images of the best-known actresses from the movie/TV show and display them alongside the cast."
+msgstr "Căutați în suplimentul Red Carpet imagini cu cele mai cunoscute actrițe din film/emisiune TV și afișați-le alături de distribuție."
+
+msgctxt "#31195"
+msgid "Show logos of film studios in video views"
+msgstr "Afișați sigle ale studiourilor de film în vizualizări video"
+
+msgctxt "#31196"
+msgid "Show logos of record labels in music albums views"
+msgstr "Afișați siglele caselor de discuri în vizualizările albumelor muzicale"
+
+msgctxt "#31197"
+msgid "Show home music widget"
+msgstr "Afișați widgetul muzical de acasă"
+
+msgctxt "#31198"
+msgid "Show home video widget"
+msgstr "Afișați widgetul video de acasă"
+
+msgctxt "#31199"
+msgid "Colours, marks and home screen"
+msgstr "Culori, semne și ecran de pornire"
+
+msgctxt "#31200"
+msgid "Is used to choose among different Kodi resource image pack to weather artwork and icons."
+msgstr "Este folosit pentru a alege dintre diferite pachete de imagini de resurse Kodi pentru a face obiecte de artă și pictograme."
+
+msgctxt "#31201"
+msgid "Performance impact"
+msgstr "Impactul asupra performanței"
+
+msgctxt "#31202"
+msgid "Plays music in the background while in Home and Settings screens. A default song collection is provided, but a different song folder can be used."
+msgstr "Redă muzică în fundal în ecranele Acasă și Setări.Este furnizată o colecție implicită de melodii, dar poate fi folosit un folder diferit de melodii."
+
+msgctxt "#31203"
+msgid "Select your own folder to use as background music. Make sure that it only contains music files."
+msgstr "Selectați propriul folder pentru a-l folosi ca muzică de fundal.Asigurați-vă că conține doar fișiere muzicale."
+
+msgctxt "#31204"
+msgid "When enabled, widgets linked to each home menu item will appear automatically. If disabled, widgets remain hidden until the corresponding arrow key is pressed."
+msgstr "Când sunt activate, widget-urile legate de fiecare element din meniul de pornire vor apărea automat.Dacă sunt dezactivate, widget-urile rămân ascunse până când este apăsată tasta săgeată corespunzătoare."
+
+msgctxt "#31205"
+msgid "Lyrics Source"
+msgstr "Sursă versuri"
+
+msgctxt "#31206"
+msgid "Customization"
+msgstr "Personalizare"
+
+msgctxt "#31207"
+msgid "Views"
+msgstr "Vizualizări"
+
+msgctxt "#31208"
+msgid "Home screen"
+msgstr "Ecranul de pornire"
+
+msgctxt "#31209"
+msgid "Options"
+msgstr "Opțiuni"
+
+msgctxt "#31210"
+msgid "Select another image as default background"
+msgstr "Selectați o altă imagine ca fundal implicit"
+
+msgctxt "#31211"
+msgid "Changes the default Aeon Tajo background to another chosen by the user."
+msgstr "Schimbă fundalul implicit Aeon Tajo cu altul ales de utilizator."
+
+msgctxt "#31212"
+msgid "Current background path: "
+msgstr "Calea de fundal actuală:"
+
+msgctxt "#31213"
+msgid "Reset skin default background"
+msgstr "Resetați fundalul implicit al pielii"
+
+msgctxt "#31214"
+msgid "Resets the default background provided with Aeon Tajo."
+msgstr "Resetează fundalul implicit furnizat cu Aeon Tajo."
+
+msgctxt "#31215"
+msgid "Show the coloured version of the icons rather than the monochrome version."
+msgstr "Afișați versiunea colorată a pictogramelor, mai degrabă decât versiunea monocromă."
+
+msgctxt "#31216"
+msgid "Displays background and fanart images with a subtle motion effect across the screen."
+msgstr "Afișează imagini de fundal și fanart cu un efect de mișcare subtil pe ecran."
+
+msgctxt "#31217"
+msgid "Displays a list in the video views featuring thumbnail images of the main actors from the movie or TV show's cast."
+msgstr "Afișează o listă în vizualizările video cu imagini în miniatură ale actorilor principali din distribuția filmului sau a emisiunii TV."
+
+msgctxt "#31218"
+msgid "Search the Studio Icons add-on for logo images of the film studios of the movie/TV show, and if found, display them while browsing the video views."
+msgstr "Căutați în programul de completare Studio Icons imagini cu logo-ul studiourilor de film ale filmului/emisiunii TV și, dacă sunt găsite, afișați-le în timp ce răsfoiți vizualizările video."
+
+msgctxt "#31219"
+msgid "Search for the album's record label logo using the RecordLabel Icons addon, and if found, display it when browsing the music album views."
+msgstr "Căutați sigla casei de discuri a albumului folosind addonul Pictograme RecordLabel și, dacă este găsită, afișați-o când răsfoiți vizualizările albumului muzical."
+
+msgctxt "#31220"
+msgid "Show rating"
+msgstr "Arată evaluarea"
+
+msgctxt "#31221"
+msgid "Show artist clearart"
+msgstr "Arată artist clearart"
+
+msgctxt "#31222"
+msgid "Show CD"
+msgstr "Afișează CD-ul"
+
+msgctxt "#31223"
+msgid "Show Time"
+msgstr "Arată Ora"
+
+msgctxt "#31224"
+msgid "Animated posters"
+msgstr "postere animate"
+
+msgctxt "#31225"
+msgid "Normal posters"
+msgstr "Afișe normale"
+
+msgctxt "#31226"
+msgid "Extra posters"
+msgstr "postere suplimentare"
+
+msgctxt "#31227"
+msgid "Sets the transparency level of the home menu widgets."
+msgstr "Setează nivelul de transparență al widget-urilor meniului de pornire."
+
+msgctxt "#31228"
+msgid "Displays main menu options in a vertical layout instead of a horizontal one."
+msgstr "Afișează opțiunile meniului principal într-un aspect vertical în loc de unul orizontal."
+
+msgctxt "#31229"
+msgid "Set another video file as startup intro"
+msgstr "Setați un alt fișier video ca introducere de pornire"
+
+msgctxt "#31230"
+msgid "Choose another video file to play when Kodi starts instead of Aeon Tajo default. It's recommended to choose a short one. To stop playback and start using Kodi right away, click or press any arrow key."
+msgstr "Alegeți alt fișier video pentru a reda când Kodi pornește în loc de Aeon Tajo implicit.Este recomandat să alegeți unul scurt.Pentru a opri redarea și a începe să utilizați Kodi imediat, faceți clic sau apăsați orice tastă săgeată."
+
+msgctxt "#31231"
+msgid "Plays an intro video when launching Kodi"
+msgstr "Redă un videoclip introductiv la lansarea Kodi"
+
+msgctxt "#31232"
+msgid "Clear current intro video file and back to default"
+msgstr "Ștergeți fișierul video introductiv curent și reveniți la valoarea implicită"
+
+msgctxt "#31233"
+msgid "Clear the intro video file selected by the user and back to Aeon Tajo's default."
+msgstr "Ștergeți fișierul video introductiv selectat de utilizator și reveniți la valoarea implicită a lui Aeon Tajo."
+
+msgctxt "#31234"
+msgid "Adds a layer that simulates falling snow on all Kodi screens, with four available intensity levels."
+msgstr "Adaugă un strat care simulează căderea zăpezii pe toate ecranele Kodi, cu patru niveluri de intensitate disponibile."
+
+msgctxt "#31235"
+msgid "Override the current home menu backgrounds with this one"
+msgstr "Suprascrieți fundalurile actuale ale meniului de pornire cu acesta"
+
+msgctxt "#31236"
+msgid "The background selections made in the Setup Main Menu screen will be preserved. Disabling this option will restore all previous backgrounds. This option is particularly designed for use during special seasons."
+msgstr "Selecțiile de fundal făcute în ecranul Setup Main Menu vor fi păstrate.Dezactivarea acestei opțiuni va restabili toate fundalurile anterioare.Această opțiune este concepută în special pentru utilizare în perioadele speciale."
+
+msgctxt "#31237"
+msgid "No impact"
+msgstr "Nici un impact"
+
+msgctxt "#31238"
+msgid "Very small"
+msgstr "Foarte mic"
+
+msgctxt "#31239"
+msgid "Small"
+msgstr "Mic"
+
+msgctxt "#31240"
+msgid "Moderate"
+msgstr "Moderat"
+
+msgctxt "#31241"
+msgid "Pixel format"
+msgstr "Format pixel"
+
+msgctxt "#31242"
+msgid "System rendering speed"
+msgstr "Viteza de randare a sistemului"
+
+msgctxt "#31243"
+msgid "Hide actor's thumbnails"
+msgstr "Ascunde miniaturile actorilor"
+
+msgctxt "#31244"
+msgid "Show only a list of the actors' names, instead of also including their thumbnails."
+msgstr "Afișează doar o listă cu numele actorilor, fără a include miniaturile acestora."
+
+msgctxt "#31250"
+msgid "Automatic Full Screen when playing music"
+msgstr "Ecran complet automat când redați muzică"
+
+msgctxt "#31251"
+msgid "Don't play melodies while in Home Screen"
+msgstr "Nu redați melodii în timp ce sunteți în ecranul de pornire"
+
+msgctxt "#31252"
+msgid "Always show home screen widgets"
+msgstr "Afișați întotdeauna widget-urile de pe ecranul de pornire"
+
+msgctxt "#31253"
+msgid "Choose user audio playlist *.m3u (max.10 songs)"
+msgstr "Alegeți lista de redare audio pentru utilizator *.m3u (max. 10 melodii)"
+
+msgctxt "#31254"
+msgid "Clear user playlist (back to default)"
+msgstr "Ștergeți lista de redare a utilizatorului (înapoi la implicit)"
+
+msgctxt "#31300"
+msgid "Overview"
+msgstr "Prezentare generală"
+
+msgctxt "#31301"
+msgid "Last Updated"
+msgstr "Ultima actualizare"
+
+msgctxt "#31307"
+msgid "Hide Fanart"
+msgstr "Ascunde Fanart"
+
+msgctxt "#31308"
+msgid "Next aired"
+msgstr "Următoarea difuzare"
+
+msgctxt "#31309"
+msgid "Memory Used:"
+msgstr "Utilizare memorie:"
+
+msgctxt "#31310"
+msgid "Available audio tracks"
+msgstr "Piste audio disponibile"
+
+msgctxt "#31317"
+msgid "Set Fanart Path"
+msgstr "Setează cale Fanart"
+
+msgctxt "#31320"
+msgid "Last Logged In"
+msgstr "Ultima intrare"
+
+msgctxt "#31321"
+msgid "Karaoke Song Selector"
+msgstr "Selector cântec karaoke"
+
+msgctxt "#31328"
+msgid "Recently Added"
+msgstr "Adăugate recent"
+
+msgctxt "#31331"
+msgid "Installed"
+msgstr "Instalat"
+
+msgctxt "#31332"
+msgid "Not Installed"
+msgstr "Neinstalat"
+
+msgctxt "#31334"
+msgid "Required"
+msgstr "Necesar"
+
+msgctxt "#31335"
+msgid "Recommended"
+msgstr "Recomandate"
+
+msgctxt "#31336"
+msgid "Optional"
+msgstr "Opțional"
+
+msgctxt "#31390"
+msgid "Skin default"
+msgstr "Standard pentru costum"
+
+msgctxt "#31400"
+msgid "[B]CONFIGURE INTERFACE SETTINGS[/B][CR][CR]Change the skin · Set language and region · Setup remote controls[CR]Set up a screensaver · Setup master lock"
+msgstr "[B]CONFIGURAȚI SETĂRILE INTERFEȚEI[/B][CR][CR]Schimbați aspectul · Setați limba și regiunea · Configurați telecomenzi[CR]Configurați un screensaver · Configurați blocarea principală"
+
+msgctxt "#31401"
+msgid "Menu - press 'OK'"
+msgstr "Meniu - apăsați „OK”"
+
+msgctxt "#31402"
+msgid "Enable startup video intro"
+msgstr "Activați introducerea video de pornire"
+
+msgctxt "#31405"
+msgid "[B]MONITOR YOUR SYSTEM[/B][CR][CR]Check out your hardware · Monitor CPU usage[CR]Check Kodi revision number"
+msgstr "[B]MONITORIZAȚI-VĂ SISTEMUL[/B][CR][CR]Verificați-vă hardware-ul · Monitorizați utilizarea procesorului[CR]Verificați numărul de revizuire Kodi"
+
+msgctxt "#31406"
+msgid "[B]CONFIGURE SYSTEM SETTINGS[/B][CR][CR]Setup and calibrate displays · Configure audio output · [CR]Set power saving options · Enable debugging"
+msgstr "[B]CONFIGURAȚI SETĂRI DE SISTEM[/B][CR][CR]Configurați și calibrați afișajele · Configurați ieșirea audio · [CR]Setați opțiunile de economisire a energiei · Activați depanarea"
+
+msgctxt "#31407"
+msgid "[B]SETUP PROFILES[/B][CR][CR]Setup and manage user profiles · Enable login screen[CR]Change password · Add a profile picture"
+msgstr "[B]SETARE PROFILURI[/B][CR][CR]Configurați și gestionați profilurile de utilizator · Activați ecranul de conectare[CR]Schimbați parola · Adăugați o imagine de profil"
+
+msgctxt "#31409"
+msgid "[B]CONFIGURE TV SETTINGS[/B][CR][CR]Change full screen info · Manage EPG data settings"
+msgstr "[B]CONFIGUREAZĂ SETĂRILE TV[/B][CR][CR]Schimbă informațiile afișate pe ecran în modul full screen · Gestionare setări date de tip EPG"
+
+msgctxt "#31410"
+msgid "[B]CONFIGURE SERVICE SETTINGS[/B][CR][CR]Setup control of Kodi via UPnP and HTTP · Configure file sharing[CR]Enable Zeroconf · Configure AirPlay"
+msgstr "[B]CONFIGURAREA SETĂRILOR SERVICIULUI[/B][CR][CR]Stabilirea controului Kodi prin UPnP și HTTP · Configurarea partajării de fișiere[CR]Enable Zeroconf · Configurarea AirPlay"
+
+msgctxt "#31412"
+msgid "Select section"
+msgstr "Selectare secțiune"
+
+msgctxt "#31413"
+msgid "Local subtitle available"
+msgstr "Există subtitrare locală"
+
+msgctxt "#31414"
+msgid "[B]CONFIGURE PLAYER SETTINGS[/B][CR][CR]Configure video playback · Configure music playback · Configure picture slideshow[CR]Configure video language and subtitles"
+msgstr "[B]CONFIGURAȚI SETĂRILE PLAYERului[/B][CR][CR]Configurați redarea videoclipurilor · Configurați redarea muzicii · Configurați prezentarea de imagini[CR]Configurați limba și subtitrările video"
+
+msgctxt "#31415"
+msgid "[B]CONFIGURE MEDIA SETTINGS[/B][CR][CR]Set default select action · Configure file list options · Configure metadata options[CR]Manage databases"
+msgstr "[B]CONFIGURAȚI SETĂRI MEDIA[/B][CR][CR]Setați acțiunea de selectare implicită · Configurați opțiunile pentru lista de fișiere · Configurați opțiunile de metadate[CR]Gestionați bazele de date"
+
+msgctxt "#31421"
+msgid "Select your Kodi user profile[CR]to login and continue"
+msgstr "Selectați profilul dumneavoastră de utilizator Kodi[CR]pentru a vă autentifica și continua"
+
+msgctxt "#31427"
+msgid "Skin Shortcuts is responsible for handling all aspects of the main menu."
+msgstr "Skin Shortcuts este responsabil pentru gestionarea tuturor aspectelor meniului principal."
+
+msgctxt "#31428"
+msgid "The Grab Fanart script provides the random fanart slideshows for the main menu."
+msgstr "Scriptul Grab Fanart oferă prezentări aleatorii ale fanart pentru meniul principal."
+
+msgctxt "#31429"
+msgid "Library Data Provider is a service that runs in the background to provide library data for widgets and live backgrounds as well as playlist statistics for infolines."
+msgstr "Library Data Provider este un serviciu care rulează în fundal pentru a furniza date de bibliotecă pentru widget-uri și fundaluri live, precum și statistici pentru liste de redare pentru liniile de informații."
+
+msgctxt "#31430"
+msgid "Resource image addon for displaying the default white studio icons throughout the skin."
+msgstr "Supliment de imagine de resurse pentru afișarea pictogramelor de studio albe implicite pe toată pielea."
+
+msgctxt "#31431"
+msgid "Resource image addon for displaying the default white recording label icons throughout the skin."
+msgstr "Supliment de imagine de resurse pentru afișarea pictogramelor implicite de etichetă albă de înregistrare pe toată pielea."
+
+msgctxt "#31432"
+msgid "Provides numerous Widget options and extended cast and crew metadata."
+msgstr "Oferă numeroase opțiuni Widget și metadate extinse ale distribuției și ale echipei."
+
+msgctxt "#31433"
+msgid "Skin Info Service is used to display movie set information throughout the skin."
+msgstr "Skin Info Service este folosit pentru a afișa informații despre set de film pe toată pielea."
+
+msgctxt "#31434"
+msgid "Check MP3 Theme checks whether the user has put a theme.mp3 file in the corresponding movie/TV show folder to be played when browsing."
+msgstr "Verificați tema MP3 verifică dacă utilizatorul a pus un fișier theme.mp3 în dosarul corespunzător de film/emisiune TV pentru a fi redat în timpul navigării."
+
+msgctxt "#31450"
+msgid "  •  Open Settings "
+msgstr "• Deschide Setări"
+
+msgctxt "#31451"
+msgid "  •  Click to Install"
+msgstr "• Faceți clic pentru a instala"
+
+msgctxt "#31473"
+msgid "Aeon Tajo Helper provides the data to display the cast for movies and TV shows."
+msgstr "Aeon Tajo Helper oferă datele pentru a afișa distribuția pentru filme și emisiuni TV."
+
+msgctxt "#31474"
+msgid "CU LRC Lyrics is used to download, sync, and display lyrics during fullscreen music playback."
+msgstr "CU LRC Versuri este folosit pentru a descărca, sincroniza și afișa versuri în timpul redării muzicii pe tot ecranul."
+
+msgctxt "#31475"
+msgid "Play Trailer makes possible to play movie trailers through a context menu. "
+msgstr "Play Trailer face posibilă redarea trailerelor de filme printr-un meniu contextual."
+
+msgctxt "#31476"
+msgid "Allows the use of Youtube to play trailers and other videos."
+msgstr "Permite utilizarea YouTube pentru a reda trailere și alte videoclipuri."
+
+msgctxt "#31477"
+msgid "Provides some cast actress images to be shown in video views."
+msgstr "Oferă câteva imagini ale actriței cu distribuție pentru a fi afișate în vizualizări video."
+
+msgctxt "#31478"
+msgid "Artist Slideshow is used to display artist fanart for both the home screen and during fullscreen music playback."
+msgstr "Prezentarea de diapozitive a artistului este folosită pentru a afișa fanart-ul artistului atât pe ecranul de pornire, cât și în timpul redării muzicii pe tot ecranul."
+
+msgctxt "#31479"
+msgid "AutoCompletion provides suggestions to be selected while using the virtual keyboard."
+msgstr "Completarea automată oferă sugestii pentru a fi selectate în timp ce utilizați tastatura virtuală."
+
+msgctxt "#31480"
+msgid "Library Editor Script uses JSON to directly edit your database information."
+msgstr "Library Editor Script folosește JSON pentru a edita direct informațiile bazei de date."
+
+msgctxt "#31481"
+msgid "Global Search makes possible to search among all the items (movies, TV shows, music, actors, etc.) in your collection."
+msgstr "Căutarea globală face posibilă căutarea printre toate articolele (filme, emisiuni TV, muzică, actori etc.) din colecția ta."
+
+msgctxt "#31501"
+msgid "Channel group"
+msgstr "Grup de canale"
+
+msgctxt "#31502"
+msgid "Live TV"
+msgstr "Televizor"
+
+msgctxt "#31503"
+msgid "Add Group"
+msgstr "Adaugă Grup"
+
+msgctxt "#31504"
+msgid "Rename Group"
+msgstr "Redenumește Grup"
+
+msgctxt "#31505"
+msgid "Delete Group"
+msgstr "Șterge Grup"
+
+msgctxt "#31506"
+msgid "Available[CR]Groups"
+msgstr "Grupuri[CR]Disponibile"
+
+msgctxt "#31511"
+msgid "Channel Options"
+msgstr "Opțiunile Canalului"
+
+msgctxt "#31512"
+msgid "Show similar movies in Shelf 3D view"
+msgstr "Afișați filme similare în vizualizarea Raft 3D"
+
+msgctxt "#31901"
+msgid "36 Hour Forecast"
+msgstr "Previziune pe 36 de ore"
+
+msgctxt "#31902"
+msgid "Hourly Forecast"
+msgstr "Previziune la o oră"
+
+msgctxt "#31903"
+msgid "Weekend Forecast"
+msgstr "Previziune weekend"
+
+msgctxt "#31904"
+msgid "10 Day Forecast"
+msgstr "Previziune pe 10 zile"
+
+msgctxt "#31908"
+msgid "Chance of Precipitation"
+msgstr "Șansă de precipitații"
+
+msgctxt "#31909"
+msgid "Fetching forecast info..."
+msgstr "Preluare informații previziune..."
+
+msgctxt "#31910"
+msgid "Map & Alerts"
+msgstr "Harti & Alerte"
+
+msgctxt "#31911"
+msgid "Setup the Aeon Tajo main menu"
+msgstr "Configurați meniul principal Aeon Tajo"
+
+msgctxt "#31912"
+msgid "Customize the main menu with widgets, backgrounds and statistics. Add your own custom main menu items."
+msgstr "Personalizați meniul principal cu widget-uri, fundaluri și statistici.Adăugați propriile elemente personalizate din meniul principal."
+
+msgctxt "#31913"
+msgid "Aeon Tajo main menu vertical position"
+msgstr "Poziția verticală a meniului principal Aeon Tajo"
+
+msgctxt "#31914"
+msgid "Change the vertical position of the main menu. Default is centered on screen."
+msgstr "Schimbați poziția verticală a meniului principal.Implicit este centrat pe ecran."
+
+msgctxt "#31915"
+msgid "Navigation style for horizontal lists"
+msgstr "Stil navigație pentru listele orizontale"
+
+msgctxt "#31916"
+msgid "Change the way horizontal lists scroll in Aeon Tajo. Default will scroll lists in a cycle. \"Fixed\" are lists with a beginning and end."
+msgstr "Schimbați modul în care listele orizontale derulează în Aeon Tajo.În mod implicit, listele vor derula într-un ciclu.„Fixed” sunt liste cu început și sfârșit."
+
+msgctxt "#31917"
+msgid "When enabled text scrolls automatically. When disabled manual scrolling is required. Note that most textboxes don't have a manual button."
+msgstr "Când este activat, textul derulează automat.Când este dezactivată, este necesară derularea manuală.Rețineți că majoritatea casetelor de text nu au un buton manual."
+
+msgctxt "#31918"
+msgid "Projects the current playing video on the background behind the panels."
+msgstr "proiectează fișierul video momentan în redadare pe fundal în spatele panourilor."
+
+msgctxt "#31919"
+msgid "Projects the visualisation on the background behind the panels when music is played."
+msgstr "Proiectează vizualizarea pe fundalul din spatele panourilor atunci când este redată muzică."
+
+msgctxt "#31920"
+msgid "Displays a widget on the Home screen with media information when music is playing."
+msgstr "Afișează un widget pe ecranul de pornire cu informații media atunci când se redă muzică."
+
+msgctxt "#31921"
+msgid "Displays a widget on the Home screen with media information when a movie or episode is playing."
+msgstr "Afișează un widget pe ecranul de pornire cu informații media atunci când se redă un film sau un episod."
+
+msgctxt "#31922"
+msgid "This enables custom genre backgrounds when browsing through the videolibrary's genre node. Filenames should match the genre label. Extension must be .jpg."
+msgstr "Acest lucru permite fundaluri personalizate de gen atunci când răsfoiți prin nodul de gen al bibliotecii video.Numele fișierelor trebuie să se potrivească cu eticheta genului.Extensia trebuie să fie .jpg."
+
+msgctxt "#31923"
+msgid "Set a default select action to enable this item."
+msgstr "Setați o acțiune de selectare implicită pentru a activa acest element."
+
+msgctxt "#31924"
+msgid "This enables custom genre backgrounds when browsing through the musiclibrary's genre node. Filenames should match the genre label. Extension must be .jpg."
+msgstr "Acest lucru permite fundaluri personalizate de gen atunci când răsfoiți prin nodul de gen al bibliotecii muzicale.Numele fișierelor trebuie să se potrivească cu eticheta genului.Extensia trebuie să fie .jpg."
+
+msgctxt "#31925"
+msgid "Pick one of the preset backgrounds or set your own images as the menu items background."
+msgstr "Alegeți unul dintre fundalurile prestabilite sau setați propriile imagini ca fundal pentru elementele de meniu."
+
+msgctxt "#31926"
+msgid "Select add-ons, playlists or favourites. Choose 'Custom' for any of Kodi's built-in functions. (http://kodi.wiki/?title=List_of_Built_In_Functions)"
+msgstr "Selectați suplimente, liste de redare sau favorite.Alegeți „Personalizat” pentru oricare dintre funcțiile încorporate ale Kodi.(http://kodi.wiki/?title=List_of_Built_In_Functions)"
+
+msgctxt "#31927"
+msgid "Resets all above values to their defaults."
+msgstr "Resetează toate setările de mai sus la valorile implicite."
+
+msgctxt "#31928"
+msgid "Aeon Tajo main menu layout"
+msgstr "Aranjament meniu principal Aeon Tajo"
+
+msgctxt "#31929"
+msgid "This setting defines how much items will be visible on the main menu. Options are 3 items or 5 items."
+msgstr "Această setare definește câte elemente vor fi vizibile în meniul principal.Opțiunile sunt 3 articole sau 5 articole."
+
+msgctxt "#31930"
+msgid "Choose a widget to display on the Home screen to have easy access to content from the library."
+msgstr "Alegeți un widget de afișat pe ecranul de pornire pentru a avea acces ușor la conținutul din bibliotecă."
+
+msgctxt "#31931"
+msgid "Video plot preference"
+msgstr "Preferință intrigă video"
+
+msgctxt "#31932"
+msgid "Show plot outline in the library views and full plot in the video information dialog or vice versa. Falls back to full plot if no outline is available."
+msgstr "Afișați conturul plotului în vizualizările bibliotecii și plotul complet în dialogul de informații video sau invers.Se întoarce la intriga completă dacă nu este disponibilă nicio schiță."
+
+msgctxt "#31933"
+msgid "Select an item to display on the left top of the main menu"
+msgstr "Selectați un element de afișat în partea stângă sus a meniului principal"
+
+msgctxt "#31935"
+msgid "Switch places with another menu item. Opens a dialog with a list of menu items to choose from."
+msgstr "Schimbați locațiile cu un alt element de meniu.Deschide un dialog cu o listă de elemente de meniu din care să alegeți."
+
+msgctxt "#31937"
+msgid "Show the RSS feed on the bottom or top of the screen, depending on main menu position. Enabling this setting makes the submenu permanently visible."
+msgstr "Afișați fluxul RSS în partea de jos sau de sus a ecranului, în funcție de poziția meniului principal.Activarea acestei setari face submeniul vizibil permanent."
+
+msgctxt "#31938"
+msgid "Enables extra information in the TV show library, like TV show status, next / latest episode, etc. Depends on TV Show Next Aired add-on."
+msgstr "Activează informații suplimentare în biblioteca de emisiuni TV, cum ar fi starea emisiunii TV, episodul următor/cel mai recent etc. Depinde de programul de completare Următoarea difuzare a emisiunii TV."
+
+msgctxt "#31939"
+msgid "Hide Infopanel on scrolling"
+msgstr "Ascunde panoul de informații la derulare"
+
+msgctxt "#31940"
+msgid "Hides the infopanel for Showcase and Landscape view (if activated) while scrolling through the library. Set the amount of seconds to wait for the infopanel to appear when scrolling is stopped."
+msgstr "Ascunde panoul informativ pentru vizualizarea Prezentare și Peisaj (dacă este activat) în timp ce derulați prin bibliotecă.Setați numărul de secunde pentru a aștepta ca panoul de informații să apară când defilarea este oprită."
+
+msgctxt "#31941"
+msgid "Kiosk mode"
+msgstr "Mod chioșc"
+
+msgctxt "#31942"
+msgid "Disables the slide out menu (media menu) in the library as well as certain buttons in the media information dialogs. (Requires restart to take effect)"
+msgstr "Dezactivează meniul glisant (meniul media) din bibliotecă, precum și anumite butoane din casetele de dialog cu informații media.(Necesită repornire pentru a intra în vigoare)"
+
+msgctxt "#31943"
+msgid "Watched status indicator"
+msgstr "Indicator de stare urmărit"
+
+msgctxt "#31944"
+msgid "Choose which overlays to show on thumbs in icon based views. Note that the \"Resume\" flag takes precedent over any watched status."
+msgstr "Alegeți ce suprapuneri să afișați pe degetele mari în vizualizările bazate pe pictograme.Rețineți că semnalul „Reluare” are prioritate față de orice stare urmărită."
+
+msgctxt "#31945"
+msgid "This toggles the layout of the List view. Default is a 7 item layout with extended info, \"Slim List\" is a 14 item, more basic layout"
+msgstr "Aceasta comută aspectul vizualizării Listă.Implicit este un aspect de 7 articole cu informații extinse, „Lista subțire” este un aspect de 14 articole, un aspect mai simplu"
+
+msgctxt "#31950"
+msgid "WEATHER"
+msgstr "METEO"
+
+msgctxt "#31951"
+msgid "PICTURES"
+msgstr "IMAGINI"
+
+msgctxt "#31952"
+msgid "LIVE TV"
+msgstr "Televizor"
+
+msgctxt "#31953"
+msgid "VIDEOS"
+msgstr "VIDEO"
+
+msgctxt "#31954"
+msgid "MOVIES"
+msgstr "FILME"
+
+msgctxt "#31955"
+msgid "TV SHOWS"
+msgstr "SERIALE"
+
+msgctxt "#31956"
+msgid "MUSIC"
+msgstr "MUZICĂ"
+
+msgctxt "#31957"
+msgid "APPS"
+msgstr "APLICAȚII"
+
+msgctxt "#31958"
+msgid "PLAY DISC"
+msgstr "REDARE DISC"
+
+msgctxt "#31959"
+msgid "SYSTEM"
+msgstr "SISTEM"
+
+msgctxt "#31960"
+msgid "CONCERTS"
+msgstr "CONCERTE"
+
+msgctxt "#31961"
+msgid "Hide ratings in list views"
+msgstr "Ascunde evaluările în vizualizările de listă"
+
+msgctxt "#31962"
+msgid "This toggles the visibility of ratings in views of type List, LowList and TriPanel, except if sorted by rating."
+msgstr "Aceasta comută vizibilitatea evaluărilor în vizualizările de tip List, LowList și TriPanel, cu excepția cazului în care sunt sortate după evaluare."
+
+msgctxt "#31964"
+msgid "NoTo"
+msgstr ""
+
+msgctxt "#31965"
+msgid "Setup main menu"
+msgstr "Configurați meniul principal"
+
+msgctxt "#31966"
+msgid "Customize the main menu with widgets, backgrounds, submenus and statistics. Add your own custom main menu items."
+msgstr "Personalizați meniul principal cu widget-uri, fundaluri, submeniuri și statistici.Adăugați propriile elemente personalizate din meniul principal."
+
+msgctxt "#31967"
+msgid "Skin addons"
+msgstr "Suplimente de piele"
+
+msgctxt "#31968"
+msgid "Addons used to enhance Aeon Tajo."
+msgstr "Suplimente folosite pentru a îmbunătăți Aeon Tajo."
+
+msgctxt "#31969"
+msgid "Skin options"
+msgstr "Opțiuni de piele"
+
+msgctxt "#31970"
+msgid "Setup of melodies, the way of showing widgets, themes and cast for movies/TV shows and other options."
+msgstr "Configurarea melodiilor, modul de afișare a widget-urilor, teme și distribuție pentru filme/emisiuni TV și alte opțiuni."
+
+msgctxt "#31971"
+msgid "Colour of selected items"
+msgstr "Culoarea articolelor selectate"
+
+msgctxt "#31972"
+msgid "Youtube"
+msgstr ""
+
+msgctxt "#31973"
+msgid "Down for more"
+msgstr "Jos pentru mai mult"
+
+msgctxt "#31974"
+msgid "More movies featuring"
+msgstr "Mai multe filme cu"
+
+msgctxt "#31975"
+msgid "More TV shows featuring"
+msgstr "Mai multe emisiuni TV prezentând"
+
+msgctxt "#31976"
+msgid "Image gallery"
+msgstr "Galerie de imagini"
+
+msgctxt "#31977"
+msgid "Years old"
+msgstr "Ani vechi"
+
+msgctxt "#31978"
+msgid "Click for more"
+msgstr "Click pentru mai multe"
+
+msgctxt "#31979"
+msgid "Left for more"
+msgstr "Rămas pentru mai mult"
+
+msgctxt "#31980"
+msgid "Right for more"
+msgstr "Corect pentru mai mult"
+
+msgctxt "#31981"
+msgid "Premiered"
+msgstr "Premiera"
+
+msgctxt "#31982"
+msgid "Budget"
+msgstr "Buget"
+
+msgctxt "#31983"
+msgid "Revenue"
+msgstr "Încasări"
+
+msgctxt "#31984"
+msgid "Awards"
+msgstr "Premii"
+
+msgctxt "#31985"
+msgid "Trending Movies"
+msgstr "Filme în ascensiune"
+
+msgctxt "#31986"
+msgid "Upcoming Movies"
+msgstr "Filme viitoare"
+
+msgctxt "#31987"
+msgid "Now Playing Movies"
+msgstr "Acum se joacă filme"
+
+msgctxt "#31988"
+msgid "Top Rated Movies"
+msgstr "Filme cu cele mai bune cote"
+
+msgctxt "#31989"
+msgid "Popular Movies"
+msgstr "Filme artistice populare"
+
+msgctxt "#31990"
+msgid "Discover Movies"
+msgstr "Descoperiți Filmele"
+
+msgctxt "#31991"
+msgid "Trending Shows"
+msgstr "Seriale în ascensiune"
+
+msgctxt "#31992"
+msgid "Top Rated Shows"
+msgstr "Emisiuni cu cele mai bune cote"
+
+msgctxt "#31993"
+msgid "Popular Shows"
+msgstr "Spectacole populare"
+
+msgctxt "#31994"
+msgid "Discover Shows"
+msgstr "Descoperiți spectacole"
+
+msgctxt "#31995"
+msgid "3D view"
+msgstr "Vedere 3D"
+
+msgctxt "#31996"
+msgid "Extended view"
+msgstr "Vedere extinsă"
+
+msgctxt "#31997"
+msgid "Simple view"
+msgstr "Vedere simplă"
+
+msgctxt "#31998"
+msgid "Classic lyrics"
+msgstr "Versuri clasice"
+
+msgctxt "#31999"
+msgid "Screensaver Netflix style in media views"
+msgstr "Screensaver stil Netflix în vizualizări media"
+
+msgctxt "#31245"
+msgid "When in idle state for two minutes within a media view, a fullscreen slideshow of movies, TV shows, or artists' fanarts will be displayed, according to the section being browsed."
+msgstr "Când vă aflați în stare de inactivitate timp de două minute într-o vizualizare media, va fi afișată o prezentare de diapozitive pe ecran complet cu filme, emisiuni TV sau fanart-uri ale artiștilor, în funcție de secțiunea care este răsfoită."
+
+msgctxt "#31246"
+msgid "Play automatically trailers in video views"
+msgstr "Redare automată a trailerelor în vizualizările video"
+
+msgctxt "#31247"
+msgid "When you browse the video views and pause on a movie or TV show for a few seconds, the trailer automatically plays in a window."
+msgstr "Când răsfoiți vizionările videoclipului și întrerupeți un film sau o emisiune TV pentru câteva secunde, trailerul se redă automat într-o fereastră."
+
+msgctxt "#31248"
+msgid "All devices"
+msgstr "Toate dispozitivele"
+
+msgctxt "#31249"
+msgid "Powerful devices"
+msgstr "Dispozitive puternice"
+
+msgctxt "#31255"
+msgid "Most powerful devices"
+msgstr "Cele mai puternice dispozitive"
+
+msgctxt "#31256"
+msgid "Delay 5 seconds"
+msgstr "Întârziere 5 secunde"
+
+msgctxt "#31257"
+msgid "Delay 12 seconds"
+msgstr "Întârziere 12 secunde"
+
+msgctxt "#31258"
+msgid "Info view 2"
+msgstr "Vizualizare informații 2"
+
+msgctxt "#31259"
+msgid "Info view 1"
+msgstr "Vizualizare informații 1"
+
+msgctxt "#31260"
+msgid "Play automatically songs while browsing music"
+msgstr "Redați automat melodii în timp ce răsfoiți muzică"
+
+msgctxt "#31261"
+msgid "Enable automatic playback of songs from the current artist or album as background music while browsing music views."
+msgstr "Activați redarea automată a melodiilor de la artistul sau albumul curent ca muzică de fundal în timp ce răsfoiți vizualizările muzicale."
+
+msgctxt "#31262"
+msgid "Set path to use another melodies music folder"
+msgstr "Setați calea pentru a utiliza alt folder de muzică melodii"
+
+msgctxt "#31263"
+msgid "Clear current path and back to default melodies music folder"
+msgstr "Ștergeți calea curentă și reveniți la dosarul de muzică melodii implicit"
+
+msgctxt "#31264"
+msgid "Play melodies while in Home & Settings screens"
+msgstr "Redați melodii în ecranele Acasă și Setări"
+
+msgctxt "#31265"
+msgid "Show only background"
+msgstr "Afișați numai fundal"
+
+msgctxt "#31266"
+msgid "TheMovieDb Helper provides data to display online ratings and additional information for movies and TV shows"
+msgstr "TheMovieDb Helper oferă date pentru a afișa evaluări online și informații suplimentare pentru filme și emisiuni TV"
+
+msgctxt "#31267"
+msgid "Show online ratings for movies and TV shows"
+msgstr "Afișați evaluări online pentru filme și emisiuni TV"
+
+msgctxt "#31268"
+msgid "You have to restart Kodi for this option to take effect once the option has been activated. TMDb and Trakt should work out of the box. Metacritic and Rottentomatoes ratings require an OMDb API key. Get an OMDb API Key at http://www.omdbapi.com/apikey.aspx and afterward input the OMDb API Key into the TheMovieDb Helper settings."
+msgstr "Trebuie să reporniți Kodi pentru ca această opțiune să intre în vigoare odată ce opțiunea a fost activată.TMDb și Trakt ar trebui să funcționeze din cutie.Evaluările Metacritic și Rottentomatoes necesită o cheie API OMDb.Obțineți o cheie API OMDb la http://www.omdbapi.com/apikey.aspx și apoi introduceți cheia API OMDb în setările TheMovieDb Helper."
+
+msgctxt "#31269"
+msgid "Resource image addon for displaying coloured studio icons throughout the skin."
+msgstr "Supliment de imagine de resurse pentru afișarea pictogramelor de studio colorate pe toată pielea."
+
+msgctxt "#31270"
+msgid "Show colour icons for audio/video information"
+msgstr "Afișați pictograme color pentru informații audio/video"
+
+msgctxt "#31271"
+msgid "Show extra features for movies and TV shows"
+msgstr "Afișați funcții suplimentare pentru filme și emisiuni TV"
+
+msgctxt "#31272"
+msgid "Display the additional features (media files) placed by the user in the 'extras' folder for a movie or TV show. Remember to modify your advancedsettings.xml file if needed."
+msgstr "Afișați caracteristicile suplimentare (fișiere media) plasate de utilizator în folderul „extra” pentru un film sau o emisiune TV.Nu uitați să modificați fișierul advancedsettings.xml dacă este necesar."
+
+msgctxt "#31273"
+msgid "Show extras"
+msgstr "Afișați extras"
+
+msgctxt "#31274"
+msgid "Enable shifting colours effect in the default Aeon Tajo's background"
+msgstr "Activați efectul de schimbare a culorilor în fundalul implicit al lui Aeon Tajo"
+
+msgctxt "#31275"
+msgid "Activate a shifting colours effect in the default Aeon Tajo's background (only in the Home screen)."
+msgstr "Activați un efect de schimbare a culorilor în fundalul implicit al lui Aeon Tajo (numai în ecranul de pornire)."
+
+msgctxt "#31276"
+msgid "Name of user's additional features folder (if different to 'extras')"
+msgstr "Numele dosarului cu funcții suplimentare al utilizatorului (dacă este diferit de „extras”)"
+
+msgctxt "#31277"
+msgid "Select image to show as background instead of default"
+msgstr "Selectați imaginea pentru a fi afișată ca fundal în loc ca implicit"
+
+msgctxt "#31278"
+msgid "Browse for image"
+msgstr "Căutați imagine"
+
+msgctxt "#31279"
+msgid "Play music videos"
+msgstr "Redați videoclipuri muzicale"
+
+msgctxt "#31280"
+msgid "Play local albums"
+msgstr "Redați albume locale"
+
+msgctxt "#31281"
+msgid "Play songs"
+msgstr "Redați melodii"
+
+msgctxt "#31282"
+msgid "Blurred album image as background"
+msgstr "Imaginea albumului neclară ca fundal"
+
+msgctxt "#31283"
+msgid "Browse for path"
+msgstr "Căutați calea"
+
+msgctxt "#31284"
+msgid "Show extra features for music albums"
+msgstr "Afișați funcții suplimentare pentru albumele muzicale"
+
+msgctxt "#31285"
+msgid "Display the additional features (media files) placed by the user in the 'extras' folder for a music album. Remember to modify your advancedsettings.xml file if needed."
+msgstr "Afișați caracteristicile suplimentare (fișiere media) plasate de utilizator în folderul „extra” pentru un album muzical.Nu uitați să modificați fișierul advancedsettings.xml dacă este necesar."
+
+msgctxt "#31286"
+msgid "When you browse the video views and pause on a movie or TV show for a few seconds, the main theme automatically plays in the background. This feature requires the user to place an mp3 file with the theme in the root folder of the movie or TV show. This file must be named theme.mp3."
+msgstr "Când răsfoiți vizionările video și întrerupeți un film sau o emisiune TV pentru câteva secunde, tema principală este redată automat în fundal.Această caracteristică necesită ca utilizatorul să plaseze un fișier mp3 cu tema în folderul rădăcină al filmului sau al emisiunii TV.Acest fișier trebuie să fie numit theme.mp3."
+
+msgctxt "#31287"
+msgid "Shows the normal poster (poster.jpg) in movies and TV shows views."
+msgstr "Afișează afișul normal (poster.jpg) în vizionări de filme și emisiuni TV."
+
+msgctxt "#31288"
+msgid "Shows the animated poster (animatedposter.gif) in movies and TV shows views."
+msgstr "Afișează posterul animat (animatedposter.gif) în vizionări de filme și emisiuni TV."
+
+msgctxt "#31289"
+msgid "Shows the available extra posters (poster1.jpg, poster2.jpg, poster3.jpg...) in movies and TV shows views."
+msgstr "Afișează posterele suplimentare disponibile (poster1.jpg, poster2.jpg, poster3.jpg...) în vizualizările de filme și emisiuni TV."
+
+msgctxt "#31290"
+msgid "Thanks for using Aeon Tajo—I really hope you’re enjoying it. Creating and maintaining a Kodi skin like this takes hundreds of hours of work. If Aeon Tajo is something you enjoy and find useful, supporting it helps me keep working on it and ensures it can continue evolving in the future. [CR][CR]If you decide to do so, you’ll receive frequent updates with new features and bug fixes, along with videos, media packs, and easy-to-follow articles with detailed tips to help you get the most out of everything Aeon Tajo has to offer, together with my sincere gratitude for your support. [CR][CR]For more information, visit [B][COLOR=themecolor]patreon.com[/B][/COLOR] and search for the creator [COLOR=themecolor][B]Aeon Tajo[/B][/COLOR], or go to [COLOR=themecolor][B]patreon.com/aeontajo[/B][/COLOR].[CR][CR]Thanks!"
+msgstr "Mulțumesc că folosești Aeon Tajo — sper cu adevărat că îți place! Crearea și menținerea unui skin Kodi ca acesta necesită sute de ore de muncă. Dacă Aeon Tajo îți face plăcere și îl găsești util, sprijinul tău mă ajută să continuu să lucrez la el și asigură că va continua să evolueze în viitor. [CR][CR]Dacă decizi să o faci, vei primi actualizări frecvente cu funcții noi și remedieri de erori, împreună cu videoclipuri, pachete media și articole detaliate cu sfaturi pentru a profita la maximum de tot ceea ce oferă Aeon Tajo, alături de sincera mea recunoștință pentru sprijinul tău. [CR][CR]Pentru mai multe informații, vizitați [B][COLOR=themecolor]patreon.com[/B][/COLOR] și căutați creatorul [COLOR=themecolor][B]Aeon Tajo[/B][/COLOR] sau accesați [COLOR=themecolor][B]patreon.com/aeontajo[/B][/COLOR].[CR][CR]Mulțumesc!"
+
+msgctxt "#31291"
+msgid "Blurred album image as background in music visualisation screen"
+msgstr "Imaginea albumului neclară ca fundal în ecranul de vizualizare a muzicii"
+
+msgctxt "#31292"
+msgid "Hide watched mark in video views"
+msgstr "Ascundeți marcajul vizionat în vizualizările videoclipurilor"
+
+msgctxt "#31293"
+msgid "Disclaimer: Aeon Tajo does not provide any media content or sources. Users must provide their own content. Support will not be provided for any 'builds' nor online addons that offer copyrighted content."
+msgstr "Disclaimer: Aeon Tajo nu furnizează niciun conținut media sau surse.Utilizatorii trebuie să furnizeze propriul conținut.Asistență nu va fi oferită pentru nicio „build” sau suplimente online care oferă conținut protejat prin drepturi de autor."
+
+msgctxt "#31294"
+msgid "Change to "
+msgstr "Schimbați în"
+
+msgctxt "#31295"
+msgid "Remember that you should adapt your advancedsetting.xml file to reflect this change, so as to prevent your extras content to be added inadvertently to the Kodi library."
+msgstr "Amintiți-vă că ar trebui să vă adaptați fișierul advancedsetting.xml pentru a reflecta această modificare, astfel încât să preveniți ca conținutul suplimentar să fie adăugat din greșeală în biblioteca Kodi."
+
+msgctxt "#31296"
+msgid "Filmstrip"
+msgstr ""
+
+msgctxt "#31297"
+msgid "Select + Right Stick"
+msgstr "Selectați + Stick dreapta"
+
+msgctxt "#31298"
+msgid "Vertical Home menu"
+msgstr "Meniu Vertical Home"
+
+msgctxt "#31299"
+msgid "Eject disc"
+msgstr "Scoateți discul"
+
+msgctxt "#31302"
+msgid "Play with PreShow"
+msgstr "Joacă-te cu PreShow"
+
+msgctxt "#31303"
+msgid "Highlighted text colour"
+msgstr "Culoarea textului evidențiat"
+
+msgctxt "#31304"
+msgid "Marks colour"
+msgstr "Culoarea marcajelor"
+
+msgctxt "#31305"
+msgid "Current"
+msgstr "Curent"
+
+msgctxt "#31306"
+msgid "Selected"
+msgstr "Selectat"
+
+msgctxt "#31311"
+msgid "Watched mark shape"
+msgstr "Forma semnului urmărit"
+
+msgctxt "#31312"
+msgid "Sliding background fanarts"
+msgstr "Fanart-uri de fundal glisante"
+
+msgctxt "#31313"
+msgid "Kodi add-ons settings"
+msgstr "Setări pentru suplimentele Kodi"
+
+msgctxt "#31314"
+msgid "Install and update add-ons"
+msgstr "Instalați și actualizați suplimente"
+
+msgctxt "#31315"
+msgid "Download add-ons"
+msgstr "Descărcați suplimente"
+
+msgctxt "#31316"
+msgid "Show Browser"
+msgstr "Arată browser"
+
+msgctxt "#31318"
+msgid "Hide Browser"
+msgstr "Ascunde browserul"
+
+msgctxt "#31319"
+msgid "Narrow view"
+msgstr "Vedere îngustă"
+
+msgctxt "#31322"
+msgid "Wide view"
+msgstr "Vedere largă"
+
+msgctxt "#31323"
+msgid "Actors in other movies and TV shows"
+msgstr "Actori în alte filme și emisiuni TV"
+
+msgctxt "#31324"
+msgid "Show similar movies/TV shows and artists/albums"
+msgstr "Afișați filme/emisiuni TV și artiști/albume similare"
+
+msgctxt "#31325"
+msgid "Opens a new window in some video/music views showing other movies/TV shows or artists/albums similar or related to the current item."
+msgstr "Deschide o fereastră nouă în unele vizualizări video/muzică care arată alte filme/emisiuni TV sau artiști/albume similare sau legate de elementul curent."
+
+msgctxt "#31326"
+msgid "Show similar"
+msgstr "Arată similar"
+
+msgctxt "#31327"
+msgid "Classic"
+msgstr "Clasic"
+
+msgctxt "#31329"
+msgid "Similar albums"
+msgstr "Albume similare"
+
+msgctxt "#31330"
+msgid "No similar found"
+msgstr "Nu s-au găsit similare"
+
+msgctxt "#31333"
+msgid "Wikipedia"
+msgstr "Wikipedia"
+
+msgctxt "#31337"
+msgid "Click to select and open article's links"
+msgstr "Faceți clic pentru a selecta și deschide linkurile articolului"
+
+msgctxt "#31338"
+msgid "Click to search..."
+msgstr "Faceți clic pentru a căuta..."
+
+msgctxt "#31339"
+msgid "Add/update music video links"
+msgstr "Adăugați/actualizați link-uri la videoclipuri muzicale"
+
+msgctxt "#31340"
+msgid "[B]CONFIGURE GAME SETTINGS[/B][CR][CR]Change gameplay options[CR]Keyboard settings · Configure rewind settings"
+msgstr "[B]CONFIGURAȚI SETĂRILE JOCului[/B][CR][CR]Schimbați opțiunile de joc[CR]Setările tastaturii · Configurați setările de derulare înapoi"
+
+msgctxt "#31341"
+msgid "Narrow list"
+msgstr "Lista restrânsă"
+
+msgctxt "#31342"
+msgid "Wide list"
+msgstr "Lista larga"
+
+msgctxt "#31343"
+msgid "Update videolinks"
+msgstr "Actualizați linkurile video"
+
+msgctxt "#31344"
+msgid "Play all music videos"
+msgstr "Redați toate videoclipurile muzicale"
+
+msgctxt "#31345"
+msgid "No bookmarks created yet"
+msgstr "Încă nu au fost create marcaje"
+
+msgctxt "#31346"
+msgid "Choose where to start"
+msgstr "Alege de unde să începi"
+
+msgctxt "#31347"
+msgid "Browse the list and click"
+msgstr "Răsfoiți lista și faceți clic"
+
+msgctxt "#31348"
+msgid "Show OSD controls"
+msgstr "Afișați comenzile OSD"
+
+msgctxt "#31349"
+msgid "Preparing list of music videos, please wait..."
+msgstr "Se pregătește lista de videoclipuri muzicale, așteptați..."
+
+msgctxt "#31350"
+msgid "Songs party mode"
+msgstr "Modul petrecere melodii"
+
+msgctxt "#31351"
+msgid "Videolinks party mode"
+msgstr "Mod petrecere linkuri video"
+
+msgctxt "#31352"
+msgid "No videolinks found"
+msgstr "Nu s-au găsit linkuri video"
+
+msgctxt "#31353"
+msgid "Click or arrow keys while playing to show the OSD"
+msgstr "Faceți clic pe sau pe tastele săgeți în timp ce jucați pentru a afișa OSD"
+
+msgctxt "#31354"
+msgid "While playing..."
+msgstr "În timp ce te joci..."
+
+msgctxt "#31355"
+msgid "Click or arrow keys to show the OSD"
+msgstr "Faceți clic pe sau pe tastele săgeată pentru a afișa OSD"
+
+msgctxt "#31356"
+msgid "Shows the normal thumb (folder.jpg) in artists and albums music views."
+msgstr "Afișează degetul mare normal (folder.jpg) în vizualizările de muzică pentru artiști și albume."
+
+msgctxt "#31357"
+msgid "Shows the animated thumb (animatedthumb.gif) in artists and albums music views."
+msgstr "Afișează degetul mare animat (animatedthumb.gif) în vizualizările muzicale pentru artiști și albume."
+
+msgctxt "#31358"
+msgid "Show a colour strip code on video elements"
+msgstr "Afișați un cod de bandă de culoare pe elementele video"
+
+msgctxt "#31359"
+msgid "Allows to quickly identify video file quality using a colour strip code when browsing movies and episodes in video views"
+msgstr "Permite identificarea rapidă a calității fișierului video folosind un cod de bandă de culoare atunci când răsfoiți filme și episoade în vizualizări video"
+
+msgctxt "#31360"
+msgid "Library using Global Search"
+msgstr "Biblioteca folosind Căutarea globală"
+
+msgctxt "#31361"
+msgid "TheMovieDB"
+msgstr ""
+
+msgctxt "#31362"
+msgid "Most Voted Movies"
+msgstr "Cele mai votate filme"
+
+msgctxt "#31363"
+msgid "Crew"
+msgstr "Echipajul"
+
+msgctxt "#31364"
+msgid "Most Voted Shows"
+msgstr "Cele mai votate emisiuni"
+
+msgctxt "#31365"
+msgid "Random Shows"
+msgstr "Emisiuni aleatorii"
+
+msgctxt "#31366"
+msgid "Random Artists"
+msgstr "Artiști aleatori"
+
+msgctxt "#31367"
+msgid "Online info from TheMovieDB.org for videos"
+msgstr "Informații online de la TheMovieDB.org pentru videoclipuri"
+
+msgctxt "#31368"
+msgid "Get online info from TheMovieDB.org in movie and TVshow's info screen and widgets"
+msgstr "Obțineți informații online de la TheMovieDB.org în ecranul de informații și widget-urile filmelor și emisiunilor TV"
+
+msgctxt "#31369"
+msgid "Snow effect - Off"
+msgstr "Efect de zăpadă - Dezactivat"
+
+msgctxt "#31370"
+msgid "Snow effect - Light"
+msgstr "Efect de zăpadă - Lumină"
+
+msgctxt "#31371"
+msgid "Snow effect - Medium"
+msgstr "Efect de zăpadă - Mediu"
+
+msgctxt "#31372"
+msgid "Snow effect - Heavy"
+msgstr "Efect de zăpadă - Grele"
+
+msgctxt "#31373"
+msgid "Snow effect - Blizzard"
+msgstr "Efect de zăpadă - Viscol"
+
+msgctxt "#31374"
+msgid "Click or arrow keys to exit"
+msgstr "Faceți clic pe sau pe tastele săgeată pentru a ieși"
+
+msgctxt "#31375"
+msgid "Rewind"
+msgstr "Derulează înapoi"
+
+msgctxt "#31376"
+msgid "Fast forward"
+msgstr "Înainte rapid"
+
+msgctxt "#31377"
+msgid "Step back"
+msgstr "Faceți un pas înapoi"
+
+msgctxt "#31378"
+msgid "Step forward"
+msgstr "Pas înainte"
+
+msgctxt "#31379"
+msgid "Previous chapter"
+msgstr "Capitolul anterior"
+
+msgctxt "#31380"
+msgid "Next chapter"
+msgstr "Următorul capitol"
+
+msgctxt "#31381"
+msgid "Previous channel"
+msgstr "Canalul anterior"
+
+msgctxt "#31382"
+msgid "Next channel"
+msgstr "Următorul canal"
+
+msgctxt "#31383"
+msgid "Show lyrics"
+msgstr "Afișează versurile"
+
+msgctxt "#31384"
+msgid "Hide lyrics"
+msgstr "Ascunde versurile"
+
+msgctxt "#31385"
+msgid "Adjust lyrics"
+msgstr "Ajustați versurile"
+
+msgctxt "#31386"
+msgid "Hide resumable mark in video views"
+msgstr "Ascunde marcajul de reluare în vizualizările video"
+
+msgctxt "#31387"
+msgid "Hide unwatched mark in video views"
+msgstr "Ascunde marcajul de nevăzut în vizualizările video"
+
+msgctxt "#31388"
+msgid "Hide episodes unwatched mark in video views"
+msgstr "Ascunde marcajul de episoade nevăzute în vizualizările video"
+
+msgctxt "#31389"
+msgid "Same director"
+msgstr "Același regizor"
+
+msgctxt "#31391"
+msgid "'Down' to show similars"
+msgstr "'Jos' pentru a afișa similare"
+
+msgctxt "#31392"
+msgid "'Right' to show similars"
+msgstr "'Dreapta' pentru a afișa similare"
+
+msgctxt "#31393"
+msgid "Show logos"
+msgstr "Afișați logo-uri"
+
+msgctxt "#31394"
+msgid "Show only titles"
+msgstr "Afișați doar titluri"
+
+msgctxt "#31395"
+msgid "Play automatically video links in song views"
+msgstr "Redare automată a link-urilor video în vizualizările de melodii"
+
+msgctxt "#31396"
+msgid "When you browse song views and stop for a few seconds, the video link for that song will play automatically (if available)."
+msgstr "Când navigați prin vizualizările de melodii și vă opriți câteva secunde, link-ul video al acelei melodii va fi redat automat (dacă este disponibil)."
+
+msgctxt "#31397"
+msgid "User reviews"
+msgstr "Recenzii utilizatori"
+
+msgctxt "#31398"
+msgid "Horizontal Home menu"
+msgstr "Meniu principal orizontal"
+
+msgctxt "#31399"
+msgid "Simple Home menu"
+msgstr "Meniu principal simplificat"
+
+msgctxt "#31403"
+msgid "Widget type"
+msgstr "Tip widget"
+
+msgctxt "#31404"
+msgid "Small widgets..."
+msgstr "Widget-uri mici..."
+
+msgctxt "#31408"
+msgid "Fullscreen widgets..."
+msgstr "Widget-uri pe ecran complet..."
+
+msgctxt "#31411"
+msgid "Force view..."
+msgstr "Forțați vizualizarea..."
+
+msgctxt "#31416"
+msgid "A view can't be disabled when is selected as \"forced\" for some media."
+msgstr "O vizualizare nu poate fi dezactivată când este selectată ca „forțată” pentru unele media."
+
+msgctxt "#31417"
+msgid "Only views that are not marked as disabled can be forced."
+msgstr "Doar vizualizările care nu sunt marcate ca dezactivate pot fi forțate."
+
+msgctxt "#31418"
+msgid "Don't force views"
+msgstr "Nu forțați vizualizările"
+
+msgctxt "#31419"
+msgid "Forced view"
+msgstr "Vizualizare forțată"
+
+msgctxt "#31420"
+msgid "Enable or disable views"
+msgstr "Activați sau dezactivați vizualizările"
+
+msgctxt "#31422"
+msgid "No embedded subs"
+msgstr "Fără subtitrări încorporate"
+
+msgctxt "#31423"
+msgid "Auto-open audio/subtitle selector at video start"
+msgstr "Deschide automat selectorul audio/subtitrări la pornirea videoclipului"
+
+msgctxt "#31424"
+msgid "Automatically opens an audio and subtitle selector when starting playback of movies and episodes, allowing you to see which tracks are active and change them directly before continuing."
+msgstr "Deschide automat un selector audio și subtitrări la pornirea redării filmelor și episoadelor, permițând vizualizarea pistelor active și modificarea lor direct înainte de continuare."
+
+msgctxt "#31425"
+msgid "Search music video links for songs not in your library"
+msgstr "Căutați link-uri de videoclipuri muzicale pentru melodii care nu se află în biblioteca dvs."
+
+msgctxt "#31426"
+msgid "Similar artists on your library"
+msgstr "Artiști similari în biblioteca dvs."
+
+msgctxt "#31435"
+msgid "Albums by this artist in your library"
+msgstr "Albume ale acestui artist în biblioteca dvs."
+
+msgctxt "#31436"
+msgid "Online info from TheAudioDB.com for music"
+msgstr "Informații online de la TheAudioDB.com pentru muzică"
+
+msgctxt "#31437"
+msgid "Get online information from TheAudioDB.com on the artist and album information screen"
+msgstr "Obțineți informații online de la TheAudioDB.com pe ecranul de informații despre artist și album"
+
+msgctxt "#31438"
+msgid "TheAudioDb Helper supplies online data and artwork to display enhanced details for artists and music albums."
+msgstr "TheAudioDb Helper furnizează date online și imagini pentru a afișa detalii extinse despre artiști și albume muzicale."
+
+msgctxt "#31439"
+msgid "Record label"
+msgstr "Casă de discuri"
+
+msgctxt "#31440"
+msgid "Last.fm Plays"
+msgstr "Redări pe Last.fm"

@@ -1,0 +1,2224 @@
+# Kodi Media Center language file
+# Addon Name: Aeon Tajo
+# Addon id: skin.aeon.tajo
+# Addon Provider: manfeed
+msgid ""
+msgstr ""
+"Project-Id-Version: KODI Skins\n"
+"POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2026-03-28 23:42+0000\n"
+"Last-Translator: manfeed <aeon.tajo@gmail.com>\n"
+"Language-Team: Greek  <aeon.tajo@gmail.com>\n"
+"Language: el_gr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+msgctxt "Addon Summary"
+msgid "Aeon Tajo"
+msgstr "Aeon Tajo"
+
+msgctxt "Addon Description"
+msgid "Aeon Tajo: Changes everything so that nothing changes. Inspired on Aeon Nox 5 (thanks to BigNoid)."
+msgstr "Aeon Tajo: Αλλάζει τα πάντα έτσι ώστε τίποτα να μην αλλάζει. Εμπνευσμένο από το Aeon Nox 5 (ευχαριστώ BigNoid)."
+
+msgctxt "Addon Disclaimer"
+msgid "Mouse control is supported, althoug not recommended. It may not work correctly in all cases."
+msgstr "Ο έλεγχος με ποντίκι υποστηρίζεται, αν και δεν συνιστάται. Μπορεί να μην λειτουργεί σωστά σε όλες τις περιπτώσεις."
+
+msgctxt "#31000"
+msgid "Directed by"
+msgstr "Σκηνοθεσία από"
+
+msgctxt "#31001"
+msgid "Written by"
+msgstr "Σενάριο από"
+
+msgctxt "#31002"
+msgid "Blurred album thumb"
+msgstr "Θολή μικρογραφία άλμπουμ"
+
+msgctxt "#31003"
+msgid "Power Options"
+msgstr "Επιλογές Ενέργειας"
+
+msgctxt "#31004"
+msgid "Working"
+msgstr "Απασχολημένο"
+
+msgctxt "#31005"
+msgid "Fixed"
+msgstr "Καθορισμένη"
+
+msgctxt "#31006"
+msgid "View Options"
+msgstr "Επιλογές Προβολής"
+
+msgctxt "#31007"
+msgid "Setup home"
+msgstr "Διαμόρφωση αρχ. οθόνης"
+
+msgctxt "#31008"
+msgid "Full screen"
+msgstr "Πλήρης οθόνη"
+
+msgctxt "#31009"
+msgid "Total Duration"
+msgstr "Συνολική Διάρκεια"
+
+msgctxt "#31010"
+msgid "Next episode"
+msgstr "Επόμενο επεισόδιο"
+
+msgctxt "#31011"
+msgid "Latest episode"
+msgstr "Νεώτερο επεισόδιο"
+
+msgctxt "#31012"
+msgid "Airs"
+msgstr "Προβάλλεται στις"
+
+msgctxt "#31013"
+msgid "Statistics"
+msgstr "Στατιστικά"
+
+msgctxt "#31014"
+msgid "Extras"
+msgstr "Έξτρα"
+
+msgctxt "#31015"
+msgid "Set path to video genre fanart folder"
+msgstr "Διαδρομή φακέλου fanart ειδών ταινιών"
+
+msgctxt "#31016"
+msgid "Poster"
+msgstr "Αφίσα"
+
+msgctxt "#31017"
+msgid "Set path to music genre fanart folder"
+msgstr "Διαδρομή φακέλου fanart ειδών μουσικής"
+
+msgctxt "#31018"
+msgid "InfoPanel"
+msgstr "InfoΠάνελ"
+
+msgctxt "#31019"
+msgid "Network"
+msgstr "Δίκτυο"
+
+msgctxt "#31020"
+msgid "Extra-fanart"
+msgstr "Έξτρα Fanart"
+
+msgctxt "#31021"
+msgid "Stage curtains"
+msgstr "Αυλαία"
+
+msgctxt "#31022"
+msgid "Set multi-image background"
+msgstr "Υπόβαθρο πολλαπλών εικόνων"
+
+msgctxt "#31023"
+msgid "Set single image background"
+msgstr "Μία εικόνα για υπόβαθρο"
+
+msgctxt "#31024"
+msgid "Page"
+msgstr "Σελίδα"
+
+msgctxt "#31025"
+msgid "Items"
+msgstr "Αντικείμενα"
+
+msgctxt "#31026"
+msgid "Misc Options"
+msgstr "Διάφορες Επιλογές"
+
+msgctxt "#31027"
+msgid "Set item background"
+msgstr "Υπόβαθρο αντικειμένου"
+
+msgctxt "#31028"
+msgid "Live DVD Cases"
+msgstr "Live Θήκες DVD"
+
+msgctxt "#31029"
+msgid "Recent Movies"
+msgstr "Πρόσφατες ταινίες"
+
+msgctxt "#31030"
+msgid "Recent Episodes"
+msgstr "Πρόσφατα επεισόδια"
+
+msgctxt "#31031"
+msgid "Random Movies"
+msgstr "Τυχαίες ταινίες"
+
+msgctxt "#31032"
+msgid "Recommended Movies"
+msgstr "Προτεινόμενες ταινίες"
+
+msgctxt "#31033"
+msgid "Random Episodes"
+msgstr "Τυχαία επεισόδια"
+
+msgctxt "#31034"
+msgid "Recommended Episodes"
+msgstr "Προτεινόμενα επεισόδια"
+
+msgctxt "#31035"
+msgid "Random Songs"
+msgstr "Τυχαία τραγούδια"
+
+msgctxt "#31036"
+msgid "Random Albums"
+msgstr "Τυχαία άλμπουμ"
+
+msgctxt "#31037"
+msgid "Recent Albums"
+msgstr "Πρόσφατα άλμπουμ"
+
+msgctxt "#31038"
+msgid "Recommended Albums"
+msgstr "Προτεινόμενα άλμπουμ"
+
+msgctxt "#31039"
+msgid "Actions"
+msgstr "Ενέργειες"
+
+msgctxt "#31040"
+msgid "Now Playing"
+msgstr "Τώρα Εκτελείται"
+
+msgctxt "#31041"
+msgid "Select widget"
+msgstr "Επιλογή widget"
+
+msgctxt "#31042"
+msgid "Show \"Now Playing\" information blended in the background"
+msgstr "Προβολή πληροφοριών αυτού που \"Τώρα Εκτελείται\" στο υπόβαθρο"
+
+msgctxt "#31043"
+msgid "Platform"
+msgstr "Πλατφόρμα"
+
+msgctxt "#31044"
+msgid "Views: Plot outline | Info dialog: Full plot"
+msgstr "Προβολές: Περίληψη πλοκής | Πληροφορίες: Πλήρης πλοκή"
+
+msgctxt "#31045"
+msgid "Views: Full plot | Info dialog: Plot outline"
+msgstr "Προβολές: Πλήρη πλοκή | Πληροφορίες: Περίληψη πλοκής"
+
+msgctxt "#31046"
+msgid "SEEKING"
+msgstr "ΑΝΑΖΗΤΗΣΗ"
+
+msgctxt "#31047"
+msgid "Set item icon"
+msgstr "Εικονίδιο αντικειμένου"
+
+msgctxt "#31048"
+msgid "Visualisation Presets"
+msgstr "Προρυθμίσεις Οπτικοποιήσεων"
+
+msgctxt "#31049"
+msgid "Select infoline"
+msgstr "Επιλογή InfoΓραμμής"
+
+msgctxt "#31050"
+msgid "Sort: Ascending"
+msgstr "Ταξ.: Αύξουσα"
+
+msgctxt "#31051"
+msgid "Sort: Descending"
+msgstr "Ταξ.: Φθίνουσα"
+
+msgctxt "#31052"
+msgid "Movie library statistics"
+msgstr "Στατιστικά συλλογής ταινιών"
+
+msgctxt "#31053"
+msgid "TV Show library statistics"
+msgstr "Στατιστικά συλλογής Τηλ. Σειρών"
+
+msgctxt "#31054"
+msgid "Music library statistics"
+msgstr "Στατιστικά μουσικής συλλογής"
+
+msgctxt "#31055"
+msgid "Open playlist"
+msgstr "Άνοιγμα λίστας αναπ/γής"
+
+msgctxt "#31056"
+msgid "Save playlist"
+msgstr "Αποθήκευση λίστας αναπ/γής"
+
+msgctxt "#31057"
+msgid "Close playlist"
+msgstr "Κλείσιμο λίστας αναπ/γής"
+
+msgctxt "#31058"
+msgid "PVR information"
+msgstr "Πληροφορίες PVR"
+
+msgctxt "#31059"
+msgid "Install Artist Slideshow add-on to enable this feature"
+msgstr "Εγκαταστήστε το πρόσθετο Artist Slideshow για να ενεργοποιήσετε αυτήν τη δυνατότητα"
+
+msgctxt "#31060"
+msgid "This file is stacked, select the part you want to play from."
+msgstr "Αυτό το αρχείο είναι στοιβαγμένο, επιλέξτε από που να γίνει αναπαραγωγή."
+
+msgctxt "#31061"
+msgid "Favourites statistics"
+msgstr "Στατιστικά αγαπημένα"
+
+msgctxt "#31062"
+msgid "Random movie fanart"
+msgstr "Fanart τυχαίων ταινιών"
+
+msgctxt "#31063"
+msgid "Random TV show fanart"
+msgstr "Fanart τυχαίων τηλ. σειρών"
+
+msgctxt "#31064"
+msgid "Random video fanart"
+msgstr "Fanart τυχαίων βίντεο"
+
+msgctxt "#31065"
+msgid "Random music fanart"
+msgstr "Fanart τυχαίου άλμπουμ"
+
+msgctxt "#31066"
+msgid "Random fanart"
+msgstr "Τυχαία fanart"
+
+msgctxt "#31067"
+msgid "Update rating"
+msgstr "Ενημέρωση αξιολόγησης"
+
+msgctxt "#31068"
+msgid "CD Wall"
+msgstr "Τοίχος CD"
+
+msgctxt "#31069"
+msgid "Change location"
+msgstr "Αλλαγή τοποθεσίας"
+
+msgctxt "#31070"
+msgid "Enable Cinema Experience integration"
+msgstr "Ενεργοποίηση Ενσωμάτωσης Cinema Experience"
+
+msgctxt "#31071"
+msgid "While browsing the library"
+msgstr "Κατά την περιήγηση στη συλλογή"
+
+msgctxt "#31072"
+msgid "On open video info"
+msgstr "Κατά το άνοιγμα πληροφοριών βίντεο"
+
+msgctxt "#31073"
+msgid "Move menu item"
+msgstr "Μεταφορά αντικειμένου μενού"
+
+msgctxt "#31074"
+msgid "Choose item to swap places with"
+msgstr "Επιλογή αντικειμένου για εναλλαγή"
+
+msgctxt "#31075"
+msgid "No extra features available"
+msgstr "Δεν υπάρχουν επιπλέον λειτουργίες"
+
+msgctxt "#31076"
+msgid "Landscape"
+msgstr "Τοπίο"
+
+msgctxt "#31077"
+msgid "ShowCase"
+msgstr "Βιτρίνα"
+
+msgctxt "#31078"
+msgid "TriPanel"
+msgstr "Τριπλό Πάνελ"
+
+msgctxt "#31079"
+msgid "Shift"
+msgstr "Μετατόπιση"
+
+msgctxt "#31080"
+msgid "Manage submenu"
+msgstr "Διαχείριση υπομενού"
+
+msgctxt "#31081"
+msgid "Enable custom submenus"
+msgstr "Ενεργοποίηση προσαρμοσμένων υπομενού"
+
+msgctxt "#31082"
+msgid "Detach RSS feed from the main menu"
+msgstr "Αποκόλληση της ροής RSS από το κεντρικό μενού"
+
+msgctxt "#31083"
+msgid "Enable Next Aired information in the videolibrary"
+msgstr "Ενεργοποίηση πληροφοριών επόμενης προβολής στη συλλογή βίντεο"
+
+msgctxt "#31084"
+msgid "Conditional weather"
+msgstr "Τρέχουσες καιρικές συνθήκες"
+
+msgctxt "#31085"
+msgid "Musicvideo library statistics"
+msgstr "Στατιστικά συλλογής μουσικών βίντεο"
+
+msgctxt "#31086"
+msgid "Icon"
+msgstr "Εικονίδιο"
+
+msgctxt "#31087"
+msgid "Banner"
+msgstr "Πανό"
+
+msgctxt "#31088"
+msgid "BannerWall"
+msgstr "Τοίχος Πανό"
+
+msgctxt "#31089"
+msgid "Play item on startup"
+msgstr "Αναπαραγωγή αντικειμένου κατά την εκκίνηση"
+
+msgctxt "#31090"
+msgid "Seconds"
+msgstr "Δευτερόλεπτα"
+
+msgctxt "#31091"
+msgid "Select items"
+msgstr "Επιλογή αντικειμένων"
+
+msgctxt "#31092"
+msgid "Fullscreen fanart"
+msgstr "Fanart πλήρους οθόνης"
+
+msgctxt "#31093"
+msgid "LowList toggle"
+msgstr "Εναλλαγή Χαμηλής Λίστας"
+
+msgctxt "#31094"
+msgid "List view layout"
+msgstr "Διάταξη Λίστας"
+
+msgctxt "#31095"
+msgid "Slim List"
+msgstr "Λεπτή Λίστα"
+
+msgctxt "#31096"
+msgid "Concert locations"
+msgstr "Τοποθεσίες Συναυλιών"
+
+msgctxt "#31097"
+msgid "Movie playlist statistics"
+msgstr "Στατιστικά λιστών αναπ/γής ταινιών"
+
+msgctxt "#31098"
+msgid "TV Show playlist statistics"
+msgstr "Στατιστικά λιστών αναπ/γής Τηλ. Σειρών"
+
+msgctxt "#31099"
+msgid "Musicvideo playlist statistics"
+msgstr "Στατιστικά λιστών αναπ/γής μουσικών βίντεο"
+
+msgctxt "#31100"
+msgid "View:"
+msgstr "Προβολή:"
+
+msgctxt "#31101"
+msgid "Choose view"
+msgstr "Επιλέξτε προβολή"
+
+msgctxt "#31102"
+msgid "Background"
+msgstr "Υπόβαθρο"
+
+msgctxt "#31103"
+msgid "N/A"
+msgstr "Μη διαθέσιμο"
+
+msgctxt "#31104"
+msgid "Similar artists"
+msgstr "Παρόμοιοι καλλιτέχνες"
+
+msgctxt "#31105"
+msgid "More albums from"
+msgstr "Περισσότερα άλμπουμ από"
+
+msgctxt "#31106"
+msgid "On info"
+msgstr "Κατά την εμφάνιση πληροφοριών"
+
+msgctxt "#31107"
+msgid "Persistent"
+msgstr "Πάντα"
+
+msgctxt "#31108"
+msgid "Enable artist information feed (if available)"
+msgstr "Ενεργοποίηση πληροφοριών καλλιτέχνη (αν υπάρχουν)"
+
+msgctxt "#31109"
+msgid "Unwatched episode count"
+msgstr "Μετρητής μη προβληθέντων επεισοδίων"
+
+msgctxt "#31110"
+msgid "Up next brings the option to watch right away the next episode of a TV show (Netflix/Prime video style)."
+msgstr "Το Up next φέρνει την επιλογή να παρακολουθήσετε αμέσως το επόμενο επεισόδιο μιας τηλεοπτικής εκπομπής (στυλ βίντεο Netflix/Prime)."
+
+msgctxt "#31111"
+msgid "Similar movies"
+msgstr "Παρόμοιες ταινίες"
+
+msgctxt "#31112"
+msgid "Movies directed by"
+msgstr "Ταινίες σκηνοθετημένες από"
+
+msgctxt "#31113"
+msgid "Movies written by"
+msgstr "Ταινίες με σενάριο από"
+
+msgctxt "#31114"
+msgid "More movies from"
+msgstr "Περισσότερες ταινίες από"
+
+msgctxt "#31115"
+msgid "Similar TV shows"
+msgstr "Παρόμοιες Τηλ. Σειρές"
+
+msgctxt "#31116"
+msgid "cycle fanart"
+msgstr "κυκλικό fanart"
+
+msgctxt "#31117"
+msgid "Fallback"
+msgstr "Εφεδρικό"
+
+msgctxt "#31118"
+msgid "Download extrafanart"
+msgstr "Κατεβάστε το extrafanart"
+
+msgctxt "#31119"
+msgid "Show the movies from this director in your library or view online information on this director on TMDb?"
+msgstr "Εμφάνιση των ταινιών από αυτόν τον σκηνοθέτη στη βιβλιοθήκη σας ή προβολή διαδικτυακών πληροφοριών για αυτόν τον σκηνοθέτη στο TMDb;"
+
+msgctxt "#31120"
+msgid "TMDb"
+msgstr "TMDb"
+
+msgctxt "#31121"
+msgid "Disable autocomplete"
+msgstr "Απενεργοποιήστε την αυτόματη συμπλήρωση"
+
+msgctxt "#31122"
+msgid "Disables the autocomplete feature of the virtual keyboard"
+msgstr "Απενεργοποιεί τη δυνατότητα αυτόματης συμπλήρωσης του εικονικού πληκτρολογίου"
+
+msgctxt "#31123"
+msgid "Album review"
+msgstr "Κριτική άλμπουμ"
+
+msgctxt "#31124"
+msgid "Show Background \"Now Playing\" Video"
+msgstr "Υπόβαθρο το βίντεο που \"Τώρα Εκτελείται\""
+
+msgctxt "#31125"
+msgid "Show Background \"Now Playing\" Visualisation"
+msgstr "Εμφάνιση Υποβάθρου κατά την Οπτικοποίηση 'Τώρα Εκτελείται'"
+
+msgctxt "#31126"
+msgid "Opacity level for widgets"
+msgstr "Επίπεδο αδιαφάνειας για γραφικά στοιχεία"
+
+msgctxt "#31127"
+msgid "LiveTV Mod Settings"
+msgstr "Ρυθμίσεις Mod LiveTV"
+
+msgctxt "#31128"
+msgid "Channels View"
+msgstr "Προβολή καναλιών"
+
+msgctxt "#31129"
+msgid "Hide Fanart in full screen visualisation"
+msgstr "Απόκρυψη Fanart κατά την οπτικοποίηση πλήρους οθόνης"
+
+msgctxt "#31130"
+msgid "Use \"Enigma2-style\" channel OSD"
+msgstr "Χρήση OSD καναλιού στυλ \"Enigma2\""
+
+msgctxt "#31131"
+msgid "EPG Timeline View"
+msgstr "Προβολή χρονολογίου EPG"
+
+msgctxt "#31132"
+msgid "Tuner:"
+msgstr "Δέκτης:"
+
+msgctxt "#31133"
+msgid "Timeline channels-type:"
+msgstr "Τύπος καναλιών γραμμής χρόνου:"
+
+msgctxt "#31134"
+msgid "Timeline view-type:"
+msgstr "Τύπος προβολής χρονολογίου:"
+
+msgctxt "#31135"
+msgid "Infobar Options"
+msgstr "Επιλογές γραμμής πληροφοριών"
+
+msgctxt "#31136"
+msgid "Infobar type:"
+msgstr "Τύπος γραμμής πληροφοριών:"
+
+msgctxt "#31137"
+msgid "Hide encryption information"
+msgstr "Απόκρυψη πληροφοριών κρυπτογράφησης"
+
+msgctxt "#31138"
+msgid "Hide tuner information"
+msgstr "Απόκρυψη πληροφοριών δέκτη"
+
+msgctxt "#31139"
+msgid "Hide signal information"
+msgstr "Απόκρυψη πληροφοριών σήματος"
+
+msgctxt "#31140"
+msgid "Sideblade Options"
+msgstr "Επιλογές Sideblade"
+
+msgctxt "#31141"
+msgid "Hide Guide"
+msgstr "Απόκρυψη οδηγού"
+
+msgctxt "#31142"
+msgid "Settings level"
+msgstr "Επίπεδο ρυθμίσεων"
+
+msgctxt "#31143"
+msgid "Hide Recordings"
+msgstr "Απόκρυψη ηχογραφήσεων"
+
+msgctxt "#31144"
+msgid "Hide Timer"
+msgstr "Απόκρυψη χρονοδιακόπτη"
+
+msgctxt "#31145"
+msgid "Hide Search"
+msgstr "Απόκρυψη αναζήτησης"
+
+msgctxt "#31146"
+msgid "Rated"
+msgstr "Αξιολογημένο/α"
+
+msgctxt "#31147"
+msgid "Change rating"
+msgstr "Αλλαγή βαθμολογίας"
+
+msgctxt "#31148"
+msgid "List local library items"
+msgstr "Καταχωρίστε τα στοιχεία της τοπικής βιβλιοθήκης"
+
+msgctxt "#31149"
+msgid "Online info from TMDb"
+msgstr "Ηλεκτρονικές πληροφορίες από το TMDb"
+
+msgctxt "#31150"
+msgid "Select studio logo artwork"
+msgstr "Επιλέξτε έργο τέχνης με λογότυπο στούντιο"
+
+msgctxt "#31151"
+msgid "Customize the studio logos by choosing a different logo pack. Note that this has no effect on the studio icons displayed in the \"List\" view."
+msgstr "Προσαρμόστε τα λογότυπα στούντιο επιλέγοντας διαφορετικό πακέτο λογότυπων. Σημειώστε ότι αυτό δεν έχει καμία επίδραση στα εικονίδια στούντιο που εμφανίζονται στην προβολή \"Λίστα\"."
+
+msgctxt "#31152"
+msgid "In progress movies"
+msgstr "Ταινίες σε εξέλιξη"
+
+msgctxt "#31153"
+msgid "Popular movies on TheMovieDB.org"
+msgstr "Δημοφιλείς ταινίες στο TheMovieDB.org"
+
+msgctxt "#31154"
+msgid "Top rated movies on TheMovieDB.org"
+msgstr "Ταινίες με κορυφαία βαθμολογία στο TheMovieDB.org"
+
+msgctxt "#31155"
+msgid "Movies currently in cinema"
+msgstr "Ταινίες αυτή τη στιγμή στον κινηματογράφο"
+
+msgctxt "#31156"
+msgid "Upcoming movies"
+msgstr "Ερχόμενες ταινίες"
+
+msgctxt "#31157"
+msgid "Multi movie widget"
+msgstr "Γραφικό στοιχείο πολλαπλών ταινιών"
+
+msgctxt "#31158"
+msgid "IMDb Top 250 movies"
+msgstr "IMDb Top 250 ταινίες"
+
+msgctxt "#31159"
+msgid "Event log"
+msgstr "Καταγραφή συμβάντων"
+
+msgctxt "#31160"
+msgid "Display background name"
+msgstr "Εμφάνιση ονόματος φόντου"
+
+msgctxt "#31161"
+msgid "Display title of movie/TV show/artist on home screen if the background has a fanart slideshow as background"
+msgstr "Εμφάνιση τίτλου ταινίας/τηλεοπτικής εκπομπής/καλλιτέχνη στην αρχική οθόνη εάν το φόντο έχει μια παρουσίαση fanart ως φόντο"
+
+msgctxt "#31162"
+msgid "min"
+msgstr "Λεπτά"
+
+msgctxt "#31163"
+msgid "TIMESHIFT"
+msgstr "TIMESHIFT"
+
+msgctxt "#31164"
+msgid "Change weather icons"
+msgstr "Αλλαγή καιρού εικονιδίων"
+
+msgctxt "#31165"
+msgid "Layout"
+msgstr "Διάταξη"
+
+msgctxt "#31166"
+msgid "Wall"
+msgstr "Τοίχος"
+
+msgctxt "#31167"
+msgid "You're watching"
+msgstr "Παρακολουθείς"
+
+msgctxt "#31168"
+msgid "h"
+msgstr "h"
+
+msgctxt "#31169"
+msgid "m"
+msgstr "m"
+
+msgctxt "#31170"
+msgid "Enable Netflix style pause screen"
+msgstr "Ενεργοποιήστε την οθόνη παύσης στυλ Netflix"
+
+msgctxt "#31171"
+msgid "Shows an overview of the movie or episode 10 seconds after the video is paused."
+msgstr "Εμφανίζει μια επισκόπηση της ταινίας ή του επεισοδίου 10 δευτερόλεπτα μετά την παύση του βίντεο."
+
+msgctxt "#31172"
+msgid "Inactive"
+msgstr "Ανενεργό"
+
+msgctxt "#31173"
+msgid "Decoder"
+msgstr "Αποκωδικοποιητής"
+
+msgctxt "#31174"
+msgid "Hardware decoding"
+msgstr "Αποκωδικοποίηση υλικού"
+
+msgctxt "#31175"
+msgid "press 'OK' to see more..."
+msgstr "πατήστε "OK" για να δείτε περισσότερα..."
+
+msgctxt "#31176"
+msgid "Enter text here..."
+msgstr "Εισαγωγή κειμένου εδώ..."
+
+msgctxt "#31177"
+msgid "Player controls"
+msgstr "Χειριστήρια παίκτη"
+
+msgctxt "#31178"
+msgid "Playlist options"
+msgstr "Επιλογές λίστας αναπ/γής"
+
+msgctxt "#31179"
+msgid "Critics"
+msgstr "κριτικοί"
+
+msgctxt "#31180"
+msgid "Play main theme when browsing movies and TV shows"
+msgstr "Παίξτε το κύριο θέμα κατά την περιήγηση σε ταινίες και τηλεοπτικές εκπομπές"
+
+msgctxt "#31181"
+msgid "Display cast in video views"
+msgstr "Εμφάνιση μετάδοσης σε προβολές βίντεο"
+
+msgctxt "#31182"
+msgid "Hide current time in media views"
+msgstr "Απόκρυψη της τρέχουσας ώρας στις προβολές πολυμέσων"
+
+msgctxt "#31183"
+msgid "Hide number of items in media views"
+msgstr "Απόκρυψη αριθμού στοιχείων σε προβολές πολυμέσων"
+
+msgctxt "#31184"
+msgid "Enable, disable and/or force video views"
+msgstr "Ενεργοποίηση, απενεργοποίηση ή/και επιβολή προβολών βίντεο"
+
+msgctxt "#31185"
+msgid "Enable, disable and/or force music views"
+msgstr "Ενεργοποίηση, απενεργοποίηση και/ή επιβολή προβολών μουσικής"
+
+msgctxt "#31186"
+msgid "Force Kodi to always use certain view when browsing each kind of media. Disabling views that you don't use could speed up browsing in some devices"
+msgstr "Αναγκάστε το Kodi να χρησιμοποιεί πάντα συγκεκριμένη προβολή κατά την περιήγηση σε κάθε είδος πολυμέσων.Η απενεργοποίηση των προβολών που δεν χρησιμοποιείτε θα μπορούσε να επιταχύνει την περιήγηση σε ορισμένες συσκευές"
+
+msgctxt "#31187"
+msgid "Available for:"
+msgstr "Διαθέσιμο για:"
+
+msgctxt "#31188"
+msgid "Kiosk mode"
+msgstr "Λειτουργία περιπτέρου"
+
+msgctxt "#31189"
+msgid "Disables the side media menu in views and most options to change Kodi, so as to prevent unwanted modifications."
+msgstr "Απενεργοποιεί το πλευρικό μενού πολυμέσων στις προβολές και τις περισσότερες επιλογές αλλαγής του Kodi, ώστε να αποφευχθούν ανεπιθύμητες τροποποιήσεις."
+
+msgctxt "#31190"
+msgid "In cinemas"
+msgstr "Στους κινηματογράφους"
+
+msgctxt "#31191"
+msgid "In cinemas soon"
+msgstr "Σύντομα στους κινηματογράφους"
+
+msgctxt "#31192"
+msgid "Spotify"
+msgstr "Spotify"
+
+msgctxt "#31193"
+msgid "Show images of the best-known actresses"
+msgstr "Εμφάνιση εικόνων των πιο γνωστών ηθοποιών"
+
+msgctxt "#31194"
+msgid "Search the Red Carpet add-on for images of the best-known actresses from the movie/TV show and display them alongside the cast."
+msgstr "Αναζητήστε στο πρόσθετο Red Carpet εικόνες των πιο γνωστών ηθοποιών από την ταινία/τηλεοπτική εκπομπή και εμφανίστε τις μαζί με το καστ."
+
+msgctxt "#31195"
+msgid "Show logos of film studios in video views"
+msgstr "Εμφάνιση λογότυπων κινηματογραφικών στούντιο σε προβολές βίντεο"
+
+msgctxt "#31196"
+msgid "Show logos of record labels in music albums views"
+msgstr "Εμφάνιση λογότυπων δισκογραφικών σε προβολές μουσικών άλμπουμ"
+
+msgctxt "#31197"
+msgid "Show home music widget"
+msgstr "Εμφάνιση γραφικού στοιχείου οικιακής μουσικής"
+
+msgctxt "#31198"
+msgid "Show home video widget"
+msgstr "Εμφάνιση γραφικού στοιχείου οικιακού βίντεο"
+
+msgctxt "#31199"
+msgid "Colours, marks and home screen"
+msgstr "Χρώματα, σημάδια και αρχική οθόνη"
+
+msgctxt "#31200"
+msgid "Is used to choose among different Kodi resource image pack to weather artwork and icons."
+msgstr "Χρησιμοποιείται για την επιλογή μεταξύ διαφορετικών πακέτων εικόνων πόρων Kodi για τις καιρικές συνθήκες τέχνης και εικονιδίων."
+
+msgctxt "#31201"
+msgid "Performance impact"
+msgstr "Επίπτωση στην απόδοση"
+
+msgctxt "#31202"
+msgid "Plays music in the background while in Home and Settings screens. A default song collection is provided, but a different song folder can be used."
+msgstr "Αναπαράγει μουσική στο παρασκήνιο ενώ βρίσκεται στην αρχική οθόνη και στις οθόνες Ρυθμίσεις.Παρέχεται μια προεπιλεγμένη συλλογή τραγουδιών, αλλά μπορεί να χρησιμοποιηθεί διαφορετικός φάκελος τραγουδιών."
+
+msgctxt "#31203"
+msgid "Select your own folder to use as background music. Make sure that it only contains music files."
+msgstr "Επιλέξτε το δικό σας φάκελο για χρήση ως μουσική υπόκρουση.Βεβαιωθείτε ότι περιέχει μόνο αρχεία μουσικής."
+
+msgctxt "#31204"
+msgid "When enabled, widgets linked to each home menu item will appear automatically. If disabled, widgets remain hidden until the corresponding arrow key is pressed."
+msgstr "Όταν είναι ενεργοποιημένο, τα γραφικά στοιχεία που συνδέονται με κάθε στοιχείο του αρχικού μενού θα εμφανίζονται αυτόματα.Εάν είναι απενεργοποιημένα, τα γραφικά στοιχεία παραμένουν κρυφά μέχρι να πατηθεί το αντίστοιχο πλήκτρο βέλους."
+
+msgctxt "#31205"
+msgid "Lyrics Source"
+msgstr "Πηγή Στίχων"
+
+msgctxt "#31206"
+msgid "Customization"
+msgstr "Προσαρμογή"
+
+msgctxt "#31207"
+msgid "Views"
+msgstr "Απόψεις"
+
+msgctxt "#31208"
+msgid "Home screen"
+msgstr "Αρχική οθόνη"
+
+msgctxt "#31209"
+msgid "Options"
+msgstr "Επιλογές"
+
+msgctxt "#31210"
+msgid "Select another image as default background"
+msgstr "Επιλέξτε μια άλλη εικόνα ως προεπιλεγμένο φόντο"
+
+msgctxt "#31211"
+msgid "Changes the default Aeon Tajo background to another chosen by the user."
+msgstr "Αλλάζει το προεπιλεγμένο φόντο του Aeon Tajo σε άλλο που έχει επιλέξει ο χρήστης."
+
+msgctxt "#31212"
+msgid "Current background path: "
+msgstr "Τρέχουσα διαδρομή παρασκηνίου:"
+
+msgctxt "#31213"
+msgid "Reset skin default background"
+msgstr "Επαναφορά προεπιλεγμένου φόντου δέρματος"
+
+msgctxt "#31214"
+msgid "Resets the default background provided with Aeon Tajo."
+msgstr "Επαναφέρει το προεπιλεγμένο φόντο που παρέχεται με το Aeon Tajo."
+
+msgctxt "#31215"
+msgid "Show the coloured version of the icons rather than the monochrome version."
+msgstr "Εμφάνιση της έγχρωμης έκδοσης των εικονιδίων αντί της μονόχρωμης έκδοσης."
+
+msgctxt "#31216"
+msgid "Displays background and fanart images with a subtle motion effect across the screen."
+msgstr "Εμφανίζει εικόνες φόντου και fanart με ένα διακριτικό εφέ κίνησης σε όλη την οθόνη."
+
+msgctxt "#31217"
+msgid "Displays a list in the video views featuring thumbnail images of the main actors from the movie or TV show's cast."
+msgstr "Εμφανίζει μια λίστα στις προβολές βίντεο με μικρογραφίες των βασικών ηθοποιών από το καστ της ταινίας ή της τηλεοπτικής εκπομπής."
+
+msgctxt "#31218"
+msgid "Search the Studio Icons add-on for logo images of the film studios of the movie/TV show, and if found, display them while browsing the video views."
+msgstr "Αναζητήστε στο πρόσθετο Studio Icons εικόνες λογότυπων των κινηματογραφικών στούντιο της ταινίας/τηλεοπτικής εκπομπής και, αν βρείτε, εμφανίστε τις κατά την περιήγηση στις προβολές βίντεο."
+
+msgctxt "#31219"
+msgid "Search for the album's record label logo using the RecordLabel Icons addon, and if found, display it when browsing the music album views."
+msgstr "Αναζητήστε το λογότυπο της δισκογραφικής εταιρείας του άλμπουμ χρησιμοποιώντας το πρόσθετο RecordLabel Icons και, εάν το βρείτε, εμφανίστε το κατά την περιήγηση στις προβολές του μουσικού άλμπουμ."
+
+msgctxt "#31220"
+msgid "Show rating"
+msgstr "Εμφάνιση βαθμολογίας"
+
+msgctxt "#31221"
+msgid "Show artist clearart"
+msgstr "Εμφάνιση του καλλιτέχνη clearart"
+
+msgctxt "#31222"
+msgid "Show CD"
+msgstr "Εμφάνιση CD"
+
+msgctxt "#31223"
+msgid "Show Time"
+msgstr "Εμφάνιση ώρας"
+
+msgctxt "#31224"
+msgid "Animated posters"
+msgstr "Κινούμενες αφίσες"
+
+msgctxt "#31225"
+msgid "Normal posters"
+msgstr "Κανονικές αφίσες"
+
+msgctxt "#31226"
+msgid "Extra posters"
+msgstr "Επιπλέον αφίσες"
+
+msgctxt "#31227"
+msgid "Sets the transparency level of the home menu widgets."
+msgstr "Ορίζει το επίπεδο διαφάνειας των γραφικών στοιχείων του αρχικού μενού."
+
+msgctxt "#31228"
+msgid "Displays main menu options in a vertical layout instead of a horizontal one."
+msgstr "Εμφανίζει τις επιλογές του κύριου μενού σε κατακόρυφη διάταξη αντί για οριζόντια."
+
+msgctxt "#31229"
+msgid "Set another video file as startup intro"
+msgstr "Ορίστε ένα άλλο αρχείο βίντεο ως εισαγωγή εκκίνησης"
+
+msgctxt "#31230"
+msgid "Choose another video file to play when Kodi starts instead of Aeon Tajo default. It's recommended to choose a short one. To stop playback and start using Kodi right away, click or press any arrow key."
+msgstr "Επιλέξτε άλλο αρχείο βίντεο για αναπαραγωγή όταν ξεκινά το Kodi αντί για την προεπιλογή του Aeon Tajo.Συνιστάται να επιλέξετε ένα κοντό.Για να σταματήσετε την αναπαραγωγή και να αρχίσετε να χρησιμοποιείτε το Kodi αμέσως, κάντε κλικ ή πατήστε οποιοδήποτε πλήκτρο βέλους."
+
+msgctxt "#31231"
+msgid "Plays an intro video when launching Kodi"
+msgstr "Παίζει ένα εισαγωγικό βίντεο κατά την εκκίνηση του Kodi"
+
+msgctxt "#31232"
+msgid "Clear current intro video file and back to default"
+msgstr "Διαγράψτε το τρέχον εισαγωγικό αρχείο βίντεο και επιστρέψτε στην προεπιλογή"
+
+msgctxt "#31233"
+msgid "Clear the intro video file selected by the user and back to Aeon Tajo's default."
+msgstr "Διαγράψτε το εισαγωγικό αρχείο βίντεο που έχει επιλέξει ο χρήστης και επιστρέψτε στην προεπιλογή του Aeon Tajo."
+
+msgctxt "#31234"
+msgid "Adds a layer that simulates falling snow on all Kodi screens, with four available intensity levels."
+msgstr "Προσθέτει ένα στρώμα που προσομοιώνει την πτώση χιονιού σε όλες τις οθόνες Kodi, με τέσσερα διαθέσιμα επίπεδα έντασης."
+
+msgctxt "#31235"
+msgid "Override the current home menu backgrounds with this one"
+msgstr "Αντικαταστήστε τα τρέχοντα φόντα του αρχικού μενού με αυτό"
+
+msgctxt "#31236"
+msgid "The background selections made in the Setup Main Menu screen will be preserved. Disabling this option will restore all previous backgrounds. This option is particularly designed for use during special seasons."
+msgstr "Οι επιλογές φόντου που έγιναν στην οθόνη του Βασικού Μενού Ρύθμισης θα διατηρηθούν.Η απενεργοποίηση αυτής της επιλογής θα επαναφέρει όλα τα προηγούμενα φόντο.Αυτή η επιλογή είναι ειδικά σχεδιασμένη για χρήση σε ειδικές εποχές."
+
+msgctxt "#31237"
+msgid "No impact"
+msgstr "Χωρίς αντίκτυπο"
+
+msgctxt "#31238"
+msgid "Very small"
+msgstr "Πολύ μικρό"
+
+msgctxt "#31239"
+msgid "Small"
+msgstr "Μικρό"
+
+msgctxt "#31240"
+msgid "Moderate"
+msgstr "Μέτρια"
+
+msgctxt "#31241"
+msgid "Pixel format"
+msgstr "Μορφή pixel"
+
+msgctxt "#31242"
+msgid "System rendering speed"
+msgstr "Ταχύτητα απόδοσης συστήματος"
+
+msgctxt "#31243"
+msgid "Hide actor's thumbnails"
+msgstr "Απόκρυψη μικρογραφιών ηθοποιού"
+
+msgctxt "#31244"
+msgid "Show only a list of the actors' names, instead of also including their thumbnails."
+msgstr "Εμφανίστε μόνο μια λίστα με τα ονόματα των ηθοποιών, αντί να συμπεριλάβετε και τις μικρογραφίες τους."
+
+msgctxt "#31250"
+msgid "Automatic Full Screen when playing music"
+msgstr "Αυτόματη πλήρης οθόνη κατά την αναπαραγωγή μουσικής"
+
+msgctxt "#31251"
+msgid "Don't play melodies while in Home Screen"
+msgstr "Μην παίζετε μελωδίες ενώ βρίσκεστε στην Αρχική οθόνη"
+
+msgctxt "#31252"
+msgid "Always show home screen widgets"
+msgstr "Να εμφανίζονται πάντα γραφικά στοιχεία αρχικής οθόνης"
+
+msgctxt "#31253"
+msgid "Choose user audio playlist *.m3u (max.10 songs)"
+msgstr "Επιλέξτε λίστα αναπαραγωγής ήχου χρήστη *.m3u (μέγ. 10 τραγούδια)"
+
+msgctxt "#31254"
+msgid "Clear user playlist (back to default)"
+msgstr "Εκκαθάριση λίστας αναπαραγωγής χρήστη (επιστροφή στην προεπιλογή)"
+
+msgctxt "#31300"
+msgid "Overview"
+msgstr "Επισκόπηση"
+
+msgctxt "#31301"
+msgid "Last Updated"
+msgstr "Τελευταία ενημέρωση"
+
+msgctxt "#31307"
+msgid "Hide Fanart"
+msgstr "Απόκρυψη Fanart"
+
+msgctxt "#31308"
+msgid "Next aired"
+msgstr "Επόμενη μετάδοση"
+
+msgctxt "#31309"
+msgid "Memory Used:"
+msgstr "Χρήση μνήμης:"
+
+msgctxt "#31310"
+msgid "Available audio tracks"
+msgstr "Διαθέσιμα κομμάτια ήχου"
+
+msgctxt "#31317"
+msgid "Set Fanart Path"
+msgstr "Διαδρομή Fanart"
+
+msgctxt "#31320"
+msgid "Last Logged In"
+msgstr "Τελευταία είσοδος"
+
+msgctxt "#31321"
+msgid "Karaoke Song Selector"
+msgstr "Επιλογέας τραγουδιού Karaoke"
+
+msgctxt "#31328"
+msgid "Recently Added"
+msgstr "Προστέθηκαν Πρόσφατα"
+
+msgctxt "#31331"
+msgid "Installed"
+msgstr "Εγκατεστημένο"
+
+msgctxt "#31332"
+msgid "Not Installed"
+msgstr "Δεν έχει εγκατασταθεί"
+
+msgctxt "#31334"
+msgid "Required"
+msgstr "Απαιτείται"
+
+msgctxt "#31335"
+msgid "Recommended"
+msgstr "Προτεινόμενα"
+
+msgctxt "#31336"
+msgid "Optional"
+msgstr "Προαιρετικό"
+
+msgctxt "#31390"
+msgid "Skin default"
+msgstr "Προεπιλογή"
+
+msgctxt "#31400"
+msgid "[B]CONFIGURE INTERFACE SETTINGS[/B][CR][CR]Change the skin · Set language and region · Setup remote controls[CR]Set up a screensaver · Setup master lock"
+msgstr "[B]ΔΙΑΜΟΡΦΩΣΗ ΡΥΘΜΙΣΕΩΝ INTERFACE[/B][CR][CR]Αλλαγή εμφάνισης · Ρύθμιση γλώσσας και περιοχής · Ρύθμιση τηλεχειριστηρίων[CR]Ρύθμιση προφύλαξης οθόνης · Ρύθμιση κύριου κλειδώματος"
+
+msgctxt "#31401"
+msgid "Menu - press 'OK'"
+msgstr "Μενού - πατήστε "OK""
+
+msgctxt "#31402"
+msgid "Enable startup video intro"
+msgstr "Ενεργοποίηση εισαγωγής βίντεο εκκίνησης"
+
+msgctxt "#31405"
+msgid "[B]MONITOR YOUR SYSTEM[/B][CR][CR]Check out your hardware · Monitor CPU usage[CR]Check Kodi revision number"
+msgstr "[B]ΕΠΟΠΤΕΙΑ ΥΛΙΚΟΥ[/B][CR][CR]Έλεγχος του συστήματος · Εποπτεία χρήσης επεξεργαστή · Έλεγχος του αριθμού αναθεώρησης του Kodi"
+
+msgctxt "#31406"
+msgid "[B]CONFIGURE SYSTEM SETTINGS[/B][CR][CR]Setup and calibrate displays · Configure audio output · [CR]Set power saving options · Enable debugging"
+msgstr "[B]ΔΙΑΜΟΡΦΩΣΗ ΡΥΘΜΙΣΕΩΝ ΣΥΣΤΗΜΑΤΟΣ[/B][CR][CR]Ρύθμιση και βαθμονόμηση οθονών · Διαμόρφωση εξόδου ήχου · [CR]Ορισμός επιλογών εξοικονόμησης ενέργειας · Ενεργοποίηση εντοπισμού σφαλμάτων"
+
+msgctxt "#31407"
+msgid "[B]SETUP PROFILES[/B][CR][CR]Setup and manage user profiles · Enable login screen[CR]Change password · Add a profile picture"
+msgstr "[B]ΡΥΘΜΙΣΕΙΣ ΠΡΟΦΙΛ[/B][CR][CR]Ορισμός και διαχείριση προφίλ χρηστών · Ενεργοποίηση οθόνης σύνδεσης[CR]Αλλαγή κωδικού · Προσθήκη εικόνας προφίλ"
+
+msgctxt "#31409"
+msgid "[B]CONFIGURE TV SETTINGS[/B][CR][CR]Change full screen info · Manage EPG data settings"
+msgstr "[B]ΡΥΘΜΙΣΗ ΤΗΛΕΟΡΑΣΗΣ[/B][CR][CR]Αλλαγή πληροφοριών πλήρους οθόνης · Διαχείριση των ρυθμίσεων δεδομένων EPG"
+
+msgctxt "#31410"
+msgid "[B]CONFIGURE SERVICE SETTINGS[/B][CR][CR]Setup control of Kodi via UPnP and HTTP · Configure file sharing[CR]Enable Zeroconf · Configure AirPlay"
+msgstr "[B]ΡΥΘΜΙΣΕΙΣ ΥΠΗΡΕΣΙΩΝ[/B][CR][CR]Χειρισμός του Kodi μέσω UPnP και HTTP · Ρύθμιση κοινής χρήσης αρχείων[CR]Ενεργοποίηση Zeroconf · Ρύθμιση AirPlay"
+
+msgctxt "#31412"
+msgid "Select section"
+msgstr "Επιλογή τομέα"
+
+msgctxt "#31413"
+msgid "Local subtitle available"
+msgstr "Υπάρχει διαθέσιμος υπότιτλος τοπικά"
+
+msgctxt "#31414"
+msgid "[B]CONFIGURE PLAYER SETTINGS[/B][CR][CR]Configure video playback · Configure music playback · Configure picture slideshow[CR]Configure video language and subtitles"
+msgstr "[B]CONFIGURE PLAYER SETTINGS[/B][CR][CR]Διαμόρφωση αναπαραγωγής βίντεο · Διαμόρφωση αναπαραγωγής μουσικής · Διαμόρφωση παρουσίασης εικόνας[CR]Διαμόρφωση γλώσσας και υποτίτλων βίντεο"
+
+msgctxt "#31415"
+msgid "[B]CONFIGURE MEDIA SETTINGS[/B][CR][CR]Set default select action · Configure file list options · Configure metadata options[CR]Manage databases"
+msgstr "[B]ΔΙΑΜΟΡΦΩΣΗ ΡΥΘΜΙΣΕΩΝ ΜΕΣΩΝ[/B][CR][CR]Ορισμός προεπιλεγμένης ενέργειας επιλογής · Διαμόρφωση επιλογών λίστας αρχείων · Διαμόρφωση επιλογών μεταδεδομένων[CR]Διαχείριση βάσεων δεδομένων"
+
+msgctxt "#31421"
+msgid "Select your Kodi user profile[CR]to login and continue"
+msgstr "Επιλέξτε προφίλ χρήστη για το Kodi[CR]για να συνδεθείτε και να συνεχίσετε"
+
+msgctxt "#31427"
+msgid "Skin Shortcuts is responsible for handling all aspects of the main menu."
+msgstr "Το Skin Shortcuts είναι υπεύθυνο για το χειρισμό όλων των πτυχών του κύριου μενού."
+
+msgctxt "#31428"
+msgid "The Grab Fanart script provides the random fanart slideshows for the main menu."
+msgstr "Το σενάριο Grab Fanart παρέχει τις τυχαίες παρουσιάσεις fanart για το κύριο μενού."
+
+msgctxt "#31429"
+msgid "Library Data Provider is a service that runs in the background to provide library data for widgets and live backgrounds as well as playlist statistics for infolines."
+msgstr "Ο πάροχος δεδομένων βιβλιοθήκης είναι μια υπηρεσία που εκτελείται στο παρασκήνιο για να παρέχει δεδομένα βιβλιοθήκης για γραφικά στοιχεία και ζωντανά φόντο, καθώς και στατιστικά λίστας αναπαραγωγής για γραμμές πληροφοριών."
+
+msgctxt "#31430"
+msgid "Resource image addon for displaying the default white studio icons throughout the skin."
+msgstr "Πηγή πρόσθετου εικόνας για την εμφάνιση των προεπιλεγμένων λευκών εικονιδίων στούντιο σε όλο το δέρμα."
+
+msgctxt "#31431"
+msgid "Resource image addon for displaying the default white recording label icons throughout the skin."
+msgstr "Πηγή προσθήκης εικόνας για την εμφάνιση των προεπιλεγμένων εικονιδίων λευκών ετικετών εγγραφής σε όλο το δέρμα."
+
+msgctxt "#31432"
+msgid "Provides numerous Widget options and extended cast and crew metadata."
+msgstr "Παρέχει πολυάριθμες επιλογές Widget και εκτεταμένα μεταδεδομένα cast και crew."
+
+msgctxt "#31433"
+msgid "Skin Info Service is used to display movie set information throughout the skin."
+msgstr "Η υπηρεσία Skin Info Service χρησιμοποιείται για την εμφάνιση πληροφοριών σετ ταινιών σε όλο το δέρμα."
+
+msgctxt "#31434"
+msgid "Check MP3 Theme checks whether the user has put a theme.mp3 file in the corresponding movie/TV show folder to be played when browsing."
+msgstr "Το Check MP3 Theme ελέγχει εάν ο χρήστης έχει τοποθετήσει ένα αρχείο theme.mp3 στον αντίστοιχο φάκελο ταινίας/τηλεοπτικής εκπομπής για αναπαραγωγή κατά την περιήγηση."
+
+msgctxt "#31450"
+msgid "  •  Open Settings "
+msgstr "• Ανοίξτε τις Ρυθμίσεις"
+
+msgctxt "#31451"
+msgid "  •  Click to Install"
+msgstr "• Κάντε κλικ για εγκατάσταση"
+
+msgctxt "#31473"
+msgid "Aeon Tajo Helper provides the data to display the cast for movies and TV shows."
+msgstr "Το Aeon Tajo Helper παρέχει τα δεδομένα για την εμφάνιση του καστ για ταινίες και τηλεοπτικές εκπομπές."
+
+msgctxt "#31474"
+msgid "CU LRC Lyrics is used to download, sync, and display lyrics during fullscreen music playback."
+msgstr "Το CU LRC Lyrics χρησιμοποιείται για λήψη, συγχρονισμό και εμφάνιση στίχων κατά την αναπαραγωγή μουσικής σε πλήρη οθόνη."
+
+msgctxt "#31475"
+msgid "Play Trailer makes possible to play movie trailers through a context menu. "
+msgstr "Το Play Trailer καθιστά δυνατή την αναπαραγωγή τρέιλερ ταινιών μέσω ενός μενού περιβάλλοντος."
+
+msgctxt "#31476"
+msgid "Allows the use of Youtube to play trailers and other videos."
+msgstr "Επιτρέπει τη χρήση του Youtube για την αναπαραγωγή τρέιλερ και άλλων βίντεο."
+
+msgctxt "#31477"
+msgid "Provides some cast actress images to be shown in video views."
+msgstr "Παρέχει ορισμένες εικόνες ηθοποιών που θα εμφανίζονται σε προβολές βίντεο."
+
+msgctxt "#31478"
+msgid "Artist Slideshow is used to display artist fanart for both the home screen and during fullscreen music playback."
+msgstr "Το Artist Slideshow χρησιμοποιείται για την εμφάνιση του fanart του καλλιτέχνη τόσο στην αρχική οθόνη όσο και κατά την αναπαραγωγή μουσικής σε πλήρη οθόνη."
+
+msgctxt "#31479"
+msgid "AutoCompletion provides suggestions to be selected while using the virtual keyboard."
+msgstr "Η Αυτόματη Συμπλήρωση παρέχει προτάσεις για επιλογή κατά τη χρήση του εικονικού πληκτρολογίου."
+
+msgctxt "#31480"
+msgid "Library Editor Script uses JSON to directly edit your database information."
+msgstr "Το σενάριο επεξεργασίας βιβλιοθήκης χρησιμοποιεί JSON για την άμεση επεξεργασία των πληροφοριών της βάσης δεδομένων σας."
+
+msgctxt "#31481"
+msgid "Global Search makes possible to search among all the items (movies, TV shows, music, actors, etc.) in your collection."
+msgstr "Η Παγκόσμια Αναζήτηση καθιστά δυνατή την αναζήτηση μεταξύ όλων των αντικειμένων (ταινίες, τηλεοπτικές εκπομπές, μουσική, ηθοποιοί κ.λπ.) της συλλογής σας."
+
+msgctxt "#31501"
+msgid "Channel group"
+msgstr "Γκρουπ καναλιών"
+
+msgctxt "#31502"
+msgid "Live TV"
+msgstr "Ζωντανή τηλεόραση"
+
+msgctxt "#31503"
+msgid "Add Group"
+msgstr "Προσθήκη Γκρούπ"
+
+msgctxt "#31504"
+msgid "Rename Group"
+msgstr "Μετονομασία Γκρουπ"
+
+msgctxt "#31505"
+msgid "Delete Group"
+msgstr "Διαγραφή Γκρουπ"
+
+msgctxt "#31506"
+msgid "Available[CR]Groups"
+msgstr "Διαθέσιμα[CR]Γκρουπ"
+
+msgctxt "#31511"
+msgid "Channel Options"
+msgstr "Επιλογές Καναλιού"
+
+msgctxt "#31512"
+msgid "Show similar movies in Shelf 3D view"
+msgstr "Εμφάνιση παρόμοιων ταινιών σε προβολή ράφι 3D"
+
+msgctxt "#31901"
+msgid "36 Hour Forecast"
+msgstr "36ωρη Πρόγνωση"
+
+msgctxt "#31902"
+msgid "Hourly Forecast"
+msgstr "Ωριαία Πρόγνωση"
+
+msgctxt "#31903"
+msgid "Weekend Forecast"
+msgstr "Πρόγνωση Σαββατοκύριακου"
+
+msgctxt "#31904"
+msgid "10 Day Forecast"
+msgstr "Πρόγνωση 10 ημερών"
+
+msgctxt "#31908"
+msgid "Chance of Precipitation"
+msgstr "Πιθανότητα Υετού"
+
+msgctxt "#31909"
+msgid "Fetching forecast info..."
+msgstr "Ανάκτηση πρόγνωσης καιρού..."
+
+msgctxt "#31910"
+msgid "Map & Alerts"
+msgstr "Χάρτης & Προειδοποιήσεις"
+
+msgctxt "#31911"
+msgid "Setup the Aeon Tajo main menu"
+msgstr "Διαμόρφωση του κεντρικού μενού"
+
+msgctxt "#31912"
+msgid "Customize the main menu with widgets, backgrounds and statistics. Add your own custom main menu items."
+msgstr "Προσαρμογή του κεντρικού μενού με widget, υπόβαθρα και στατιστικά. Προσθέστε τα δικά σας αντικείμενα στο κεντρικό μενού."
+
+msgctxt "#31913"
+msgid "Aeon Tajo main menu vertical position"
+msgstr "Κατακόρυφη θέση του βασικού μενού Aeon Tajo"
+
+msgctxt "#31914"
+msgid "Change the vertical position of the main menu. Default is centered on screen."
+msgstr "Αλλάξτε την κατακόρυφη θέση του κύριου μενού.Η προεπιλογή είναι κεντραρισμένη στην οθόνη."
+
+msgctxt "#31915"
+msgid "Navigation style for horizontal lists"
+msgstr "Στυλ πλοήγησης για οριζόντιες λίστες"
+
+msgctxt "#31916"
+msgid "Change the way horizontal lists scroll in Aeon Tajo. Default will scroll lists in a cycle. \"Fixed\" are lists with a beginning and end."
+msgstr "Αλλαγή του τρόπου κύλισης των οριζόντιων λιστών. Προεπιλογή είναι η κύλιση σε κύκλο. \"Καθορισμένη\" είναι για λίστες με αρχή και τέλος."
+
+msgctxt "#31917"
+msgid "When enabled text scrolls automatically. When disabled manual scrolling is required. Note that most textboxes don't have a manual button."
+msgstr "Όταν είναι ενεργοποιημένο, το κείμενο κυλά αυτόματα.Όταν είναι απενεργοποιημένη, απαιτείται χειροκίνητη κύλιση.Σημειώστε ότι τα περισσότερα πλαίσια κειμένου δεν διαθέτουν χειροκίνητο κουμπί."
+
+msgctxt "#31918"
+msgid "Projects the current playing video on the background behind the panels."
+msgstr "Προβολή του τρέχοντος βίντεο στο υπόβαθρο, πίσω από τα πάνελ."
+
+msgctxt "#31919"
+msgid "Projects the visualisation on the background behind the panels when music is played."
+msgstr "Προβολή της οπτικοποίησης στο υπόβαθρο, πίσω από τα πάνελ, όταν παίζει μουσική."
+
+msgctxt "#31920"
+msgid "Displays a widget on the Home screen with media information when music is playing."
+msgstr "Εμφάνιση widget στην Αρχ. Οθόνη με πληροφορίες, όταν παίζει μουσική."
+
+msgctxt "#31921"
+msgid "Displays a widget on the Home screen with media information when a movie or episode is playing."
+msgstr "Εμφάνιση widget στην Αρχ. Οθόνη με πληροφορίες, όταν παίζει βίντεο."
+
+msgctxt "#31922"
+msgid "This enables custom genre backgrounds when browsing through the videolibrary's genre node. Filenames should match the genre label. Extension must be .jpg."
+msgstr "Ενεργοποίηση των προσαρμοσμένων υποβάθρων ειδών κατά την περιήγηση στον κόμβο ειδών της συλλογής βίντεο. Τα ονόματα των αρχείων πρέπει να ταιριάζουν με το όνομα του είδους. Η κατάληξη πρέπει να είναι .jpg."
+
+msgctxt "#31923"
+msgid "Set a default select action to enable this item."
+msgstr "Ορίστε μια προεπιλεγμένη ενέργεια επιλογής για να ενεργοποιηθεί αυτό το αντικείμενο."
+
+msgctxt "#31924"
+msgid "This enables custom genre backgrounds when browsing through the musiclibrary's genre node. Filenames should match the genre label. Extension must be .jpg."
+msgstr "Ενεργοποίηση των προσαρμοσμένων υποβάθρων ειδών κατά την περιήγηση στον κόμβο ειδών της μουσικής συλλογής. Τα ονόματα των αρχείων πρέπει να ταιριάζουν με το όνομα του είδους. Η κατάληξη πρέπει να είναι .jpg."
+
+msgctxt "#31925"
+msgid "Pick one of the preset backgrounds or set your own images as the menu items background."
+msgstr "Επιλέξτε ένα από τα βασικά υπόβαθρα ή ορίστε δικές σας εικόνες σαν υπόβαθρα των αντικειμένων του μενού."
+
+msgctxt "#31926"
+msgid "Select add-ons, playlists or favourites. Choose 'Custom' for any of Kodi's built-in functions. (http://kodi.wiki/?title=List_of_Built_In_Functions)"
+msgstr "Επιλογή πρόσθετων, λιστών αναπ/γής ή αγαπημένων. Επιλέξτε 'Προσαρμογή' για κάθε μια από τις ενσωματωμένες λειτουργίες του Kodi (http://kodi.wiki/?title=List_of_Built_In_Functions)"
+
+msgctxt "#31927"
+msgid "Resets all above values to their defaults."
+msgstr "Επαναφορά όλων των ανωτέρω τιμών στις προεπιλογές τους."
+
+msgctxt "#31928"
+msgid "Aeon Tajo main menu layout"
+msgstr "Διάταξη κεντρικού μενού"
+
+msgctxt "#31929"
+msgid "This setting defines how much items will be visible on the main menu. Options are 3 items or 5 items."
+msgstr "Αυτή η ρύθμιση ορίζει πόσα αντικείμενα θα εμφανίζονται στο κεντρικό μενού. Μπορείτε να επιλέξετε μεταξύ 3 και 5 αντικειμένων."
+
+msgctxt "#31930"
+msgid "Choose a widget to display on the Home screen to have easy access to content from the library."
+msgstr "Επιλογή widget για εμφάνιση στην Αρχ. Οθόνη, προκειμένου να έχετε εύκολη πρόσβαση σε περιεχόμενο της συλλογής."
+
+msgctxt "#31931"
+msgid "Video plot preference"
+msgstr "Προτίμηση πλοκής βίντεο"
+
+msgctxt "#31932"
+msgid "Show plot outline in the library views and full plot in the video information dialog or vice versa. Falls back to full plot if no outline is available."
+msgstr "Εμφάνιση του περιγράμματος της πλοκής στις προβολές της βιβλιοθήκης και της πλήρους πλοκής στο παράθυρο διαλόγου πληροφοριών βίντεο ή αντίστροφα.Επιστρέφει στο πλήρες οικόπεδο εάν δεν υπάρχει διαθέσιμο περίγραμμα."
+
+msgctxt "#31933"
+msgid "Select an item to display on the left top of the main menu"
+msgstr "Επιλογή αντικειμένου που θα εμφανίζεται πάνω αριστερά στο κεντρικό μενού"
+
+msgctxt "#31935"
+msgid "Switch places with another menu item. Opens a dialog with a list of menu items to choose from."
+msgstr "Εναλλαγή θέσης με άλλο αντικείμενο του μενού. Ανοίγει παράθυρο με λίστα αντικειμένων μενού για να επιλέξετε."
+
+msgctxt "#31937"
+msgid "Show the RSS feed on the bottom or top of the screen, depending on main menu position. Enabling this setting makes the submenu permanently visible."
+msgstr "Εμφάνιση της ροής RSS στο κάτω ή επάνω μέρος της οθόνης, αναλόγως της θέσεως του κεντρικού μενού. Ενεργοποιώντας αυτήν την επιλογή κάνετε και το υπομενού πάντα ορατό."
+
+msgctxt "#31938"
+msgid "Enables extra information in the TV show library, like TV show status, next / latest episode, etc. Depends on TV Show Next Aired add-on."
+msgstr "Ενεργοποίηση επιπλέον πληροφοριών στη συλλογή Τηλ. Σειρών, όπως την κατάσταση της σειράς, το επόμενο / πιο πρόσφατο επεισόδιο, κτλ. Εξαρτάται από το πρόσθετο TV Show Next Aired."
+
+msgctxt "#31939"
+msgid "Hide Infopanel on scrolling"
+msgstr "Απόκρυψη InfoΠάνελ κατά την κύλιση"
+
+msgctxt "#31940"
+msgid "Hides the infopanel for Showcase and Landscape view (if activated) while scrolling through the library. Set the amount of seconds to wait for the infopanel to appear when scrolling is stopped."
+msgstr "Αποκρύπτει το InfoΠάνελ στις προβολές Βιτρίνα και Τοπίο (αν είναι ενεργές) κατά την κύλιση στη συλλογή. Μπορείτε να ορίσετε το χρόνο αναμονής προτού εμφανιστεί ξανά μετά τη διακοπή της κύλισης."
+
+msgctxt "#31941"
+msgid "Kiosk mode"
+msgstr "Λειτουργία Kiosk"
+
+msgctxt "#31942"
+msgid "Disables the slide out menu (media menu) in the library as well as certain buttons in the media information dialogs. (Requires restart to take effect)"
+msgstr "Απενεργοποίηση του πλαϊνού μενού στη συλλογή, όπως, επίσης, και κάποιων πλήκτρων στα παράθυρα πληροφοριών (απαιτείται επανεκκίνηση)."
+
+msgctxt "#31943"
+msgid "Watched status indicator"
+msgstr "Ένδειξη προβληθέντων"
+
+msgctxt "#31944"
+msgid "Choose which overlays to show on thumbs in icon based views. Note that the \"Resume\" flag takes precedent over any watched status."
+msgstr "Επιλογή των ενδείξεων που θα εμφανίζονται στις μικρογραφίες στις αντίστοιχες προβολές. Να σημειωθεί ότι η ένδειξη \"Συνέχιση\" υπερισχύει αυτής των προβληθέντων."
+
+msgctxt "#31945"
+msgid "This toggles the layout of the List view. Default is a 7 item layout with extended info, \"Slim List\" is a 14 item, more basic layout"
+msgstr "Έτσι μπορείτε να αλλάξετε τη διάταξη της Προβολής Λίστας. Προεπιλογή είναι η διάταξη 7 αντικειμένων με εκτενείς πληροφορίες. Η \"Λεπτή Λίστα\" περιέχει 14 αντικείμενα, με λιγότερες πληροφορίες."
+
+msgctxt "#31950"
+msgid "WEATHER"
+msgstr "ΚΑΙΡΟΣ"
+
+msgctxt "#31951"
+msgid "PICTURES"
+msgstr "ΕΙΚΟΝΕΣ"
+
+msgctxt "#31952"
+msgid "LIVE TV"
+msgstr "LIVE TV"
+
+msgctxt "#31953"
+msgid "VIDEOS"
+msgstr "ΒΙΝΤΕΟ"
+
+msgctxt "#31954"
+msgid "MOVIES"
+msgstr "ΤΑΙΝΙΕΣ"
+
+msgctxt "#31955"
+msgid "TV SHOWS"
+msgstr "ΤΗΛ. ΣΕΙΡΕΣ"
+
+msgctxt "#31956"
+msgid "MUSIC"
+msgstr "ΜΟΥΣΙΚΗ"
+
+msgctxt "#31957"
+msgid "APPS"
+msgstr "ΕΦΑΡΜΟΓΕΣ"
+
+msgctxt "#31958"
+msgid "PLAY DISC"
+msgstr "ΑΝΑΠΑΡΑΓΩΓΗ ΔΙΣΚΟΥ"
+
+msgctxt "#31959"
+msgid "SYSTEM"
+msgstr "ΣΥΣΤΗΜΑ"
+
+msgctxt "#31960"
+msgid "CONCERTS"
+msgstr "ΣΥΝΑΥΛΙΕΣ"
+
+msgctxt "#31961"
+msgid "Hide ratings in list views"
+msgstr "Απόκρυψη αξιολογήσεων σε προβολές λίστας"
+
+msgctxt "#31962"
+msgid "This toggles the visibility of ratings in views of type List, LowList and TriPanel, except if sorted by rating."
+msgstr "Αυτό αλλάζει την ορατότητα των αξιολογήσεων σε προβολές τύπου List, LowList και TriPanel, εκτός εάν ταξινομηθούν κατά βαθμολογία."
+
+msgctxt "#31964"
+msgid "NoTo"
+msgstr "NoTo"
+
+msgctxt "#31965"
+msgid "Setup main menu"
+msgstr "Ρύθμιση του κύριου μενού"
+
+msgctxt "#31966"
+msgid "Customize the main menu with widgets, backgrounds, submenus and statistics. Add your own custom main menu items."
+msgstr "Προσαρμόστε το κύριο μενού με γραφικά στοιχεία, φόντο, υπομενού και στατιστικά στοιχεία.Προσθέστε τα δικά σας προσαρμοσμένα στοιχεία του κύριου μενού."
+
+msgctxt "#31967"
+msgid "Skin addons"
+msgstr "Πρόσθετα δέρματος"
+
+msgctxt "#31968"
+msgid "Addons used to enhance Aeon Tajo."
+msgstr "Πρόσθετα που χρησιμοποιούνται για την ενίσχυση του Aeon Tajo."
+
+msgctxt "#31969"
+msgid "Skin options"
+msgstr "Επιλογές δέρματος"
+
+msgctxt "#31970"
+msgid "Setup of melodies, the way of showing widgets, themes and cast for movies/TV shows and other options."
+msgstr "Ρύθμιση μελωδιών, τρόπος εμφάνισης widget, θέματα και καστ για ταινίες/τηλεοπτικές εκπομπές και άλλες επιλογές."
+
+msgctxt "#31971"
+msgid "Colour of selected items"
+msgstr "Χρώμα επιλεγμένων στοιχείων"
+
+msgctxt "#31972"
+msgid "Youtube"
+msgstr "YouTube"
+
+msgctxt "#31973"
+msgid "Down for more"
+msgstr "Κάτω για περισσότερα"
+
+msgctxt "#31974"
+msgid "More movies featuring"
+msgstr "Περισσότερες ταινίες με"
+
+msgctxt "#31975"
+msgid "More TV shows featuring"
+msgstr "Περισσότερες τηλεοπτικές εκπομπές"
+
+msgctxt "#31976"
+msgid "Image gallery"
+msgstr "Συλλογή εικόνων"
+
+msgctxt "#31977"
+msgid "Years old"
+msgstr "χρονών"
+
+msgctxt "#31978"
+msgid "Click for more"
+msgstr "Κάντε κλικ για περισσότερα"
+
+msgctxt "#31979"
+msgid "Left for more"
+msgstr "Έφυγε για περισσότερα"
+
+msgctxt "#31980"
+msgid "Right for more"
+msgstr "Σωστό για περισσότερα"
+
+msgctxt "#31981"
+msgid "Premiered"
+msgstr "Έκανε πρεμιέρα"
+
+msgctxt "#31982"
+msgid "Budget"
+msgstr "Προϋπολογισμός"
+
+msgctxt "#31983"
+msgid "Revenue"
+msgstr "Εισπράξεις"
+
+msgctxt "#31984"
+msgid "Awards"
+msgstr "Βραβεία"
+
+msgctxt "#31985"
+msgid "Trending Movies"
+msgstr "Ταινίες με ανοδική πορεία"
+
+msgctxt "#31986"
+msgid "Upcoming Movies"
+msgstr "Προσεχείς ταινίες"
+
+msgctxt "#31987"
+msgid "Now Playing Movies"
+msgstr "Αναπαραγωγή ταινιών τώρα"
+
+msgctxt "#31988"
+msgid "Top Rated Movies"
+msgstr "Ταινίες με κορυφαία βαθμολογία"
+
+msgctxt "#31989"
+msgid "Popular Movies"
+msgstr "Δημοφιλείς Ταινίες"
+
+msgctxt "#31990"
+msgid "Discover Movies"
+msgstr "Ανακαλύψτε ταινίες"
+
+msgctxt "#31991"
+msgid "Trending Shows"
+msgstr "Τάσεις εκπομπών"
+
+msgctxt "#31992"
+msgid "Top Rated Shows"
+msgstr "Εκπομπές με κορυφαία βαθμολογία"
+
+msgctxt "#31993"
+msgid "Popular Shows"
+msgstr "Δημοφιλείς εκπομπές"
+
+msgctxt "#31994"
+msgid "Discover Shows"
+msgstr "Ανακαλύψτε εκπομπές"
+
+msgctxt "#31995"
+msgid "3D view"
+msgstr "τρισδιάστατη προβολή"
+
+msgctxt "#31996"
+msgid "Extended view"
+msgstr "Εκτεταμένη προβολή"
+
+msgctxt "#31997"
+msgid "Simple view"
+msgstr "Απλή θέα"
+
+msgctxt "#31998"
+msgid "Classic lyrics"
+msgstr "Κλασικοί στίχοι"
+
+msgctxt "#31999"
+msgid "Screensaver Netflix style in media views"
+msgstr "Προφύλαξη οθόνης Στυλ Netflix σε προβολές πολυμέσων"
+
+msgctxt "#31245"
+msgid "When in idle state for two minutes within a media view, a fullscreen slideshow of movies, TV shows, or artists' fanarts will be displayed, according to the section being browsed."
+msgstr "Σε κατάσταση αδράνειας για δύο λεπτά σε μια προβολή πολυμέσων, θα εμφανίζεται μια προβολή διαφανειών πλήρους οθόνης με ταινίες, τηλεοπτικές εκπομπές ή θαυμαστές καλλιτεχνών, σύμφωνα με την ενότητα που περιηγείται."
+
+msgctxt "#31246"
+msgid "Play automatically trailers in video views"
+msgstr "Παίξτε αυτόματα τρέιλερ σε προβολές βίντεο"
+
+msgctxt "#31247"
+msgid "When you browse the video views and pause on a movie or TV show for a few seconds, the trailer automatically plays in a window."
+msgstr "Όταν περιηγείστε στις προβολές βίντεο και κάνετε παύση σε μια ταινία ή τηλεοπτική εκπομπή για μερικά δευτερόλεπτα, το τρέιλερ αναπαράγεται αυτόματα σε ένα παράθυρο."
+
+msgctxt "#31248"
+msgid "All devices"
+msgstr "Όλες οι συσκευές"
+
+msgctxt "#31249"
+msgid "Powerful devices"
+msgstr "Ισχυρές συσκευές"
+
+msgctxt "#31255"
+msgid "Most powerful devices"
+msgstr "Οι πιο ισχυρές συσκευές"
+
+msgctxt "#31256"
+msgid "Delay 5 seconds"
+msgstr "Καθυστέρηση 5 δευτερολέπτων"
+
+msgctxt "#31257"
+msgid "Delay 12 seconds"
+msgstr "Καθυστέρηση 12 δευτερολέπτων"
+
+msgctxt "#31258"
+msgid "Info view 2"
+msgstr "Προβολή πληροφοριών 2"
+
+msgctxt "#31259"
+msgid "Info view 1"
+msgstr "Προβολή πληροφοριών 1"
+
+msgctxt "#31260"
+msgid "Play automatically songs while browsing music"
+msgstr "Παίξτε αυτόματα τραγούδια κατά την περιήγηση μουσικής"
+
+msgctxt "#31261"
+msgid "Enable automatic playback of songs from the current artist or album as background music while browsing music views."
+msgstr "Ενεργοποιήστε την αυτόματη αναπαραγωγή τραγουδιών από τον τρέχοντα καλλιτέχνη ή άλμπουμ ως μουσική υπόκρουση κατά την περιήγηση σε προβολές μουσικής."
+
+msgctxt "#31262"
+msgid "Set path to use another melodies music folder"
+msgstr "Ορίστε τη διαδρομή για χρήση άλλου φακέλου μουσικής μελωδίες"
+
+msgctxt "#31263"
+msgid "Clear current path and back to default melodies music folder"
+msgstr "Εκκαθάριση τρέχουσας διαδρομής και επιστροφή στον προεπιλεγμένο φάκελο μουσικής μελωδίες"
+
+msgctxt "#31264"
+msgid "Play melodies while in Home & Settings screens"
+msgstr "Παίξτε μελωδίες ενώ βρίσκεστε στην αρχική οθόνη και στις οθόνες ρυθμίσεων"
+
+msgctxt "#31265"
+msgid "Show only background"
+msgstr "Εμφάνιση μόνο φόντου"
+
+msgctxt "#31266"
+msgid "TheMovieDb Helper provides data to display online ratings and additional information for movies and TV shows"
+msgstr "Το TheMovieDb Helper παρέχει δεδομένα για την εμφάνιση διαδικτυακών αξιολογήσεων και πρόσθετες πληροφορίες για ταινίες και τηλεοπτικές εκπομπές"
+
+msgctxt "#31267"
+msgid "Show online ratings for movies and TV shows"
+msgstr "Εμφάνιση διαδικτυακών αξιολογήσεων για ταινίες και τηλεοπτικές εκπομπές"
+
+msgctxt "#31268"
+msgid "You have to restart Kodi for this option to take effect once the option has been activated. TMDb and Trakt should work out of the box. Metacritic and Rottentomatoes ratings require an OMDb API key. Get an OMDb API Key at http://www.omdbapi.com/apikey.aspx and afterward input the OMDb API Key into the TheMovieDb Helper settings."
+msgstr "Πρέπει να επανεκκινήσετε το Kodi για να τεθεί σε ισχύ αυτή η επιλογή μόλις ενεργοποιηθεί η επιλογή.Το TMDb και το Trakt θα πρέπει να λειτουργούν εκτός του κουτιού.Οι αξιολογήσεις Metacritic και Rottentomatoes απαιτούν κλειδί API OMDb.Αποκτήστε ένα κλειδί API OMDb στη διεύθυνση http://www.omdbapi.com/apikey.aspx και στη συνέχεια εισαγάγετε το κλειδί API OMDb στις ρυθμίσεις του TheMovieDb Helper."
+
+msgctxt "#31269"
+msgid "Resource image addon for displaying coloured studio icons throughout the skin."
+msgstr "Πηγή πρόσθετου εικόνας για την εμφάνιση έγχρωμων εικονιδίων στούντιο σε όλο το δέρμα."
+
+msgctxt "#31270"
+msgid "Show colour icons for audio/video information"
+msgstr "Εμφάνιση έγχρωμων εικονιδίων για πληροφορίες ήχου/βίντεο"
+
+msgctxt "#31271"
+msgid "Show extra features for movies and TV shows"
+msgstr "Εμφάνιση επιπλέον λειτουργιών για ταινίες και τηλεοπτικές εκπομπές"
+
+msgctxt "#31272"
+msgid "Display the additional features (media files) placed by the user in the 'extras' folder for a movie or TV show. Remember to modify your advancedsettings.xml file if needed."
+msgstr "Εμφανίστε τις πρόσθετες λειτουργίες (αρχεία πολυμέσων) που έχει τοποθετήσει ο χρήστης στο φάκελο «extras» για μια ταινία ή τηλεοπτική εκπομπή.Θυμηθείτε να τροποποιήσετε το αρχείο advancedsettings.xml εάν χρειάζεται."
+
+msgctxt "#31273"
+msgid "Show extras"
+msgstr "Εμφάνιση πρόσθετων"
+
+msgctxt "#31274"
+msgid "Enable shifting colours effect in the default Aeon Tajo's background"
+msgstr "Ενεργοποιήστε το εφέ μετατόπισης χρωμάτων στο προεπιλεγμένο φόντο του Aeon Tajo"
+
+msgctxt "#31275"
+msgid "Activate a shifting colours effect in the default Aeon Tajo's background (only in the Home screen)."
+msgstr "Ενεργοποιήστε ένα εφέ μετατόπισης χρωμάτων στο προεπιλεγμένο φόντο του Aeon Tajo (μόνο στην αρχική οθόνη)."
+
+msgctxt "#31276"
+msgid "Name of user's additional features folder (if different to 'extras')"
+msgstr "Όνομα του φακέλου πρόσθετων δυνατοτήτων του χρήστη (εάν διαφέρει από το "extras")"
+
+msgctxt "#31277"
+msgid "Select image to show as background instead of default"
+msgstr "Επιλέξτε εικόνα για εμφάνιση ως φόντο αντί για προεπιλογή"
+
+msgctxt "#31278"
+msgid "Browse for image"
+msgstr "Αναζήτηση για εικόνα"
+
+msgctxt "#31279"
+msgid "Play music videos"
+msgstr "Αναπαραγωγή μουσικών βίντεο"
+
+msgctxt "#31280"
+msgid "Play local albums"
+msgstr "Παίξτε τοπικά άλμπουμ"
+
+msgctxt "#31281"
+msgid "Play songs"
+msgstr "Παίξτε τραγούδια"
+
+msgctxt "#31282"
+msgid "Blurred album image as background"
+msgstr "Θολή εικόνα άλμπουμ ως φόντο"
+
+msgctxt "#31283"
+msgid "Browse for path"
+msgstr "Αναζήτηση διαδρομής"
+
+msgctxt "#31284"
+msgid "Show extra features for music albums"
+msgstr "Εμφάνιση επιπλέον δυνατοτήτων για μουσικά άλμπουμ"
+
+msgctxt "#31285"
+msgid "Display the additional features (media files) placed by the user in the 'extras' folder for a music album. Remember to modify your advancedsettings.xml file if needed."
+msgstr "Εμφανίστε τις πρόσθετες λειτουργίες (αρχεία πολυμέσων) που έχει τοποθετήσει ο χρήστης στο φάκελο "extras" για ένα μουσικό άλμπουμ.Θυμηθείτε να τροποποιήσετε το αρχείο advancedsettings.xml εάν χρειάζεται."
+
+msgctxt "#31286"
+msgid "When you browse the video views and pause on a movie or TV show for a few seconds, the main theme automatically plays in the background. This feature requires the user to place an mp3 file with the theme in the root folder of the movie or TV show. This file must be named theme.mp3."
+msgstr "Όταν περιηγείστε στις προβολές βίντεο και κάνετε παύση σε μια ταινία ή τηλεοπτική εκπομπή για λίγα δευτερόλεπτα, το κύριο θέμα αναπαράγεται αυτόματα στο παρασκήνιο.Αυτή η δυνατότητα απαιτεί από τον χρήστη να τοποθετήσει ένα αρχείο mp3 με το θέμα στον ριζικό φάκελο της ταινίας ή της τηλεοπτικής εκπομπής.Αυτό το αρχείο πρέπει να ονομάζεται theme.mp3."
+
+msgctxt "#31287"
+msgid "Shows the normal poster (poster.jpg) in movies and TV shows views."
+msgstr "Εμφανίζει την κανονική αφίσα (poster.jpg) σε προβολές ταινιών και τηλεοπτικών εκπομπών."
+
+msgctxt "#31288"
+msgid "Shows the animated poster (animatedposter.gif) in movies and TV shows views."
+msgstr "Εμφανίζει την κινούμενη αφίσα (animatedposter.gif) σε προβολές ταινιών και τηλεοπτικών εκπομπών."
+
+msgctxt "#31289"
+msgid "Shows the available extra posters (poster1.jpg, poster2.jpg, poster3.jpg...) in movies and TV shows views."
+msgstr "Εμφανίζει τις διαθέσιμες επιπλέον αφίσες (poster1.jpg, poster2.jpg, poster3.jpg...) σε προβολές ταινιών και τηλεοπτικών εκπομπών."
+
+msgctxt "#31290"
+msgid "Thanks for using Aeon Tajo—I really hope you’re enjoying it. Creating and maintaining a Kodi skin like this takes hundreds of hours of work. If Aeon Tajo is something you enjoy and find useful, supporting it helps me keep working on it and ensures it can continue evolving in the future. [CR][CR]If you decide to do so, you’ll receive frequent updates with new features and bug fixes, along with videos, media packs, and easy-to-follow articles with detailed tips to help you get the most out of everything Aeon Tajo has to offer, together with my sincere gratitude for your support. [CR][CR]For more information, visit [B][COLOR=themecolor]patreon.com[/B][/COLOR] and search for the creator [COLOR=themecolor][B]Aeon Tajo[/B][/COLOR], or go to [COLOR=themecolor][B]patreon.com/aeontajo[/B][/COLOR].[CR][CR]Thanks!"
+msgstr "Ευχαριστώ που χρησιμοποιήσατε το Aeon Tajo—ελπίζω πραγματικά να το απολαύσετε.Η δημιουργία και η διατήρηση ενός δέρματος Kodi όπως αυτό απαιτεί εκατοντάδες ώρες εργασίας.Εάν το Aeon Tajo είναι κάτι που σας αρέσει και σας φαίνεται χρήσιμο, η υποστήριξή του με βοηθάει να συνεχίσω να το δουλεύω και διασφαλίζει ότι μπορεί να συνεχίσει να εξελίσσεται στο μέλλον.[CR][CR]Εάν αποφασίσετε να το κάνετε, θα λαμβάνετε συχνές ενημερώσεις με νέες δυνατότητες και διορθώσεις σφαλμάτων, μαζί με βίντεο, πακέτα πολυμέσων και εύχρηστα άρθρα με λεπτομερείς συμβουλές που θα σας βοηθήσουν να αξιοποιήσετε στο έπακρο όλα όσα έχει να προσφέρει η Aeon Tajo, μαζί με την ειλικρινή μου ευγνωμοσύνη για την υποστήριξή σας.[CR][CR]Για περισσότερες πληροφορίες, επισκεφτείτε το [B][COLOR=themecolor]patreon.com[/B][/COLOR] και αναζητήστε τον δημιουργό [COLOR=themecolor][B]Aeon Tajo[/B][/COLOR] ή μεταβείτε στη διεύθυνση [COLOR=themecolor][B]patreon.com/B/aeontajo][B]patreon.com/B/aeontajo][COLOR]."
+
+msgctxt "#31291"
+msgid "Blurred album image as background in music visualisation screen"
+msgstr "Θολή εικόνα άλμπουμ ως φόντο στην οθόνη οπτικοποίησης μουσικής"
+
+msgctxt "#31292"
+msgid "Hide watched mark in video views"
+msgstr "Απόκρυψη του σημείου παρακολούθησης στις προβολές βίντεο"
+
+msgctxt "#31293"
+msgid "Disclaimer: Aeon Tajo does not provide any media content or sources. Users must provide their own content. Support will not be provided for any 'builds' nor online addons that offer copyrighted content."
+msgstr "Αποποίηση ευθύνης: Η Aeon Tajo δεν παρέχει περιεχόμενο ή πηγές πολυμέσων.Οι χρήστες πρέπει να παρέχουν το δικό τους περιεχόμενο.Δεν θα παρέχεται υποστήριξη για οποιαδήποτε «κατασκευή» ή διαδικτυακά πρόσθετα που προσφέρουν περιεχόμενο που προστατεύεται από πνευματικά δικαιώματα."
+
+msgctxt "#31294"
+msgid "Change to "
+msgstr "Αλλαγή σε"
+
+msgctxt "#31295"
+msgid "Remember that you should adapt your advancedsetting.xml file to reflect this change, so as to prevent your extras content to be added inadvertently to the Kodi library."
+msgstr "Θυμηθείτε ότι θα πρέπει να προσαρμόσετε το αρχείο advancedsetting.xml ώστε να αντικατοπτρίζει αυτήν την αλλαγή, ώστε να αποτρέψετε την ακούσια προσθήκη του πρόσθετου περιεχομένου σας στη βιβλιοθήκη Kodi."
+
+msgctxt "#31296"
+msgid "Filmstrip"
+msgstr "Filmstrip"
+
+msgctxt "#31297"
+msgid "Select + Right Stick"
+msgstr "Επιλέξτε + Δεξί ραβδί"
+
+msgctxt "#31298"
+msgid "Vertical Home menu"
+msgstr "Κάθετο μενού αρχικής σελίδας"
+
+msgctxt "#31299"
+msgid "Eject disc"
+msgstr "Εξαγωγή δίσκου"
+
+msgctxt "#31302"
+msgid "Play with PreShow"
+msgstr "Παίξτε με το PreShow"
+
+msgctxt "#31303"
+msgid "Highlighted text colour"
+msgstr "Επισημασμένο χρώμα κειμένου"
+
+msgctxt "#31304"
+msgid "Marks colour"
+msgstr "Σημειώνει χρώμα"
+
+msgctxt "#31305"
+msgid "Current"
+msgstr "Τρέχον"
+
+msgctxt "#31306"
+msgid "Selected"
+msgstr "Επιλεγμένο"
+
+msgctxt "#31311"
+msgid "Watched mark shape"
+msgstr "Παρακολούθησε το σχήμα του σήματος"
+
+msgctxt "#31312"
+msgid "Sliding background fanarts"
+msgstr "Συρόμενο φόντο fanarts"
+
+msgctxt "#31313"
+msgid "Kodi add-ons settings"
+msgstr "Ρυθμίσεις πρόσθετων Kodi"
+
+msgctxt "#31314"
+msgid "Install and update add-ons"
+msgstr "Εγκαταστήστε και ενημερώστε πρόσθετα"
+
+msgctxt "#31315"
+msgid "Download add-ons"
+msgstr "Λήψη πρόσθετων"
+
+msgctxt "#31316"
+msgid "Show Browser"
+msgstr "Εμφάνιση προγράμματος περιήγησης"
+
+msgctxt "#31318"
+msgid "Hide Browser"
+msgstr "Απόκρυψη προγράμματος περιήγησης"
+
+msgctxt "#31319"
+msgid "Narrow view"
+msgstr "Στενή θέα"
+
+msgctxt "#31322"
+msgid "Wide view"
+msgstr "Ευρεία θέα"
+
+msgctxt "#31323"
+msgid "Actors in other movies and TV shows"
+msgstr "Ηθοποιοί σε άλλες ταινίες και τηλεοπτικές εκπομπές"
+
+msgctxt "#31324"
+msgid "Show similar movies/TV shows and artists/albums"
+msgstr "Εμφάνιση παρόμοιων ταινιών/τηλεοπτικών εκπομπών και καλλιτεχνών/άλμπουμ"
+
+msgctxt "#31325"
+msgid "Opens a new window in some video/music views showing other movies/TV shows or artists/albums similar or related to the current item."
+msgstr "Ανοίγει ένα νέο παράθυρο σε ορισμένες προβολές βίντεο/μουσικής που προβάλλουν άλλες ταινίες/τηλεοπτικές εκπομπές ή καλλιτέχνες/άλμπουμ παρόμοια ή σχετίζονται με το τρέχον στοιχείο."
+
+msgctxt "#31326"
+msgid "Show similar"
+msgstr "Εμφάνιση παρόμοιου"
+
+msgctxt "#31327"
+msgid "Classic"
+msgstr "Κλασικό"
+
+msgctxt "#31329"
+msgid "Similar albums"
+msgstr "Παρόμοια άλμπουμ"
+
+msgctxt "#31330"
+msgid "No similar found"
+msgstr "Δεν βρέθηκε παρόμοιο"
+
+msgctxt "#31333"
+msgid "Wikipedia"
+msgstr "Βικιπαίδεια"
+
+msgctxt "#31337"
+msgid "Click to select and open article's links"
+msgstr "Κάντε κλικ για να επιλέξετε και να ανοίξετε τους συνδέσμους του άρθρου"
+
+msgctxt "#31338"
+msgid "Click to search..."
+msgstr "Κάντε κλικ για αναζήτηση..."
+
+msgctxt "#31339"
+msgid "Add/update music video links"
+msgstr "Προσθήκη/ενημέρωση συνδέσμων μουσικών βίντεο"
+
+msgctxt "#31340"
+msgid "[B]CONFIGURE GAME SETTINGS[/B][CR][CR]Change gameplay options[CR]Keyboard settings · Configure rewind settings"
+msgstr "[B]ΔΙΑΜΟΡΦΩΣΗ ΡΥΘΜΙΣΕΩΝ ΠΑΙΧΝΙΔΙΟΥ[/B][CR][CR]Αλλαγή επιλογών παιχνιδιού[CR]Ρυθμίσεις πληκτρολογίου · Διαμόρφωση ρυθμίσεων επαναφοράς"
+
+msgctxt "#31341"
+msgid "Narrow list"
+msgstr "Στενή λίστα"
+
+msgctxt "#31342"
+msgid "Wide list"
+msgstr "Ευρεία λίστα"
+
+msgctxt "#31343"
+msgid "Update videolinks"
+msgstr "Ενημέρωση συνδέσμων βίντεο"
+
+msgctxt "#31344"
+msgid "Play all music videos"
+msgstr "Αναπαραγωγή όλων των μουσικών βίντεο"
+
+msgctxt "#31345"
+msgid "No bookmarks created yet"
+msgstr "Δεν έχουν δημιουργηθεί ακόμη σελιδοδείκτες"
+
+msgctxt "#31346"
+msgid "Choose where to start"
+msgstr "Επιλέξτε πού να ξεκινήσετε"
+
+msgctxt "#31347"
+msgid "Browse the list and click"
+msgstr "Περιηγηθείτε στη λίστα και κάντε κλικ"
+
+msgctxt "#31348"
+msgid "Show OSD controls"
+msgstr "Εμφάνιση στοιχείων ελέγχου OSD"
+
+msgctxt "#31349"
+msgid "Preparing list of music videos, please wait..."
+msgstr "Προετοιμασία λίστας μουσικών βίντεο, περιμένετε..."
+
+msgctxt "#31350"
+msgid "Songs party mode"
+msgstr "Λειτουργία πάρτι τραγουδιών"
+
+msgctxt "#31351"
+msgid "Videolinks party mode"
+msgstr "Λειτουργία πάρτι συνδέσμων βίντεο"
+
+msgctxt "#31352"
+msgid "No videolinks found"
+msgstr "Δεν βρέθηκαν σύνδεσμοι βίντεο"
+
+msgctxt "#31353"
+msgid "Click or arrow keys while playing to show the OSD"
+msgstr "Κάντε κλικ ή τα πλήκτρα βέλους κατά την αναπαραγωγή για να εμφανιστεί το OSD"
+
+msgctxt "#31354"
+msgid "While playing..."
+msgstr "Παίζοντας..."
+
+msgctxt "#31355"
+msgid "Click or arrow keys to show the OSD"
+msgstr "Κάντε κλικ στα πλήκτρα βέλους για να εμφανιστεί το OSD"
+
+msgctxt "#31356"
+msgid "Shows the normal thumb (folder.jpg) in artists and albums music views."
+msgstr "Εμφανίζει τον κανονικό αντίχειρα (folder.jpg) σε προβολές μουσικής καλλιτεχνών και άλμπουμ."
+
+msgctxt "#31357"
+msgid "Shows the animated thumb (animatedthumb.gif) in artists and albums music views."
+msgstr "Εμφανίζει τον κινούμενο αντίχειρα (animatedthumb.gif) σε προβολές μουσικής καλλιτεχνών και άλμπουμ."
+
+msgctxt "#31358"
+msgid "Show a colour strip code on video elements"
+msgstr "Εμφάνιση κώδικα λωρίδας χρώματος σε στοιχεία βίντεο"
+
+msgctxt "#31359"
+msgid "Allows to quickly identify video file quality using a colour strip code when browsing movies and episodes in video views"
+msgstr "Επιτρέπει τον γρήγορο προσδιορισμό της ποιότητας του αρχείου βίντεο χρησιμοποιώντας έναν έγχρωμο κώδικα ταινίας κατά την περιήγηση ταινιών και επεισοδίων σε προβολές βίντεο"
+
+msgctxt "#31360"
+msgid "Library using Global Search"
+msgstr "Βιβλιοθήκη που χρησιμοποιεί την Παγκόσμια Αναζήτηση"
+
+msgctxt "#31361"
+msgid "TheMovieDB"
+msgstr "TheMovieDB"
+
+msgctxt "#31362"
+msgid "Most Voted Movies"
+msgstr "Ταινίες με τις περισσότερες ψήφους"
+
+msgctxt "#31363"
+msgid "Crew"
+msgstr "Πλήρωμα"
+
+msgctxt "#31364"
+msgid "Most Voted Shows"
+msgstr "Εκπομπές με τις περισσότερες ψήφους"
+
+msgctxt "#31365"
+msgid "Random Shows"
+msgstr "Τυχαίες εκπομπές"
+
+msgctxt "#31366"
+msgid "Random Artists"
+msgstr "Τυχαίοι καλλιτέχνες"
+
+msgctxt "#31367"
+msgid "Online info from TheMovieDB.org for videos"
+msgstr "Ηλεκτρονικές πληροφορίες από το TheMovieDB.org για βίντεο"
+
+msgctxt "#31368"
+msgid "Get online info from TheMovieDB.org in movie and TVshow's info screen and widgets"
+msgstr "Λάβετε πληροφορίες στο διαδίκτυο από το TheMovieDB.org στην οθόνη πληροφοριών και στα γραφικά στοιχεία ταινιών και τηλεοπτικών εκπομπών"
+
+msgctxt "#31369"
+msgid "Snow effect - Off"
+msgstr "Εφέ χιονιού - Απενεργοποίηση"
+
+msgctxt "#31370"
+msgid "Snow effect - Light"
+msgstr "Εφέ χιονιού - Φως"
+
+msgctxt "#31371"
+msgid "Snow effect - Medium"
+msgstr "Εφέ χιονιού - Μεσαίο"
+
+msgctxt "#31372"
+msgid "Snow effect - Heavy"
+msgstr "Εφέ χιονιού - Βαρύ"
+
+msgctxt "#31373"
+msgid "Snow effect - Blizzard"
+msgstr "Εφέ χιονιού - Χιονοθύελλα"
+
+msgctxt "#31374"
+msgid "Click or arrow keys to exit"
+msgstr "Κάντε κλικ στα πλήκτρα βέλους για έξοδο"
+
+msgctxt "#31375"
+msgid "Rewind"
+msgstr "Πίσω"
+
+msgctxt "#31376"
+msgid "Fast forward"
+msgstr "Γρήγορα προς τα εμπρός"
+
+msgctxt "#31377"
+msgid "Step back"
+msgstr "Βήμα πίσω"
+
+msgctxt "#31378"
+msgid "Step forward"
+msgstr "Βήμα μπροστά"
+
+msgctxt "#31379"
+msgid "Previous chapter"
+msgstr "Προηγούμενο κεφάλαιο"
+
+msgctxt "#31380"
+msgid "Next chapter"
+msgstr "Επόμενο κεφάλαιο"
+
+msgctxt "#31381"
+msgid "Previous channel"
+msgstr "Προηγούμενο κανάλι"
+
+msgctxt "#31382"
+msgid "Next channel"
+msgstr "Επόμενο κανάλι"
+
+msgctxt "#31383"
+msgid "Show lyrics"
+msgstr "Εμφάνιση στίχων"
+
+msgctxt "#31384"
+msgid "Hide lyrics"
+msgstr "Απόκρυψη στίχων"
+
+msgctxt "#31385"
+msgid "Adjust lyrics"
+msgstr "Προσαρμόστε τους στίχους"
+
+msgctxt "#31386"
+msgid "Hide resumable mark in video views"
+msgstr "Απόκρυψη του σήματος συνέχισης στις προβολές βίντεο"
+
+msgctxt "#31387"
+msgid "Hide unwatched mark in video views"
+msgstr "Απόκρυψη του απαρατήρητου σημείου στις προβολές βίντεο"
+
+msgctxt "#31388"
+msgid "Hide episodes unwatched mark in video views"
+msgstr "Απόκρυψη επεισοδίων που δεν παρακολουθήθηκαν στις προβολές βίντεο"
+
+msgctxt "#31389"
+msgid "Same director"
+msgstr "Ο ίδιος σκηνοθέτης"
+
+msgctxt "#31391"
+msgid "'Down' to show similars"
+msgstr "'Κάτω' για εμφάνιση παρόμοιων"
+
+msgctxt "#31392"
+msgid "'Right' to show similars"
+msgstr "«Δικαίωμα» να δείχνεις παρόμοια"
+
+msgctxt "#31393"
+msgid "Show logos"
+msgstr "Εμφάνιση λογότυπων"
+
+msgctxt "#31394"
+msgid "Show only titles"
+msgstr "Εμφάνιση μόνο τίτλων"
+
+msgctxt "#31395"
+msgid "Play automatically video links in song views"
+msgstr "Αυτόματη αναπαραγωγή συνδέσμων βίντεο σε προβολές τραγουδιών"
+
+msgctxt "#31396"
+msgid "When you browse song views and stop for a few seconds, the video link for that song will play automatically (if available)."
+msgstr "Όταν περιηγείστε στις προβολές τραγουδιού και σταματήσετε για μερικά δευτερόλεπτα, ο σύνδεσμος βίντεο για αυτό το τραγούδι θα αναπαραχθεί αυτόματα (εάν υπάρχει)."
+
+msgctxt "#31397"
+msgid "User reviews"
+msgstr "Κριτικές χρηστών"
+
+msgctxt "#31398"
+msgid "Horizontal Home menu"
+msgstr "Οριζόντιο αρχικό μενού"
+
+msgctxt "#31399"
+msgid "Simple Home menu"
+msgstr "Απλό αρχικό μενού"
+
+msgctxt "#31403"
+msgid "Widget type"
+msgstr "Τύπος widget"
+
+msgctxt "#31404"
+msgid "Small widgets..."
+msgstr "Μικρά widget..."
+
+msgctxt "#31408"
+msgid "Fullscreen widgets..."
+msgstr "Γραφικά στοιχεία πλήρους οθόνης..."
+
+msgctxt "#31411"
+msgid "Force view..."
+msgstr "Αναγκαστική προβολή..."
+
+msgctxt "#31416"
+msgid "A view can't be disabled when is selected as \"forced\" for some media."
+msgstr "Μια προβολή δεν μπορεί να απενεργοποιηθεί όταν έχει επιλεγεί ως \"αναγκαστική\" για ορισμένα μέσα."
+
+msgctxt "#31417"
+msgid "Only views that are not marked as disabled can be forced."
+msgstr "Μόνο οι προβολές που δεν έχουν επισημανθεί ως απενεργοποιημένες μπορούν να επιβληθούν."
+
+msgctxt "#31418"
+msgid "Don't force views"
+msgstr "Μην εξαναγκάζετε τις απόψεις"
+
+msgctxt "#31419"
+msgid "Forced view"
+msgstr "Αναγκαστική προβολή"
+
+msgctxt "#31420"
+msgid "Enable or disable views"
+msgstr "Ενεργοποίηση ή απενεργοποίηση προβολών"
+
+msgctxt "#31422"
+msgid "No embedded subs"
+msgstr "Δεν υπάρχουν ενσωματωμένοι υπότιτλοι"
+
+msgctxt "#31423"
+msgid "Auto-open audio/subtitle selector at video start"
+msgstr "Αυτόματο άνοιγμα του επιλογέα ήχου/υπότιτλων κατά την έναρξη του βίντεο"
+
+msgctxt "#31424"
+msgid "Automatically opens an audio and subtitle selector when starting playback of movies and episodes, allowing you to see which tracks are active and change them directly before continuing."
+msgstr "Ανοίγει αυτόματα έναν επιλογέα ήχου και υποτίτλων κατά την έναρξη της αναπαραγωγής ταινιών και επεισοδίων, επιτρέποντάς σας να δείτε ποια κομμάτια είναι ενεργά και να τα αλλάξετε απευθείας πριν συνεχίσετε."
+
+msgctxt "#31425"
+msgid "Search music video links for songs not in your library"
+msgstr "Αναζητήστε συνδέσμους μουσικών βίντεο για τραγούδια που δεν βρίσκονται στη βιβλιοθήκη σας"
+
+msgctxt "#31426"
+msgid "Similar artists on your library"
+msgstr "Παρόμοιοι καλλιτέχνες στη βιβλιοθήκη σας"
+
+msgctxt "#31435"
+msgid "Albums by this artist in your library"
+msgstr "Άλμπουμ από αυτόν τον καλλιτέχνη στη βιβλιοθήκη σας"
+
+msgctxt "#31436"
+msgid "Online info from TheAudioDB.com for music"
+msgstr "Ηλεκτρονικές πληροφορίες από το TheAudioDB.com για μουσική"
+
+msgctxt "#31437"
+msgid "Get online information from TheAudioDB.com on the artist and album information screen"
+msgstr "Λάβετε online πληροφορίες από το TheAudioDB.com στην οθόνη πληροφοριών καλλιτέχνη και άλμπουμ"
+
+msgctxt "#31438"
+msgid "TheAudioDb Helper supplies online data and artwork to display enhanced details for artists and music albums."
+msgstr "Το TheAudioDb Helper παρέχει ηλεκτρονικά δεδομένα και έργα τέχνης για την εμφάνιση βελτιωμένων λεπτομερειών για καλλιτέχνες και μουσικά άλμπουμ."
+
+msgctxt "#31439"
+msgid "Record label"
+msgstr "Δισκογραφική"
+
+msgctxt "#31440"
+msgid "Last.fm Plays"
+msgstr "Παίζει το Last.fm"

@@ -1,0 +1,2224 @@
+# Kodi Media Center language file
+# Addon Name: Aeon Tajo
+# Addon id: skin.aeon.tajo
+# Addon Provider: manfeed
+msgid ""
+msgstr ""
+"Project-Id-Version: KODI Skins\n"
+"POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2026-03-28 23:42+0000\n"
+"Last-Translator: manfeed <aeon.tajo@gmail.com>\n"
+"Language-Team: Czech  <aeon.tajo@gmail.com>\n"
+"Language: cs_cz\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+msgctxt "Addon Summary"
+msgid "Aeon Tajo"
+msgstr "Aeon Tajo"
+
+msgctxt "Addon Description"
+msgid "Aeon Tajo: Changes everything so that nothing changes. Inspired on Aeon Nox 5 (thanks to BigNoid)."
+msgstr "Aeon Tajo: Mění vše, aby se nic nezměnilo. Inspirováno Aeon Nox 5 (díky BigNoid)."
+
+msgctxt "Addon Disclaimer"
+msgid "Mouse control is supported, althoug not recommended. It may not work correctly in all cases."
+msgstr "Ovládání myší je podporováno, i když se nedoporučuje. Nemusí fungovat správně ve všech případech."
+
+msgctxt "#31000"
+msgid "Directed by"
+msgstr "Režisér"
+
+msgctxt "#31001"
+msgid "Written by"
+msgstr "Scénarista"
+
+msgctxt "#31002"
+msgid "Blurred album thumb"
+msgstr "Rozmazaný náhled alba"
+
+msgctxt "#31003"
+msgid "Power Options"
+msgstr "Možnosti napájení"
+
+msgctxt "#31004"
+msgid "Working"
+msgstr "Pracuji"
+
+msgctxt "#31005"
+msgid "Fixed"
+msgstr "Pevné"
+
+msgctxt "#31006"
+msgid "View Options"
+msgstr "Zobrazit možnosti"
+
+msgctxt "#31007"
+msgid "Setup home"
+msgstr "Nastavit domovské"
+
+msgctxt "#31008"
+msgid "Full screen"
+msgstr "Celá obrazovka"
+
+msgctxt "#31009"
+msgid "Total Duration"
+msgstr "Celková doba trvání"
+
+msgctxt "#31010"
+msgid "Next episode"
+msgstr "Další epizoda"
+
+msgctxt "#31011"
+msgid "Latest episode"
+msgstr "Nejnovější epizoda"
+
+msgctxt "#31012"
+msgid "Airs"
+msgstr "Vysílá"
+
+msgctxt "#31013"
+msgid "Statistics"
+msgstr "Statistika"
+
+msgctxt "#31014"
+msgid "Extras"
+msgstr "Extra doplňky"
+
+msgctxt "#31015"
+msgid "Set path to video genre fanart folder"
+msgstr "Nastavit cestu do video genre fanart složky"
+
+msgctxt "#31016"
+msgid "Poster"
+msgstr "Plagát"
+
+msgctxt "#31017"
+msgid "Set path to music genre fanart folder"
+msgstr "Nastavit cestu do video music fanart složky"
+
+msgctxt "#31018"
+msgid "InfoPanel"
+msgstr "InfoPanel"
+
+msgctxt "#31019"
+msgid "Network"
+msgstr "Síť"
+
+msgctxt "#31020"
+msgid "Extra-fanart"
+msgstr "Extra-fanart"
+
+msgctxt "#31021"
+msgid "Stage curtains"
+msgstr "Opona"
+
+msgctxt "#31022"
+msgid "Set multi-image background"
+msgstr "Nastavit více obrázkové pozadí"
+
+msgctxt "#31023"
+msgid "Set single image background"
+msgstr "Nastavit jedno obrázkové pozadí"
+
+msgctxt "#31024"
+msgid "Page"
+msgstr "Strana"
+
+msgctxt "#31025"
+msgid "Items"
+msgstr "Položek"
+
+msgctxt "#31026"
+msgid "Misc Options"
+msgstr "Další možnosti"
+
+msgctxt "#31027"
+msgid "Set item background"
+msgstr "Nastavit položku pozadí"
+
+msgctxt "#31028"
+msgid "Live DVD Cases"
+msgstr "Konzertní DVD obaly"
+
+msgctxt "#31029"
+msgid "Recent Movies"
+msgstr "Nedávné filmy"
+
+msgctxt "#31030"
+msgid "Recent Episodes"
+msgstr "Nedávné epizody"
+
+msgctxt "#31031"
+msgid "Random Movies"
+msgstr "Náhodné filmy"
+
+msgctxt "#31032"
+msgid "Recommended Movies"
+msgstr "Doporučené filmy"
+
+msgctxt "#31033"
+msgid "Random Episodes"
+msgstr "Náhodné epizody"
+
+msgctxt "#31034"
+msgid "Recommended Episodes"
+msgstr "Doporučené epizody"
+
+msgctxt "#31035"
+msgid "Random Songs"
+msgstr "Náhodné skladby"
+
+msgctxt "#31036"
+msgid "Random Albums"
+msgstr "Náhodná alba"
+
+msgctxt "#31037"
+msgid "Recent Albums"
+msgstr "Nedávná alba"
+
+msgctxt "#31038"
+msgid "Recommended Albums"
+msgstr "Doporučená alba"
+
+msgctxt "#31039"
+msgid "Actions"
+msgstr "Činnosti"
+
+msgctxt "#31040"
+msgid "Now Playing"
+msgstr "Nyní přehrávám"
+
+msgctxt "#31041"
+msgid "Select widget"
+msgstr "Vybrat widget"
+
+msgctxt "#31042"
+msgid "Show \"Now Playing\" information blended in the background"
+msgstr "Zobrazit \"Nyní se přehrává\" dialog zakomponovaný do pozadí"
+
+msgctxt "#31043"
+msgid "Platform"
+msgstr "Platforma"
+
+msgctxt "#31044"
+msgid "Views: Plot outline | Info dialog: Full plot"
+msgstr "Zobrazení: Načrtnutí zápletky | Informační dialog: Kompletní zápletka"
+
+msgctxt "#31045"
+msgid "Views: Full plot | Info dialog: Plot outline"
+msgstr "Zobrazení: kompletní zápletka | informační dialog: Načtrnutí zápletky"
+
+msgctxt "#31046"
+msgid "SEEKING"
+msgstr "VYHLEDÁVÁM"
+
+msgctxt "#31047"
+msgid "Set item icon"
+msgstr "Nastavit ikonu položky"
+
+msgctxt "#31048"
+msgid "Visualisation Presets"
+msgstr "Předvolby vizualizace"
+
+msgctxt "#31049"
+msgid "Select infoline"
+msgstr "Vybrat infořádek"
+
+msgctxt "#31050"
+msgid "Sort: Ascending"
+msgstr "Řazení: Vzestupně"
+
+msgctxt "#31051"
+msgid "Sort: Descending"
+msgstr "Řazení: Sestupně"
+
+msgctxt "#31052"
+msgid "Movie library statistics"
+msgstr "Statistika filmové knihovny"
+
+msgctxt "#31053"
+msgid "TV Show library statistics"
+msgstr "Statistika TV seriálů"
+
+msgctxt "#31054"
+msgid "Music library statistics"
+msgstr "Statistika hudební knihovny"
+
+msgctxt "#31055"
+msgid "Open playlist"
+msgstr "Otevřít seznam stop"
+
+msgctxt "#31056"
+msgid "Save playlist"
+msgstr "Uložit seznam stop"
+
+msgctxt "#31057"
+msgid "Close playlist"
+msgstr "Zavřít seznam stop"
+
+msgctxt "#31058"
+msgid "PVR information"
+msgstr "Informace PVR"
+
+msgctxt "#31059"
+msgid "Install Artist Slideshow add-on to enable this feature"
+msgstr "Nainstalujte doplněk Artist Slideshow pro aktivaci této funkce"
+
+msgctxt "#31060"
+msgid "This file is stacked, select the part you want to play from."
+msgstr "Tento soubor se skládá z více částí. Vyberte od které si přejete spustit přehrávání."
+
+msgctxt "#31061"
+msgid "Favourites statistics"
+msgstr "Statistiky oblíbených"
+
+msgctxt "#31062"
+msgid "Random movie fanart"
+msgstr "Náhodný fanart filmu"
+
+msgctxt "#31063"
+msgid "Random TV show fanart"
+msgstr "Náhodný fanart TV seriálu"
+
+msgctxt "#31064"
+msgid "Random video fanart"
+msgstr "Náhodný fanart videa"
+
+msgctxt "#31065"
+msgid "Random music fanart"
+msgstr "Náhodný fanart hudby"
+
+msgctxt "#31066"
+msgid "Random fanart"
+msgstr "Náhodný fanart"
+
+msgctxt "#31067"
+msgid "Update rating"
+msgstr "Obnovit hodnocení"
+
+msgctxt "#31068"
+msgid "CD Wall"
+msgstr "CD zeď"
+
+msgctxt "#31069"
+msgid "Change location"
+msgstr "Změnit lokaci"
+
+msgctxt "#31070"
+msgid "Enable Cinema Experience integration"
+msgstr "Aktivovat integraci Cinema Experience"
+
+msgctxt "#31071"
+msgid "While browsing the library"
+msgstr "Při procházení knihovny"
+
+msgctxt "#31072"
+msgid "On open video info"
+msgstr "Zobrazení informace při otevírání videa"
+
+msgctxt "#31073"
+msgid "Move menu item"
+msgstr "Posunout položku nabídky"
+
+msgctxt "#31074"
+msgid "Choose item to swap places with"
+msgstr "Vybrat položku pro vzájemnou výměnu pozice"
+
+msgctxt "#31075"
+msgid "No extra features available"
+msgstr "Doplňující informace nejsou k dispozici"
+
+msgctxt "#31076"
+msgid "Landscape"
+msgstr "Na šířku"
+
+msgctxt "#31077"
+msgid "ShowCase"
+msgstr "Ukázka"
+
+msgctxt "#31078"
+msgid "TriPanel"
+msgstr "TřiPanely"
+
+msgctxt "#31079"
+msgid "Shift"
+msgstr "Shift"
+
+msgctxt "#31080"
+msgid "Manage submenu"
+msgstr "Změna podnabídky"
+
+msgctxt "#31081"
+msgid "Enable custom submenus"
+msgstr "Povolit vlastní podnabídky"
+
+msgctxt "#31082"
+msgid "Detach RSS feed from the main menu"
+msgstr "Odpoj RSS zdroj od hlavního menu"
+
+msgctxt "#31083"
+msgid "Enable Next Aired information in the videolibrary"
+msgstr "Povolit informaci o dalším vysílání v knihovně videí"
+
+msgctxt "#31084"
+msgid "Conditional weather"
+msgstr "Předpověď počasí"
+
+msgctxt "#31085"
+msgid "Musicvideo library statistics"
+msgstr "Statistika hudební knihovny"
+
+msgctxt "#31086"
+msgid "Icon"
+msgstr "Ikona"
+
+msgctxt "#31087"
+msgstr "Prapor"
+msgstr "Banner"
+
+msgctxt "#31088"
+msgid "BannerWall"
+msgstr "Bannerová zeď"
+
+msgctxt "#31089"
+msgid "Play item on startup"
+msgstr "Přehrát položku po startu"
+
+msgctxt "#31090"
+msgid "Seconds"
+msgstr "Vteřin"
+
+msgctxt "#31091"
+msgid "Select items"
+msgstr "Vybrat položky"
+
+msgctxt "#31092"
+msgid "Fullscreen fanart"
+msgstr "Celoobrazovkový fanart"
+
+msgctxt "#31093"
+msgid "LowList toggle"
+msgstr "Přepnout na nízký seznam"
+
+msgctxt "#31094"
+msgid "List view layout"
+msgstr "Seznam rozvržení"
+
+msgctxt "#31095"
+msgid "Slim List"
+msgstr "Úzký seznam"
+
+msgctxt "#31096"
+msgid "Concert locations"
+msgstr "Místa koncertů"
+
+msgctxt "#31097"
+msgid "Movie playlist statistics"
+msgstr "Statistiky playlistů filmů"
+
+msgctxt "#31098"
+msgid "TV Show playlist statistics"
+msgstr "Statistiky seznamů televizních pořadů"
+
+msgctxt "#31099"
+msgid "Musicvideo playlist statistics"
+msgstr "Statistiky playlistů hudebních videí"
+
+msgctxt "#31100"
+msgid "View:"
+msgstr "Zobrazit:"
+
+msgctxt "#31101"
+msgid "Choose view"
+msgstr "Zvolte pohled"
+
+msgctxt "#31102"
+msgid "Background"
+msgstr "Pozadí"
+
+msgctxt "#31103"
+msgid "N/A"
+msgstr "Nedostupné"
+
+msgctxt "#31104"
+msgid "Similar artists"
+msgstr "Podobní interpreti"
+
+msgctxt "#31105"
+msgid "More albums from"
+msgstr "Více alb od"
+
+msgctxt "#31106"
+msgid "On info"
+msgstr "Na info"
+
+msgctxt "#31107"
+msgid "Persistent"
+msgstr "Trvalé"
+
+msgctxt "#31108"
+msgid "Enable artist information feed (if available)"
+msgstr "Povolit informační kanál pro umělce (je-li k dispozici)"
+
+msgctxt "#31109"
+msgid "Unwatched episode count"
+msgstr "Počet nezhlédnutých epizod"
+
+msgctxt "#31110"
+msgid "Up next brings the option to watch right away the next episode of a TV show (Netflix/Prime video style)."
+msgstr "Up Next nabízí možnost okamžitě zhlédnout další epizodu TV seriálu (styl Netflix/Prime Video)."
+
+msgctxt "#31111"
+msgid "Similar movies"
+msgstr "Podobné filmy"
+
+msgctxt "#31112"
+msgid "Movies directed by"
+msgstr "Filmy režírované"
+
+msgctxt "#31113"
+msgid "Movies written by"
+msgstr "Filmy napsané"
+
+msgctxt "#31114"
+msgid "More movies from"
+msgstr "Další filmy od"
+
+msgctxt "#31115"
+msgid "Similar TV shows"
+msgstr "Podobné televizní pořady"
+
+msgctxt "#31116"
+msgid "cycle fanart"
+msgstr "opakuj fanart"
+
+msgctxt "#31117"
+msgid "Fallback"
+msgstr "Náhradní"
+
+msgctxt "#31118"
+msgid "Download extrafanart"
+msgstr "Stáhnout extrafanart"
+
+msgctxt "#31119"
+msgid "Show the movies from this director in your library or view online information on this director on TMDb?"
+msgstr "Zobrazit filmy od tohoto režiséra ve vaší knihovně nebo zobrazit online informace o tomto režisérovi na TMDb?"
+
+msgctxt "#31120"
+msgid "TMDb"
+msgstr "TMDb"
+
+msgctxt "#31121"
+msgid "Disable autocomplete"
+msgstr "Zakázat automatické doplňování"
+
+msgctxt "#31122"
+msgid "Disables the autocomplete feature of the virtual keyboard"
+msgstr "Zakáže funkci automatického doplňování virtuální klávesnice"
+
+msgctxt "#31123"
+msgid "Album review"
+msgstr "Recenze alba"
+
+msgctxt "#31124"
+msgid "Show Background \"Now Playing\" Video"
+msgstr "Zobrazovat na pozadí právě přehrávané video"
+
+msgctxt "#31125"
+msgid "Show Background \"Now Playing\" Visualisation"
+msgstr "Zobrazovat právě přehrávanou vizualizaci na pozadí"
+
+msgctxt "#31126"
+msgid "Opacity level for widgets"
+msgstr "Úroveň průhlednosti widgetů"
+
+msgctxt "#31127"
+msgid "LiveTV Mod Settings"
+msgstr "Nastavení LiveTV modulu"
+
+msgctxt "#31128"
+msgid "Channels View"
+msgstr "Zobrazení kanálů"
+
+msgctxt "#31129"
+msgid "Hide Fanart in full screen visualisation"
+msgstr "Skrýt fanart při vizualizaci v režimu celé obrazovky"
+
+msgctxt "#31130"
+msgid "Use \"Enigma2-style\" channel OSD"
+msgstr "Použij OSD kanálů ve stylu \"Enigma2\""
+
+msgctxt "#31131"
+msgid "EPG Timeline View"
+msgstr "Zobrazení časové osy EPG"
+
+msgctxt "#31132"
+msgstr "Tuner:"
+msgstr "Tuner:"
+
+msgctxt "#31133"
+msgid "Timeline channels-type:"
+msgstr "Typ časové osy kanálů:"
+
+msgctxt "#31134"
+msgid "Timeline view-type:"
+msgstr "Typ zobrazení časové osy:"
+
+msgctxt "#31135"
+msgid "Infobar Options"
+msgstr "Možnosti informační lišty"
+
+msgctxt "#31136"
+msgid "Infobar type:"
+msgstr "Typ informační lišty:"
+
+msgctxt "#31137"
+msgid "Hide encryption information"
+msgstr "Skrýt informace o šifrování"
+
+msgctxt "#31138"
+msgid "Hide tuner information"
+msgstr "Skrýt informace o tuneru"
+
+msgctxt "#31139"
+msgid "Hide signal information"
+msgstr "Skrýt informaci o signálu"
+
+msgctxt "#31140"
+msgid "Sideblade Options"
+msgstr "Sideblade možnosti"
+
+msgctxt "#31141"
+msgid "Hide Guide"
+msgstr "Skrýt průvodce"
+
+msgctxt "#31142"
+msgid "Settings level"
+msgstr "Úroveň nastavení"
+
+msgctxt "#31143"
+msgid "Hide Recordings"
+msgstr "Skrýt nahrávání"
+
+msgctxt "#31144"
+msgid "Hide Timer"
+msgstr "Skrýt časovač"
+
+msgctxt "#31145"
+msgid "Hide Search"
+msgstr "Skrýt hledání"
+
+msgctxt "#31146"
+msgid "Rated"
+msgstr "Hodnoceno"
+
+msgctxt "#31147"
+msgid "Change rating"
+msgstr "Změnit hodnocení"
+
+msgctxt "#31148"
+msgid "List local library items"
+msgstr "Vypsat položky místní knihovny"
+
+msgctxt "#31149"
+msgid "Online info from TMDb"
+msgstr "Online informace z TMDb"
+
+msgctxt "#31150"
+msgid "Select studio logo artwork"
+msgstr "Vybrat logo studia"
+
+msgctxt "#31151"
+msgid "Customize the studio logos by choosing a different logo pack. Note that this has no effect on the studio icons displayed in the \"List\" view."
+msgstr "Přizpůsobte loga studií výběrem jiného balíčku log. Toto nemá vliv na ikony studií zobrazené v zobrazení \"Seznam\"."
+
+msgctxt "#31152"
+msgid "In progress movies"
+msgstr "Nedokoukané filmy"
+
+msgctxt "#31153"
+msgid "Popular movies on TheMovieDB.org"
+msgstr "Populární filmy na TheMovieDB.org"
+
+msgctxt "#31154"
+msgid "Top rated movies on TheMovieDB.org"
+msgstr "Nejlépe hodnocené filmy na TheMovieDB.org"
+
+msgctxt "#31155"
+msgid "Movies currently in cinema"
+msgstr "Filmy právě v kinech"
+
+msgctxt "#31156"
+msgid "Upcoming movies"
+msgstr "Nadcházející filmy"
+
+msgctxt "#31157"
+msgid "Multi movie widget"
+msgstr "Multi filmový widget"
+
+msgctxt "#31158"
+msgid "IMDb Top 250 movies"
+msgstr "Top 250 filmů IMDb"
+
+msgctxt "#31159"
+msgid "Event log"
+msgstr "Záznam událostí"
+
+msgctxt "#31160"
+msgid "Display background name"
+msgstr "Zobrazit název pozadí"
+
+msgctxt "#31161"
+msgid "Display title of movie/TV show/artist on home screen if the background has a fanart slideshow as background"
+msgstr "Zobrazit název filmu/TV seriálu/umělce na domovské obrazovce, pokud má pozadí prezentaci fanartů."
+
+msgctxt "#31162"
+msgid "min"
+msgstr "min"
+
+msgctxt "#31163"
+msgid "TIMESHIFT"
+msgstr "TIMESHIFT"
+
+msgctxt "#31164"
+msgid "Change weather icons"
+msgstr "Změnit ikony počasí"
+
+msgctxt "#31165"
+msgid "Layout"
+msgstr "Rozložení"
+
+msgctxt "#31166"
+msgid "Wall"
+msgstr "Stěna"
+
+msgctxt "#31167"
+msgid "You're watching"
+msgstr "Právě sledujete"
+
+msgctxt "#31168"
+msgid "h"
+msgstr "h"
+
+msgctxt "#31169"
+msgid "m"
+msgstr "m"
+
+msgctxt "#31170"
+msgid "Enable Netflix style pause screen"
+msgstr "Aktivovat obrazovku pozastavení ve stylu Netflix"
+
+msgctxt "#31171"
+msgid "Shows an overview of the movie or episode 10 seconds after the video is paused."
+msgstr "Zobrazí přehled filmu nebo epizody 10 sekund po pozastavení videa."
+
+msgctxt "#31172"
+msgid "Inactive"
+msgstr "Neaktivní"
+
+msgctxt "#31173"
+msgid "Decoder"
+msgstr "Dekodér"
+
+msgctxt "#31174"
+msgid "Hardware decoding"
+msgstr "Hardwarové dekódování"
+
+msgctxt "#31175"
+msgid "press 'OK' to see more..."
+msgstr "stiskněte 'OK' pro zobrazení více..."
+
+msgctxt "#31176"
+msgid "Enter text here..."
+msgstr "Sem zadejte text…"
+
+msgctxt "#31177"
+msgid "Player controls"
+msgstr "Ovládání přehrávače"
+
+msgctxt "#31178"
+msgid "Playlist options"
+msgstr "Možnosti seznamu stop"
+
+msgctxt "#31179"
+msgid "Critics"
+msgstr "Kritici"
+
+msgctxt "#31180"
+msgid "Play main theme when browsing movies and TV shows"
+msgstr "Přehrávat hlavní téma při procházení filmů a TV seriálů"
+
+msgctxt "#31181"
+msgid "Display cast in video views"
+msgstr "Zobrazit obsazení v zobrazeních videa"
+
+msgctxt "#31182"
+msgid "Hide current time in media views"
+msgstr "Skrýt aktuální čas v zobrazeních médií"
+
+msgctxt "#31183"
+msgid "Hide number of items in media views"
+msgstr "Skrýt počet položek v zobrazeních médií"
+
+msgctxt "#31184"
+msgid "Enable, disable and/or force video views"
+msgstr "Povolit, zakázat a/nebo vynutit zobrazení videa"
+
+msgctxt "#31185"
+msgid "Enable, disable and/or force music views"
+msgstr "Povolit, zakázat a/nebo vynutit hudební zobrazení"
+
+msgctxt "#31186"
+msgid "Force Kodi to always use certain view when browsing each kind of media. Disabling views that you don't use could speed up browsing in some devices"
+msgstr "Nutit Kodi vždy používat určité zobrazení při procházení každého typu médií. Zakázání nepoužívaných zobrazení může urychlit procházení na některých zařízeních."
+
+msgctxt "#31187"
+msgid "Available for:"
+msgstr "K dispozici pro:"
+
+msgctxt "#31188"
+msgid "Kiosk mode"
+msgstr "Kiosk mód"
+
+msgctxt "#31189"
+msgid "Disables the side media menu in views and most options to change Kodi, so as to prevent unwanted modifications."
+msgstr "Zakáže postranní menu médií v zobrazeních a většinu možností pro změnu Kodi, aby se zabránilo nežádoucím úpravám."
+
+msgctxt "#31190"
+msgid "In cinemas"
+msgstr "V kinech"
+
+msgctxt "#31191"
+msgid "In cinemas soon"
+msgstr "Brzy v kinech"
+
+msgctxt "#31192"
+msgid "Spotify"
+msgstr "Spotify"
+
+msgctxt "#31193"
+msgid "Show images of the best-known actresses"
+msgstr "Zobrazit obrázky nejznámějších hereček"
+
+msgctxt "#31194"
+msgid "Search the Red Carpet add-on for images of the best-known actresses from the movie/TV show and display them alongside the cast."
+msgstr "Vyhledat v doplňku Red Carpet obrázky nejznámějších hereček z filmu/TV seriálu a zobrazit je vedle obsazení."
+
+msgctxt "#31195"
+msgid "Show logos of film studios in video views"
+msgstr "Zobrazit loga filmových studií v zobrazeních videa"
+
+msgctxt "#31196"
+msgid "Show logos of record labels in music albums views"
+msgstr "Zobrazit loga hudebních vydavatelství v zobrazeních hudebních alb"
+
+msgctxt "#31197"
+msgid "Show home music widget"
+msgstr "Zobrazit hudební widget na domovské obrazovce"
+
+msgctxt "#31198"
+msgid "Show home video widget"
+msgstr "Zobrazit video widget na domovské obrazovce"
+
+msgctxt "#31199"
+msgid "Colours, marks and home screen"
+msgstr "Barvy, značky a domovská obrazovka"
+
+msgctxt "#31200"
+msgid "Is used to choose among different Kodi resource image pack to weather artwork and icons."
+msgstr "Slouží k výběru různých balíčků obrázků Kodi pro grafiku počasí a ikony."
+
+msgctxt "#31201"
+msgid "Performance impact"
+msgstr "Vliv na výkon"
+
+msgctxt "#31202"
+msgid "Plays music in the background while in Home and Settings screens. A default song collection is provided, but a different song folder can be used."
+msgstr "Přehrává hudbu na pozadí na domovské obrazovce a obrazovkách nastavení. Je k dispozici výchozí kolekce skladeb, ale lze použít jinou hudební složku."
+
+msgctxt "#31203"
+msgid "Select your own folder to use as background music. Make sure that it only contains music files."
+msgstr "Vyberte vlastní složku pro použití jako hudba na pozadí. Ujistěte se, že obsahuje pouze hudební soubory."
+
+msgctxt "#31204"
+msgid "When enabled, widgets linked to each home menu item will appear automatically. If disabled, widgets remain hidden until the corresponding arrow key is pressed."
+msgstr "Pokud je aktivováno, widgety propojené s každou položkou hlavního menu se zobrazí automaticky. Pokud je deaktivováno, widgety zůstanou skryté, dokud není stisknuta odpovídající šipka."
+
+msgctxt "#31205"
+msgid "Lyrics Source"
+msgstr "Zdroj textu písní"
+
+msgctxt "#31206"
+msgid "Customization"
+msgstr "Přizpůsobení"
+
+msgctxt "#31207"
+msgid "Views"
+msgstr "Zobrazení"
+
+msgctxt "#31208"
+msgid "Home screen"
+msgstr "Domovská obrazovka"
+
+msgctxt "#31209"
+msgid "Options"
+msgstr "Možnosti"
+
+msgctxt "#31210"
+msgid "Select another image as default background"
+msgstr "Vybrat jiný obrázek jako výchozí pozadí"
+
+msgctxt "#31211"
+msgid "Changes the default Aeon Tajo background to another chosen by the user."
+msgstr "Změní výchozí pozadí Aeon Tajo na jiné zvolené uživatelem."
+
+msgctxt "#31212"
+msgid "Current background path: "
+msgstr "Aktuální cesta pozadí: "
+
+msgctxt "#31213"
+msgid "Reset skin default background"
+msgstr "Obnovit výchozí pozadí skinu"
+
+msgctxt "#31214"
+msgid "Resets the default background provided with Aeon Tajo."
+msgstr "Obnoví výchozí pozadí dodané s Aeon Tajo."
+
+msgctxt "#31215"
+msgid "Show the coloured version of the icons rather than the monochrome version."
+msgstr "Zobrazit barevnou verzi ikon místo monochromatické."
+
+msgctxt "#31216"
+msgid "Displays background and fanart images with a subtle motion effect across the screen."
+msgstr "Zobrazuje obrázky pozadí a fanartů s jemným pohybovým efektem."
+
+msgctxt "#31217"
+msgid "Displays a list in the video views featuring thumbnail images of the main actors from the movie or TV show's cast."
+msgstr "Zobrazuje seznam v zobrazeních videa s miniatury hlavních herců z obsazení filmu nebo TV seriálu."
+
+msgctxt "#31218"
+msgid "Search the Studio Icons add-on for logo images of the film studios of the movie/TV show, and if found, display them while browsing the video views."
+msgstr "Vyhledá v doplňku Studio Icons loga filmových studií a zobrazí je při procházení zobrazení videa."
+
+msgctxt "#31219"
+msgid "Search for the album's record label logo using the RecordLabel Icons addon, and if found, display it when browsing the music album views."
+msgstr "Vyhledá logo hudebního vydavatelství alba pomocí doplňku RecordLabel Icons a zobrazí ho při procházení zobrazení hudebních alb."
+
+msgctxt "#31220"
+msgid "Show rating"
+msgstr "Zobrazit hodnocení"
+
+msgctxt "#31221"
+msgid "Show artist clearart"
+msgstr "Zobrazit clearart umělce"
+
+msgctxt "#31222"
+msgid "Show CD"
+msgstr "Zobrazit CD"
+
+msgctxt "#31223"
+msgid "Show Time"
+msgstr "Zobrazit čas"
+
+msgctxt "#31224"
+msgid "Animated posters"
+msgstr "Animované plakáty"
+
+msgctxt "#31225"
+msgid "Normal posters"
+msgstr "Normální plakáty"
+
+msgctxt "#31226"
+msgid "Extra posters"
+msgstr "Extra plakáty"
+
+msgctxt "#31227"
+msgid "Sets the transparency level of the home menu widgets."
+msgstr "Nastavuje úroveň průhlednosti widgetů hlavního menu."
+
+msgctxt "#31228"
+msgid "Displays main menu options in a vertical layout instead of a horizontal one."
+msgstr "Zobrazuje možnosti hlavního menu ve svislém rozvržení místo vodorovného."
+
+msgctxt "#31229"
+msgid "Set another video file as startup intro"
+msgstr "Nastavit jiný video soubor jako úvodní intro"
+
+msgctxt "#31230"
+msgid "Choose another video file to play when Kodi starts instead of Aeon Tajo default. It's recommended to choose a short one. To stop playback and start using Kodi right away, click or press any arrow key."
+msgstr "Zvolte jiný video soubor pro přehrání při spuštění Kodi místo výchozího Aeon Tajo. Doporučuje se zvolit krátký. Pro zastavení přehrávání klikněte nebo stiskněte libovolnou šipku."
+
+msgctxt "#31231"
+msgid "Plays an intro video when launching Kodi"
+msgstr "Přehraje úvodní video při spuštění Kodi"
+
+msgctxt "#31232"
+msgid "Clear current intro video file and back to default"
+msgstr "Vymazat aktuální intro video soubor a vrátit se na výchozí"
+
+msgctxt "#31233"
+msgid "Clear the intro video file selected by the user and back to Aeon Tajo's default."
+msgstr "Vymaže intro video soubor zvolený uživatelem a vrátí se na výchozí Aeon Tajo."
+
+msgctxt "#31234"
+msgid "Adds a layer that simulates falling snow on all Kodi screens, with four available intensity levels."
+msgstr "Přidá vrstvu simulující padající sníh na všech obrazovkách Kodi, se čtyřmi dostupnými úrovněmi intenzity."
+
+msgctxt "#31235"
+msgid "Override the current home menu backgrounds with this one"
+msgstr "Přepsat aktuální pozadí hlavního menu tímto"
+
+msgctxt "#31236"
+msgid "The background selections made in the Setup Main Menu screen will be preserved. Disabling this option will restore all previous backgrounds. This option is particularly designed for use during special seasons."
+msgstr "Výběry pozadí provedené na obrazovce nastavení hlavního menu budou zachovány. Deaktivace obnoví všechna předchozí pozadí. Tato možnost je určena zejména pro použití během zvláštních sezón."
+
+msgctxt "#31237"
+msgid "No impact"
+msgstr "Žádný vliv"
+
+msgctxt "#31238"
+msgid "Very small"
+msgstr "Velmi malý"
+
+msgctxt "#31239"
+msgid "Small"
+msgstr "Malý"
+
+msgctxt "#31240"
+msgid "Moderate"
+msgstr "Mírný"
+
+msgctxt "#31241"
+msgid "Pixel format"
+msgstr "Formát pixelu"
+
+msgctxt "#31242"
+msgid "System rendering speed"
+msgstr "Rychlost vykreslování systému"
+
+msgctxt "#31243"
+msgid "Hide actor's thumbnails"
+msgstr "Skrýt miniatury herců"
+
+msgctxt "#31244"
+msgid "Show only a list of the actors' names, instead of also including their thumbnails."
+msgstr "Zobrazit pouze seznam jmen herců bez jejich miniatur."
+
+msgctxt "#31250"
+msgid "Automatic Full Screen when playing music"
+msgstr "Automatická celá obrazovka při přehrávání hudby"
+
+msgctxt "#31251"
+msgid "Don't play melodies while in Home Screen"
+msgstr "Nepřehrávat melodie na domovské obrazovce"
+
+msgctxt "#31252"
+msgid "Always show home screen widgets"
+msgstr "Vždy zobrazovat widgety domovské obrazovky"
+
+msgctxt "#31253"
+msgid "Choose user audio playlist *.m3u (max.10 songs)"
+msgstr "Vybrat uživatelský seznam skladeb *.m3u (max. 10 skladeb)"
+
+msgctxt "#31254"
+msgid "Clear user playlist (back to default)"
+msgstr "Vymazat uživatelský seznam (návrat na výchozí)"
+
+msgctxt "#31300"
+msgid "Overview"
+msgstr "Přehled"
+
+msgctxt "#31301"
+msgid "Last Updated"
+msgstr "Naposledy aktualizováno"
+
+msgctxt "#31307"
+msgid "Hide Fanart"
+msgstr "Skrýt Fanart"
+
+msgctxt "#31308"
+msgid "Next aired"
+msgstr "Příští odvysílání"
+
+msgctxt "#31309"
+msgid "Memory Used:"
+msgstr "Využitá paměť:"
+
+msgctxt "#31310"
+msgid "Available audio tracks"
+msgstr "Dostupné zvukové stopy"
+
+msgctxt "#31317"
+msgid "Set Fanart Path"
+msgstr "Nastavit cestu Fanartu"
+
+msgctxt "#31320"
+msgid "Last Logged In"
+msgstr "Naposledy přihlášen"
+
+msgctxt "#31321"
+msgid "Karaoke Song Selector"
+msgstr "Výběr karaoke skladby"
+
+msgctxt "#31328"
+msgid "Recently Added"
+msgstr "Nedávno přidané"
+
+msgctxt "#31331"
+msgid "Installed"
+msgstr "Nainstalované"
+
+msgctxt "#31332"
+msgid "Not Installed"
+msgstr "Nenainstalováno"
+
+msgctxt "#31334"
+msgid "Required"
+msgstr "Vyžadováno"
+
+msgctxt "#31335"
+msgid "Recommended"
+msgstr "Doporučeno"
+
+msgctxt "#31336"
+msgid "Optional"
+msgstr "Volitelné"
+
+msgctxt "#31390"
+msgid "Skin default"
+msgstr "Výchozí nastavení vzhledu"
+
+msgctxt "#31400"
+msgid "[B]CONFIGURE INTERFACE SETTINGS[/B][CR][CR]Change the skin · Set language and region · Setup remote controls[CR]Set up a screensaver · Setup master lock"
+msgstr "[B]NASTAVENÍ ROZHRANÍ[/B][CR][CR]Změnit skin · Nastavit jazyk a region · Nastavit dálkové ovladače[CR]Nastavit spořič obrazovky · Nastavit hlavní zámek"
+
+msgctxt "#31401"
+msgid "Menu - press 'OK'"
+msgstr "Menu - stiskněte 'OK'"
+
+msgctxt "#31402"
+msgid "Enable startup video intro"
+msgstr "Aktivovat úvodní video při spuštění"
+
+msgctxt "#31405"
+msgid "[B]MONITOR YOUR SYSTEM[/B][CR][CR]Check out your hardware · Monitor CPU usage[CR]Check Kodi revision number"
+msgstr "[B]SPRÁVA SYSTÉMU[/B][CR][CR]Zobrazení hardwaru · Sledování vytížení CPU[CR]Zobrazení verze Kodi"
+
+msgctxt "#31406"
+msgid "[B]CONFIGURE SYSTEM SETTINGS[/B][CR][CR]Setup and calibrate displays · Configure audio output · [CR]Set power saving options · Enable debugging"
+msgstr "[B]NASTAVENÍ SYSTÉMU[/B][CR][CR]Nastavit a kalibrovat displeje · Konfigurovat audio výstup ·[CR]Nastavit úsporné možnosti · Aktivovat ladění"
+
+msgctxt "#31407"
+msgid "[B]SETUP PROFILES[/B][CR][CR]Setup and manage user profiles · Enable login screen[CR]Change password · Add a profile picture"
+msgstr "[B]NASTAVENÍ PROFILŮ[/B][CR][CR]Nastavit a spravovat uživatelské profily · Aktivovat přihlašovací obrazovku[CR]Změnit heslo · Přidat profilový obrázek"
+
+msgctxt "#31409"
+msgid "[B]CONFIGURE TV SETTINGS[/B][CR][CR]Change full screen info · Manage EPG data settings"
+msgstr "[B]NASTAVENÍ MOŽNOSTÍ TELEVIZNÍHO PŘEHRÁVÁNÍ[/B][CR][CR]Změna zobrazení přes celou obrazovku · Nastavení EPG dat"
+
+msgctxt "#31410"
+msgid "[B]CONFIGURE SERVICE SETTINGS[/B][CR][CR]Setup control of Kodi via UPnP and HTTP · Configure file sharing[CR]Enable Zeroconf · Configure AirPlay"
+msgstr "[B]NASTAVENÍ MOŽNOSTÍ SLUŽEB[/B][CR][CR]Nastavení ovládání Kodi skrze UPnP a HTTP · Nastavení sdílení souborů[CR]Povolit zeroconf · Nastavit AirPlay"
+
+msgctxt "#31412"
+msgid "Select section"
+msgstr "Vybrat sekci"
+
+msgctxt "#31413"
+msgid "Local subtitle available"
+msgstr "Dostupné místní titulky"
+
+msgctxt "#31414"
+msgid "[B]CONFIGURE PLAYER SETTINGS[/B][CR][CR]Configure video playback · Configure music playback · Configure picture slideshow[CR]Configure video language and subtitles"
+msgstr "[B]NASTAVENÍ PŘEHRÁVAČE[/B][CR][CR]Nastavit přehrávání videa · Nastavit přehrávání hudby · Nastavit prezentaci obrázků[CR]Nastavit jazyk videa a titulky"
+
+msgctxt "#31415"
+msgid "[B]CONFIGURE MEDIA SETTINGS[/B][CR][CR]Set default select action · Configure file list options · Configure metadata options[CR]Manage databases"
+msgstr "[B]NASTAVENÍ MÉDIÍ[/B][CR][CR]Nastavit výchozí akci výběru · Konfigurovat možnosti seznamu souborů · Konfigurovat možnosti metadat[CR]Správa databází"
+
+msgctxt "#31421"
+msgid "Select your Kodi user profile[CR]to login and continue"
+msgstr "Vyberte svůj uživatelský profil Kodi[CR]pro přihlášení a pokračování"
+
+msgctxt "#31427"
+msgid "Skin Shortcuts is responsible for handling all aspects of the main menu."
+msgstr "Skin Shortcuts zajišťuje správu všech aspektů hlavního menu."
+
+msgctxt "#31428"
+msgid "The Grab Fanart script provides the random fanart slideshows for the main menu."
+msgstr "Skript Grab Fanart poskytuje náhodnou přehlídku fanartů pro hlavní nabídku."
+
+msgctxt "#31429"
+msgid "Library Data Provider is a service that runs in the background to provide library data for widgets and live backgrounds as well as playlist statistics for infolines."
+msgstr "Library Data Provider je služba běžící na pozadí poskytující widgetům a živým pozadím z mediálních knihoven potřebné údaje, stejně tak statistiky pro seznamy stop."
+
+msgctxt "#31430"
+msgid "Resource image addon for displaying the default white studio icons throughout the skin."
+msgstr "Doplněk s kolekcí obrázků pro zobrazování předvolených bílých ikon filmových studií v celém vzhledu."
+
+msgctxt "#31431"
+msgid "Resource image addon for displaying the default white recording label icons throughout the skin."
+msgstr "Doplněk s kolekcí obrázků pro zobrazování předvolených bílých ikon nahrávacích studií v celém vzhledu."
+
+msgctxt "#31432"
+msgid "Provides numerous Widget options and extended cast and crew metadata."
+msgstr "Poskytuje řadu možností widgetů a rozšířená metadata obsazení a štábu."
+
+msgctxt "#31433"
+msgid "Skin Info Service is used to display movie set information throughout the skin."
+msgstr "Vzhled Info Service je využívaný na zobrazování informací z filmové kolekce."
+
+msgctxt "#31434"
+msgid "Check MP3 Theme checks whether the user has put a theme.mp3 file in the corresponding movie/TV show folder to be played when browsing."
+msgstr "Check MP3 Theme kontroluje, zda uživatel umístil soubor theme.mp3 do příslušné složky filmu/TV seriálu."
+
+msgctxt "#31450"
+msgid "  •  Open Settings "
+msgstr "  •  Otevřít nastavení "
+
+msgctxt "#31451"
+msgid "  •  Click to Install"
+msgstr "  •  Klikněte pro instalaci"
+
+msgctxt "#31473"
+msgid "Aeon Tajo Helper provides the data to display the cast for movies and TV shows."
+msgstr "Aeon Tajo Helper poskytuje data pro zobrazení obsazení filmů a TV seriálů."
+
+msgctxt "#31474"
+msgid "CU LRC Lyrics is used to download, sync, and display lyrics during fullscreen music playback."
+msgstr "CU LRC Lyrics umožňuje stahovat, synchronizovat a zobrazovat texty písní při přehrávaní hudby v režimu celé obrazovky."
+
+msgctxt "#31475"
+msgid "Play Trailer makes possible to play movie trailers through a context menu. "
+msgstr "Play Trailer umožňuje přehrávat filmové trailery přes kontextové menu."
+
+msgctxt "#31476"
+msgid "Allows the use of Youtube to play trailers and other videos."
+msgstr "Umožňuje použití YouTube pro přehrávání trailerů a dalších videí."
+
+msgctxt "#31477"
+msgid "Provides some cast actress images to be shown in video views."
+msgstr "Poskytuje některé obrázky hereček obsazení pro zobrazení v zobrazeních videa."
+
+msgctxt "#31478"
+msgid "Artist Slideshow is used to display artist fanart for both the home screen and during fullscreen music playback."
+msgstr "Artist Slideshow je používaný na zobrazení fanartů interpretů jak na domácí obrazovce, tak i při přehrávaní hudby v režimu celé obrazovky."
+
+msgctxt "#31479"
+msgid "AutoCompletion provides suggestions to be selected while using the virtual keyboard."
+msgstr "AutoCompletion poskytuje návrhy pro výběr při používání virtuální klávesnice."
+
+msgctxt "#31480"
+msgid "Library Editor Script uses JSON to directly edit your database information."
+msgstr "Skript Library Editor používá JSON pro přímou editaci databázových informací."
+
+msgctxt "#31481"
+msgid "Global Search makes possible to search among all the items (movies, TV shows, music, actors, etc.) in your collection."
+msgstr "Global Search umožňuje prohledávat všechny položky (filmy, TV seriály, hudbu, herce atd.) ve vaší kolekci."
+
+msgctxt "#31501"
+msgid "Channel group"
+msgstr "Skupina kanálů"
+
+msgctxt "#31502"
+msgid "Live TV"
+msgstr "Televize"
+
+msgctxt "#31503"
+msgid "Add Group"
+msgstr "Přidat skupinu"
+
+msgctxt "#31504"
+msgid "Rename Group"
+msgstr "Přejmenovat skupinu"
+
+msgctxt "#31505"
+msgid "Delete Group"
+msgstr "Smazat skupinu"
+
+msgctxt "#31506"
+msgid "Available[CR]Groups"
+msgstr "Dostupné[CR]skupiny"
+
+msgctxt "#31511"
+msgid "Channel Options"
+msgstr "Nastavení kanálů"
+
+msgctxt "#31512"
+msgid "Show similar movies in Shelf 3D view"
+msgstr "Zobrazit podobné filmy v zobrazení Shelf 3D"
+
+msgctxt "#31901"
+msgid "36 Hour Forecast"
+msgstr "Předpověď na 36 hodin"
+
+msgctxt "#31902"
+msgid "Hourly Forecast"
+msgstr "Hodinová předpověď"
+
+msgctxt "#31903"
+msgid "Weekend Forecast"
+msgstr "Předpověď na víkend"
+
+msgctxt "#31904"
+msgid "10 Day Forecast"
+msgstr "Předpověď na 10 dní"
+
+msgctxt "#31908"
+msgid "Chance of Precipitation"
+msgstr "Pravděpodobnost srážek"
+
+msgctxt "#31909"
+msgid "Fetching forecast info..."
+msgstr "Získávám informace předpovědi..."
+
+msgctxt "#31910"
+msgid "Map & Alerts"
+msgstr "Mapa a upozornění"
+
+msgctxt "#31911"
+msgid "Setup the Aeon Tajo main menu"
+msgstr "Nastavit hlavní menu Aeon Tajo"
+
+msgctxt "#31912"
+msgid "Customize the main menu with widgets, backgrounds and statistics. Add your own custom main menu items."
+msgstr "Přizpůsobit hlavní menu widgety, pozadím a statistikami. Přidat vlastní položky hlavního menu."
+
+msgctxt "#31913"
+msgid "Aeon Tajo main menu vertical position"
+msgstr "Svislá poloha hlavního menu Aeon Tajo"
+
+msgctxt "#31914"
+msgid "Change the vertical position of the main menu. Default is centered on screen."
+msgstr "Změnit svislou polohu hlavního menu. Výchozí je vycentrování na obrazovce."
+
+msgctxt "#31915"
+msgid "Navigation style for horizontal lists"
+msgstr "Styl navigace v horizontálních seznamech"
+
+msgctxt "#31916"
+msgid "Change the way horizontal lists scroll in Aeon Tajo. Default will scroll lists in a cycle. \"Fixed\" are lists with a beginning and end."
+msgstr "Změnit způsob posouvání vodorovných seznamů v Aeon Tajo. Výchozí posouvá seznamy cyklicky. \"Pevné\" jsou seznamy se začátkem a koncem."
+
+msgctxt "#31917"
+msgid "When enabled text scrolls automatically. When disabled manual scrolling is required. Note that most textboxes don't have a manual button."
+msgstr "Pokud je aktivováno, text se posouvá automaticky. Pokud je deaktivováno, je vyžadováno ruční posouvání."
+
+msgctxt "#31918"
+msgid "Projects the current playing video on the background behind the panels."
+msgstr "Zobrazí aktuálně přehrávané video na pozadí za panely."
+
+msgctxt "#31919"
+msgid "Projects the visualisation on the background behind the panels when music is played."
+msgstr "Zobrazí vizualizaci na pozadí za panely při přehrávání hudby."
+
+msgctxt "#31920"
+msgid "Displays a widget on the Home screen with media information when music is playing."
+msgstr "Zobrazí widget na Domácí obrazovce s informacemi o médiu, když se přehrává hudba."
+
+msgctxt "#31921"
+msgid "Displays a widget on the Home screen with media information when a movie or episode is playing."
+msgstr "Zobrazí widget na Domácí obrazovce s informacemi o médiu, když se přehrává film nebo epizoda."
+
+msgctxt "#31922"
+msgid "This enables custom genre backgrounds when browsing through the videolibrary's genre node. Filenames should match the genre label. Extension must be .jpg."
+msgstr "Nastavení umožní použít vlastní žánrová pozadí při procházení video knihovny podle žánrů. Názvy souborů by měly odpovídat názvům žánrů. Přípona souborů musí být .jpg."
+
+msgctxt "#31923"
+msgid "Set a default select action to enable this item."
+msgstr "Nastavte výchozí akci výběru pro aktivaci této položky."
+
+msgctxt "#31924"
+msgid "This enables custom genre backgrounds when browsing through the musiclibrary's genre node. Filenames should match the genre label. Extension must be .jpg."
+msgstr "Nastavení umožní použít vlastní žánrová pozadí při procházení hudební knihovny podle žánrů. Názvy souborů by měly odpovídat názvům žánrů. Přípona souborů musí být .jpg."
+
+msgctxt "#31925"
+msgid "Pick one of the preset backgrounds or set your own images as the menu items background."
+msgstr "Vyberte jedno z přednastavených pozadí nebo nastavte vlastní obrázky jako pozadí položek menu."
+
+msgctxt "#31926"
+msgid "Select add-ons, playlists or favourites. Choose 'Custom' for any of Kodi's built-in functions. (http://kodi.wiki/?title=List_of_Built_In_Functions)"
+msgstr "Vyberte doplňky, playlisty nebo oblíbené. Zvolte 'Vlastní' pro libovolné vestavěné funkce Kodi."
+
+msgctxt "#31927"
+msgid "Resets all above values to their defaults."
+msgstr "Obnoví všechny položky na jejich výchozí hodnoty."
+
+msgctxt "#31928"
+msgid "Aeon Tajo main menu layout"
+msgstr "Rozvržení hlavního menu Aeon Tajo"
+
+msgctxt "#31929"
+msgid "This setting defines how much items will be visible on the main menu. Options are 3 items or 5 items."
+msgstr "Toto nastavení definuje počet viditelných položek v hlavním menu. Možnosti jsou 3 nebo 5 položek."
+
+msgctxt "#31930"
+msgid "Choose a widget to display on the Home screen to have easy access to content from the library."
+msgstr "Zvolte widget pro zobrazení na Domovské stránce pro snadný přístup k položkám z knihovny."
+
+msgctxt "#31931"
+msgid "Video plot preference"
+msgstr "Nastavení zápletky filmu"
+
+msgctxt "#31932"
+msgid "Show plot outline in the library views and full plot in the video information dialog or vice versa. Falls back to full plot if no outline is available."
+msgstr "Zobrazí stručné shrnutí děje v pohledu knihovny a úplnou zápletku v informačním dialogu nebo naopak. V případě chybějícího stručného shrnutí je použita úplná zápletka."
+
+msgctxt "#31933"
+msgid "Select an item to display on the left top of the main menu"
+msgstr "Vyberte položku pro zobrazení vlevo nahoře na hlavním menu"
+
+msgctxt "#31935"
+msgid "Switch places with another menu item. Opens a dialog with a list of menu items to choose from."
+msgstr "Vyměnit si místa s jinou položkou nabídky. Otevře dialogové okno se seznamem položek nabídky, z nichž lze vybírat."
+
+msgctxt "#31937"
+msgid "Show the RSS feed on the bottom or top of the screen, depending on main menu position. Enabling this setting makes the submenu permanently visible."
+msgstr "Zobrazí kanál RSS na spodku nebo na vrchu obrazovky, v závislosti od pozice hlavní nabídky. Povolení tohoto nastavení učiní podnabídku vždy viditelnou."
+
+msgctxt "#31938"
+msgid "Enables extra information in the TV show library, like TV show status, next / latest episode, etc. Depends on TV Show Next Aired add-on."
+msgstr "Povolí zobrazování extra informací v knihovně seriálů, jako např. stav, následující/poslední epizoda apod. Závisí na doplňku TV Show Next Aired."
+
+msgctxt "#31939"
+msgid "Hide Infopanel on scrolling"
+msgstr "Skrýt Informační panel při posouvání"
+
+msgctxt "#31940"
+msgid "Hides the infopanel for Showcase and Landscape view (if activated) while scrolling through the library. Set the amount of seconds to wait for the infopanel to appear when scrolling is stopped."
+msgstr "Skryje informační panel pro zobrazení Showcase a Landscape při procházení knihovny. Nastavte počet sekund čekání na zobrazení panelu po zastavení posouvání."
+
+msgctxt "#31941"
+msgid "Kiosk mode"
+msgstr "Zapnout ochranu proti změně vzhledu zobrazení"
+
+msgctxt "#31942"
+msgid "Disables the slide out menu (media menu) in the library as well as certain buttons in the media information dialogs. (Requires restart to take effect)"
+msgstr "Zakáže vysouvací menu (menu médií) v knihovně a určitá tlačítka v dialozích informací o médiích. (Vyžaduje restart)"
+
+msgctxt "#31943"
+msgid "Watched status indicator"
+msgstr "Indikátor stavu zhlédnutí"
+
+msgctxt "#31944"
+msgid "Choose which overlays to show on thumbs in icon based views. Note that the \"Resume\" flag takes precedent over any watched status."
+msgstr "Zvolte, které překryvy se zobrazí na náhledech v zobrazeních s ikonami. Příznak \"Pokračovat\" má přednost před jakýmkoli stavem zhlédnutí."
+
+msgctxt "#31945"
+msgid "This toggles the layout of the List view. Default is a 7 item layout with extended info, \"Slim List\" is a 14 item, more basic layout"
+msgstr "Přepíná rozložení pohledu Seznam. Výchozí je zobrazení 7 položek s rozšířenými informacemi, \"Úzký seznam\" má 14 základních položek"
+
+msgctxt "#31950"
+msgid "WEATHER"
+msgstr "POČASÍ"
+
+msgctxt "#31951"
+msgid "PICTURES"
+msgstr "OBRÁZKY"
+
+msgctxt "#31952"
+msgid "LIVE TV"
+msgstr "ŽIVÉ VYSÍLÁNÍ"
+
+msgctxt "#31953"
+msgid "VIDEOS"
+msgstr "VIDEA"
+
+msgctxt "#31954"
+msgid "MOVIES"
+msgstr "FILMY"
+
+msgctxt "#31955"
+msgid "TV SHOWS"
+msgstr "TV SERIÁLY"
+
+msgctxt "#31956"
+msgid "MUSIC"
+msgstr "HUDBA"
+
+msgctxt "#31957"
+msgid "APPS"
+msgstr "APLIKACE"
+
+msgctxt "#31958"
+msgid "PLAY DISC"
+msgstr "PŘEHRÁT DISK"
+
+msgctxt "#31959"
+msgid "SYSTEM"
+msgstr "SYSTÉM"
+
+msgctxt "#31960"
+msgid "CONCERTS"
+msgstr "KONCERTY"
+
+msgctxt "#31961"
+msgid "Hide ratings in list views"
+msgstr "V pohledech se seznamy skrýt hodnocení"
+
+msgctxt "#31962"
+msgid "This toggles the visibility of ratings in views of type List, LowList and TriPanel, except if sorted by rating."
+msgstr "Přepíná viditelnost hodnocení v zobrazeních typu Seznam, Nízký seznam a TřiPanely s výjimkou, kdy jsou seřazeny podle hodnocení."
+
+msgctxt "#31964"
+msgid "NoTo"
+msgstr "NoTo"
+
+msgctxt "#31965"
+msgid "Setup main menu"
+msgstr "Nastavit hlavní menu"
+
+msgctxt "#31966"
+msgid "Customize the main menu with widgets, backgrounds, submenus and statistics. Add your own custom main menu items."
+msgstr "Přizpůsobit hlavní menu widgety, pozadím, podnabídkami a statistikami. Přidat vlastní položky."
+
+msgctxt "#31967"
+msgid "Skin addons"
+msgstr "Doplňky skinu"
+
+msgctxt "#31968"
+msgid "Addons used to enhance Aeon Tajo."
+msgstr "Doplňky pro vylepšení Aeon Tajo."
+
+msgctxt "#31969"
+msgid "Skin options"
+msgstr "Možnosti skinu"
+
+msgctxt "#31970"
+msgid "Setup of melodies, the way of showing widgets, themes and cast for movies/TV shows and other options."
+msgstr "Nastavení melodií, způsobu zobrazení widgetů, témat a obsazení pro filmy/TV seriály a další možnosti."
+
+msgctxt "#31971"
+msgid "Colour of selected items"
+msgstr "Barva vybraných položek"
+
+msgctxt "#31972"
+msgid "Youtube"
+msgstr "Youtube"
+
+msgctxt "#31973"
+msgid "Down for more"
+msgstr "Posunutím dolů zobrazíte další informace"
+
+msgctxt "#31974"
+msgid "More movies featuring"
+msgstr "Další filmy, ve kterých účinkuje"
+
+msgctxt "#31975"
+msgid "More TV shows featuring"
+msgstr "Další TV seriály s"
+
+msgctxt "#31976"
+msgid "Image gallery"
+msgstr "Galerie obrázků"
+
+msgctxt "#31977"
+msgid "Years old"
+msgstr "roků"
+
+msgctxt "#31978"
+msgid "Click for more"
+msgstr "Kliknutím zobrazíte více"
+
+msgctxt "#31979"
+msgid "Left for more"
+msgstr "Vlevo pro více"
+
+msgctxt "#31980"
+msgid "Right for more"
+msgstr "Vpravo pro více"
+
+msgctxt "#31981"
+msgid "Premiered"
+msgstr "Premiéra"
+
+msgctxt "#31982"
+msgid "Budget"
+msgstr "Rozpočet"
+
+msgctxt "#31983"
+msgid "Revenue"
+msgstr "Odměna"
+
+msgctxt "#31984"
+msgid "Awards"
+msgstr "Ocenění"
+
+msgctxt "#31985"
+msgid "Trending Movies"
+msgstr "Filmové trendy"
+
+msgctxt "#31986"
+msgid "Upcoming Movies"
+msgstr "Očekávané filmy"
+
+msgctxt "#31987"
+msgid "Now Playing Movies"
+msgstr "Filmy právě v kinech"
+
+msgctxt "#31988"
+msgid "Top Rated Movies"
+msgstr "Nejlépe hodnocené Filmy"
+
+msgctxt "#31989"
+msgid "Popular Movies"
+msgstr "Populární Filmy"
+
+msgctxt "#31990"
+msgid "Discover Movies"
+msgstr "Objevovat filmy"
+
+msgctxt "#31991"
+msgid "Trending Shows"
+msgstr "Trendové pořady"
+
+msgctxt "#31992"
+msgid "Top Rated Shows"
+msgstr "Nejlépe hodnocené seriály"
+
+msgctxt "#31993"
+msgid "Popular Shows"
+msgstr "Populární seriály"
+
+msgctxt "#31994"
+msgid "Discover Shows"
+msgstr "Objevovat seriály"
+
+msgctxt "#31995"
+msgid "3D view"
+msgstr "3D zobrazení"
+
+msgctxt "#31996"
+msgid "Extended view"
+msgstr "Rozšířené zobrazení"
+
+msgctxt "#31997"
+msgid "Simple view"
+msgstr "Jednoduché zobrazení"
+
+msgctxt "#31998"
+msgid "Classic lyrics"
+msgstr "Klasické texty"
+
+msgctxt "#31999"
+msgid "Screensaver Netflix style in media views"
+msgstr "Spořič obrazovky ve stylu Netflix v zobrazeních médií"
+
+msgctxt "#31245"
+msgid "When in idle state for two minutes within a media view, a fullscreen slideshow of movies, TV shows, or artists' fanarts will be displayed, according to the section being browsed."
+msgstr "Při nečinnosti dvě minuty v zobrazení médií se zobrazí prezentace fanartů filmů, TV seriálů nebo umělců na celou obrazovku."
+
+msgctxt "#31246"
+msgid "Play automatically trailers in video views"
+msgstr "Automaticky přehrávat upoutávky v zobrazení videa"
+
+msgctxt "#31247"
+msgid "When you browse the video views and pause on a movie or TV show for a few seconds, the trailer automatically plays in a window."
+msgstr "Při procházení zobrazení videa a zastavení na film nebo TV seriál na několik sekund se trailer automaticky přehraje v okně."
+
+msgctxt "#31248"
+msgid "All devices"
+msgstr "Všechna zařízení"
+
+msgctxt "#31249"
+msgid "Powerful devices"
+msgstr "Výkonná zařízení"
+
+msgctxt "#31255"
+msgid "Most powerful devices"
+msgstr "Nejvýkonnější zařízení"
+
+msgctxt "#31256"
+msgid "Delay 5 seconds"
+msgstr "Zpoždění 5 sekund"
+
+msgctxt "#31257"
+msgid "Delay 12 seconds"
+msgstr "Zpoždění 12 sekund"
+
+msgctxt "#31258"
+msgid "Info view 2"
+msgstr "Informační zobrazení 2"
+
+msgctxt "#31259"
+msgid "Info view 1"
+msgstr "Informační zobrazení 1"
+
+msgctxt "#31260"
+msgid "Play automatically songs while browsing music"
+msgstr "Automaticky přehrávat skladby při procházení hudby"
+
+msgctxt "#31261"
+msgid "Enable automatic playback of songs from the current artist or album as background music while browsing music views."
+msgstr "Aktivovat automatické přehrávání skladeb od aktuálního umělce nebo alba jako hudbu na pozadí při procházení hudebních zobrazení."
+
+msgctxt "#31262"
+msgid "Set path to use another melodies music folder"
+msgstr "Nastavit cestu pro jinou složku hudby melodií"
+
+msgctxt "#31263"
+msgid "Clear current path and back to default melodies music folder"
+msgstr "Vymazat aktuální cestu a vrátit se na výchozí složku hudby melodií"
+
+msgctxt "#31264"
+msgid "Play melodies while in Home & Settings screens"
+msgstr "Přehrávat melodie na domovské obrazovce a obrazovkách nastavení"
+
+msgctxt "#31265"
+msgid "Show only background"
+msgstr "Zobrazit pouze pozadí"
+
+msgctxt "#31266"
+msgid "TheMovieDb Helper provides data to display online ratings and additional information for movies and TV shows"
+msgstr "TheMovieDb Helper poskytuje data pro zobrazení online hodnocení a dalších informací o filmech a TV seriálech"
+
+msgctxt "#31267"
+msgid "Show online ratings for movies and TV shows"
+msgstr "Zobrazit online hodnocení filmů a TV seriálů"
+
+msgctxt "#31268"
+msgid "You have to restart Kodi for this option to take effect once the option has been activated. TMDb and Trakt should work out of the box. Metacritic and Rottentomatoes ratings require an OMDb API key. Get an OMDb API Key at http://www.omdbapi.com/apikey.aspx and afterward input the OMDb API Key into the TheMovieDb Helper settings."
+msgstr "Po aktivaci je nutné restartovat Kodi. TMDb a Trakt by měly fungovat ihned. Hodnocení Metacritic a Rottentomatoes vyžadují klíč API OMDb."
+
+msgctxt "#31269"
+msgid "Resource image addon for displaying coloured studio icons throughout the skin."
+msgstr "Doplněk obrázkových zdrojů pro zobrazování barevných ikon studií ve skinu."
+
+msgctxt "#31270"
+msgid "Show colour icons for audio/video information"
+msgstr "Zobrazit barevné ikony pro informace o audiu/videu"
+
+msgctxt "#31271"
+msgid "Show extra features for movies and TV shows"
+msgstr "Zobrazit extra funkce pro filmy a TV seriály"
+
+msgctxt "#31272"
+msgid "Display the additional features (media files) placed by the user in the 'extras' folder for a movie or TV show. Remember to modify your advancedsettings.xml file if needed."
+msgstr "Zobrazuje extra funkce umístěné uživatelem ve složce 'extras'. Nezapomeňte upravit soubor advancedsettings.xml."
+
+msgctxt "#31273"
+msgid "Show extras"
+msgstr "Zobrazit extra"
+
+msgctxt "#31274"
+msgid "Enable shifting colours effect in the default Aeon Tajo's background"
+msgstr "Aktivovat efekt posunu barev ve výchozím pozadí Aeon Tajo"
+
+msgctxt "#31275"
+msgid "Activate a shifting colours effect in the default Aeon Tajo's background (only in the Home screen)."
+msgstr "Aktivuje efekt posunu barev ve výchozím pozadí Aeon Tajo (pouze na domovské obrazovce)."
+
+msgctxt "#31276"
+msgid "Name of user's additional features folder (if different to 'extras')"
+msgstr "Název složky dalších funkcí uživatele (pokud se liší od 'extras')"
+
+msgctxt "#31277"
+msgid "Select image to show as background instead of default"
+msgstr "Vybrat obrázek pro zobrazení jako pozadí místo výchozího"
+
+msgctxt "#31278"
+msgid "Browse for image"
+msgstr "Procházet obrázky"
+
+msgctxt "#31279"
+msgid "Play music videos"
+msgstr "Přehrávat hudební videa"
+
+msgctxt "#31280"
+msgid "Play local albums"
+msgstr "Přehrávat místní alba"
+
+msgctxt "#31281"
+msgid "Play songs"
+msgstr "Přehrávat skladby"
+
+msgctxt "#31282"
+msgid "Blurred album image as background"
+msgstr "Rozmazaný obrázek alba jako pozadí"
+
+msgctxt "#31283"
+msgid "Browse for path"
+msgstr "Procházet cesty"
+
+msgctxt "#31284"
+msgid "Show extra features for music albums"
+msgstr "Zobrazit extra funkce pro hudební alba"
+
+msgctxt "#31285"
+msgid "Display the additional features (media files) placed by the user in the 'extras' folder for a music album. Remember to modify your advancedsettings.xml file if needed."
+msgstr "Zobrazuje extra funkce umístěné uživatelem ve složce 'extras' hudebního alba."
+
+msgctxt "#31286"
+msgid "When you browse the video views and pause on a movie or TV show for a few seconds, the main theme automatically plays in the background. This feature requires the user to place an mp3 file with the theme in the root folder of the movie or TV show. This file must be named theme.mp3."
+msgstr "Při procházení zobrazení videa a zastavení na film nebo TV seriál na několik sekund se hlavní téma automaticky přehraje na pozadí. Soubor mp3 s tématem musí být umístěn v kořenové složce a pojmenován theme.mp3."
+
+msgctxt "#31287"
+msgid "Shows the normal poster (poster.jpg) in movies and TV shows views."
+msgstr "Zobrazuje normální plakát (poster.jpg) v zobrazeních filmů a TV seriálů."
+
+msgctxt "#31288"
+msgid "Shows the animated poster (animatedposter.gif) in movies and TV shows views."
+msgstr "Zobrazuje animovaný plakát (animatedposter.gif) v zobrazeních filmů a TV seriálů."
+
+msgctxt "#31289"
+msgid "Shows the available extra posters (poster1.jpg, poster2.jpg, poster3.jpg...) in movies and TV shows views."
+msgstr "Zobrazuje dostupné extra plakáty (poster1.jpg, poster2.jpg, poster3.jpg...) v zobrazeních filmů a TV seriálů."
+
+msgctxt "#31290"
+msgid "Thanks for using Aeon Tajo—I really hope you’re enjoying it. Creating and maintaining a Kodi skin like this takes hundreds of hours of work. If Aeon Tajo is something you enjoy and find useful, supporting it helps me keep working on it and ensures it can continue evolving in the future. [CR][CR]If you decide to do so, you’ll receive frequent updates with new features and bug fixes, along with videos, media packs, and easy-to-follow articles with detailed tips to help you get the most out of everything Aeon Tajo has to offer, together with my sincere gratitude for your support. [CR][CR]For more information, visit [B][COLOR=themecolor]patreon.com[/B][/COLOR] and search for the creator [COLOR=themecolor][B]Aeon Tajo[/B][/COLOR], or go to [COLOR=themecolor][B]patreon.com/aeontajo[/B][/COLOR].[CR][CR]Thanks!"
+msgstr "Děkujeme, že používáte Aeon Tajo — doufám, že se vám opravdu líbí! Vytváření a udržování skinu Kodi, jako je tento, vyžaduje stovky hodin práce. Pokud vám Aeon Tajo přináší potěšení a je pro vás užitečný, vaše podpora mi pomáhá pokračovat v práci na něm. [CR][CR]Pokud se rozhodnete podpořit, budete dostávat časté aktualizace s novými funkcemi a opravami chyb spolu s videi, mediálními balíčky a podrobnými články s tipy. [CR][CR]Pro více informací navštivte [B][COLOR=themecolor]patreon.com[/B][/COLOR] a vyhledejte tvůrce [COLOR=themecolor][B]Aeon Tajo[/B][/COLOR] nebo přejděte na [COLOR=themecolor][B]patreon.com/aeontajo[/B][/COLOR].[CR][CR]Děkujeme!"
+
+msgctxt "#31291"
+msgid "Blurred album image as background in music visualisation screen"
+msgstr "Rozmazaný obrázek alba jako pozadí na obrazovce hudební vizualizace"
+
+msgctxt "#31292"
+msgid "Hide watched mark in video views"
+msgstr "Skrýt značku zhlédnutého v zobrazeních videa"
+
+msgctxt "#31293"
+msgid "Disclaimer: Aeon Tajo does not provide any media content or sources. Users must provide their own content. Support will not be provided for any 'builds' nor online addons that offer copyrighted content."
+msgstr "Upozornění: Aeon Tajo neposkytuje žádný mediální obsah ani zdroje. Uživatelé musí poskytnout vlastní obsah. Podpora nebude poskytnuta pro žádné 'buildy' ani online doplňky nabízející chráněný obsah."
+
+msgctxt "#31294"
+msgid "Change to "
+msgstr "Změnit na "
+
+msgctxt "#31295"
+msgid "Remember that you should adapt your advancedsetting.xml file to reflect this change, so as to prevent your extras content to be added inadvertently to the Kodi library."
+msgstr "Nezapomeňte upravit soubor advancedsetting.xml, aby nedošlo k neúmyslnému přidání obsahu extras do knihovny Kodi."
+
+msgctxt "#31296"
+msgid "Filmstrip"
+msgstr "Filmový pás"
+
+msgctxt "#31297"
+msgid "Select + Right Stick"
+msgstr "Vybrat + Pravý joystick"
+
+msgctxt "#31298"
+msgid "Vertical Home menu"
+msgstr "Svislé hlavní menu"
+
+msgctxt "#31299"
+msgid "Eject disc"
+msgstr "Vysunout disk"
+
+msgctxt "#31302"
+msgid "Play with PreShow"
+msgstr "Přehrát s PreShow"
+
+msgctxt "#31303"
+msgid "Highlighted text colour"
+msgstr "Barva zvýrazněného textu"
+
+msgctxt "#31304"
+msgid "Marks colour"
+msgstr "Barva označení"
+
+msgctxt "#31305"
+msgid "Current"
+msgstr "Aktuální"
+
+msgctxt "#31306"
+msgid "Selected"
+msgstr "Vybrané"
+
+msgctxt "#31311"
+msgid "Watched mark shape"
+msgstr "Tvar značky zhlédnutého"
+
+msgctxt "#31312"
+msgid "Sliding background fanarts"
+msgstr "Posuvné fanartové pozadí"
+
+msgctxt "#31313"
+msgid "Kodi add-ons settings"
+msgstr "Nastavení doplňků Kodi"
+
+msgctxt "#31314"
+msgid "Install and update add-ons"
+msgstr "Instalovat a aktualizovat doplňky"
+
+msgctxt "#31315"
+msgid "Download add-ons"
+msgstr "Stáhnout doplňky"
+
+msgctxt "#31316"
+msgid "Show Browser"
+msgstr "Zobrazit prohlížeč"
+
+msgctxt "#31318"
+msgid "Hide Browser"
+msgstr "Skrýt prohlížeč"
+
+msgctxt "#31319"
+msgid "Narrow view"
+msgstr "Úzké zobrazení"
+
+msgctxt "#31322"
+msgid "Wide view"
+msgstr "Široké zobrazení"
+
+msgctxt "#31323"
+msgid "Actors in other movies and TV shows"
+msgstr "Herci v jiných filmech a TV seriálech"
+
+msgctxt "#31324"
+msgid "Show similar movies/TV shows and artists/albums"
+msgstr "Zobrazit podobné filmy/TV seriály a umělce/alba"
+
+msgctxt "#31325"
+msgid "Opens a new window in some video/music views showing other movies/TV shows or artists/albums similar or related to the current item."
+msgstr "Otevře nové okno v některých zobrazeních videa/hudby s podobnými nebo souvisejícími filmy/TV seriály nebo umělci/alby."
+
+msgctxt "#31326"
+msgid "Show similar"
+msgstr "Zobrazit podobné"
+
+msgctxt "#31327"
+msgid "Classic"
+msgstr "Klasický"
+
+msgctxt "#31329"
+msgid "Similar albums"
+msgstr "Podobná alba"
+
+msgctxt "#31330"
+msgid "No similar found"
+msgstr "Nenalezeny žádné podobné"
+
+msgctxt "#31333"
+msgid "Wikipedia"
+msgstr "Wikipedie"
+
+msgctxt "#31337"
+msgid "Click to select and open article's links"
+msgstr "Klikněte pro výběr a otevření odkazů článku"
+
+msgctxt "#31338"
+msgid "Click to search..."
+msgstr "Klikněte pro hledání..."
+
+msgctxt "#31339"
+msgid "Add/update music video links"
+msgstr "Přidat/aktualizovat odkazy na hudební videa"
+
+msgctxt "#31340"
+msgid "[B]CONFIGURE GAME SETTINGS[/B][CR][CR]Change gameplay options[CR]Keyboard settings · Configure rewind settings"
+msgstr "[B]NASTAVENÍ HER[/B][CR][CR]Změnit možnosti hry[CR]Nastavení klávesnice · Nastavit možnosti přetáčení"
+
+msgctxt "#31341"
+msgid "Narrow list"
+msgstr "Úzký seznam"
+
+msgctxt "#31342"
+msgid "Wide list"
+msgstr "Široký seznam"
+
+msgctxt "#31343"
+msgid "Update videolinks"
+msgstr "Aktualizovat videolinky"
+
+msgctxt "#31344"
+msgid "Play all music videos"
+msgstr "Přehrát všechna hudební videa"
+
+msgctxt "#31345"
+msgid "No bookmarks created yet"
+msgstr "Zatím žádné záložky"
+
+msgctxt "#31346"
+msgid "Choose where to start"
+msgstr "Zvolte, kde začít"
+
+msgctxt "#31347"
+msgid "Browse the list and click"
+msgstr "Procházejte seznam a klikněte"
+
+msgctxt "#31348"
+msgid "Show OSD controls"
+msgstr "Zobrazit ovládání OSD"
+
+msgctxt "#31349"
+msgid "Preparing list of music videos, please wait..."
+msgstr "Příprava seznamu hudebních videí, čekejte prosím..."
+
+msgctxt "#31350"
+msgid "Songs party mode"
+msgstr "Party mód skladeb"
+
+msgctxt "#31351"
+msgid "Videolinks party mode"
+msgstr "Party mód videolinků"
+
+msgctxt "#31352"
+msgid "No videolinks found"
+msgstr "Žádné videolinky nenalezeny"
+
+msgctxt "#31353"
+msgid "Click or arrow keys while playing to show the OSD"
+msgstr "Klikněte nebo použijte šipky pro zobrazení OSD při přehrávání"
+
+msgctxt "#31354"
+msgid "While playing..."
+msgstr "Při přehrávání..."
+
+msgctxt "#31355"
+msgid "Click or arrow keys to show the OSD"
+msgstr "Klikněte nebo použijte šipky pro zobrazení OSD"
+
+msgctxt "#31356"
+msgid "Shows the normal thumb (folder.jpg) in artists and albums music views."
+msgstr "Zobrazuje normální náhled (folder.jpg) v zobrazeních umělců a alb."
+
+msgctxt "#31357"
+msgid "Shows the animated thumb (animatedthumb.gif) in artists and albums music views."
+msgstr "Zobrazuje animovaný náhled (animatedthumb.gif) v zobrazeních umělců a alb."
+
+msgctxt "#31358"
+msgid "Show a colour strip code on video elements"
+msgstr "Zobrazit barevný pruhový kód na video prvcích"
+
+msgctxt "#31359"
+msgid "Allows to quickly identify video file quality using a colour strip code when browsing movies and episodes in video views"
+msgstr "Umožňuje rychlou identifikaci kvality video souboru pomocí barevného pruhového kódu při procházení filmů a epizod."
+
+msgctxt "#31360"
+msgid "Library using Global Search"
+msgstr "Knihovna pomocí globálního vyhledávání"
+
+msgctxt "#31361"
+msgid "TheMovieDB"
+msgstr "TheMovieDB"
+
+msgctxt "#31362"
+msgid "Most Voted Movies"
+msgstr "Nejhlasovanější filmy"
+
+msgctxt "#31363"
+msgid "Crew"
+msgstr "Štáb"
+
+msgctxt "#31364"
+msgid "Most Voted Shows"
+msgstr "Nejhlasovanější seriály"
+
+msgctxt "#31365"
+msgid "Random Shows"
+msgstr "Náhodné seriály"
+
+msgctxt "#31366"
+msgid "Random Artists"
+msgstr "Náhodní umělci"
+
+msgctxt "#31367"
+msgid "Online info from TheMovieDB.org for videos"
+msgstr "Online informace z TheMovieDB.org pro videa"
+
+msgctxt "#31368"
+msgid "Get online info from TheMovieDB.org in movie and TVshow's info screen and widgets"
+msgstr "Získat online informace z TheMovieDB.org na obrazovce informací o filmech a TV seriálech a ve widgetech"
+
+msgctxt "#31369"
+msgid "Snow effect - Off"
+msgstr "Efekt sněhu - Vypnuto"
+
+msgctxt "#31370"
+msgid "Snow effect - Light"
+msgstr "Efekt sněhu - Slabý"
+
+msgctxt "#31371"
+msgid "Snow effect - Medium"
+msgstr "Efekt sněhu - Střední"
+
+msgctxt "#31372"
+msgid "Snow effect - Heavy"
+msgstr "Efekt sněhu - Silný"
+
+msgctxt "#31373"
+msgid "Snow effect - Blizzard"
+msgstr "Efekt sněhu - Vánice"
+
+msgctxt "#31374"
+msgid "Click or arrow keys to exit"
+msgstr "Klikněte nebo použijte šipky pro ukončení"
+
+msgctxt "#31375"
+msgid "Rewind"
+msgstr "Přetočit"
+
+msgctxt "#31376"
+msgid "Fast forward"
+msgstr "Rychlý posun vpřed"
+
+msgctxt "#31377"
+msgid "Step back"
+msgstr "Krok zpět"
+
+msgctxt "#31378"
+msgid "Step forward"
+msgstr "Krok vpřed"
+
+msgctxt "#31379"
+msgid "Previous chapter"
+msgstr "Předchozí kapitola"
+
+msgctxt "#31380"
+msgid "Next chapter"
+msgstr "Další kapitola"
+
+msgctxt "#31381"
+msgid "Previous channel"
+msgstr "Předchozí kanál"
+
+msgctxt "#31382"
+msgid "Next channel"
+msgstr "Další kanál"
+
+msgctxt "#31383"
+msgid "Show lyrics"
+msgstr "Zobrazit texty"
+
+msgctxt "#31384"
+msgid "Hide lyrics"
+msgstr "Skrýt texty"
+
+msgctxt "#31385"
+msgid "Adjust lyrics"
+msgstr "Upravit texty"
+
+msgctxt "#31386"
+msgid "Hide resumable mark in video views"
+msgstr "Skrýt značku obnovení v zobrazení videa"
+
+msgctxt "#31387"
+msgid "Hide unwatched mark in video views"
+msgstr "Skrýt značku neshlédnutého v zobrazení videa"
+
+msgctxt "#31388"
+msgid "Hide episodes unwatched mark in video views"
+msgstr "Skrýt značku neshlédnutých epizod v zobrazení videa"
+
+msgctxt "#31389"
+msgid "Same director"
+msgstr "Stejný režisér"
+
+msgctxt "#31391"
+msgid "'Down' to show similars"
+msgstr "'Dolů' pro zobrazení podobných"
+
+msgctxt "#31392"
+msgid "'Right' to show similars"
+msgstr "'Vpravo' pro zobrazení podobných"
+
+msgctxt "#31393"
+msgid "Show logos"
+msgstr "Zobrazit loga"
+
+msgctxt "#31394"
+msgid "Show only titles"
+msgstr "Zobrazit pouze názvy"
+
+msgctxt "#31395"
+msgid "Play automatically video links in song views"
+msgstr "Automaticky přehrávat video odkazy v zobrazeních skladeb"
+
+msgctxt "#31396"
+msgid "When you browse song views and stop for a few seconds, the video link for that song will play automatically (if available)."
+msgstr "Při procházení zobrazení skladeb a zastavení na několik sekund se video odkaz pro danou skladbu automaticky přehraje (je-li k dispozici)."
+
+msgctxt "#31397"
+msgid "User reviews"
+msgstr "Uživatelské recenze"
+
+msgctxt "#31398"
+msgid "Horizontal Home menu"
+msgstr "Horizontální hlavní nabídka"
+
+msgctxt "#31399"
+msgid "Simple Home menu"
+msgstr "Zjednodušená hlavní nabídka"
+
+msgctxt "#31403"
+msgid "Widget type"
+msgstr "Typ widgetu"
+
+msgctxt "#31404"
+msgid "Small widgets..."
+msgstr "Malé widgety..."
+
+msgctxt "#31408"
+msgid "Fullscreen widgets..."
+msgstr "Widgety na celou obrazovku..."
+
+msgctxt "#31411"
+msgid "Force view..."
+msgstr "Vynutit zobrazení..."
+
+msgctxt "#31416"
+msgid "A view can't be disabled when is selected as \"forced\" for some media."
+msgstr "Zobrazení nelze zakázat, když je vybráno jako \"vynucené\" pro některá média."
+
+msgctxt "#31417"
+msgid "Only views that are not marked as disabled can be forced."
+msgstr "Vynutit lze pouze zobrazení, která nejsou označena jako zakázaná."
+
+msgctxt "#31418"
+msgid "Don't force views"
+msgstr "Nevynucovat zobrazení"
+
+msgctxt "#31419"
+msgid "Forced view"
+msgstr "Vynucené zobrazení"
+
+msgctxt "#31420"
+msgid "Enable or disable views"
+msgstr "Povolit nebo zakázat zobrazení"
+
+msgctxt "#31422"
+msgid "No embedded subs"
+msgstr "Žádné vložené titulky"
+
+msgctxt "#31423"
+msgid "Auto-open audio/subtitle selector at video start"
+msgstr "Automaticky otevřít výběr zvuku/titulků při spuštění videa"
+
+msgctxt "#31424"
+msgid "Automatically opens an audio and subtitle selector when starting playback of movies and episodes, allowing you to see which tracks are active and change them directly before continuing."
+msgstr "Automaticky otevře výběr zvuku a titulků při spuštění přehrávání filmů a epizod, což umožňuje vidět, které stopy jsou aktivní, a změnit je přímo před pokračováním."
+
+msgctxt "#31425"
+msgid "Search music video links for songs not in your library"
+msgstr "Hledat odkazy na hudební videa pro skladby, které nejsou ve vaší knihovně"
+
+msgctxt "#31426"
+msgid "Similar artists on your library"
+msgstr "Podobní umělci ve vaší knihovně"
+
+msgctxt "#31435"
+msgid "Albums by this artist in your library"
+msgstr "Alba tohoto umělce ve vaší knihovně"
+
+msgctxt "#31436"
+msgid "Online info from TheAudioDB.com for music"
+msgstr "Online informace z TheAudioDB.com pro hudbu"
+
+msgctxt "#31437"
+msgid "Get online information from TheAudioDB.com on the artist and album information screen"
+msgstr "Získat online informace z TheAudioDB.com na obrazovce informací o umělci a albu"
+
+msgctxt "#31438"
+msgid "TheAudioDb Helper supplies online data and artwork to display enhanced details for artists and music albums."
+msgstr "TheAudioDb Helper poskytuje online data a obrázky pro zobrazení rozšířených podrobností o umělcích a hudebních albech."
+
+msgctxt "#31439"
+msgid "Record label"
+msgstr "Hudební vydavatelství"
+
+msgctxt "#31440"
+msgid "Last.fm Plays"
+msgstr "Přehrávání na Last.fm"

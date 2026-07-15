@@ -1,0 +1,2224 @@
+# Kodi Media Center language file
+# Addon Name: Aeon Tajo
+# Addon id: skin.aeon.tajo
+# Addon Provider: manfeed
+msgid ""
+msgstr ""
+"Project-Id-Version: KODI Skins\n"
+"POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2026-03-28 23:42+0000\n"
+"Last-Translator: manfeed <aeon.tajo@gmail.com>\n"
+"Language-Team: Vietnamese  <aeon.tajo@gmail.com>\n"
+"Language: vi_vn\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+msgctxt "Addon Summary"
+msgid "Aeon Tajo"
+msgstr ""
+
+msgctxt "Addon Description"
+msgid "Aeon Tajo: Changes everything so that nothing changes. Inspired on Aeon Nox 5 (thanks to BigNoid)."
+msgstr "Aeon Tajo: Thay đổi mọi thứ để không có gì thay đổi.Lấy cảm hứng từ Aeon Nox 5 (nhờ BigNoid)."
+
+msgctxt "Addon Disclaimer"
+msgid "Mouse control is supported, althoug not recommended. It may not work correctly in all cases."
+msgstr "Điều khiển chuột được hỗ trợ, mặc dù không được khuyến khích.Nó có thể không hoạt động chính xác trong mọi trường hợp."
+
+msgctxt "#31000"
+msgid "Directed by"
+msgstr "Đạo diễn"
+
+msgctxt "#31001"
+msgid "Written by"
+msgstr "Kịch bản"
+
+msgctxt "#31002"
+msgid "Blurred album thumb"
+msgstr "Ngón tay cái album bị mờ"
+
+msgctxt "#31003"
+msgid "Power Options"
+msgstr "Tùy chọn nguồn điện"
+
+msgctxt "#31004"
+msgid "Working"
+msgstr "Đang thực hiện"
+
+msgctxt "#31005"
+msgid "Fixed"
+msgstr "Sửa chữa"
+
+msgctxt "#31006"
+msgid "View Options"
+msgstr "Tùy chọn chế độ xem"
+
+msgctxt "#31007"
+msgid "Setup home"
+msgstr "Thiết lập màn hình chính"
+
+msgctxt "#31008"
+msgid "Full screen"
+msgstr "Toàn màn hình"
+
+msgctxt "#31009"
+msgid "Total Duration"
+msgstr "Tổng Số Thời Gian"
+
+msgctxt "#31010"
+msgid "Next episode"
+msgstr "Phần/Đoạn kế tiếp"
+
+msgctxt "#31011"
+msgid "Latest episode"
+msgstr "Phần/Đoạn cuối cùng"
+
+msgctxt "#31012"
+msgid "Airs"
+msgstr "Phát sóng"
+
+msgctxt "#31013"
+msgid "Statistics"
+msgstr "Thống kê"
+
+msgctxt "#31014"
+msgid "Extras"
+msgstr "Vai phụ"
+
+msgctxt "#31015"
+msgid "Set path to video genre fanart folder"
+msgstr "Chọn đường dẫn đến thư mục chứa đựng thể loại fanart của video"
+
+msgctxt "#31016"
+msgid "Poster"
+msgstr "Áp phích"
+
+msgctxt "#31017"
+msgid "Set path to music genre fanart folder"
+msgstr "Chọn đường dẫn đến thư mục chứa đựng thể loại fanart của Âm nhạc"
+
+msgctxt "#31018"
+msgid "InfoPanel"
+msgstr "Bảng thông tin"
+
+msgctxt "#31019"
+msgid "Network"
+msgstr "Mạng"
+
+msgctxt "#31020"
+msgid "Extra-fanart"
+msgstr ""
+
+msgctxt "#31021"
+msgid "Stage curtains"
+msgstr "Rèm sân khấu"
+
+msgctxt "#31022"
+msgid "Set multi-image background"
+msgstr "Thiết lập đa hình nền"
+
+msgctxt "#31023"
+msgid "Set single image background"
+msgstr "Thiết lập hình nền đơn"
+
+msgctxt "#31024"
+msgid "Page"
+msgstr "Trang"
+
+msgctxt "#31025"
+msgid "Items"
+msgstr "Các mục"
+
+msgctxt "#31026"
+msgid "Misc Options"
+msgstr "Lựa chọn khác"
+
+msgctxt "#31027"
+msgid "Set item background"
+msgstr "Đặt nền mục"
+
+msgctxt "#31028"
+msgid "Live DVD Cases"
+msgstr "Hộp DVD trực tiếp"
+
+msgctxt "#31029"
+msgid "Recent Movies"
+msgstr "Phim gần đây"
+
+msgctxt "#31030"
+msgid "Recent Episodes"
+msgstr "Các tập gần đây"
+
+msgctxt "#31031"
+msgid "Random Movies"
+msgstr "Phim ngẫu nhiên"
+
+msgctxt "#31032"
+msgid "Recommended Movies"
+msgstr "Phim được đề xuất"
+
+msgctxt "#31033"
+msgid "Random Episodes"
+msgstr "Tập ngẫu nhiên"
+
+msgctxt "#31034"
+msgid "Recommended Episodes"
+msgstr "Tập được đề xuất"
+
+msgctxt "#31035"
+msgid "Random Songs"
+msgstr "Bài hát ngẫu nhiên"
+
+msgctxt "#31036"
+msgid "Random Albums"
+msgstr "Album ngẫu nhiên"
+
+msgctxt "#31037"
+msgid "Recent Albums"
+msgstr "Album gần đây"
+
+msgctxt "#31038"
+msgid "Recommended Albums"
+msgstr "Album được đề xuất"
+
+msgctxt "#31039"
+msgid "Actions"
+msgstr "Hành động"
+
+msgctxt "#31040"
+msgid "Now Playing"
+msgstr "Đang chơi"
+
+msgctxt "#31041"
+msgid "Select widget"
+msgstr "Chọn widget"
+
+msgctxt "#31042"
+msgid "Show \"Now Playing\" information blended in the background"
+msgstr "Hiển thị thông tin \"Đang Phát\" phía sau nền"
+
+msgctxt "#31043"
+msgid "Platform"
+msgstr "Nền tảng"
+
+msgctxt "#31044"
+msgid "Views: Plot outline | Info dialog: Full plot"
+msgstr "Lượt xem: Phác thảo cốt truyện |Hộp thoại thông tin: Toàn bộ cốt truyện"
+
+msgctxt "#31045"
+msgid "Views: Full plot | Info dialog: Plot outline"
+msgstr "Lượt xem: Toàn bộ cốt truyện |Hộp thoại thông tin: Vẽ phác thảo"
+
+msgctxt "#31046"
+msgid "SEEKING"
+msgstr "Đang kiếm"
+
+msgctxt "#31047"
+msgid "Set item icon"
+msgstr "Thiết lập biểu tượng mục"
+
+msgctxt "#31048"
+msgid "Visualisation Presets"
+msgstr "Các hiệu ứng định sẵn"
+
+msgctxt "#31049"
+msgid "Select infoline"
+msgstr "Chọn đường dây thông tin"
+
+msgctxt "#31050"
+msgid "Sort: Ascending"
+msgstr "Sắp xếp: Tăng dần"
+
+msgctxt "#31051"
+msgid "Sort: Descending"
+msgstr "Sắp xếp: Giảm dần"
+
+msgctxt "#31052"
+msgid "Movie library statistics"
+msgstr "Thống kê thư viện Phim"
+
+msgctxt "#31053"
+msgid "TV Show library statistics"
+msgstr "Thống kê thư viện chương trình TV"
+
+msgctxt "#31054"
+msgid "Music library statistics"
+msgstr "Thống kê thư viện Nhạc"
+
+msgctxt "#31055"
+msgid "Open playlist"
+msgstr "Mở Playlist"
+
+msgctxt "#31056"
+msgid "Save playlist"
+msgstr "Lưu playlist"
+
+msgctxt "#31057"
+msgid "Close playlist"
+msgstr "Dóng Playlist"
+
+msgctxt "#31058"
+msgid "PVR information"
+msgstr "Thông tin PVR"
+
+msgctxt "#31059"
+msgid "Install Artist Slideshow add-on to enable this feature"
+msgstr "Cài đặt add-on Artist Slideshow để kích hoạt tính năng này"
+
+msgctxt "#31060"
+msgid "This file is stacked, select the part you want to play from."
+msgstr "Tệp này đã bị chia cắt, chọn phần bạn muốn chơi."
+
+msgctxt "#31061"
+msgid "Favourites statistics"
+msgstr "Thống kê yêu thích"
+
+msgctxt "#31062"
+msgid "Random movie fanart"
+msgstr "Fanart phim ngẫu nhiên"
+
+msgctxt "#31063"
+msgid "Random TV show fanart"
+msgstr "Fanart chương trình truyền hình ngẫu nhiên"
+
+msgctxt "#31064"
+msgid "Random video fanart"
+msgstr "Fanart video ngẫu nhiên"
+
+msgctxt "#31065"
+msgid "Random music fanart"
+msgstr "Fanart âm nhạc ngẫu nhiên"
+
+msgctxt "#31066"
+msgid "Random fanart"
+msgstr "fanart ngẫu nhiên"
+
+msgctxt "#31067"
+msgid "Update rating"
+msgstr "Cập nhật xếp hạng"
+
+msgctxt "#31068"
+msgid "CD Wall"
+msgstr ""
+
+msgctxt "#31069"
+msgid "Change location"
+msgstr "Thay đổi địa điểm"
+
+msgctxt "#31070"
+msgid "Enable Cinema Experience integration"
+msgstr "Bật tích hợp Trải nghiệm Điện ảnh"
+
+msgctxt "#31071"
+msgid "While browsing the library"
+msgstr "Trong khi duyệt thư viện"
+
+msgctxt "#31072"
+msgid "On open video info"
+msgstr "Mở thông tin video"
+
+msgctxt "#31073"
+msgid "Move menu item"
+msgstr "Di chuyển mục menu"
+
+msgctxt "#31074"
+msgid "Choose item to swap places with"
+msgstr "Chọn vật phẩm để đổi chỗ"
+
+msgctxt "#31075"
+msgid "No extra features available"
+msgstr "Không có tính năng bổ sung có sẵn"
+
+msgctxt "#31076"
+msgid "Landscape"
+msgstr ""
+
+msgctxt "#31077"
+msgid "ShowCase"
+msgstr ""
+
+msgctxt "#31078"
+msgid "TriPanel"
+msgstr ""
+
+msgctxt "#31079"
+msgid "Shift"
+msgstr "Shift"
+
+msgctxt "#31080"
+msgid "Manage submenu"
+msgstr "Quản lý menu con"
+
+msgctxt "#31081"
+msgid "Enable custom submenus"
+msgstr "Bật menu con tùy chỉnh"
+
+msgctxt "#31082"
+msgid "Detach RSS feed from the main menu"
+msgstr "Tháo RSS feed ra khỏi thực đơn chính"
+
+msgctxt "#31083"
+msgid "Enable Next Aired information in the videolibrary"
+msgstr "Bật thông tin được phát sóng tiếp theo trong thư viện video"
+
+msgctxt "#31084"
+msgid "Conditional weather"
+msgstr "Thời tiết có điều kiện"
+
+msgctxt "#31085"
+msgid "Musicvideo library statistics"
+msgstr "Thống kê thư viện Musicvideo"
+
+msgctxt "#31086"
+msgid "Icon"
+msgstr "Biểu tượng"
+
+msgctxt "#31087"
+msgid "Banner"
+msgstr "Biểu ngữ"
+
+msgctxt "#31088"
+msgid "BannerWall"
+msgstr ""
+
+msgctxt "#31089"
+msgid "Play item on startup"
+msgstr "Chơi mục khi khởi động"
+
+msgctxt "#31090"
+msgid "Seconds"
+msgstr "Giây"
+
+msgctxt "#31091"
+msgid "Select items"
+msgstr "Chọn mục"
+
+msgctxt "#31092"
+msgid "Fullscreen fanart"
+msgstr "fanart toàn màn hình"
+
+msgctxt "#31093"
+msgid "LowList toggle"
+msgstr "Chuyển đổi danh sách thấp"
+
+msgctxt "#31094"
+msgid "List view layout"
+msgstr "Bố cục dạng xem danh sách"
+
+msgctxt "#31095"
+msgid "Slim List"
+msgstr "Danh sách Nhỏ"
+
+msgctxt "#31096"
+msgid "Concert locations"
+msgstr "Địa điểm hòa nhạc"
+
+msgctxt "#31097"
+msgid "Movie playlist statistics"
+msgstr "Thống kê danh sách phim"
+
+msgctxt "#31098"
+msgid "TV Show playlist statistics"
+msgstr "Thống kê danh sách phát chương trình truyền hình"
+
+msgctxt "#31099"
+msgid "Musicvideo playlist statistics"
+msgstr "Thống kê danh sách phát nhạc video"
+
+msgctxt "#31100"
+msgid "View:"
+msgstr "Xem:"
+
+msgctxt "#31101"
+msgid "Choose view"
+msgstr "Chọn chế độ xem"
+
+msgctxt "#31102"
+msgid "Background"
+msgstr "Hình nền"
+
+msgctxt "#31103"
+msgid "N/A"
+msgstr "N/A"
+
+msgctxt "#31104"
+msgid "Similar artists"
+msgstr "Nghệ sĩ tương tự"
+
+msgctxt "#31105"
+msgid "More albums from"
+msgstr "Thêm album từ"
+
+msgctxt "#31106"
+msgid "On info"
+msgstr "Về thông tin"
+
+msgctxt "#31107"
+msgid "Persistent"
+msgstr "dai dẳng"
+
+msgctxt "#31108"
+msgid "Enable artist information feed (if available)"
+msgstr "Bật nguồn cấp thông tin nghệ sĩ (nếu có)"
+
+msgctxt "#31109"
+msgid "Unwatched episode count"
+msgstr "Số tập chưa xem"
+
+msgctxt "#31110"
+msgid "Up next brings the option to watch right away the next episode of a TV show (Netflix/Prime video style)."
+msgstr "Phần tiếp theo mang đến tùy chọn xem ngay tập tiếp theo của một chương trình truyền hình (kiểu video Netflix/Prime)."
+
+msgctxt "#31111"
+msgid "Similar movies"
+msgstr "Phim tương tự"
+
+msgctxt "#31112"
+msgid "Movies directed by"
+msgstr "Phim do đạo diễn"
+
+msgctxt "#31113"
+msgid "Movies written by"
+msgstr "Phim được viết bởi"
+
+msgctxt "#31114"
+msgid "More movies from"
+msgstr "Xem thêm phim từ"
+
+msgctxt "#31115"
+msgid "Similar TV shows"
+msgstr "Chương trình truyền hình tương tự"
+
+msgctxt "#31116"
+msgid "cycle fanart"
+msgstr "fanart chu kỳ"
+
+msgctxt "#31117"
+msgid "Fallback"
+msgstr "Dự phòng"
+
+msgctxt "#31118"
+msgid "Download extrafanart"
+msgstr "Tải xuống extrafanart"
+
+msgctxt "#31119"
+msgid "Show the movies from this director in your library or view online information on this director on TMDb?"
+msgstr "Chiếu phim của đạo diễn này trong thư viện của bạn hoặc xem thông tin trực tuyến về đạo diễn này trên TMDb?"
+
+msgctxt "#31120"
+msgid "TMDb"
+msgstr ""
+
+msgctxt "#31121"
+msgid "Disable autocomplete"
+msgstr "Tắt tính năng tự động hoàn thành"
+
+msgctxt "#31122"
+msgid "Disables the autocomplete feature of the virtual keyboard"
+msgstr "Tắt tính năng tự động hoàn thành của bàn phím ảo"
+
+msgctxt "#31123"
+msgid "Album review"
+msgstr "Đánh giá album"
+
+msgctxt "#31124"
+msgid "Show Background \"Now Playing\" Video"
+msgstr "Hiện video đang chạy nền"
+
+msgctxt "#31125"
+msgid "Show Background \"Now Playing\" Visualisation"
+msgstr "Bật hiệu ứng nền \"Đang Chạy\""
+
+msgctxt "#31126"
+msgid "Opacity level for widgets"
+msgstr "Mức độ mờ cho các widget"
+
+msgctxt "#31127"
+msgid "LiveTV Mod Settings"
+msgstr "Cài đặt chế độ LiveTV"
+
+msgctxt "#31128"
+msgid "Channels View"
+msgstr "Xem kênh"
+
+msgctxt "#31129"
+msgid "Hide Fanart in full screen visualisation"
+msgstr "Ẩn Fanart ở chế độ hiển thị toàn bộ màn hình"
+
+msgctxt "#31130"
+msgid "Use \"Enigma2-style\" channel OSD"
+msgstr "Sử dụng OSD kênh \"Enigma2-style\""
+
+msgctxt "#31131"
+msgid "EPG Timeline View"
+msgstr "Chế độ xem dòng thời gian EPG"
+
+msgctxt "#31132"
+msgid "Tuner:"
+msgstr "Bộ chỉnh:"
+
+msgctxt "#31133"
+msgid "Timeline channels-type:"
+msgstr "Loại kênh dòng thời gian:"
+
+msgctxt "#31134"
+msgid "Timeline view-type:"
+msgstr "Loại chế độ xem dòng thời gian:"
+
+msgctxt "#31135"
+msgid "Infobar Options"
+msgstr "Tùy chọn thanh thông tin"
+
+msgctxt "#31136"
+msgid "Infobar type:"
+msgstr "Loại thanh thông tin:"
+
+msgctxt "#31137"
+msgid "Hide encryption information"
+msgstr "Ẩn thông tin mã hóa"
+
+msgctxt "#31138"
+msgid "Hide tuner information"
+msgstr "Ẩn thông tin bộ chỉnh"
+
+msgctxt "#31139"
+msgid "Hide signal information"
+msgstr "Ẩn thông tin tín hiệu"
+
+msgctxt "#31140"
+msgid "Sideblade Options"
+msgstr "Tùy chọn Sideblade"
+
+msgctxt "#31141"
+msgid "Hide Guide"
+msgstr "Ẩn hướng dẫn"
+
+msgctxt "#31142"
+msgid "Settings level"
+msgstr "Mức độ hiệu chỉnh"
+
+msgctxt "#31143"
+msgid "Hide Recordings"
+msgstr "Ẩn bản ghi"
+
+msgctxt "#31144"
+msgid "Hide Timer"
+msgstr "Ẩn bộ hẹn giờ"
+
+msgctxt "#31145"
+msgid "Hide Search"
+msgstr "Ẩn tìm kiếm"
+
+msgctxt "#31146"
+msgid "Rated"
+msgstr "Đã xếp hạng"
+
+msgctxt "#31147"
+msgid "Change rating"
+msgstr "Thay đổi xếp hạng"
+
+msgctxt "#31148"
+msgid "List local library items"
+msgstr "Liệt kê các mục thư viện địa phương"
+
+msgctxt "#31149"
+msgid "Online info from TMDb"
+msgstr "Thông tin trực tuyến từ TMDb"
+
+msgctxt "#31150"
+msgid "Select studio logo artwork"
+msgstr "Chọn tác phẩm nghệ thuật logo studio"
+
+msgctxt "#31151"
+msgid "Customize the studio logos by choosing a different logo pack. Note that this has no effect on the studio icons displayed in the \"List\" view."
+msgstr "Tùy chỉnh logo studio bằng cách chọn gói logo khác.Lưu ý rằng điều này không ảnh hưởng đến các biểu tượng studio được hiển thị trong chế độ xem \"Danh sách\"."
+
+msgctxt "#31152"
+msgid "In progress movies"
+msgstr "Phim đang xem"
+
+msgctxt "#31153"
+msgid "Popular movies on TheMovieDB.org"
+msgstr "Phim nổi tiếng trên TheMovieDB.org"
+
+msgctxt "#31154"
+msgid "Top rated movies on TheMovieDB.org"
+msgstr "Phim được xếp hạng cao nhất trên TheMovieDB.org"
+
+msgctxt "#31155"
+msgid "Movies currently in cinema"
+msgstr "Phim hiện đang chiếu rạp"
+
+msgctxt "#31156"
+msgid "Upcoming movies"
+msgstr "Phim sắp chiếu"
+
+msgctxt "#31157"
+msgid "Multi movie widget"
+msgstr "Tiện ích đa phim"
+
+msgctxt "#31158"
+msgid "IMDb Top 250 movies"
+msgstr "IMDb Top 250 phim"
+
+msgctxt "#31159"
+msgid "Event log"
+msgstr "Nhật ký sự kiện"
+
+msgctxt "#31160"
+msgid "Display background name"
+msgstr "Hiển thị tên nền"
+
+msgctxt "#31161"
+msgid "Display title of movie/TV show/artist on home screen if the background has a fanart slideshow as background"
+msgstr "Hiển thị tiêu đề phim/chương trình truyền hình/nghệ sĩ trên màn hình chính nếu nền có trình chiếu fanart làm nền"
+
+msgctxt "#31162"
+msgid "min"
+msgstr ""
+
+msgctxt "#31163"
+msgid "TIMESHIFT"
+msgstr ""
+
+msgctxt "#31164"
+msgid "Change weather icons"
+msgstr "Thay đổi biểu tượng thời tiết"
+
+msgctxt "#31165"
+msgid "Layout"
+msgstr "Bố cục"
+
+msgctxt "#31166"
+msgid "Wall"
+msgstr "Biểu tượng"
+
+msgctxt "#31167"
+msgid "You're watching"
+msgstr "Bạn đang xem"
+
+msgctxt "#31168"
+msgid "h"
+msgstr ""
+
+msgctxt "#31169"
+msgid "m"
+msgstr ""
+
+msgctxt "#31170"
+msgid "Enable Netflix style pause screen"
+msgstr "Bật màn hình tạm dừng kiểu Netflix"
+
+msgctxt "#31171"
+msgid "Shows an overview of the movie or episode 10 seconds after the video is paused."
+msgstr "Hiển thị tổng quan về phim hoặc tập 10 giây sau khi video bị tạm dừng."
+
+msgctxt "#31172"
+msgid "Inactive"
+msgstr "Không hoạt động"
+
+msgctxt "#31173"
+msgid "Decoder"
+msgstr "Bộ giải mã"
+
+msgctxt "#31174"
+msgid "Hardware decoding"
+msgstr "Giải mã phần cứng"
+
+msgctxt "#31175"
+msgid "press 'OK' to see more..."
+msgstr "nhấn 'OK' để xem thêm..."
+
+msgctxt "#31176"
+msgid "Enter text here..."
+msgstr "Nhập văn bản ở đây..."
+
+msgctxt "#31177"
+msgid "Player controls"
+msgstr "Điều khiển người chơi"
+
+msgctxt "#31178"
+msgid "Playlist options"
+msgstr "Tùy chọn danh sách phát"
+
+msgctxt "#31179"
+msgid "Critics"
+msgstr "Nhà phê bình"
+
+msgctxt "#31180"
+msgid "Play main theme when browsing movies and TV shows"
+msgstr "Phát chủ đề chính khi duyệt phim và chương trình truyền hình"
+
+msgctxt "#31181"
+msgid "Display cast in video views"
+msgstr "Hiển thị dàn diễn viên trong lượt xem video"
+
+msgctxt "#31182"
+msgid "Hide current time in media views"
+msgstr "Ẩn thời gian hiện tại trong chế độ xem phương tiện"
+
+msgctxt "#31183"
+msgid "Hide number of items in media views"
+msgstr "Ẩn số lượng mục trong chế độ xem phương tiện"
+
+msgctxt "#31184"
+msgid "Enable, disable and/or force video views"
+msgstr "Bật, tắt và/hoặc ép buộc chế độ xem video"
+
+msgctxt "#31185"
+msgid "Enable, disable and/or force music views"
+msgstr "Bật, tắt và/hoặc ép buộc chế độ xem âm nhạc"
+
+msgctxt "#31186"
+msgid "Force Kodi to always use certain view when browsing each kind of media. Disabling views that you don't use could speed up browsing in some devices"
+msgstr "Buộc Kodi luôn sử dụng một chế độ xem nhất định khi duyệt qua từng loại phương tiện. Tắt các chế độ xem bạn không sử dụng có thể tăng tốc độ duyệt trên một số thiết bị."
+
+msgctxt "#31187"
+msgid "Available for:"
+msgstr "Có sẵn cho:"
+
+msgctxt "#31188"
+msgid "Kiosk mode"
+msgstr "Chế độ ki-ốt"
+
+msgctxt "#31189"
+msgid "Disables the side media menu in views and most options to change Kodi, so as to prevent unwanted modifications."
+msgstr "Vô hiệu hóa menu phương tiện bên trong chế độ xem và hầu hết các tùy chọn để thay đổi Kodi, nhằm ngăn chặn những sửa đổi không mong muốn."
+
+msgctxt "#31190"
+msgid "In cinemas"
+msgstr "Trong rạp chiếu phim"
+
+msgctxt "#31191"
+msgid "In cinemas soon"
+msgstr "Sẽ sớm ra rạp"
+
+msgctxt "#31192"
+msgid "Spotify"
+msgstr ""
+
+msgctxt "#31193"
+msgid "Show images of the best-known actresses"
+msgstr "Hiển thị hình ảnh của các nữ diễn viên nổi tiếng nhất"
+
+msgctxt "#31194"
+msgid "Search the Red Carpet add-on for images of the best-known actresses from the movie/TV show and display them alongside the cast."
+msgstr "Tìm kiếm tiện ích Thảm đỏ để tìm hình ảnh của các nữ diễn viên nổi tiếng nhất trong phim/chương trình truyền hình và hiển thị chúng cùng với dàn diễn viên."
+
+msgctxt "#31195"
+msgid "Show logos of film studios in video views"
+msgstr "Hiển thị logo của hãng phim trong chế độ xem video"
+
+msgctxt "#31196"
+msgid "Show logos of record labels in music albums views"
+msgstr "Hiển thị logo của hãng thu âm trong chế độ xem album nhạc"
+
+msgctxt "#31197"
+msgid "Show home music widget"
+msgstr "Hiển thị tiện ích nhạc tại nhà"
+
+msgctxt "#31198"
+msgid "Show home video widget"
+msgstr "Hiển thị tiện ích video gia đình"
+
+msgctxt "#31199"
+msgid "Colours, marks and home screen"
+msgstr "Màu sắc, nhãn hiệu và màn hình chính"
+
+msgctxt "#31200"
+msgid "Is used to choose among different Kodi resource image pack to weather artwork and icons."
+msgstr "Được sử dụng để chọn trong số các gói hình ảnh tài nguyên Kodi khác nhau cho các biểu tượng và tác phẩm nghệ thuật thời tiết."
+
+msgctxt "#31201"
+msgid "Performance impact"
+msgstr "Tác động hiệu suất"
+
+msgctxt "#31202"
+msgid "Plays music in the background while in Home and Settings screens. A default song collection is provided, but a different song folder can be used."
+msgstr "Phát nhạc ở chế độ nền khi ở màn hình Chính và Cài đặt.Bộ sưu tập bài hát mặc định được cung cấp nhưng có thể sử dụng thư mục bài hát khác."
+
+msgctxt "#31203"
+msgid "Select your own folder to use as background music. Make sure that it only contains music files."
+msgstr "Chọn thư mục của riêng bạn để sử dụng làm nhạc nền.Hãy chắc chắn rằng nó chỉ chứa các tập tin nhạc."
+
+msgctxt "#31204"
+msgid "When enabled, widgets linked to each home menu item will appear automatically. If disabled, widgets remain hidden until the corresponding arrow key is pressed."
+msgstr "Khi được bật, các tiện ích được liên kết với từng mục menu chính sẽ tự động xuất hiện.Nếu bị tắt, các tiện ích sẽ vẫn bị ẩn cho đến khi nhấn phím mũi tên tương ứng."
+
+msgctxt "#31205"
+msgid "Lyrics Source"
+msgstr "Nguồn lyric"
+
+msgctxt "#31206"
+msgid "Customization"
+msgstr "Tùy chỉnh"
+
+msgctxt "#31207"
+msgid "Views"
+msgstr "Lượt xem"
+
+msgctxt "#31208"
+msgid "Home screen"
+msgstr "Màn hình chính"
+
+msgctxt "#31209"
+msgid "Options"
+msgstr "Tùy chọn"
+
+msgctxt "#31210"
+msgid "Select another image as default background"
+msgstr "Chọn hình ảnh khác làm nền mặc định"
+
+msgctxt "#31211"
+msgid "Changes the default Aeon Tajo background to another chosen by the user."
+msgstr "Thay đổi nền Aeon Tajo mặc định sang nền khác do người dùng chọn."
+
+msgctxt "#31212"
+msgid "Current background path: "
+msgstr "Đường dẫn nền hiện tại:"
+
+msgctxt "#31213"
+msgid "Reset skin default background"
+msgstr "Đặt lại nền mặc định của da"
+
+msgctxt "#31214"
+msgid "Resets the default background provided with Aeon Tajo."
+msgstr "Đặt lại nền mặc định được cung cấp bởi Aeon Tajo."
+
+msgctxt "#31215"
+msgid "Show the coloured version of the icons rather than the monochrome version."
+msgstr "Hiển thị phiên bản màu của các biểu tượng thay vì phiên bản đơn sắc."
+
+msgctxt "#31216"
+msgid "Displays background and fanart images with a subtle motion effect across the screen."
+msgstr "Hiển thị hình ảnh nền và fanart với hiệu ứng chuyển động tinh tế trên màn hình."
+
+msgctxt "#31217"
+msgid "Displays a list in the video views featuring thumbnail images of the main actors from the movie or TV show's cast."
+msgstr "Hiển thị danh sách trong chế độ xem video có hình ảnh thu nhỏ của các diễn viên chính trong dàn diễn viên của phim hoặc chương trình truyền hình."
+
+msgctxt "#31218"
+msgid "Search the Studio Icons add-on for logo images of the film studios of the movie/TV show, and if found, display them while browsing the video views."
+msgstr "Tìm kiếm tiện ích bổ sung Biểu tượng Studio để tìm hình ảnh logo của xưởng phim của bộ phim/chương trình truyền hình và nếu tìm thấy, hãy hiển thị chúng trong khi duyệt qua các chế độ xem video."
+
+msgctxt "#31219"
+msgid "Search for the album's record label logo using the RecordLabel Icons addon, and if found, display it when browsing the music album views."
+msgstr "Tìm kiếm biểu tượng hãng thu âm của album bằng cách sử dụng tiện ích bổ sung Biểu tượng RecordLabel và nếu tìm thấy, hãy hiển thị biểu tượng đó khi duyệt các chế độ xem album nhạc."
+
+msgctxt "#31220"
+msgid "Show rating"
+msgstr "Hiển thị xếp hạng"
+
+msgctxt "#31221"
+msgid "Show artist clearart"
+msgstr "Hiển thị nghệ sĩ rõ ràng"
+
+msgctxt "#31222"
+msgid "Show CD"
+msgstr "Hiển thị đĩa CD"
+
+msgctxt "#31223"
+msgid "Show Time"
+msgstr "Hiển thị thời gian"
+
+msgctxt "#31224"
+msgid "Animated posters"
+msgstr "Áp phích hoạt hình"
+
+msgctxt "#31225"
+msgid "Normal posters"
+msgstr "Áp phích bình thường"
+
+msgctxt "#31226"
+msgid "Extra posters"
+msgstr "Áp phích bổ sung"
+
+msgctxt "#31227"
+msgid "Sets the transparency level of the home menu widgets."
+msgstr "Đặt mức độ trong suốt của các tiện ích menu chính."
+
+msgctxt "#31228"
+msgid "Displays main menu options in a vertical layout instead of a horizontal one."
+msgstr "Hiển thị các tùy chọn menu chính theo bố cục dọc thay vì bố cục ngang."
+
+msgctxt "#31229"
+msgid "Set another video file as startup intro"
+msgstr "Đặt tệp video khác làm phần giới thiệu khởi động"
+
+msgctxt "#31230"
+msgid "Choose another video file to play when Kodi starts instead of Aeon Tajo default. It's recommended to choose a short one. To stop playback and start using Kodi right away, click or press any arrow key."
+msgstr "Chọn một tệp video khác để phát khi Kodi khởi động thay vì mặc định của Aeon Tajo.Nên chọn một cái ngắn.Để dừng phát lại và bắt đầu sử dụng Kodi ngay lập tức, hãy nhấp hoặc nhấn bất kỳ phím mũi tên nào."
+
+msgctxt "#31231"
+msgid "Plays an intro video when launching Kodi"
+msgstr "Phát video giới thiệu khi khởi chạy Kodi"
+
+msgctxt "#31232"
+msgid "Clear current intro video file and back to default"
+msgstr "Xóa tệp video giới thiệu hiện tại và quay lại mặc định"
+
+msgctxt "#31233"
+msgid "Clear the intro video file selected by the user and back to Aeon Tajo's default."
+msgstr "Xóa tệp video giới thiệu do người dùng chọn và quay về mặc định của Aeon Tajo."
+
+msgctxt "#31234"
+msgid "Adds a layer that simulates falling snow on all Kodi screens, with four available intensity levels."
+msgstr "Thêm lớp mô phỏng tuyết rơi trên tất cả các màn hình Kodi, với bốn mức cường độ có sẵn."
+
+msgctxt "#31235"
+msgid "Override the current home menu backgrounds with this one"
+msgstr "Ghi đè hình nền menu chính hiện tại bằng hình nền này"
+
+msgctxt "#31236"
+msgid "The background selections made in the Setup Main Menu screen will be preserved. Disabling this option will restore all previous backgrounds. This option is particularly designed for use during special seasons."
+msgstr "Các lựa chọn nền được thực hiện trong màn hình Menu chính Cài đặt sẽ được giữ nguyên.Tắt tùy chọn này sẽ khôi phục tất cả các hình nền trước đó.Tùy chọn này được thiết kế đặc biệt để sử dụng trong các mùa đặc biệt."
+
+msgctxt "#31237"
+msgid "No impact"
+msgstr "Không có tác động"
+
+msgctxt "#31238"
+msgid "Very small"
+msgstr "Rất nhỏ"
+
+msgctxt "#31239"
+msgid "Small"
+msgstr "nhỏ"
+
+msgctxt "#31240"
+msgid "Moderate"
+msgstr "Trung bình"
+
+msgctxt "#31241"
+msgid "Pixel format"
+msgstr "Định dạng pixel"
+
+msgctxt "#31242"
+msgid "System rendering speed"
+msgstr "Tốc độ kết xuất hệ thống"
+
+msgctxt "#31243"
+msgid "Hide actor's thumbnails"
+msgstr "Ẩn hình thu nhỏ diễn viên"
+
+msgctxt "#31244"
+msgid "Show only a list of the actors' names, instead of also including their thumbnails."
+msgstr "Chỉ hiển thị danh sách tên diễn viên mà không bao gồm hình thu nhỏ của họ."
+
+msgctxt "#31250"
+msgid "Automatic Full Screen when playing music"
+msgstr "Tự động toàn màn hình khi phát nhạc"
+
+msgctxt "#31251"
+msgid "Don't play melodies while in Home Screen"
+msgstr "Không phát giai điệu khi ở Màn hình chính"
+
+msgctxt "#31252"
+msgid "Always show home screen widgets"
+msgstr "Luôn hiển thị các widget trên màn hình chính"
+
+msgctxt "#31253"
+msgid "Choose user audio playlist *.m3u (max.10 songs)"
+msgstr "Chọn danh sách phát âm thanh của người dùng *.m3u (tối đa 10 bài hát)"
+
+msgctxt "#31254"
+msgid "Clear user playlist (back to default)"
+msgstr "Xóa danh sách phát của người dùng (trở lại mặc định)"
+
+msgctxt "#31300"
+msgid "Overview"
+msgstr "Tổng quan"
+
+msgctxt "#31301"
+msgid "Last Updated"
+msgstr "Cập nhật cuối cùng"
+
+msgctxt "#31307"
+msgid "Hide Fanart"
+msgstr "Ẩn fanart"
+
+msgctxt "#31308"
+msgid "Next aired"
+msgstr "Phát sóng tiếp theo"
+
+msgctxt "#31309"
+msgid "Memory Used:"
+msgstr "Bộ nhớ chiếm:"
+
+msgctxt "#31310"
+msgid "Available audio tracks"
+msgstr "Các bản âm thanh có sẵn"
+
+msgctxt "#31317"
+msgid "Set Fanart Path"
+msgstr "Đặt đường dẫn fanart"
+
+msgctxt "#31320"
+msgid "Last Logged In"
+msgstr "Lần truy cập cuối"
+
+msgctxt "#31321"
+msgid "Karaoke Song Selector"
+msgstr "Trình chọn bài hát karaoke"
+
+msgctxt "#31328"
+msgid "Recently Added"
+msgstr "Mới Bỏ Vào"
+
+msgctxt "#31331"
+msgid "Installed"
+msgstr "Đã cài đặt"
+
+msgctxt "#31332"
+msgid "Not Installed"
+msgstr "Chưa được cài đặt"
+
+msgctxt "#31334"
+msgid "Required"
+msgstr "Bắt buộc"
+
+msgctxt "#31335"
+msgid "Recommended"
+msgstr "Khuyến nghị"
+
+msgctxt "#31336"
+msgid "Optional"
+msgstr "Tùy chọn"
+
+msgctxt "#31390"
+msgid "Skin default"
+msgstr "Giao diện mặc định"
+
+msgctxt "#31400"
+msgid "[B]CONFIGURE INTERFACE SETTINGS[/B][CR][CR]Change the skin · Set language and region · Setup remote controls[CR]Set up a screensaver · Setup master lock"
+msgstr "[B]CÀI ĐẶT GIAO DIỆN CẤU HÌNH[/B][CR][CR]Thay đổi giao diện · Đặt ngôn ngữ và vùng · Thiết lập điều khiển từ xa[CR]Thiết lập trình bảo vệ màn hình · Thiết lập khóa chính"
+
+msgctxt "#31401"
+msgid "Menu - press 'OK'"
+msgstr "Trình đơn - nhấn 'OK'"
+
+msgctxt "#31402"
+msgid "Enable startup video intro"
+msgstr "Bật phần giới thiệu video khởi động"
+
+msgctxt "#31405"
+msgid "[B]MONITOR YOUR SYSTEM[/B][CR][CR]Check out your hardware · Monitor CPU usage[CR]Check Kodi revision number"
+msgstr "[B] GIÁM SÁT HỆ THỐNG CỦA BẠN[/B][CR][CR]Kiểm tra phần cứng của bạn · Giám sát việc sử dụng CPU[CR]Kiểm tra số phiên bản Kodi"
+
+msgctxt "#31406"
+msgid "[B]CONFIGURE SYSTEM SETTINGS[/B][CR][CR]Setup and calibrate displays · Configure audio output · [CR]Set power saving options · Enable debugging"
+msgstr "[B]CÀI ĐẶT HỆ THỐNG CẤU HÌNH[/B][CR][CR]Thiết lập và hiệu chỉnh màn hình · Định cấu hình đầu ra âm thanh · [CR]Đặt tùy chọn tiết kiệm năng lượng · Bật gỡ lỗi"
+
+msgctxt "#31407"
+msgid "[B]SETUP PROFILES[/B][CR][CR]Setup and manage user profiles · Enable login screen[CR]Change password · Add a profile picture"
+msgstr "[B]SETUP PROFILES[/B][CR][CR]Thiết lập và quản lý hồ sơ người dùng · Kích hoạt màn hình đăng nhập[CR]Thay đổi mật khẩu · Thêm ảnh hồ sơ"
+
+msgctxt "#31409"
+msgid "[B]CONFIGURE TV SETTINGS[/B][CR][CR]Change full screen info · Manage EPG data settings"
+msgstr "[B]HIỆU CHỈNH TV[/B][CR][CR]Thay đội thông tin · Quản lý các hiệu chỉnh của dữ liệu EPG"
+
+msgctxt "#31410"
+msgid "[B]CONFIGURE SERVICE SETTINGS[/B][CR][CR]Setup control of Kodi via UPnP and HTTP · Configure file sharing[CR]Enable Zeroconf · Configure AirPlay"
+msgstr "[B]TUỲ CHỈNH CÀI ĐẶT DỊCH VỤ[/B][CR][CR]Cài đặt điều khiển Kodi thông qua UPnP và HTTP · Tuỳ chỉnh chia sẻ file[CR]Bật Zeroconf · Tuỳ chỉnh AirPlay"
+
+msgctxt "#31412"
+msgid "Select section"
+msgstr "Chọn phần"
+
+msgctxt "#31413"
+msgid "Local subtitle available"
+msgstr "Phụ đề sẵn có trong máy"
+
+msgctxt "#31414"
+msgid "[B]CONFIGURE PLAYER SETTINGS[/B][CR][CR]Configure video playback · Configure music playback · Configure picture slideshow[CR]Configure video language and subtitles"
+msgstr "[B]CẤU HÌNH CÀI ĐẶT MÁY PHÁT[/B][CR][CR]Định cấu hình phát lại video · Định cấu hình phát lại nhạc · Định cấu hình trình chiếu hình ảnh[CR]Định cấu hình ngôn ngữ và phụ đề video"
+
+msgctxt "#31415"
+msgid "[B]CONFIGURE MEDIA SETTINGS[/B][CR][CR]Set default select action · Configure file list options · Configure metadata options[CR]Manage databases"
+msgstr "[B]CẤU HÌNH CÀI ĐẶT MEDIA[/B][CR][CR]Đặt hành động chọn mặc định · Định cấu hình tùy chọn danh sách tệp · Định cấu hình tùy chọn siêu dữ liệu[CR]Quản lý cơ sở dữ liệu"
+
+msgctxt "#31421"
+msgid "Select your Kodi user profile[CR]to login and continue"
+msgstr "Chọn hồ sơ người dùng Kodi[CR]để đăng nhập và tiếp tục"
+
+msgctxt "#31427"
+msgid "Skin Shortcuts is responsible for handling all aspects of the main menu."
+msgstr "Skin Phím tắt chịu trách nhiệm xử lý tất cả các khía cạnh của menu chính."
+
+msgctxt "#31428"
+msgid "The Grab Fanart script provides the random fanart slideshows for the main menu."
+msgstr "Tập lệnh Grab Fanart cung cấp các trình chiếu fanart ngẫu nhiên cho menu chính."
+
+msgctxt "#31429"
+msgid "Library Data Provider is a service that runs in the background to provide library data for widgets and live backgrounds as well as playlist statistics for infolines."
+msgstr "Nhà cung cấp dữ liệu thư viện là một dịch vụ chạy ở chế độ nền để cung cấp dữ liệu thư viện cho các tiện ích và hình nền trực tiếp cũng như số liệu thống kê danh sách phát cho các dòng thông tin."
+
+msgctxt "#31430"
+msgid "Resource image addon for displaying the default white studio icons throughout the skin."
+msgstr "Phần bổ trợ hình ảnh tài nguyên để hiển thị các biểu tượng studio màu trắng mặc định trên toàn bộ giao diện."
+
+msgctxt "#31431"
+msgid "Resource image addon for displaying the default white recording label icons throughout the skin."
+msgstr "Phần bổ trợ hình ảnh tài nguyên để hiển thị các biểu tượng nhãn ghi màu trắng mặc định trên toàn bộ giao diện."
+
+msgctxt "#31432"
+msgid "Provides numerous Widget options and extended cast and crew metadata."
+msgstr "Cung cấp nhiều tùy chọn Widget và siêu dữ liệu mở rộng về dàn diễn viên và đoàn làm phim."
+
+msgctxt "#31433"
+msgid "Skin Info Service is used to display movie set information throughout the skin."
+msgstr "Dịch vụ Thông tin Da được sử dụng để hiển thị thông tin về bộ phim trên toàn bộ da."
+
+msgctxt "#31434"
+msgid "Check MP3 Theme checks whether the user has put a theme.mp3 file in the corresponding movie/TV show folder to be played when browsing."
+msgstr "Kiểm tra Chủ đề MP3 để kiểm tra xem người dùng đã đặt tệp theme.mp3 vào thư mục phim/chương trình truyền hình tương ứng để phát khi duyệt hay chưa."
+
+msgctxt "#31450"
+msgid "  •  Open Settings "
+msgstr "• Mở Cài đặt"
+
+msgctxt "#31451"
+msgid "  •  Click to Install"
+msgstr "• Bấm để cài đặt"
+
+msgctxt "#31473"
+msgid "Aeon Tajo Helper provides the data to display the cast for movies and TV shows."
+msgstr "Aeon Tajo Helper cung cấp dữ liệu để hiển thị dàn diễn viên cho phim và chương trình truyền hình."
+
+msgctxt "#31474"
+msgid "CU LRC Lyrics is used to download, sync, and display lyrics during fullscreen music playback."
+msgstr "CU LRC Lyrics được sử dụng để tải xuống, đồng bộ và hiển thị lời bài hát trong khi phát nhạc toàn màn hình."
+
+msgctxt "#31475"
+msgid "Play Trailer makes possible to play movie trailers through a context menu. "
+msgstr "Play Trailer cho phép phát đoạn giới thiệu phim thông qua menu ngữ cảnh."
+
+msgctxt "#31476"
+msgid "Allows the use of Youtube to play trailers and other videos."
+msgstr "Cho phép sử dụng Youtube để phát đoạn giới thiệu và các video khác."
+
+msgctxt "#31477"
+msgid "Provides some cast actress images to be shown in video views."
+msgstr "Cung cấp một số hình ảnh diễn viên được hiển thị trong chế độ xem video."
+
+msgctxt "#31478"
+msgid "Artist Slideshow is used to display artist fanart for both the home screen and during fullscreen music playback."
+msgstr "Trình chiếu nghệ sĩ được sử dụng để hiển thị tác phẩm nghệ thuật của nghệ sĩ cho cả màn hình chính và trong khi phát nhạc toàn màn hình."
+
+msgctxt "#31479"
+msgid "AutoCompletion provides suggestions to be selected while using the virtual keyboard."
+msgstr "Tự động hoàn thành cung cấp các đề xuất để chọn trong khi sử dụng bàn phím ảo."
+
+msgctxt "#31480"
+msgid "Library Editor Script uses JSON to directly edit your database information."
+msgstr "Tập lệnh biên tập thư viện sử dụng JSON để chỉnh sửa trực tiếp thông tin cơ sở dữ liệu của bạn."
+
+msgctxt "#31481"
+msgid "Global Search makes possible to search among all the items (movies, TV shows, music, actors, etc.) in your collection."
+msgstr "Tìm kiếm Toàn cầu cho phép tìm kiếm trong số tất cả các mục (phim, chương trình truyền hình, âm nhạc, diễn viên, v.v.) trong bộ sưu tập của bạn."
+
+msgctxt "#31501"
+msgid "Channel group"
+msgstr "Nhóm kênh"
+
+msgctxt "#31502"
+msgid "Live TV"
+msgstr "TV trực tuyến"
+
+msgctxt "#31503"
+msgid "Add Group"
+msgstr "Thêm nhóm"
+
+msgctxt "#31504"
+msgid "Rename Group"
+msgstr "Đổi tên nhóm"
+
+msgctxt "#31505"
+msgid "Delete Group"
+msgstr "Xoá nhóm"
+
+msgctxt "#31506"
+msgid "Available[CR]Groups"
+msgstr "Đang có[CR]Các nhóm"
+
+msgctxt "#31511"
+msgid "Channel Options"
+msgstr "Thiết lập kênh"
+
+msgctxt "#31512"
+msgid "Show similar movies in Shelf 3D view"
+msgstr "Hiển thị các phim tương tự ở chế độ xem Kệ 3D"
+
+msgctxt "#31901"
+msgid "36 Hour Forecast"
+msgstr "Thời Tiết - 36 Tiếng"
+
+msgctxt "#31902"
+msgid "Hourly Forecast"
+msgstr "Dự báo theo giờ"
+
+msgctxt "#31903"
+msgid "Weekend Forecast"
+msgstr "Dự báo cuối tuần"
+
+msgctxt "#31904"
+msgid "10 Day Forecast"
+msgstr "Thời Tiết - 10 Ngày"
+
+msgctxt "#31908"
+msgid "Chance of Precipitation"
+msgstr "Khả năng mưa"
+
+msgctxt "#31909"
+msgid "Fetching forecast info..."
+msgstr "Đang tải dữ liệu thời tiết..."
+
+msgctxt "#31910"
+msgid "Map & Alerts"
+msgstr "Bản đồ & Cảnh Báo"
+
+msgctxt "#31911"
+msgid "Setup the Aeon Tajo main menu"
+msgstr "Thiết lập menu chính Aeon Tajo"
+
+msgctxt "#31912"
+msgid "Customize the main menu with widgets, backgrounds and statistics. Add your own custom main menu items."
+msgstr "Tùy chỉnh menu chính với các vật dụng, hình nền và số liệu thống kê.Thêm các mục menu chính tùy chỉnh của riêng bạn."
+
+msgctxt "#31913"
+msgid "Aeon Tajo main menu vertical position"
+msgstr "Menu chính của Aeon Tajo vị trí dọc"
+
+msgctxt "#31914"
+msgid "Change the vertical position of the main menu. Default is centered on screen."
+msgstr "Thay đổi vị trí dọc của menu chính.Mặc định được căn giữa trên màn hình."
+
+msgctxt "#31915"
+msgid "Navigation style for horizontal lists"
+msgstr "Kiểu điều hướng cho danh sách ngang"
+
+msgctxt "#31916"
+msgid "Change the way horizontal lists scroll in Aeon Tajo. Default will scroll lists in a cycle. \"Fixed\" are lists with a beginning and end."
+msgstr "Thay đổi cách cuộn danh sách ngang trong Aeon Tajo.Mặc định sẽ cuộn danh sách theo một chu kỳ.\"Đã sửa\" là các danh sách có phần đầu và phần cuối."
+
+msgctxt "#31917"
+msgid "When enabled text scrolls automatically. When disabled manual scrolling is required. Note that most textboxes don't have a manual button."
+msgstr "Khi kích hoạt văn bản sẽ tự động cuộn.Khi cần phải cuộn thủ công.Lưu ý rằng hầu hết các hộp văn bản đều không có nút thủ công."
+
+msgctxt "#31918"
+msgid "Projects the current playing video on the background behind the panels."
+msgstr "Chiếu video đang phát trên nền phía sau bảng điều khiển."
+
+msgctxt "#31919"
+msgid "Projects the visualisation on the background behind the panels when music is played."
+msgstr "Chiếu hình ảnh trực quan lên nền phía sau bảng điều khiển khi phát nhạc."
+
+msgctxt "#31920"
+msgid "Displays a widget on the Home screen with media information when music is playing."
+msgstr "Hiển thị một widget trên Màn Hình Chính với những thông tin của chúng khi đang phát nhạc."
+
+msgctxt "#31921"
+msgid "Displays a widget on the Home screen with media information when a movie or episode is playing."
+msgstr "Hiển thị một tiện ích trên Màn hình chính với thông tin đa phương tiện khi một bộ phim hoặc tập phim đang phát."
+
+msgctxt "#31922"
+msgid "This enables custom genre backgrounds when browsing through the videolibrary's genre node. Filenames should match the genre label. Extension must be .jpg."
+msgstr "Điều này cho phép nền thể loại tùy chỉnh khi duyệt qua nút thể loại của thư viện video.Tên tập tin phải phù hợp với nhãn thể loại.Phần mở rộng phải là .jpg."
+
+msgctxt "#31923"
+msgid "Set a default select action to enable this item."
+msgstr "Đặt hành động chọn mặc định để bật mục này."
+
+msgctxt "#31924"
+msgid "This enables custom genre backgrounds when browsing through the musiclibrary's genre node. Filenames should match the genre label. Extension must be .jpg."
+msgstr "Điều này cho phép nền thể loại tùy chỉnh khi duyệt qua nút thể loại của thư viện nhạc.Tên tập tin phải phù hợp với nhãn thể loại.Phần mở rộng phải là .jpg."
+
+msgctxt "#31925"
+msgid "Pick one of the preset backgrounds or set your own images as the menu items background."
+msgstr "Chọn một trong các hình nền cài sẵn hoặc đặt hình ảnh của riêng bạn làm nền của các mục menu."
+
+msgctxt "#31926"
+msgid "Select add-ons, playlists or favourites. Choose 'Custom' for any of Kodi's built-in functions. (http://kodi.wiki/?title=List_of_Built_In_Functions)"
+msgstr "Chọn tiện ích bổ sung, danh sách phát hoặc mục yêu thích.Chọn 'Tùy chỉnh' cho bất kỳ chức năng tích hợp nào của Kodi.(http://kodi.wiki/?title=List_of_Built_In_Functions)"
+
+msgctxt "#31927"
+msgid "Resets all above values to their defaults."
+msgstr "Đặt lại tất cả các giá trị trên về mặc định của chúng."
+
+msgctxt "#31928"
+msgid "Aeon Tajo main menu layout"
+msgstr "Bố cục menu chính của Aeon Tajo"
+
+msgctxt "#31929"
+msgid "This setting defines how much items will be visible on the main menu. Options are 3 items or 5 items."
+msgstr "Cài đặt này xác định số lượng mục sẽ hiển thị trên menu chính.Tùy chọn là 3 mục hoặc 5 mục."
+
+msgctxt "#31930"
+msgid "Choose a widget to display on the Home screen to have easy access to content from the library."
+msgstr "Chọn một widget hiển thị trên Màn Hình Chính để dễ dàng truy cập nội dung của chúng từ thư viện."
+
+msgctxt "#31931"
+msgid "Video plot preference"
+msgstr "Tùy chọn cốt truyện video"
+
+msgctxt "#31932"
+msgid "Show plot outline in the library views and full plot in the video information dialog or vice versa. Falls back to full plot if no outline is available."
+msgstr "Hiển thị phác thảo cốt truyện trong chế độ xem thư viện và cốt truyện đầy đủ trong hộp thoại thông tin video hoặc ngược lại.Trở lại cốt truyện đầy đủ nếu không có đề cương."
+
+msgctxt "#31933"
+msgid "Select an item to display on the left top of the main menu"
+msgstr "Chọn một mục để hiển thị phía trên bên trái của thực đơn chính"
+
+msgctxt "#31935"
+msgid "Switch places with another menu item. Opens a dialog with a list of menu items to choose from."
+msgstr "Đổi địa điểm bằng một mục menu khác.Mở hộp thoại có danh sách các mục menu để chọn."
+
+msgctxt "#31937"
+msgid "Show the RSS feed on the bottom or top of the screen, depending on main menu position. Enabling this setting makes the submenu permanently visible."
+msgstr "Hiển thị RSS phía dưới hoặc trên đỉnh màn hình, phụ thuộc vào vị trí thực đơn chính. Kích hoạt mục này sẽ làm cho thực đơn phụ luôn xuất hiện."
+
+msgctxt "#31938"
+msgid "Enables extra information in the TV show library, like TV show status, next / latest episode, etc. Depends on TV Show Next Aired add-on."
+msgstr "Cho phép bổ sung thông tin trong thư viện chương trình truyền hình, như trạng thái chương trình truyền hình, tập tiếp theo/mới nhất, v.v. Tùy thuộc vào tiện ích bổ sung TV Show Next Aired."
+
+msgctxt "#31939"
+msgid "Hide Infopanel on scrolling"
+msgstr "Ẩn bảng thông tin khi cuộn"
+
+msgctxt "#31940"
+msgid "Hides the infopanel for Showcase and Landscape view (if activated) while scrolling through the library. Set the amount of seconds to wait for the infopanel to appear when scrolling is stopped."
+msgstr "Ẩn bảng thông tin cho chế độ xem Trưng bày và Chế độ xem ngang (nếu được kích hoạt) trong khi cuộn qua thư viện.Đặt số giây để chờ bảng thông tin xuất hiện khi dừng cuộn."
+
+msgctxt "#31941"
+msgid "Kiosk mode"
+msgstr "Chế độ Kiosk"
+
+msgctxt "#31942"
+msgid "Disables the slide out menu (media menu) in the library as well as certain buttons in the media information dialogs. (Requires restart to take effect)"
+msgstr "Tắt menu trượt ra (menu phương tiện) trong thư viện cũng như các nút nhất định trong hộp thoại thông tin phương tiện.(Yêu cầu khởi động lại để có hiệu lực)"
+
+msgctxt "#31943"
+msgid "Watched status indicator"
+msgstr "Dấu hiệu trạng thái Đã xem"
+
+msgctxt "#31944"
+msgid "Choose which overlays to show on thumbs in icon based views. Note that the \"Resume\" flag takes precedent over any watched status."
+msgstr "Chọn lớp phủ nào sẽ hiển thị trên ngón tay cái trong chế độ xem dựa trên biểu tượng.Lưu ý rằng cờ \"Tiếp tục\" được ưu tiên hơn mọi trạng thái đã xem."
+
+msgctxt "#31945"
+msgid "This toggles the layout of the List view. Default is a 7 item layout with extended info, \"Slim List\" is a 14 item, more basic layout"
+msgstr "Điều này sẽ bật/tắt bố cục kiểu xem Danh sách. Mặc định là bố cục có 7 mục với thông tin mở rộng, \"Danh sách Nhỏ\" là 14 mục, nhiều hơn bố cục mặc định."
+
+msgctxt "#31950"
+msgid "WEATHER"
+msgstr "Thời tiết"
+
+msgctxt "#31951"
+msgid "PICTURES"
+msgstr "Ảnh"
+
+msgctxt "#31952"
+msgid "LIVE TV"
+msgstr "TV trực tuyến"
+
+msgctxt "#31953"
+msgid "VIDEOS"
+msgstr "Video"
+
+msgctxt "#31954"
+msgid "MOVIES"
+msgstr "Phim"
+
+msgctxt "#31955"
+msgid "TV SHOWS"
+msgstr "TV Show"
+
+msgctxt "#31956"
+msgid "MUSIC"
+msgstr "Nhạc"
+
+msgctxt "#31957"
+msgid "APPS"
+msgstr "ỨNG DỤNG"
+
+msgctxt "#31958"
+msgid "PLAY DISC"
+msgstr "Chơi đĩa"
+
+msgctxt "#31959"
+msgid "SYSTEM"
+msgstr "Hệ thống"
+
+msgctxt "#31960"
+msgid "CONCERTS"
+msgstr "Buổi hòa nhạc"
+
+msgctxt "#31961"
+msgid "Hide ratings in list views"
+msgstr "Ẩn xếp hạng trong chế độ xem danh sách"
+
+msgctxt "#31962"
+msgid "This toggles the visibility of ratings in views of type List, LowList and TriPanel, except if sorted by rating."
+msgstr "Điều này chuyển đổi khả năng hiển thị của xếp hạng trong các chế độ xem loại Danh sách, LowList và TriPanel, trừ khi được sắp xếp theo xếp hạng."
+
+msgctxt "#31964"
+msgid "NoTo"
+msgstr ""
+
+msgctxt "#31965"
+msgid "Setup main menu"
+msgstr "Cài đặt menu chính"
+
+msgctxt "#31966"
+msgid "Customize the main menu with widgets, backgrounds, submenus and statistics. Add your own custom main menu items."
+msgstr "Tùy chỉnh menu chính với các widget, hình nền, menu con và số liệu thống kê.Thêm các mục menu chính tùy chỉnh của riêng bạn."
+
+msgctxt "#31967"
+msgid "Skin addons"
+msgstr "Tiện ích bổ sung cho da"
+
+msgctxt "#31968"
+msgid "Addons used to enhance Aeon Tajo."
+msgstr "Addons dùng để cường hóa Aeon Tajo."
+
+msgctxt "#31969"
+msgid "Skin options"
+msgstr "Tùy chọn da"
+
+msgctxt "#31970"
+msgid "Setup of melodies, the way of showing widgets, themes and cast for movies/TV shows and other options."
+msgstr "Thiết lập giai điệu, cách hiển thị widget, chủ đề và dàn diễn viên cho phim/chương trình truyền hình và các tùy chọn khác."
+
+msgctxt "#31971"
+msgid "Colour of selected items"
+msgstr "Màu sắc của các mục đã chọn"
+
+msgctxt "#31972"
+msgid "Youtube"
+msgstr ""
+
+msgctxt "#31973"
+msgid "Down for more"
+msgstr "Xuống để biết thêm"
+
+msgctxt "#31974"
+msgid "More movies featuring"
+msgstr "Xem thêm phim có sự tham gia"
+
+msgctxt "#31975"
+msgid "More TV shows featuring"
+msgstr "Nhiều chương trình truyền hình khác có sự tham gia"
+
+msgctxt "#31976"
+msgid "Image gallery"
+msgstr "Thư viện hình ảnh"
+
+msgctxt "#31977"
+msgid "Years old"
+msgstr "Tuổi"
+
+msgctxt "#31978"
+msgid "Click for more"
+msgstr "Bấm để biết thêm"
+
+msgctxt "#31979"
+msgid "Left for more"
+msgstr "Còn lại để biết thêm"
+
+msgctxt "#31980"
+msgid "Right for more"
+msgstr "Đúng để biết thêm"
+
+msgctxt "#31981"
+msgid "Premiered"
+msgstr "Đã công chiếu"
+
+msgctxt "#31982"
+msgid "Budget"
+msgstr "Ngân sách"
+
+msgctxt "#31983"
+msgid "Revenue"
+msgstr "Doanh thu"
+
+msgctxt "#31984"
+msgid "Awards"
+msgstr "giải thưởng"
+
+msgctxt "#31985"
+msgid "Trending Movies"
+msgstr "Phim thịnh hành"
+
+msgctxt "#31986"
+msgid "Upcoming Movies"
+msgstr "Phim sắp chiếu"
+
+msgctxt "#31987"
+msgid "Now Playing Movies"
+msgstr "Đang phát phim"
+
+msgctxt "#31988"
+msgid "Top Rated Movies"
+msgstr "Phim được xếp hạng cao nhất"
+
+msgctxt "#31989"
+msgid "Popular Movies"
+msgstr "Phim nổi tiếng"
+
+msgctxt "#31990"
+msgid "Discover Movies"
+msgstr "Khám phá phim"
+
+msgctxt "#31991"
+msgid "Trending Shows"
+msgstr "Chương trình thịnh hành"
+
+msgctxt "#31992"
+msgid "Top Rated Shows"
+msgstr "Chương trình được xếp hạng cao nhất"
+
+msgctxt "#31993"
+msgid "Popular Shows"
+msgstr "Chương trình nổi tiếng"
+
+msgctxt "#31994"
+msgid "Discover Shows"
+msgstr "Khám phá chương trình"
+
+msgctxt "#31995"
+msgid "3D view"
+msgstr "Chế độ xem 3D"
+
+msgctxt "#31996"
+msgid "Extended view"
+msgstr "Chế độ xem mở rộng"
+
+msgctxt "#31997"
+msgid "Simple view"
+msgstr "Chế độ xem đơn giản"
+
+msgctxt "#31998"
+msgid "Classic lyrics"
+msgstr "Lời bài hát cổ điển"
+
+msgctxt "#31999"
+msgid "Screensaver Netflix style in media views"
+msgstr "Trình bảo vệ màn hình Kiểu Netflix trong chế độ xem phương tiện"
+
+msgctxt "#31245"
+msgid "When in idle state for two minutes within a media view, a fullscreen slideshow of movies, TV shows, or artists' fanarts will be displayed, according to the section being browsed."
+msgstr "Khi ở trạng thái không hoạt động trong hai phút trong chế độ xem phương tiện, một bản trình chiếu toàn màn hình về phim, chương trình truyền hình hoặc tác phẩm nghệ thuật của nghệ sĩ sẽ được hiển thị, tùy theo phần đang được duyệt."
+
+msgctxt "#31246"
+msgid "Play automatically trailers in video views"
+msgstr "Tự động phát trailer trong chế độ xem video"
+
+msgctxt "#31247"
+msgid "When you browse the video views and pause on a movie or TV show for a few seconds, the trailer automatically plays in a window."
+msgstr "Khi bạn duyệt qua các lượt xem video và tạm dừng xem phim hoặc chương trình truyền hình trong vài giây, đoạn giới thiệu sẽ tự động phát trong một cửa sổ."
+
+msgctxt "#31248"
+msgid "All devices"
+msgstr "Tất cả các thiết bị"
+
+msgctxt "#31249"
+msgid "Powerful devices"
+msgstr "Thiết bị mạnh mẽ"
+
+msgctxt "#31255"
+msgid "Most powerful devices"
+msgstr "Thiết bị mạnh nhất"
+
+msgctxt "#31256"
+msgid "Delay 5 seconds"
+msgstr "Trì hoãn 5 giây"
+
+msgctxt "#31257"
+msgid "Delay 12 seconds"
+msgstr "Trì hoãn 12 giây"
+
+msgctxt "#31258"
+msgid "Info view 2"
+msgstr "Xem thông tin 2"
+
+msgctxt "#31259"
+msgid "Info view 1"
+msgstr "Xem thông tin 1"
+
+msgctxt "#31260"
+msgid "Play automatically songs while browsing music"
+msgstr "Tự động phát các bài hát trong khi duyệt nhạc"
+
+msgctxt "#31261"
+msgid "Enable automatic playback of songs from the current artist or album as background music while browsing music views."
+msgstr "Cho phép tự động phát lại các bài hát từ nghệ sĩ hoặc album hiện tại làm nhạc nền trong khi duyệt các chế độ xem nhạc."
+
+msgctxt "#31262"
+msgid "Set path to use another melodies music folder"
+msgstr "Đặt đường dẫn để sử dụng thư mục nhạc giai điệu khác"
+
+msgctxt "#31263"
+msgid "Clear current path and back to default melodies music folder"
+msgstr "Xóa đường dẫn hiện tại và quay lại thư mục nhạc giai điệu mặc định"
+
+msgctxt "#31264"
+msgid "Play melodies while in Home & Settings screens"
+msgstr "Phát giai điệu khi ở màn hình Chính & Cài đặt"
+
+msgctxt "#31265"
+msgid "Show only background"
+msgstr "Chỉ hiển thị nền"
+
+msgctxt "#31266"
+msgid "TheMovieDb Helper provides data to display online ratings and additional information for movies and TV shows"
+msgstr "Trình trợ giúp TheMovieDb cung cấp dữ liệu để hiển thị xếp hạng trực tuyến và thông tin bổ sung cho phim và chương trình truyền hình"
+
+msgctxt "#31267"
+msgid "Show online ratings for movies and TV shows"
+msgstr "Hiển thị xếp hạng trực tuyến cho phim và chương trình truyền hình"
+
+msgctxt "#31268"
+msgid "You have to restart Kodi for this option to take effect once the option has been activated. TMDb and Trakt should work out of the box. Metacritic and Rottentomatoes ratings require an OMDb API key. Get an OMDb API Key at http://www.omdbapi.com/apikey.aspx and afterward input the OMDb API Key into the TheMovieDb Helper settings."
+msgstr "Bạn phải khởi động lại Kodi để tùy chọn này có hiệu lực sau khi tùy chọn được kích hoạt.TMDb và Trakt sẽ hoạt động tốt.Xếp hạng Metacritic và Rottentomatoes yêu cầu khóa API OMDb.Nhận Khóa API OMDb tại http://www.omdbapi.com/apikey.aspx và sau đó nhập Khóa API OMDb vào cài đặt Trình trợ giúp TheMovieDb."
+
+msgctxt "#31269"
+msgid "Resource image addon for displaying coloured studio icons throughout the skin."
+msgstr "Phần bổ trợ hình ảnh tài nguyên để hiển thị các biểu tượng studio màu trên toàn bộ giao diện."
+
+msgctxt "#31270"
+msgid "Show colour icons for audio/video information"
+msgstr "Hiển thị biểu tượng màu cho thông tin âm thanh/video"
+
+msgctxt "#31271"
+msgid "Show extra features for movies and TV shows"
+msgstr "Hiển thị các tính năng bổ sung cho phim và chương trình truyền hình"
+
+msgctxt "#31272"
+msgid "Display the additional features (media files) placed by the user in the 'extras' folder for a movie or TV show. Remember to modify your advancedsettings.xml file if needed."
+msgstr "Hiển thị các tính năng bổ sung (tệp phương tiện) được người dùng đặt trong thư mục 'bổ sung' cho phim hoặc chương trình truyền hình.Hãy nhớ sửa đổi tệp Advancedsettings.xml của bạn nếu cần."
+
+msgctxt "#31273"
+msgid "Show extras"
+msgstr "Hiển thị tính năng bổ sung"
+
+msgctxt "#31274"
+msgid "Enable shifting colours effect in the default Aeon Tajo's background"
+msgstr "Bật hiệu ứng chuyển màu trong nền mặc định của Aeon Tajo"
+
+msgctxt "#31275"
+msgid "Activate a shifting colours effect in the default Aeon Tajo's background (only in the Home screen)."
+msgstr "Kích hoạt hiệu ứng chuyển màu trên nền mặc định của Aeon Tajo (chỉ trong Màn hình chính)."
+
+msgctxt "#31276"
+msgid "Name of user's additional features folder (if different to 'extras')"
+msgstr "Tên thư mục tính năng bổ sung của người dùng (nếu khác với 'tính năng bổ sung')"
+
+msgctxt "#31277"
+msgid "Select image to show as background instead of default"
+msgstr "Chọn hình ảnh để hiển thị làm nền thay vì mặc định"
+
+msgctxt "#31278"
+msgid "Browse for image"
+msgstr "Duyệt tìm hình ảnh"
+
+msgctxt "#31279"
+msgid "Play music videos"
+msgstr "Phát video âm nhạc"
+
+msgctxt "#31280"
+msgid "Play local albums"
+msgstr "Phát album cục bộ"
+
+msgctxt "#31281"
+msgid "Play songs"
+msgstr "Phát bài hát"
+
+msgctxt "#31282"
+msgid "Blurred album image as background"
+msgstr "Hình ảnh album bị mờ làm nền"
+
+msgctxt "#31283"
+msgid "Browse for path"
+msgstr "Duyệt tìm đường dẫn"
+
+msgctxt "#31284"
+msgid "Show extra features for music albums"
+msgstr "Hiển thị các tính năng bổ sung cho album nhạc"
+
+msgctxt "#31285"
+msgid "Display the additional features (media files) placed by the user in the 'extras' folder for a music album. Remember to modify your advancedsettings.xml file if needed."
+msgstr "Hiển thị các tính năng bổ sung (tệp media) được người dùng đặt trong thư mục 'bổ sung' cho album nhạc.Hãy nhớ sửa đổi tệp Advancedsettings.xml của bạn nếu cần."
+
+msgctxt "#31286"
+msgid "When you browse the video views and pause on a movie or TV show for a few seconds, the main theme automatically plays in the background. This feature requires the user to place an mp3 file with the theme in the root folder of the movie or TV show. This file must be named theme.mp3."
+msgstr "Khi bạn duyệt qua các chế độ xem video và tạm dừng xem phim hoặc chương trình truyền hình trong vài giây, chủ đề chính sẽ tự động phát ở chế độ nền.Tính năng này yêu cầu người dùng đặt tệp mp3 có chủ đề vào thư mục gốc của phim hoặc chương trình truyền hình.Tệp này phải được đặt tên là theme.mp3."
+
+msgctxt "#31287"
+msgid "Shows the normal poster (poster.jpg) in movies and TV shows views."
+msgstr "Hiển thị áp phích bình thường (poster.jpg) trong chế độ xem phim và chương trình truyền hình."
+
+msgctxt "#31288"
+msgid "Shows the animated poster (animatedposter.gif) in movies and TV shows views."
+msgstr "Hiển thị áp phích hoạt hình (animatedposter.gif) trong chế độ xem phim và chương trình truyền hình."
+
+msgctxt "#31289"
+msgid "Shows the available extra posters (poster1.jpg, poster2.jpg, poster3.jpg...) in movies and TV shows views."
+msgstr "Hiển thị các áp phích bổ sung có sẵn (poster1.jpg, poster2.jpg, poster3.jpg...) trong chế độ xem phim và chương trình truyền hình."
+
+msgctxt "#31290"
+msgid "Thanks for using Aeon Tajo—I really hope you’re enjoying it. Creating and maintaining a Kodi skin like this takes hundreds of hours of work. If Aeon Tajo is something you enjoy and find useful, supporting it helps me keep working on it and ensures it can continue evolving in the future. [CR][CR]If you decide to do so, you’ll receive frequent updates with new features and bug fixes, along with videos, media packs, and easy-to-follow articles with detailed tips to help you get the most out of everything Aeon Tajo has to offer, together with my sincere gratitude for your support. [CR][CR]For more information, visit [B][COLOR=themecolor]patreon.com[/B][/COLOR] and search for the creator [COLOR=themecolor][B]Aeon Tajo[/B][/COLOR], or go to [COLOR=themecolor][B]patreon.com/aeontajo[/B][/COLOR].[CR][CR]Thanks!"
+msgstr "Cảm ơn bạn đã sử dụng Aeon Tajo — thực sự hy vọng bạn thích nó! Việc tạo và duy trì một skin Kodi như thế này mất hàng trăm giờ làm việc. Nếu Aeon Tajo mang lại cho bạn niềm vui và hữu ích, sự hỗ trợ của bạn giúp tôi tiếp tục làm việc trên đó. [CR][CR]Nếu bạn quyết định ủng hộ, bạn sẽ nhận được các bản cập nhật thường xuyên với các tính năng mới và sửa lỗi, cùng với video, gói phương tiện và bài viết chi tiết với các mẹo. [CR][CR]Để biết thêm thông tin, hãy truy cập [B][COLOR=themecolor]patreon.com[/B][/COLOR] và tìm kiếm người tạo [COLOR=themecolor][B]Aeon Tajo[/B][/COLOR], hoặc truy cập [COLOR=themecolor][B]patreon.com/aeontajo[/B][/COLOR].[CR][CR]Cảm ơn!"
+
+msgctxt "#31291"
+msgid "Blurred album image as background in music visualisation screen"
+msgstr "Hình ảnh album bị mờ làm nền trong màn hình hiển thị nhạc"
+
+msgctxt "#31292"
+msgid "Hide watched mark in video views"
+msgstr "Ẩn dấu đã xem trong lượt xem video"
+
+msgctxt "#31293"
+msgid "Disclaimer: Aeon Tajo does not provide any media content or sources. Users must provide their own content. Support will not be provided for any 'builds' nor online addons that offer copyrighted content."
+msgstr "Tuyên bố miễn trừ trách nhiệm: Aeon Tajo không cung cấp bất kỳ nội dung hoặc nguồn truyền thông nào.Người dùng phải cung cấp nội dung của riêng họ.Hỗ trợ sẽ không được cung cấp cho bất kỳ 'bản dựng' cũng như tiện ích bổ sung trực tuyến nào cung cấp nội dung có bản quyền."
+
+msgctxt "#31294"
+msgid "Change to "
+msgstr "Thay đổi thành"
+
+msgctxt "#31295"
+msgid "Remember that you should adapt your advancedsetting.xml file to reflect this change, so as to prevent your extras content to be added inadvertently to the Kodi library."
+msgstr "Hãy nhớ rằng bạn nên điều chỉnh tệp Advancedsetting.xml của mình để phản ánh thay đổi này, nhằm ngăn nội dung bổ sung của bạn vô tình được thêm vào thư viện Kodi."
+
+msgctxt "#31296"
+msgid "Filmstrip"
+msgstr ""
+
+msgctxt "#31297"
+msgid "Select + Right Stick"
+msgstr "Chọn + Thanh bên phải"
+
+msgctxt "#31298"
+msgid "Vertical Home menu"
+msgstr "Menu chính dọc"
+
+msgctxt "#31299"
+msgid "Eject disc"
+msgstr "Đẩy đĩa ra"
+
+msgctxt "#31302"
+msgid "Play with PreShow"
+msgstr "Chơi với PreShow"
+
+msgctxt "#31303"
+msgid "Highlighted text colour"
+msgstr "Màu văn bản được đánh dấu"
+
+msgctxt "#31304"
+msgid "Marks colour"
+msgstr "Màu của các đánh dấu"
+
+msgctxt "#31305"
+msgid "Current"
+msgstr "hiện tại"
+
+msgctxt "#31306"
+msgid "Selected"
+msgstr "Đã chọn"
+
+msgctxt "#31311"
+msgid "Watched mark shape"
+msgstr "Đã xem hình dạng nhãn hiệu"
+
+msgctxt "#31312"
+msgid "Sliding background fanarts"
+msgstr "Fanart nền trượt"
+
+msgctxt "#31313"
+msgid "Kodi add-ons settings"
+msgstr "Cài đặt tiện ích bổ sung Kodi"
+
+msgctxt "#31314"
+msgid "Install and update add-ons"
+msgstr "Cài đặt và cập nhật tiện ích bổ sung"
+
+msgctxt "#31315"
+msgid "Download add-ons"
+msgstr "Tải xuống tiện ích bổ sung"
+
+msgctxt "#31316"
+msgid "Show Browser"
+msgstr "Hiển thị trình duyệt"
+
+msgctxt "#31318"
+msgid "Hide Browser"
+msgstr "Ẩn trình duyệt"
+
+msgctxt "#31319"
+msgid "Narrow view"
+msgstr "Chế độ xem thu hẹp"
+
+msgctxt "#31322"
+msgid "Wide view"
+msgstr "Tầm nhìn rộng"
+
+msgctxt "#31323"
+msgid "Actors in other movies and TV shows"
+msgstr "Diễn viên trong các bộ phim và chương trình truyền hình khác"
+
+msgctxt "#31324"
+msgid "Show similar movies/TV shows and artists/albums"
+msgstr "Hiển thị các bộ phim/chương trình truyền hình và nghệ sĩ/album tương tự"
+
+msgctxt "#31325"
+msgid "Opens a new window in some video/music views showing other movies/TV shows or artists/albums similar or related to the current item."
+msgstr "Mở một cửa sổ mới trong một số chế độ xem video/âm nhạc hiển thị các phim/chương trình truyền hình hoặc nghệ sĩ/album khác tương tự hoặc liên quan đến mục hiện tại."
+
+msgctxt "#31326"
+msgid "Show similar"
+msgstr "Hiển thị tương tự"
+
+msgctxt "#31327"
+msgid "Classic"
+msgstr "cổ điển"
+
+msgctxt "#31329"
+msgid "Similar albums"
+msgstr "Album tương tự"
+
+msgctxt "#31330"
+msgid "No similar found"
+msgstr "Không tìm thấy tương tự"
+
+msgctxt "#31333"
+msgid "Wikipedia"
+msgstr "Wikipedia"
+
+msgctxt "#31337"
+msgid "Click to select and open article's links"
+msgstr "Nhấn chọn và mở link bài viết"
+
+msgctxt "#31338"
+msgid "Click to search..."
+msgstr "Bấm vào để tìm kiếm..."
+
+msgctxt "#31339"
+msgid "Add/update music video links"
+msgstr "Thêm/cập nhật liên kết video âm nhạc"
+
+msgctxt "#31340"
+msgid "[B]CONFIGURE GAME SETTINGS[/B][CR][CR]Change gameplay options[CR]Keyboard settings · Configure rewind settings"
+msgstr "[B]CẤU HÌNH CÀI ĐẶT TRÒ CHƠI[/B][CR][CR]Thay đổi tùy chọn chơi trò chơi[CR]Cài đặt bàn phím · Định cấu hình cài đặt tua lại"
+
+msgctxt "#31341"
+msgid "Narrow list"
+msgstr "Danh sách thu hẹp"
+
+msgctxt "#31342"
+msgid "Wide list"
+msgstr "Danh sách rộng"
+
+msgctxt "#31343"
+msgid "Update videolinks"
+msgstr "Cập nhật liên kết video"
+
+msgctxt "#31344"
+msgid "Play all music videos"
+msgstr "Phát tất cả video nhạc"
+
+msgctxt "#31345"
+msgid "No bookmarks created yet"
+msgstr "Chưa có dấu trang nào được tạo"
+
+msgctxt "#31346"
+msgid "Choose where to start"
+msgstr "Chọn nơi bắt đầu"
+
+msgctxt "#31347"
+msgid "Browse the list and click"
+msgstr "Duyệt qua danh sách và nhấp vào"
+
+msgctxt "#31348"
+msgid "Show OSD controls"
+msgstr "Hiển thị điều khiển OSD"
+
+msgctxt "#31349"
+msgid "Preparing list of music videos, please wait..."
+msgstr "Đang chuẩn bị danh sách video ca nhạc, vui lòng đợi..."
+
+msgctxt "#31350"
+msgid "Songs party mode"
+msgstr "Chế độ tiệc bài hát"
+
+msgctxt "#31351"
+msgid "Videolinks party mode"
+msgstr "Chế độ nhóm liên kết video"
+
+msgctxt "#31352"
+msgid "No videolinks found"
+msgstr "Không tìm thấy liên kết video"
+
+msgctxt "#31353"
+msgid "Click or arrow keys while playing to show the OSD"
+msgstr "Bấm hoặc phím mũi tên trong khi chơi để hiển thị OSD"
+
+msgctxt "#31354"
+msgid "While playing..."
+msgstr "Trong khi chơi..."
+
+msgctxt "#31355"
+msgid "Click or arrow keys to show the OSD"
+msgstr "Bấm hoặc phím mũi tên để hiển thị OSD"
+
+msgctxt "#31356"
+msgid "Shows the normal thumb (folder.jpg) in artists and albums music views."
+msgstr "Hiển thị ngón tay cái bình thường (folder.jpg) trong chế độ xem nhạc của nghệ sĩ và album."
+
+msgctxt "#31357"
+msgid "Shows the animated thumb (animatedthumb.gif) in artists and albums music views."
+msgstr "Hiển thị ngón tay cái hoạt hình (animatedthumb.gif) trong chế độ xem nhạc của nghệ sĩ và album."
+
+msgctxt "#31358"
+msgid "Show a colour strip code on video elements"
+msgstr "Hiển thị mã dải màu trên các phần tử video"
+
+msgctxt "#31359"
+msgid "Allows to quickly identify video file quality using a colour strip code when browsing movies and episodes in video views"
+msgstr "Cho phép xác định nhanh chóng chất lượng tệp video bằng mã dải màu khi duyệt phim và tập trong chế độ xem video"
+
+msgctxt "#31360"
+msgid "Library using Global Search"
+msgstr "Thư viện sử dụng Tìm kiếm Toàn cầu"
+
+msgctxt "#31361"
+msgid "TheMovieDB"
+msgstr ""
+
+msgctxt "#31362"
+msgid "Most Voted Movies"
+msgstr "Phim được bình chọn nhiều nhất"
+
+msgctxt "#31363"
+msgid "Crew"
+msgstr "Phi hành đoàn"
+
+msgctxt "#31364"
+msgid "Most Voted Shows"
+msgstr "Chương trình được bình chọn nhiều nhất"
+
+msgctxt "#31365"
+msgid "Random Shows"
+msgstr "Chương trình ngẫu nhiên"
+
+msgctxt "#31366"
+msgid "Random Artists"
+msgstr "Nghệ sĩ ngẫu nhiên"
+
+msgctxt "#31367"
+msgid "Online info from TheMovieDB.org for videos"
+msgstr "Thông tin trực tuyến từ TheMovieDB.org cho video"
+
+msgctxt "#31368"
+msgid "Get online info from TheMovieDB.org in movie and TVshow's info screen and widgets"
+msgstr "Nhận thông tin trực tuyến từ TheMovieDB.org trong màn hình và tiện ích thông tin của phim và TVshow"
+
+msgctxt "#31369"
+msgid "Snow effect - Off"
+msgstr "Hiệu ứng tuyết - Tắt"
+
+msgctxt "#31370"
+msgid "Snow effect - Light"
+msgstr "Hiệu ứng tuyết - Ánh sáng"
+
+msgctxt "#31371"
+msgid "Snow effect - Medium"
+msgstr "Hiệu ứng tuyết - Medium"
+
+msgctxt "#31372"
+msgid "Snow effect - Heavy"
+msgstr "Hiệu ứng tuyết - Nặng"
+
+msgctxt "#31373"
+msgid "Snow effect - Blizzard"
+msgstr "Hiệu ứng tuyết - Bão tuyết"
+
+msgctxt "#31374"
+msgid "Click or arrow keys to exit"
+msgstr "Bấm hoặc phím mũi tên để thoát"
+
+msgctxt "#31375"
+msgid "Rewind"
+msgstr "Tua lại"
+
+msgctxt "#31376"
+msgid "Fast forward"
+msgstr "Chuyển tiếp nhanh"
+
+msgctxt "#31377"
+msgid "Step back"
+msgstr "Bước lùi lại"
+
+msgctxt "#31378"
+msgid "Step forward"
+msgstr "Bước về phía trước"
+
+msgctxt "#31379"
+msgid "Previous chapter"
+msgstr "Chương trước"
+
+msgctxt "#31380"
+msgid "Next chapter"
+msgstr "Chương tiếp theo"
+
+msgctxt "#31381"
+msgid "Previous channel"
+msgstr "Kênh trước"
+
+msgctxt "#31382"
+msgid "Next channel"
+msgstr "Kênh tiếp theo"
+
+msgctxt "#31383"
+msgid "Show lyrics"
+msgstr "Hiển thị lời bài hát"
+
+msgctxt "#31384"
+msgid "Hide lyrics"
+msgstr "Ẩn lời bài hát"
+
+msgctxt "#31385"
+msgid "Adjust lyrics"
+msgstr "Điều chỉnh lời bài hát"
+
+msgctxt "#31386"
+msgid "Hide resumable mark in video views"
+msgstr "Ẩn nhãn tiếp tục trong chế độ xem video"
+
+msgctxt "#31387"
+msgid "Hide unwatched mark in video views"
+msgstr "Ẩn nhãn chưa xem trong chế độ xem video"
+
+msgctxt "#31388"
+msgid "Hide episodes unwatched mark in video views"
+msgstr "Ẩn nhãn tập chưa xem trong chế độ xem video"
+
+msgctxt "#31389"
+msgid "Same director"
+msgstr "Cùng đạo diễn"
+
+msgctxt "#31391"
+msgid "'Down' to show similars"
+msgstr "'Xuống' để hiển thị tương tự"
+
+msgctxt "#31392"
+msgid "'Right' to show similars"
+msgstr "'Phải' để hiển thị tương tự"
+
+msgctxt "#31393"
+msgid "Show logos"
+msgstr "Hiển thị logo"
+
+msgctxt "#31394"
+msgid "Show only titles"
+msgstr "Chỉ hiển thị tiêu đề"
+
+msgctxt "#31395"
+msgid "Play automatically video links in song views"
+msgstr "Tự động phát liên kết video trong chế độ xem bài hát"
+
+msgctxt "#31396"
+msgid "When you browse song views and stop for a few seconds, the video link for that song will play automatically (if available)."
+msgstr "Khi bạn duyệt qua các chế độ xem bài hát và dừng lại vài giây, liên kết video cho bài hát đó sẽ tự động phát (nếu có)."
+
+msgctxt "#31397"
+msgid "User reviews"
+msgstr "Đánh giá của người dùng"
+
+msgctxt "#31398"
+msgid "Horizontal Home menu"
+msgstr "Menu chính ngang"
+
+msgctxt "#31399"
+msgid "Simple Home menu"
+msgstr "Menu chính đơn giản"
+
+msgctxt "#31403"
+msgid "Widget type"
+msgstr "Loại widget"
+
+msgctxt "#31404"
+msgid "Small widgets..."
+msgstr "Widget nhỏ..."
+
+msgctxt "#31408"
+msgid "Fullscreen widgets..."
+msgstr "Widget toàn màn hình..."
+
+msgctxt "#31411"
+msgid "Force view..."
+msgstr "Ép buộc chế độ xem..."
+
+msgctxt "#31416"
+msgid "A view can't be disabled when is selected as \"forced\" for some media."
+msgstr "Không thể tắt chế độ xem khi được chọn là \"bắt buộc\" đối với một số phương tiện."
+
+msgctxt "#31417"
+msgid "Only views that are not marked as disabled can be forced."
+msgstr "Chỉ các chế độ xem không được đánh dấu là đã tắt mới có thể bị ép buộc."
+
+msgctxt "#31418"
+msgid "Don't force views"
+msgstr "Không ép buộc chế độ xem"
+
+msgctxt "#31419"
+msgid "Forced view"
+msgstr "Chế độ xem bắt buộc"
+
+msgctxt "#31420"
+msgid "Enable or disable views"
+msgstr "Bật hoặc tắt chế độ xem"
+
+msgctxt "#31422"
+msgid "No embedded subs"
+msgstr "Không có phụ đề nhúng"
+
+msgctxt "#31423"
+msgid "Auto-open audio/subtitle selector at video start"
+msgstr "Tự động mở bộ chọn âm thanh/phụ đề khi bắt đầu video"
+
+msgctxt "#31424"
+msgid "Automatically opens an audio and subtitle selector when starting playback of movies and episodes, allowing you to see which tracks are active and change them directly before continuing."
+msgstr "Tự động mở bộ chọn âm thanh và phụ đề khi bắt đầu phát phim và tập, cho phép bạn xem bản nhạc nào đang hoạt động và thay đổi chúng trực tiếp trước khi tiếp tục."
+
+msgctxt "#31425"
+msgid "Search music video links for songs not in your library"
+msgstr "Tìm kiếm liên kết video âm nhạc cho các bài hát không có trong thư viện của bạn"
+
+msgctxt "#31426"
+msgid "Similar artists on your library"
+msgstr "Nghệ sĩ tương tự trong thư viện của bạn"
+
+msgctxt "#31435"
+msgid "Albums by this artist in your library"
+msgstr "Album của nghệ sĩ này trong thư viện của bạn"
+
+msgctxt "#31436"
+msgid "Online info from TheAudioDB.com for music"
+msgstr "Thông tin trực tuyến từ TheAudioDB.com cho âm nhạc"
+
+msgctxt "#31437"
+msgid "Get online information from TheAudioDB.com on the artist and album information screen"
+msgstr "Lấy thông tin trực tuyến từ TheAudioDB.com trên màn hình thông tin nghệ sĩ và album"
+
+msgctxt "#31438"
+msgid "TheAudioDb Helper supplies online data and artwork to display enhanced details for artists and music albums."
+msgstr "TheAudioDb Helper cung cấp dữ liệu trực tuyến và hình ảnh để hiển thị thông tin chi tiết mở rộng cho nghệ sĩ và album âm nhạc."
+
+msgctxt "#31439"
+msgid "Record label"
+msgstr "Hãng đĩa"
+
+msgctxt "#31440"
+msgid "Last.fm Plays"
+msgstr "Số lần phát trên Last.fm"

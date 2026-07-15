@@ -1,0 +1,2224 @@
+# Kodi Media Center language file
+# Addon Name: Aeon Tajo
+# Addon id: skin.aeon.tajo
+# Addon Provider: manfeed
+msgid ""
+msgstr ""
+"Project-Id-Version: KODI Skins\n"
+"POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2026-03-28 23:42+0000\n"
+"Last-Translator: manfeed <aeon.tajo@gmail.com>\n"
+"Language-Team: Hungarian  <aeon.tajo@gmail.com>\n"
+"Language: hu_hu\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+msgctxt "Addon Summary"
+msgid "Aeon Tajo"
+msgstr ""
+
+msgctxt "Addon Description"
+msgid "Aeon Tajo: Changes everything so that nothing changes. Inspired on Aeon Nox 5 (thanks to BigNoid)."
+msgstr "Aeon Tajo: Mindent megváltoztat, hogy semmi se változzon.Az Aeon Nox 5 ihlette (a BigNoidnak köszönhetően)."
+
+msgctxt "Addon Disclaimer"
+msgid "Mouse control is supported, althoug not recommended. It may not work correctly in all cases."
+msgstr "Az egérvezérlés támogatott, bár nem ajánlott.Előfordulhat, hogy nem minden esetben működik megfelelően."
+
+msgctxt "#31000"
+msgid "Directed by"
+msgstr "Rendezte"
+
+msgctxt "#31001"
+msgid "Written by"
+msgstr "Írta"
+
+msgctxt "#31002"
+msgid "Blurred album thumb"
+msgstr "Elmosódott album bélyegképek"
+
+msgctxt "#31003"
+msgid "Power Options"
+msgstr "Kikapcsolási lehetőségek"
+
+msgctxt "#31004"
+msgid "Working"
+msgstr "Dolgozom"
+
+msgctxt "#31005"
+msgid "Fixed"
+msgstr "Rögzített"
+
+msgctxt "#31006"
+msgid "View Options"
+msgstr "Nézet lehetőségek"
+
+msgctxt "#31007"
+msgid "Setup home"
+msgstr "Főképernyő beállítása"
+
+msgctxt "#31008"
+msgid "Full screen"
+msgstr "Teljes képernyő"
+
+msgctxt "#31009"
+msgid "Total Duration"
+msgstr "Teljes időtartam"
+
+msgctxt "#31010"
+msgid "Next episode"
+msgstr "Következő rész"
+
+msgctxt "#31011"
+msgid "Latest episode"
+msgstr "Legfrissebb epizód"
+
+msgctxt "#31012"
+msgid "Airs"
+msgstr "Vetítések"
+
+msgctxt "#31013"
+msgid "Statistics"
+msgstr "Statisztikák"
+
+msgctxt "#31014"
+msgid "Extras"
+msgstr "Extra"
+
+msgctxt "#31015"
+msgid "Set path to video genre fanart folder"
+msgstr "Állítsd be a videó műfaj fanart mappa helyét"
+
+msgctxt "#31016"
+msgid "Poster"
+msgstr "Plakát"
+
+msgctxt "#31017"
+msgid "Set path to music genre fanart folder"
+msgstr "Állítsd be a zenei műfaj fanart mappa helyét"
+
+msgctxt "#31018"
+msgid "InfoPanel"
+msgstr "InfoPanel"
+
+msgctxt "#31019"
+msgid "Network"
+msgstr "Hálózat"
+
+msgctxt "#31020"
+msgid "Extra-fanart"
+msgstr "Extra-Fanart"
+
+msgctxt "#31021"
+msgid "Stage curtains"
+msgstr "Színpad függönyök"
+
+msgctxt "#31022"
+msgid "Set multi-image background"
+msgstr "Több kép beállítása háttérnek"
+
+msgctxt "#31023"
+msgid "Set single image background"
+msgstr "Egy kép beállítása háttérnek"
+
+msgctxt "#31024"
+msgid "Page"
+msgstr "Oldal"
+
+msgctxt "#31025"
+msgid "Items"
+msgstr "Elem"
+
+msgctxt "#31026"
+msgid "Misc Options"
+msgstr "Egyéb beállítások"
+
+msgctxt "#31027"
+msgid "Set item background"
+msgstr "Elem háttérképének beállítása"
+
+msgctxt "#31028"
+msgid "Live DVD Cases"
+msgstr "Élő DVD borítók"
+
+msgctxt "#31029"
+msgid "Recent Movies"
+msgstr "Legutóbbi filmek"
+
+msgctxt "#31030"
+msgid "Recent Episodes"
+msgstr "Legutóbbi epizódok"
+
+msgctxt "#31031"
+msgid "Random Movies"
+msgstr "Véletlenszerű filmek"
+
+msgctxt "#31032"
+msgid "Recommended Movies"
+msgstr "Ajánlott filmek"
+
+msgctxt "#31033"
+msgid "Random Episodes"
+msgstr "Véletlenszerű epizódok"
+
+msgctxt "#31034"
+msgid "Recommended Episodes"
+msgstr "Ajánlott epizódok"
+
+msgctxt "#31035"
+msgid "Random Songs"
+msgstr "Véletlenszerű dalok"
+
+msgctxt "#31036"
+msgid "Random Albums"
+msgstr "Véletlenszerű albumok"
+
+msgctxt "#31037"
+msgid "Recent Albums"
+msgstr "Legutóbbi albumok"
+
+msgctxt "#31038"
+msgid "Recommended Albums"
+msgstr "Ajánlott albumok"
+
+msgctxt "#31039"
+msgid "Actions"
+msgstr "Műveletek"
+
+msgctxt "#31040"
+msgid "Now Playing"
+msgstr "Most játszva"
+
+msgctxt "#31041"
+msgid "Select widget"
+msgstr "Widget választás"
+
+msgctxt "#31042"
+msgid "Show \"Now Playing\" information blended in the background"
+msgstr "Most játszott információ megjelenik a háttérben"
+
+msgctxt "#31043"
+msgid "Platform"
+msgstr "Platform"
+
+msgctxt "#31044"
+msgid "Views: Plot outline | Info dialog: Full plot"
+msgstr "Nézet: Tartalom túlírása | Infó ablak: Teljes tartalom"
+
+msgctxt "#31045"
+msgid "Views: Full plot | Info dialog: Plot outline"
+msgstr "Nézet: Teljes tartalom | Infó ablak: Tartalom túlírása"
+
+msgctxt "#31046"
+msgid "SEEKING"
+msgstr "KERESÉS"
+
+msgctxt "#31047"
+msgid "Set item icon"
+msgstr "Elem ikonjának beállítása"
+
+msgctxt "#31048"
+msgid "Visualisation Presets"
+msgstr "Vizualizáció típusa"
+
+msgctxt "#31049"
+msgid "Select infoline"
+msgstr "Infósáv kiválasztása"
+
+msgctxt "#31050"
+msgid "Sort: Ascending"
+msgstr "Sorrend: Növekvő"
+
+msgctxt "#31051"
+msgid "Sort: Descending"
+msgstr "Sorrend: Csökkenő"
+
+msgctxt "#31052"
+msgid "Movie library statistics"
+msgstr "Filmkönyvtár statisztikák"
+
+msgctxt "#31053"
+msgid "TV Show library statistics"
+msgstr "Sorozatkönyvtár statisztikák"
+
+msgctxt "#31054"
+msgid "Music library statistics"
+msgstr "Zenekönyvtár statisztikák"
+
+msgctxt "#31055"
+msgid "Open playlist"
+msgstr "Lejátszási lista megnyitása"
+
+msgctxt "#31056"
+msgid "Save playlist"
+msgstr "Lejátszásilista mentése"
+
+msgctxt "#31057"
+msgid "Close playlist"
+msgstr "Lejátszási lista bezárása"
+
+msgctxt "#31058"
+msgid "PVR information"
+msgstr "PVR Infó"
+
+msgctxt "#31059"
+msgid "Install Artist Slideshow add-on to enable this feature"
+msgstr "Telepítse az Artist Slideshow kiegészítőt a funkció engedélyezéséhez"
+
+msgctxt "#31060"
+msgid "This file is stacked, select the part you want to play from."
+msgstr "Ez a fájl egyesített. Válaszd azt a részt, ahonnan a lejátszást szeretnéd kezdeni."
+
+msgctxt "#31061"
+msgid "Favourites statistics"
+msgstr "Kedvenc statisztikák"
+
+msgctxt "#31062"
+msgid "Random movie fanart"
+msgstr "Véletlen film fanart"
+
+msgctxt "#31063"
+msgid "Random TV show fanart"
+msgstr "Véletlen sorozat fanart"
+
+msgctxt "#31064"
+msgid "Random video fanart"
+msgstr "Véletlen videó fanart"
+
+msgctxt "#31065"
+msgid "Random music fanart"
+msgstr "Véletlen zene fanart"
+
+msgctxt "#31066"
+msgid "Random fanart"
+msgstr "Véletlen fanart"
+
+msgctxt "#31067"
+msgid "Update rating"
+msgstr "Pontozás frissítése"
+
+msgctxt "#31068"
+msgid "CD Wall"
+msgstr "CD-fal"
+
+msgctxt "#31069"
+msgid "Change location"
+msgstr "Hely változatása"
+
+msgctxt "#31070"
+msgid "Enable Cinema Experience integration"
+msgstr "Cinema Experience integráció engedélyezése"
+
+msgctxt "#31071"
+msgid "While browsing the library"
+msgstr "Könyvtár böngészés közben"
+
+msgctxt "#31072"
+msgid "On open video info"
+msgstr "Filminfó megnyitásakor"
+
+msgctxt "#31073"
+msgid "Move menu item"
+msgstr "Menü Elem mozgatása"
+
+msgctxt "#31074"
+msgid "Choose item to swap places with"
+msgstr "Válasszon elemet, amellyel helyet cserélhet"
+
+msgctxt "#31075"
+msgid "No extra features available"
+msgstr "Nince elérhető extra funkció"
+
+msgctxt "#31076"
+msgid "Landscape"
+msgstr "Landscape"
+
+msgctxt "#31077"
+msgid "ShowCase"
+msgstr "Képborító"
+
+msgctxt "#31078"
+msgid "TriPanel"
+msgstr "HármasPanel"
+
+msgctxt "#31079"
+msgid "Shift"
+msgstr "Eltolás"
+
+msgctxt "#31080"
+msgid "Manage submenu"
+msgstr "Almenü kezelése"
+
+msgctxt "#31081"
+msgid "Enable custom submenus"
+msgstr "Egyedi almenük engedélyezése"
+
+msgctxt "#31082"
+msgid "Detach RSS feed from the main menu"
+msgstr "RSS hírcsatorna lecsatolása a főmenüről"
+
+msgctxt "#31083"
+msgid "Enable Next Aired information in the videolibrary"
+msgstr "'Következő sugárzott' információ a filmkönyvtárban"
+
+msgctxt "#31084"
+msgid "Conditional weather"
+msgstr "Időjárás kondíciók"
+
+msgctxt "#31085"
+msgid "Musicvideo library statistics"
+msgstr "Zenei videó könyvtár statisztikák"
+
+msgctxt "#31086"
+msgid "Icon"
+msgstr "Ikon"
+
+msgctxt "#31087"
+msgid "Banner"
+msgstr "Banner"
+
+msgctxt "#31088"
+msgid "BannerWall"
+msgstr "BannerFal"
+
+msgctxt "#31089"
+msgid "Play item on startup"
+msgstr "Elem lejátszása indításkor"
+
+msgctxt "#31090"
+msgid "Seconds"
+msgstr "Másodperc"
+
+msgctxt "#31091"
+msgid "Select items"
+msgstr "Elemek kiválasztása"
+
+msgctxt "#31092"
+msgid "Fullscreen fanart"
+msgstr "Teljes képernyős fanart"
+
+msgctxt "#31093"
+msgid "LowList toggle"
+msgstr "LowList kapcsoló"
+
+msgctxt "#31094"
+msgid "List view layout"
+msgstr "Lista nézet elrendezés"
+
+msgctxt "#31095"
+msgid "Slim List"
+msgstr "Keskeny lista"
+
+msgctxt "#31096"
+msgid "Concert locations"
+msgstr "Koncerthelyszínek"
+
+msgctxt "#31097"
+msgid "Movie playlist statistics"
+msgstr "Film lejátszólista statisztika"
+
+msgctxt "#31098"
+msgid "TV Show playlist statistics"
+msgstr "Sorozat lejátszólista statisztika"
+
+msgctxt "#31099"
+msgid "Musicvideo playlist statistics"
+msgstr "Zenei videó lejátszólista statisztika"
+
+msgctxt "#31100"
+msgid "View:"
+msgstr "Nézet:"
+
+msgctxt "#31101"
+msgid "Choose view"
+msgstr "Válasszon nézetet"
+
+msgctxt "#31102"
+msgid "Background"
+msgstr "Háttér"
+
+msgctxt "#31103"
+msgid "N/A"
+msgstr "N/A"
+
+msgctxt "#31104"
+msgid "Similar artists"
+msgstr "Hasonló előadók"
+
+msgctxt "#31105"
+msgid "More albums from"
+msgstr "Több album"
+
+msgctxt "#31106"
+msgid "On info"
+msgstr "Információ esetén"
+
+msgctxt "#31107"
+msgid "Persistent"
+msgstr "Állandó"
+
+msgctxt "#31108"
+msgid "Enable artist information feed (if available)"
+msgstr "Előadó információs hírcsatorna engedélyezése (ha elérhető)"
+
+msgctxt "#31109"
+msgid "Unwatched episode count"
+msgstr "Nézetlen epizódok száma"
+
+msgctxt "#31110"
+msgid "Up next brings the option to watch right away the next episode of a TV show (Netflix/Prime video style)."
+msgstr "A következő menüpontban lehetőség nyílik egy tévéműsor következő epizódjának azonnali megtekintésére (Netflix/Prime videóstílus)."
+
+msgctxt "#31111"
+msgid "Similar movies"
+msgstr "Hasonló filmek"
+
+msgctxt "#31112"
+msgid "Movies directed by"
+msgstr "Általa rendezett filmek"
+
+msgctxt "#31113"
+msgid "Movies written by"
+msgstr "Általa írt filmek"
+
+msgctxt "#31114"
+msgid "More movies from"
+msgstr "További filmek innen"
+
+msgctxt "#31115"
+msgid "Similar TV shows"
+msgstr "Hasonló sorozatok"
+
+msgctxt "#31116"
+msgid "cycle fanart"
+msgstr "ciklus fanart"
+
+msgctxt "#31117"
+msgid "Fallback"
+msgstr "Háttér"
+
+msgctxt "#31118"
+msgid "Download extrafanart"
+msgstr "Töltse le az extrafanart"
+
+msgctxt "#31119"
+msgid "Show the movies from this director in your library or view online information on this director on TMDb?"
+msgstr "Mutatja ennek a rendezőnek a filmjeit a könyvtárában, vagy online információkat tekint meg erről a rendezőről a TMDb-n?"
+
+msgctxt "#31120"
+msgid "TMDb"
+msgstr "TMDb"
+
+msgctxt "#31121"
+msgid "Disable autocomplete"
+msgstr "Az automatikus kiegészítés letiltása"
+
+msgctxt "#31122"
+msgid "Disables the autocomplete feature of the virtual keyboard"
+msgstr "Letiltja a virtuális billentyűzet automatikus kiegészítési funkcióját"
+
+msgctxt "#31123"
+msgid "Album review"
+msgstr "Album értékelés"
+
+msgctxt "#31124"
+msgid "Show Background \"Now Playing\" Video"
+msgstr "A háttérben az éppen játszott videó megjelenítése"
+
+msgctxt "#31125"
+msgid "Show Background \"Now Playing\" Visualisation"
+msgstr "Mutasd a háttérben az \"éppen játszott\" vizualizációt"
+
+msgctxt "#31126"
+msgid "Opacity level for widgets"
+msgstr "A widgetek átlátszatlansági szintje"
+
+msgctxt "#31127"
+msgid "LiveTV Mod Settings"
+msgstr "Élő TV mód beállításai"
+
+msgctxt "#31128"
+msgid "Channels View"
+msgstr "Csatorna nézet"
+
+msgctxt "#31129"
+msgid "Hide Fanart in full screen visualisation"
+msgstr "Fanart elrejtése teljes képernyős vizualizációnál"
+
+msgctxt "#31130"
+msgid "Use \"Enigma2-style\" channel OSD"
+msgstr "\"Enigma2-stílusú\" csatorna OSD használata"
+
+msgctxt "#31131"
+msgid "EPG Timeline View"
+msgstr "EPG idővonal nézet"
+
+msgctxt "#31132"
+msgid "Tuner:"
+msgstr "Tuner:"
+
+msgctxt "#31133"
+msgid "Timeline channels-type:"
+msgstr "Idővonal csatornatípus:"
+
+msgctxt "#31134"
+msgid "Timeline view-type:"
+msgstr "Idővonal nézettípus:"
+
+msgctxt "#31135"
+msgid "Infobar Options"
+msgstr "Információs sáv beállítások"
+
+msgctxt "#31136"
+msgid "Infobar type:"
+msgstr "Információs sáv típusa:"
+
+msgctxt "#31137"
+msgid "Hide encryption information"
+msgstr "Titkosítási információk elrejtése"
+
+msgctxt "#31138"
+msgid "Hide tuner information"
+msgstr "Tuner információk elrejtése"
+
+msgctxt "#31139"
+msgid "Hide signal information"
+msgstr "Jelinformációk elrejtése"
+
+msgctxt "#31140"
+msgid "Sideblade Options"
+msgstr "Sideblade opciók"
+
+msgctxt "#31141"
+msgid "Hide Guide"
+msgstr "Műsorújság elrejtése"
+
+msgctxt "#31142"
+msgid "Settings level"
+msgstr "Beállítás szint"
+
+msgctxt "#31143"
+msgid "Hide Recordings"
+msgstr "Rögzítések elrejtése"
+
+msgctxt "#31144"
+msgid "Hide Timer"
+msgstr "Időzítő elrejtése"
+
+msgctxt "#31145"
+msgid "Hide Search"
+msgstr "Keresés elrejtése"
+
+msgctxt "#31146"
+msgid "Rated"
+msgstr "Pontozott"
+
+msgctxt "#31147"
+msgid "Change rating"
+msgstr "Pontozás módosítása"
+
+msgctxt "#31148"
+msgid "List local library items"
+msgstr "Helyi könyvtárelemek listázása"
+
+msgctxt "#31149"
+msgid "Online info from TMDb"
+msgstr "Online információ a TMDb-ről"
+
+msgctxt "#31150"
+msgid "Select studio logo artwork"
+msgstr "Válassza ki a stúdió logóját"
+
+msgctxt "#31151"
+msgid "Customize the studio logos by choosing a different logo pack. Note that this has no effect on the studio icons displayed in the \"List\" view."
+msgstr "Testreszabhatja a stúdió logóit egy másik logócsomag kiválasztásával.Vegye figyelembe, hogy ez nincs hatással a \"Lista\" nézetben megjelenő stúdióikonokra."
+
+msgctxt "#31152"
+msgid "In progress movies"
+msgstr "Folyamatban lévő filmek"
+
+msgctxt "#31153"
+msgid "Popular movies on TheMovieDB.org"
+msgstr "Népszerű filmek a TheMovieDB.org oldalon"
+
+msgctxt "#31154"
+msgid "Top rated movies on TheMovieDB.org"
+msgstr "A legjobb értékelésű filmek a TheMovieDB.org oldalon"
+
+msgctxt "#31155"
+msgid "Movies currently in cinema"
+msgstr "Jelenleg moziban szereplő filmek"
+
+msgctxt "#31156"
+msgid "Upcoming movies"
+msgstr "Közelgő filmek"
+
+msgctxt "#31157"
+msgid "Multi movie widget"
+msgstr "Több filmes widget"
+
+msgctxt "#31158"
+msgid "IMDb Top 250 movies"
+msgstr "IMDb Top 250 film"
+
+msgctxt "#31159"
+msgid "Event log"
+msgstr "Eseménynapló"
+
+msgctxt "#31160"
+msgid "Display background name"
+msgstr "Háttér nevének mutatása"
+
+msgctxt "#31161"
+msgid "Display title of movie/TV show/artist on home screen if the background has a fanart slideshow as background"
+msgstr "A film/TV-műsor/előadó címének megjelenítése a kezdőképernyőn, ha a háttér fanart diavetítést tartalmaz háttérként"
+
+msgctxt "#31162"
+msgid "min"
+msgstr "perc"
+
+msgctxt "#31163"
+msgid "TIMESHIFT"
+msgstr ""
+
+msgctxt "#31164"
+msgid "Change weather icons"
+msgstr "Időjárás ikonok módosítása"
+
+msgctxt "#31165"
+msgid "Layout"
+msgstr "Elrendezés"
+
+msgctxt "#31166"
+msgid "Wall"
+msgstr "Fal"
+
+msgctxt "#31167"
+msgid "You're watching"
+msgstr "te figyelsz"
+
+msgctxt "#31168"
+msgid "h"
+msgstr "ó"
+
+msgctxt "#31169"
+msgid "m"
+msgstr "p"
+
+msgctxt "#31170"
+msgid "Enable Netflix style pause screen"
+msgstr "Netflix stílusú szünet képernyő engedélyezése"
+
+msgctxt "#31171"
+msgid "Shows an overview of the movie or episode 10 seconds after the video is paused."
+msgstr "A film vagy az epizód áttekintését mutatja 10 másodperccel a videó szüneteltetése után."
+
+msgctxt "#31172"
+msgid "Inactive"
+msgstr "Inaktív"
+
+msgctxt "#31173"
+msgid "Decoder"
+msgstr "Dekóder"
+
+msgctxt "#31174"
+msgid "Hardware decoding"
+msgstr "Hardware dekódolás"
+
+msgctxt "#31175"
+msgid "press 'OK' to see more..."
+msgstr "nyomja meg az 'OK' gombot további megtekintéséhez..."
+
+msgctxt "#31176"
+msgid "Enter text here..."
+msgstr "Irj ide..."
+
+msgctxt "#31177"
+msgid "Player controls"
+msgstr "Játékos vezérlők"
+
+msgctxt "#31178"
+msgid "Playlist options"
+msgstr "Lejátszáslista lehetőségek"
+
+msgctxt "#31179"
+msgid "Critics"
+msgstr "Kritikusok"
+
+msgctxt "#31180"
+msgid "Play main theme when browsing movies and TV shows"
+msgstr "A fő téma lejátszása filmek és tévéműsorok böngészésekor"
+
+msgctxt "#31181"
+msgid "Display cast in video views"
+msgstr "Megjelenítési leadott videónézetekben"
+
+msgctxt "#31182"
+msgid "Hide current time in media views"
+msgstr "Az aktuális idő elrejtése a médianézetekben"
+
+msgctxt "#31183"
+msgid "Hide number of items in media views"
+msgstr "Elemek számának elrejtése a médianézetekben"
+
+msgctxt "#31184"
+msgid "Enable, disable and/or force video views"
+msgstr "Videómegtekintések engedélyezése, letiltása és/vagy kényszerítése"
+
+msgctxt "#31185"
+msgid "Enable, disable and/or force music views"
+msgstr "Zenei nézetek engedélyezése, letiltása és/vagy kényszerítése"
+
+msgctxt "#31186"
+msgid "Force Kodi to always use certain view when browsing each kind of media. Disabling views that you don't use could speed up browsing in some devices"
+msgstr "Kényszerítse a Kodit, hogy mindig bizonyos nézetet használjon az egyes médiatípusok böngészésekor.A nem használt nézetek letiltása felgyorsíthatja a böngészést egyes eszközökön"
+
+msgctxt "#31187"
+msgid "Available for:"
+msgstr "Elérhető:"
+
+msgctxt "#31188"
+msgid "Kiosk mode"
+msgstr "Kioszk mód"
+
+msgctxt "#31189"
+msgid "Disables the side media menu in views and most options to change Kodi, so as to prevent unwanted modifications."
+msgstr "Letiltja az oldalsó médiamenüt a nézetekben és a legtöbb lehetőséget a Kodi módosítására, hogy megakadályozza a nem kívánt módosításokat."
+
+msgctxt "#31190"
+msgid "In cinemas"
+msgstr "A mozikban"
+
+msgctxt "#31191"
+msgid "In cinemas soon"
+msgstr "Hamarosan a mozikban"
+
+msgctxt "#31192"
+msgid "Spotify"
+msgstr ""
+
+msgctxt "#31193"
+msgid "Show images of the best-known actresses"
+msgstr "Mutasd meg a legismertebb színésznők képeit"
+
+msgctxt "#31194"
+msgid "Search the Red Carpet add-on for images of the best-known actresses from the movie/TV show and display them alongside the cast."
+msgstr "Keressen a Red Carpet kiegészítőben a film/tévéműsor legismertebb színésznőinek képeit, és jelenítse meg őket a szereplők mellett."
+
+msgctxt "#31195"
+msgid "Show logos of film studios in video views"
+msgstr "Filmstúdiók logóinak megjelenítése videónézetben"
+
+msgctxt "#31196"
+msgid "Show logos of record labels in music albums views"
+msgstr "A lemezkiadók logóinak megjelenítése a zenei albumok nézeteiben"
+
+msgctxt "#31197"
+msgid "Show home music widget"
+msgstr "Otthoni zenei widget megjelenítése"
+
+msgctxt "#31198"
+msgid "Show home video widget"
+msgstr "Otthoni videó widget megjelenítése"
+
+msgctxt "#31199"
+msgid "Colours, marks and home screen"
+msgstr "Színek, jelek és kezdőképernyő"
+
+msgctxt "#31200"
+msgid "Is used to choose among different Kodi resource image pack to weather artwork and icons."
+msgstr "Különböző Kodi-erőforrás-képcsomagok, időjárás-grafikák és ikonok közötti választásra szolgál."
+
+msgctxt "#31201"
+msgid "Performance impact"
+msgstr "A teljesítmény hatása"
+
+msgctxt "#31202"
+msgid "Plays music in the background while in Home and Settings screens. A default song collection is provided, but a different song folder can be used."
+msgstr "Zenét játszik le a háttérben a Kezdőlap és a Beállítások képernyőn.Egy alapértelmezett dalgyűjtemény biztosított, de egy másik dalmappa is használható."
+
+msgctxt "#31203"
+msgid "Select your own folder to use as background music. Make sure that it only contains music files."
+msgstr "Válassza ki a saját mappáját háttérzeneként használni.Győződjön meg arról, hogy csak zenei fájlokat tartalmaz."
+
+msgctxt "#31204"
+msgid "When enabled, widgets linked to each home menu item will appear automatically. If disabled, widgets remain hidden until the corresponding arrow key is pressed."
+msgstr "Ha engedélyezve van, az egyes főmenüpontokhoz kapcsolódó widgetek automatikusan megjelennek.Ha le van tiltva, a widgetek rejtve maradnak, amíg meg nem nyomják a megfelelő nyílbillentyűt."
+
+msgctxt "#31205"
+msgid "Lyrics Source"
+msgstr "Dalszövegforrás"
+
+msgctxt "#31206"
+msgid "Customization"
+msgstr "Testreszabás"
+
+msgctxt "#31207"
+msgid "Views"
+msgstr "Nézetek"
+
+msgctxt "#31208"
+msgid "Home screen"
+msgstr "Kezdőképernyő"
+
+msgctxt "#31209"
+msgid "Options"
+msgstr "Opciók"
+
+msgctxt "#31210"
+msgid "Select another image as default background"
+msgstr "Válasszon másik képet alapértelmezett háttérként"
+
+msgctxt "#31211"
+msgid "Changes the default Aeon Tajo background to another chosen by the user."
+msgstr "Módosítja az alapértelmezett Aeon Tajo hátteret a felhasználó által választott másikra."
+
+msgctxt "#31212"
+msgid "Current background path: "
+msgstr "Jelenlegi háttérútvonal:"
+
+msgctxt "#31213"
+msgid "Reset skin default background"
+msgstr "A bőr alapértelmezett hátterének visszaállítása"
+
+msgctxt "#31214"
+msgid "Resets the default background provided with Aeon Tajo."
+msgstr "Visszaállítja az Aeon Tajo által biztosított alapértelmezett hátteret."
+
+msgctxt "#31215"
+msgid "Show the coloured version of the icons rather than the monochrome version."
+msgstr "Az ikonok színes változatát jelenítse meg a monokróm változat helyett."
+
+msgctxt "#31216"
+msgid "Displays background and fanart images with a subtle motion effect across the screen."
+msgstr "Megjeleníti a hátteret és a fanart képeket finom mozgási hatással a képernyőn."
+
+msgctxt "#31217"
+msgid "Displays a list in the video views featuring thumbnail images of the main actors from the movie or TV show's cast."
+msgstr "Listát jelenít meg a videónézetekben, amely a film vagy a tévéműsor szereplőinek főszereplőinek miniatűrjeit tartalmazza."
+
+msgctxt "#31218"
+msgid "Search the Studio Icons add-on for logo images of the film studios of the movie/TV show, and if found, display them while browsing the video views."
+msgstr "Keressen a Studio Icons bővítményben a film/tévéműsor filmstúdióinak logóképeit, és ha megtalálja, jelenítse meg őket a videonézetek böngészése közben."
+
+msgctxt "#31219"
+msgid "Search for the album's record label logo using the RecordLabel Icons addon, and if found, display it when browsing the music album views."
+msgstr "Keresse meg az album lemezkiadó logóját a RecordLabel Icons bővítmény segítségével, és ha megtalálja, jelenítse meg a zenei albumnézetek böngészésekor."
+
+msgctxt "#31220"
+msgid "Show rating"
+msgstr "Értékelés megjelenítése"
+
+msgctxt "#31221"
+msgid "Show artist clearart"
+msgstr "Művész clearart megjelenítése"
+
+msgctxt "#31222"
+msgid "Show CD"
+msgstr "CD megjelenítése"
+
+msgctxt "#31223"
+msgid "Show Time"
+msgstr "Idő megjelenítése"
+
+msgctxt "#31224"
+msgid "Animated posters"
+msgstr "Animált poszterek"
+
+msgctxt "#31225"
+msgid "Normal posters"
+msgstr "Normál plakátok"
+
+msgctxt "#31226"
+msgid "Extra posters"
+msgstr "Extra plakátok"
+
+msgctxt "#31227"
+msgid "Sets the transparency level of the home menu widgets."
+msgstr "Beállítja a főmenü widgetek átlátszósági szintjét."
+
+msgctxt "#31228"
+msgid "Displays main menu options in a vertical layout instead of a horizontal one."
+msgstr "A főmenü opcióit vízszintes helyett függőleges elrendezésben jeleníti meg."
+
+msgctxt "#31229"
+msgid "Set another video file as startup intro"
+msgstr "Állítson be egy másik videofájlt indítási bevezetőként"
+
+msgctxt "#31230"
+msgid "Choose another video file to play when Kodi starts instead of Aeon Tajo default. It's recommended to choose a short one. To stop playback and start using Kodi right away, click or press any arrow key."
+msgstr "Válasszon másik videofájlt, amelyet lejátszani szeretne, amikor a Kodi elindul, az alapértelmezett Aeon Tajo helyett.Javasoljuk, hogy rövidebbet válassz.A lejátszás leállításához és a Kodi használatának azonnali megkezdéséhez kattintson vagy nyomja meg bármelyik nyílbillentyűt."
+
+msgctxt "#31231"
+msgid "Plays an intro video when launching Kodi"
+msgstr "Bevezető videót játszik le a Kodi indításakor"
+
+msgctxt "#31232"
+msgid "Clear current intro video file and back to default"
+msgstr "Az aktuális bevezető videofájl törlése és visszaállítás az alapértelmezett értékre"
+
+msgctxt "#31233"
+msgid "Clear the intro video file selected by the user and back to Aeon Tajo's default."
+msgstr "Törölje a felhasználó által kiválasztott bevezető videó fájlt, és térjen vissza az Aeon Tajo alapértelmezett értékére."
+
+msgctxt "#31234"
+msgid "Adds a layer that simulates falling snow on all Kodi screens, with four available intensity levels."
+msgstr "Hozzáad egy réteget, amely szimulálja a hóesést az összes Kodi képernyőn, négy elérhető intenzitási szinttel."
+
+msgctxt "#31235"
+msgid "Override the current home menu backgrounds with this one"
+msgstr "Ezzel felülírhatja az aktuális főmenü hátterét"
+
+msgctxt "#31236"
+msgid "The background selections made in the Setup Main Menu screen will be preserved. Disabling this option will restore all previous backgrounds. This option is particularly designed for use during special seasons."
+msgstr "A Setup Main Menu (Beállítás főmenü) képernyőjén végzett háttérbeállítások megmaradnak.Ennek az opciónak a letiltása visszaállítja az összes korábbi hátteret.Ezt az opciót kifejezetten különleges évszakokban való használatra tervezték."
+
+msgctxt "#31237"
+msgid "No impact"
+msgstr "Nincs hatás"
+
+msgctxt "#31238"
+msgid "Very small"
+msgstr "Nagyon kicsi"
+
+msgctxt "#31239"
+msgid "Small"
+msgstr "Kicsi"
+
+msgctxt "#31240"
+msgid "Moderate"
+msgstr "Mérsékelt"
+
+msgctxt "#31241"
+msgid "Pixel format"
+msgstr "Pixel formátum"
+
+msgctxt "#31242"
+msgid "System rendering speed"
+msgstr "A rendszer renderelési sebessége"
+
+msgctxt "#31243"
+msgid "Hide actor's thumbnails"
+msgstr "A színész indexképeinek elrejtése"
+
+msgctxt "#31244"
+msgid "Show only a list of the actors' names, instead of also including their thumbnails."
+msgstr "Csak a színészek nevének listája jelenjen meg, a bélyegképük helyett."
+
+msgctxt "#31250"
+msgid "Automatic Full Screen when playing music"
+msgstr "Automatikus teljes képernyő zenelejátszás közben"
+
+msgctxt "#31251"
+msgid "Don't play melodies while in Home Screen"
+msgstr "Ne játsszon dallamokat a kezdőképernyőn"
+
+msgctxt "#31252"
+msgid "Always show home screen widgets"
+msgstr "Mindig jelenítse meg a kezdőképernyő widgetjeit"
+
+msgctxt "#31253"
+msgid "Choose user audio playlist *.m3u (max.10 songs)"
+msgstr "Felhasználói audio lejátszási lista kiválasztása *.m3u (max. 10 dal)"
+
+msgctxt "#31254"
+msgid "Clear user playlist (back to default)"
+msgstr "Felhasználói lejátszási lista törlése (vissza az alapértelmezettre)"
+
+msgctxt "#31300"
+msgid "Overview"
+msgstr "Áttekintés"
+
+msgctxt "#31301"
+msgid "Last Updated"
+msgstr "Utoljára frissítve"
+
+msgctxt "#31307"
+msgid "Hide Fanart"
+msgstr "Fanart elrejtése"
+
+msgctxt "#31308"
+msgid "Next aired"
+msgstr "Következő adásban"
+
+msgctxt "#31309"
+msgid "Memory Used:"
+msgstr "Memória használat:"
+
+msgctxt "#31310"
+msgid "Available audio tracks"
+msgstr "Elérhető hangsávok"
+
+msgctxt "#31317"
+msgid "Set Fanart Path"
+msgstr "Fanart elérési helye"
+
+msgctxt "#31320"
+msgid "Last Logged In"
+msgstr "Utoljára bejelentkezve"
+
+msgctxt "#31321"
+msgid "Karaoke Song Selector"
+msgstr "Karaoke dalválasztó"
+
+msgctxt "#31328"
+msgid "Recently Added"
+msgstr "Nemrég hozzáadva"
+
+msgctxt "#31331"
+msgid "Installed"
+msgstr "Telepített"
+
+msgctxt "#31332"
+msgid "Not Installed"
+msgstr "Nincs telepítve"
+
+msgctxt "#31334"
+msgid "Required"
+msgstr "Szükséges"
+
+msgctxt "#31335"
+msgid "Recommended"
+msgstr "Ajánlott"
+
+msgctxt "#31336"
+msgid "Optional"
+msgstr "Választható"
+
+msgctxt "#31390"
+msgid "Skin default"
+msgstr "Felszín alapértelmezése"
+
+msgctxt "#31400"
+msgid "[B]CONFIGURE INTERFACE SETTINGS[/B][CR][CR]Change the skin · Set language and region · Setup remote controls[CR]Set up a screensaver · Setup master lock"
+msgstr "[B]INTERFÉSZ BEÁLLÍTÁSOK KONFIGURÁLÁSA[/B][CR][CR]A felület módosítása · Nyelv és régió beállítása · Távirányítók beállítása[CR]Képernyővédő beállítása · Főzár beállítása"
+
+msgctxt "#31401"
+msgid "Menu - press 'OK'"
+msgstr "Menü – nyomja meg az „OK” gombot"
+
+msgctxt "#31402"
+msgid "Enable startup video intro"
+msgstr "Indítási videó bevezető engedélyezése"
+
+msgctxt "#31405"
+msgid "[B]MONITOR YOUR SYSTEM[/B][CR][CR]Check out your hardware · Monitor CPU usage[CR]Check Kodi revision number"
+msgstr "[B]RENDSZER MONITOR[/B][CR][CR]Hardver ellenőrzése · Processzor használat[CR]Kodi revízió száma"
+
+msgctxt "#31406"
+msgid "[B]CONFIGURE SYSTEM SETTINGS[/B][CR][CR]Setup and calibrate displays · Configure audio output · [CR]Set power saving options · Enable debugging"
+msgstr "[B]RENDSZERBEÁLLÍTÁSOK KONFIGURÁLÁSA[/B][CR][CR]Kijelzők beállítása és kalibrálása · Hangkimenet konfigurálása · [CR]Energiatakarékossági beállítások megadása · Hibakeresés engedélyezése"
+
+msgctxt "#31407"
+msgid "[B]SETUP PROFILES[/B][CR][CR]Setup and manage user profiles · Enable login screen[CR]Change password · Add a profile picture"
+msgstr "[B]PROFILOK BEÁLLÍTÁSA[/B][CR][CR]Felhasználói profilok beállítása és kezelése · Bejelentkezési képernyő engedélyezése[CR]Jelszó módosítása · Profilkép hozzáadása"
+
+msgctxt "#31409"
+msgid "[B]CONFIGURE TV SETTINGS[/B][CR][CR]Change full screen info · Manage EPG data settings"
+msgstr "[B]TV BEÁLLÍTÁSOK[/B][CR][CR]Teljes képernyős infó · Elektronikus műsorújság beállítása"
+
+msgctxt "#31410"
+msgid "[B]CONFIGURE SERVICE SETTINGS[/B][CR][CR]Setup control of Kodi via UPnP and HTTP · Configure file sharing[CR]Enable Zeroconf · Configure AirPlay"
+msgstr "[B]SZOLGÁLTATÁSOK BEÁLLÍTÁSA[/B][CR][CR]Kodi UPNP-n és HTTP-n keresztüli vezérlésének beállításai · Fájlmegosztás beállításai[CR]Zeroconf engedélyezése · AirPlay beállításai"
+
+msgctxt "#31412"
+msgid "Select section"
+msgstr "Szakasz kiválasztása"
+
+msgctxt "#31413"
+msgid "Local subtitle available"
+msgstr "Helyi felirat elérhető"
+
+msgctxt "#31414"
+msgid "[B]CONFIGURE PLAYER SETTINGS[/B][CR][CR]Configure video playback · Configure music playback · Configure picture slideshow[CR]Configure video language and subtitles"
+msgstr "[B]LEJÁTSZÓ BEÁLLÍTÁSOK KONFIGURÁLÁSA[/B][CR][CR]Videolejátszás konfigurálása · Zenelejátszás konfigurálása · Képes diavetítés konfigurálása[CR]Videó nyelvének és feliratainak konfigurálása"
+
+msgctxt "#31415"
+msgid "[B]CONFIGURE MEDIA SETTINGS[/B][CR][CR]Set default select action · Configure file list options · Configure metadata options[CR]Manage databases"
+msgstr "[B]MÉDIABEÁLLÍTÁSOK KONFIGURÁLÁSA[/B][CR][CR]Alapértelmezett kiválasztási művelet beállítása · Fájllista-beállítások konfigurálása · Metaadat-beállítások konfigurálása[CR]Adatbázisok kezelése"
+
+msgctxt "#31421"
+msgid "Select your Kodi user profile[CR]to login and continue"
+msgstr "Válaszd ki a Kodi felhasználói profilod[CR]a belépéshez"
+
+msgctxt "#31427"
+msgid "Skin Shortcuts is responsible for handling all aspects of the main menu."
+msgstr "A Skin Shortcuts felelős a főmenü minden aspektusának kezeléséért."
+
+msgctxt "#31428"
+msgid "The Grab Fanart script provides the random fanart slideshows for the main menu."
+msgstr "A Grab Fanart szkript biztosítja a véletlenszerű fanart diavetítéseket a főmenüben."
+
+msgctxt "#31429"
+msgid "Library Data Provider is a service that runs in the background to provide library data for widgets and live backgrounds as well as playlist statistics for infolines."
+msgstr "A Library Data Provider egy olyan szolgáltatás, amely a háttérben fut, hogy könyvtári adatokat biztosítson widgetekhez és élő hátterekhez, valamint lejátszási listastatisztikát az információs vonalakhoz."
+
+msgctxt "#31430"
+msgid "Resource image addon for displaying the default white studio icons throughout the skin."
+msgstr "Erőforrás képkiegészítő az alapértelmezett fehér stúdióikonok teljes felületen való megjelenítéséhez."
+
+msgctxt "#31431"
+msgid "Resource image addon for displaying the default white recording label icons throughout the skin."
+msgstr "Erőforrás képkiegészítő az alapértelmezett fehér felvételi címke ikonok megjelenítéséhez a bőrön."
+
+msgctxt "#31432"
+msgid "Provides numerous Widget options and extended cast and crew metadata."
+msgstr "Számos widget-beállítást és kiterjesztett szereplő- és stáb metaadatokat biztosít."
+
+msgctxt "#31433"
+msgid "Skin Info Service is used to display movie set information throughout the skin."
+msgstr "A Skin Info Service a filmkészlet információinak a bőrön való megjelenítésére szolgál."
+
+msgctxt "#31434"
+msgid "Check MP3 Theme checks whether the user has put a theme.mp3 file in the corresponding movie/TV show folder to be played when browsing."
+msgstr "Az MP3 téma ellenőrzése ellenőrzi, hogy a felhasználó elhelyezett-e theme.mp3 fájlt a megfelelő film/TV-műsor mappába, hogy böngészés közben lejátszhassa."
+
+msgctxt "#31450"
+msgid "  •  Open Settings "
+msgstr "  • Beállítások megnyitása "
+
+msgctxt "#31451"
+msgid "  •  Click to Install"
+msgstr "• Kattintson a telepítéshez"
+
+msgctxt "#31473"
+msgid "Aeon Tajo Helper provides the data to display the cast for movies and TV shows."
+msgstr "Az Aeon Tajo Helper biztosítja az adatokat a filmek és tévéműsorok szereplőinek megjelenítéséhez."
+
+msgctxt "#31474"
+msgid "CU LRC Lyrics is used to download, sync, and display lyrics during fullscreen music playback."
+msgstr "A CU LRC Lyrics a dalszövegek letöltésére, szinkronizálására és megjelenítésére szolgál teljes képernyős zenelejátszás közben."
+
+msgctxt "#31475"
+msgid "Play Trailer makes possible to play movie trailers through a context menu. "
+msgstr "A Play Trailer lehetővé teszi a filmelőzetesek lejátszását a helyi menün keresztül."
+
+msgctxt "#31476"
+msgid "Allows the use of Youtube to play trailers and other videos."
+msgstr "Lehetővé teszi a Youtube használatát előzetesek és egyéb videók lejátszására."
+
+msgctxt "#31477"
+msgid "Provides some cast actress images to be shown in video views."
+msgstr "Néhány színésznő-képet biztosít, amelyek megjelennek a videónézetben."
+
+msgctxt "#31478"
+msgid "Artist Slideshow is used to display artist fanart for both the home screen and during fullscreen music playback."
+msgstr "Az Artist Slideshow az előadói fanart megjelenítésére szolgál mind a kezdőképernyőn, mind a teljes képernyős zenelejátszás során."
+
+msgctxt "#31479"
+msgid "AutoCompletion provides suggestions to be selected while using the virtual keyboard."
+msgstr "Az Automatikus kiegészítés javaslatokat ad a virtuális billentyűzet használata közben."
+
+msgctxt "#31480"
+msgid "Library Editor Script uses JSON to directly edit your database information."
+msgstr "A Library Editor Script a JSON segítségével közvetlenül szerkeszti az adatbázis adatait."
+
+msgctxt "#31481"
+msgid "Global Search makes possible to search among all the items (movies, TV shows, music, actors, etc.) in your collection."
+msgstr "A Global Search lehetővé teszi a keresést a gyűjteményében található összes elem (filmek, tévéműsorok, zenék, színészek stb.) között."
+
+msgctxt "#31501"
+msgid "Channel group"
+msgstr "Csatornacsoport"
+
+msgctxt "#31502"
+msgid "Live TV"
+msgstr "Élő TV"
+
+msgctxt "#31503"
+msgid "Add Group"
+msgstr "Csoport hozzáadása"
+
+msgctxt "#31504"
+msgid "Rename Group"
+msgstr "Csoport átnevezése"
+
+msgctxt "#31505"
+msgid "Delete Group"
+msgstr "Csoport törlése"
+
+msgctxt "#31506"
+msgid "Available[CR]Groups"
+msgstr "Elérhető[CR]Csoportok"
+
+msgctxt "#31511"
+msgid "Channel Options"
+msgstr "Csatorna opciók"
+
+msgctxt "#31512"
+msgid "Show similar movies in Shelf 3D view"
+msgstr "Hasonló filmek megjelenítése Polc 3D nézetben"
+
+msgctxt "#31901"
+msgid "36 Hour Forecast"
+msgstr "36 órás előrejelzés"
+
+msgctxt "#31902"
+msgid "Hourly Forecast"
+msgstr "Előrejelzés óránként"
+
+msgctxt "#31903"
+msgid "Weekend Forecast"
+msgstr "Hétvégi előrejelzés"
+
+msgctxt "#31904"
+msgid "10 Day Forecast"
+msgstr "10 napos előrejelzés"
+
+msgctxt "#31908"
+msgid "Chance of Precipitation"
+msgstr "Csapadék esélye"
+
+msgctxt "#31909"
+msgid "Fetching forecast info..."
+msgstr "Előrejelzési információ letöltése..."
+
+msgctxt "#31910"
+msgid "Map & Alerts"
+msgstr "Térkép & Riasztások"
+
+msgctxt "#31911"
+msgid "Setup the Aeon Tajo main menu"
+msgstr "Az Aeon Tajo főmenü beállítása"
+
+msgctxt "#31912"
+msgid "Customize the main menu with widgets, backgrounds and statistics. Add your own custom main menu items."
+msgstr "Testreszabhatja a főmenüt widgetekkel, hátterekkel és statisztikákkal.Adja hozzá saját egyéni főmenüpontjait."
+
+msgctxt "#31913"
+msgid "Aeon Tajo main menu vertical position"
+msgstr "Az Aeon Tajo főmenü függőleges helyzete"
+
+msgctxt "#31914"
+msgid "Change the vertical position of the main menu. Default is centered on screen."
+msgstr "Módosítsa a főmenü függőleges helyzetét.Az alapértelmezett a képernyő közepén."
+
+msgctxt "#31915"
+msgid "Navigation style for horizontal lists"
+msgstr "Navigációs stílus vízszintes listákhoz"
+
+msgctxt "#31916"
+msgid "Change the way horizontal lists scroll in Aeon Tajo. Default will scroll lists in a cycle. \"Fixed\" are lists with a beginning and end."
+msgstr "Módosítsa a vízszintes listák gördülési módját az Aeon Tajoban.Az alapértelmezett egy ciklusban görgeti a listákat.A \"Rögzített\" olyan listák, amelyeknek kezdete és vége van."
+
+msgctxt "#31917"
+msgid "When enabled text scrolls automatically. When disabled manual scrolling is required. Note that most textboxes don't have a manual button."
+msgstr "Ha engedélyezve van, a szöveg automatikusan gördül.Ha letiltja, kézi görgetésre van szükség.Vegye figyelembe, hogy a legtöbb szövegdoboznak nincs kézi gombja."
+
+msgctxt "#31918"
+msgid "Projects the current playing video on the background behind the panels."
+msgstr "Az aktuálisan lejátszott videót a háttérre vetíti a panelek mögé."
+
+msgctxt "#31919"
+msgid "Projects the visualisation on the background behind the panels when music is played."
+msgstr "Zene lejátszásakor a vizualizációt a panelek mögötti háttérre vetíti."
+
+msgctxt "#31920"
+msgid "Displays a widget on the Home screen with media information when music is playing."
+msgstr "Zenelejátszás közben egy widgetet jelenít meg a kezdőképernyőn médiainformációkkal."
+
+msgctxt "#31921"
+msgid "Displays a widget on the Home screen with media information when a movie or episode is playing."
+msgstr "Film vagy epizód lejátszása közben egy widgetet jelenít meg a kezdőképernyőn médiainformációkkal."
+
+msgctxt "#31922"
+msgid "This enables custom genre backgrounds when browsing through the videolibrary's genre node. Filenames should match the genre label. Extension must be .jpg."
+msgstr "Ez lehetővé teszi az egyéni műfaji háttereket, amikor a videokönyvtár műfaji csomópontjában böngészik.A fájlneveknek meg kell egyeznie a műfaji címkével.A kiterjesztésnek .jpg formátumúnak kell lennie."
+
+msgctxt "#31923"
+msgid "Set a default select action to enable this item."
+msgstr "Állítson be egy alapértelmezett kiválasztási műveletet az elem engedélyezéséhez."
+
+msgctxt "#31924"
+msgid "This enables custom genre backgrounds when browsing through the musiclibrary's genre node. Filenames should match the genre label. Extension must be .jpg."
+msgstr "Ez lehetővé teszi az egyéni műfaji háttereket a zenei könyvtár műfaji csomópontjának böngészésekor.A fájlneveknek meg kell egyeznie a műfaji címkével.A kiterjesztésnek .jpg formátumúnak kell lennie."
+
+msgctxt "#31925"
+msgid "Pick one of the preset backgrounds or set your own images as the menu items background."
+msgstr "Válasszon egyet az előre beállított hátterek közül, vagy állítsa be saját képeit a menüelemek háttereként."
+
+msgctxt "#31926"
+msgid "Select add-ons, playlists or favourites. Choose 'Custom' for any of Kodi's built-in functions. (http://kodi.wiki/?title=List_of_Built_In_Functions)"
+msgstr "Válasszon kiegészítőket, lejátszási listákat vagy kedvenceket.Válassza az „Egyéni” lehetőséget a Kodi bármelyik beépített funkciójához.(http://kodi.wiki/?title=List_of_Built_In_Functions)"
+
+msgctxt "#31927"
+msgid "Resets all above values to their defaults."
+msgstr "Az összes fenti értéket visszaállítja az alapértelmezett értékükre."
+
+msgctxt "#31928"
+msgid "Aeon Tajo main menu layout"
+msgstr "Aeon Tajo főmenü elrendezése"
+
+msgctxt "#31929"
+msgid "This setting defines how much items will be visible on the main menu. Options are 3 items or 5 items."
+msgstr "Ez a beállítás határozza meg, hogy mennyi elem lesz látható a főmenüben.Választható: 3 vagy 5 elem."
+
+msgctxt "#31930"
+msgid "Choose a widget to display on the Home screen to have easy access to content from the library."
+msgstr "Válassza ki a kezdőképernyőn megjelenítendő widgetet, hogy könnyen hozzáférhessen a könyvtár tartalmához."
+
+msgctxt "#31931"
+msgid "Video plot preference"
+msgstr "Videó cselekmény preferenciája"
+
+msgctxt "#31932"
+msgid "Show plot outline in the library views and full plot in the video information dialog or vice versa. Falls back to full plot if no outline is available."
+msgstr "A cselekmény körvonalának megjelenítése a könyvtári nézetekben és a teljes cselekmény megjelenítése a videoinformációs párbeszédpanelen, vagy fordítva.Visszaesik a teljes cselekményre, ha nem áll rendelkezésre vázlat."
+
+msgctxt "#31933"
+msgid "Select an item to display on the left top of the main menu"
+msgstr "Válassza ki a főmenü bal felső részén megjelenítendő elemet"
+
+msgctxt "#31935"
+msgid "Switch places with another menu item. Opens a dialog with a list of menu items to choose from."
+msgstr "Helyet váltani egy másik menüponttal.Megnyit egy párbeszédpanelt a választható menüelemek listájával."
+
+msgctxt "#31937"
+msgid "Show the RSS feed on the bottom or top of the screen, depending on main menu position. Enabling this setting makes the submenu permanently visible."
+msgstr "Az RSS-hírcsatorna megjelenítése a képernyő alján vagy tetején, a főmenü helyzetétől függően.A beállítás engedélyezése az almenüt állandóan láthatóvá teszi."
+
+msgctxt "#31938"
+msgid "Enables extra information in the TV show library, like TV show status, next / latest episode, etc. Depends on TV Show Next Aired add-on."
+msgstr "További információkat engedélyez a TV-műsor-könyvtárban, például a TV-műsor állapotát, a következő/legutóbbi epizódot stb."
+
+msgctxt "#31939"
+msgid "Hide Infopanel on scrolling"
+msgstr "Az Infopanel elrejtése görgetéskor"
+
+msgctxt "#31940"
+msgid "Hides the infopanel for Showcase and Landscape view (if activated) while scrolling through the library. Set the amount of seconds to wait for the infopanel to appear when scrolling is stopped."
+msgstr "Elrejti az információs panelt a Kirakat és a Fekvő nézethez (ha aktiválva van), miközben görgeti a könyvtárat.Állítsa be, hogy a görgetés leállításakor mennyi másodpercig várjon az információs panel megjelenésére."
+
+msgctxt "#31941"
+msgid "Kiosk mode"
+msgstr "Kiosk mód"
+
+msgctxt "#31942"
+msgid "Disables the slide out menu (media menu) in the library as well as certain buttons in the media information dialogs. (Requires restart to take effect)"
+msgstr "Letiltja a kicsúsztatható menüt (média menü) a könyvtárban, valamint bizonyos gombokat a médiainformációs párbeszédablakban.(Újraindítás szükséges, hogy életbe lépjen)"
+
+msgctxt "#31943"
+msgid "Watched status indicator"
+msgstr "Figyelt állapotjelző"
+
+msgctxt "#31944"
+msgid "Choose which overlays to show on thumbs in icon based views. Note that the \"Resume\" flag takes precedent over any watched status."
+msgstr "Válassza ki, hogy mely fedvények jelenjenek meg a hüvelykujjakon az ikonalapú nézetekben.Vegye figyelembe, hogy a \"Folytatás\" jelző elsőbbséget élvez minden megfigyelt állapottal szemben."
+
+msgctxt "#31945"
+msgid "This toggles the layout of the List view. Default is a 7 item layout with extended info, \"Slim List\" is a 14 item, more basic layout"
+msgstr "Ezzel váltja a Lista nézet elrendezését.Az alapértelmezett egy 7 elemes elrendezés bővített információkkal, a \"Slim List\" egy 14 elemből álló, egyszerűbb elrendezés"
+
+msgctxt "#31950"
+msgid "WEATHER"
+msgstr "IDŐJÁRÁS"
+
+msgctxt "#31951"
+msgid "PICTURES"
+msgstr "KÉPEK"
+
+msgctxt "#31952"
+msgid "LIVE TV"
+msgstr "ÉLŐ TV"
+
+msgctxt "#31953"
+msgid "VIDEOS"
+msgstr "VIDEÓK"
+
+msgctxt "#31954"
+msgid "MOVIES"
+msgstr "FILMEK"
+
+msgctxt "#31955"
+msgid "TV SHOWS"
+msgstr "SOROZATOK"
+
+msgctxt "#31956"
+msgid "MUSIC"
+msgstr "ZENE"
+
+msgctxt "#31957"
+msgid "APPS"
+msgstr "ALKALMAZÁSOK"
+
+msgctxt "#31958"
+msgid "PLAY DISC"
+msgstr "LEMEZ LEJÁTSZÁSA"
+
+msgctxt "#31959"
+msgid "SYSTEM"
+msgstr "RENDSZER"
+
+msgctxt "#31960"
+msgid "CONCERTS"
+msgstr "KONCERTEK"
+
+msgctxt "#31961"
+msgid "Hide ratings in list views"
+msgstr "Értékelések elrejtése listanézetekben"
+
+msgctxt "#31962"
+msgid "This toggles the visibility of ratings in views of type List, LowList and TriPanel, except if sorted by rating."
+msgstr "Ez átkapcsolja az értékelések láthatóságát a List, LowList és TriPanel típusú nézetekben, kivéve, ha értékelés szerint vannak rendezve."
+
+msgctxt "#31964"
+msgid "NoTo"
+msgstr ""
+
+msgctxt "#31965"
+msgid "Setup main menu"
+msgstr "Beállítás főmenü"
+
+msgctxt "#31966"
+msgid "Customize the main menu with widgets, backgrounds, submenus and statistics. Add your own custom main menu items."
+msgstr "Testreszabhatja a főmenüt widgetekkel, hátterekkel, almenükkel és statisztikákkal.Adja hozzá saját egyéni főmenüpontjait."
+
+msgctxt "#31967"
+msgid "Skin addons"
+msgstr "Bőrkiegészítők"
+
+msgctxt "#31968"
+msgid "Addons used to enhance Aeon Tajo."
+msgstr "Az Aeon Tajo fejlesztésére használt kiegészítők."
+
+msgctxt "#31969"
+msgid "Skin options"
+msgstr "Bőr opciók"
+
+msgctxt "#31970"
+msgid "Setup of melodies, the way of showing widgets, themes and cast for movies/TV shows and other options."
+msgstr "A dallamok beállítása, a widgetek megjelenítésének módja, a témák és a filmek/TV-műsorok leadása, valamint egyéb lehetőségek."
+
+msgctxt "#31971"
+msgid "Colour of selected items"
+msgstr "A kiválasztott elemek színe"
+
+msgctxt "#31972"
+msgid "Youtube"
+msgstr "Youtube"
+
+msgctxt "#31973"
+msgid "Down for more"
+msgstr "Le többért"
+
+msgctxt "#31974"
+msgid "More movies featuring"
+msgstr "További filmek"
+
+msgctxt "#31975"
+msgid "More TV shows featuring"
+msgstr "További TV-műsorok"
+
+msgctxt "#31976"
+msgid "Image gallery"
+msgstr "Képgaléria"
+
+msgctxt "#31977"
+msgid "Years old"
+msgstr "Évek"
+
+msgctxt "#31978"
+msgid "Click for more"
+msgstr "Kattintson a továbbiakért"
+
+msgctxt "#31979"
+msgid "Left for more"
+msgstr "Többre hagyták"
+
+msgctxt "#31980"
+msgid "Right for more"
+msgstr "Többre jobb"
+
+msgctxt "#31981"
+msgid "Premiered"
+msgstr "Bemutató"
+
+msgctxt "#31982"
+msgid "Budget"
+msgstr "Költségvetés"
+
+msgctxt "#31983"
+msgid "Revenue"
+msgstr "Bevétel"
+
+msgctxt "#31984"
+msgid "Awards"
+msgstr "Díjak"
+
+msgctxt "#31985"
+msgid "Trending Movies"
+msgstr "Felkapott filmek"
+
+msgctxt "#31986"
+msgid "Upcoming Movies"
+msgstr "Megjelenő filmek"
+
+msgctxt "#31987"
+msgid "Now Playing Movies"
+msgstr "Most Filmek lejátszása"
+
+msgctxt "#31988"
+msgid "Top Rated Movies"
+msgstr "Top pontozott filmek"
+
+msgctxt "#31989"
+msgid "Popular Movies"
+msgstr "Népszerű filmek"
+
+msgctxt "#31990"
+msgid "Discover Movies"
+msgstr "Fedezze fel a filmeket"
+
+msgctxt "#31991"
+msgid "Trending Shows"
+msgstr "Felkapott műsorok"
+
+msgctxt "#31992"
+msgid "Top Rated Shows"
+msgstr "Legjobbra értékelt műsorok"
+
+msgctxt "#31993"
+msgid "Popular Shows"
+msgstr "Népszerű műsorok"
+
+msgctxt "#31994"
+msgid "Discover Shows"
+msgstr "Fedezze fel a műsorokat"
+
+msgctxt "#31995"
+msgid "3D view"
+msgstr "3D nézet"
+
+msgctxt "#31996"
+msgid "Extended view"
+msgstr "Kiterjesztett nézet"
+
+msgctxt "#31997"
+msgid "Simple view"
+msgstr "Egyszerű nézet"
+
+msgctxt "#31998"
+msgid "Classic lyrics"
+msgstr "Klasszikus dalszöveg"
+
+msgctxt "#31999"
+msgid "Screensaver Netflix style in media views"
+msgstr "Képernyővédő Netflix stílus a médianézetekben"
+
+msgctxt "#31245"
+msgid "When in idle state for two minutes within a media view, a fullscreen slideshow of movies, TV shows, or artists' fanarts will be displayed, according to the section being browsed."
+msgstr "Amikor két percig tétlen a médianézetben, a filmek, TV-műsorok vagy művészek fanartjainak teljes képernyős diavetítése jelenik meg a böngészés alatt álló szakasznak megfelelően."
+
+msgctxt "#31246"
+msgid "Play automatically trailers in video views"
+msgstr "Előzetesek automatikus lejátszása videónézetekben"
+
+msgctxt "#31247"
+msgid "When you browse the video views and pause on a movie or TV show for a few seconds, the trailer automatically plays in a window."
+msgstr "Ha a videónézetek között böngészik, és néhány másodpercre szünetet tart egy filmben vagy tévéműsorban, az előzetes automatikusan megjelenik egy ablakban."
+
+msgctxt "#31248"
+msgid "All devices"
+msgstr "Minden eszköz"
+
+msgctxt "#31249"
+msgid "Powerful devices"
+msgstr "Erőteljes eszközök"
+
+msgctxt "#31255"
+msgid "Most powerful devices"
+msgstr "A legerősebb eszközök"
+
+msgctxt "#31256"
+msgid "Delay 5 seconds"
+msgstr "5 másodperc késleltetés"
+
+msgctxt "#31257"
+msgid "Delay 12 seconds"
+msgstr "12 másodperc késleltetés"
+
+msgctxt "#31258"
+msgid "Info view 2"
+msgstr "Információs nézet 2"
+
+msgctxt "#31259"
+msgid "Info view 1"
+msgstr "Információs nézet 1"
+
+msgctxt "#31260"
+msgid "Play automatically songs while browsing music"
+msgstr "A zeneszámok automatikus lejátszása zene böngészése közben"
+
+msgctxt "#31261"
+msgid "Enable automatic playback of songs from the current artist or album as background music while browsing music views."
+msgstr "Engedélyezze az aktuális előadó vagy album dalainak automatikus lejátszását háttérzeneként a zenenézetek böngészése közben."
+
+msgctxt "#31262"
+msgid "Set path to use another melodies music folder"
+msgstr "Állítsa be az elérési utat egy másik dallam-zene mappa használatához"
+
+msgctxt "#31263"
+msgid "Clear current path and back to default melodies music folder"
+msgstr "Törölje az aktuális elérési utat, és térjen vissza az alapértelmezett dallamok zenei mappájához"
+
+msgctxt "#31264"
+msgid "Play melodies while in Home & Settings screens"
+msgstr "Játssz dallamokat a Kezdőlap és a Beállítások képernyőn"
+
+msgctxt "#31265"
+msgid "Show only background"
+msgstr "Csak a háttér megjelenítése"
+
+msgctxt "#31266"
+msgid "TheMovieDb Helper provides data to display online ratings and additional information for movies and TV shows"
+msgstr "A MovieDb Helper adatokat szolgáltat az online értékelések és további információk megjelenítéséhez filmekhez és tévéműsorokhoz"
+
+msgctxt "#31267"
+msgid "Show online ratings for movies and TV shows"
+msgstr "Online értékelések megjelenítése filmekhez és tévéműsorokhoz"
+
+msgctxt "#31268"
+msgid "You have to restart Kodi for this option to take effect once the option has been activated. TMDb and Trakt should work out of the box. Metacritic and Rottentomatoes ratings require an OMDb API key. Get an OMDb API Key at http://www.omdbapi.com/apikey.aspx and afterward input the OMDb API Key into the TheMovieDb Helper settings."
+msgstr "Újra kell indítania a Kodi-t, hogy ez az opció érvénybe lépjen, miután az opciót aktiválták.A TMDb-nek és a Trakt-nak a dobozból kell működnie.A Metacritic és Rottentomatoes besorolásához OMDb API-kulcs szükséges.Szerezzen be egy OMDb API kulcsot a http://www.omdbapi.com/apikey.aspx címen, majd adja meg az OMDb API kulcsot a TheMovieDb Helper beállításaiban."
+
+msgctxt "#31269"
+msgid "Resource image addon for displaying coloured studio icons throughout the skin."
+msgstr "Erőforrás képkiegészítő színes stúdióikonok megjelenítéséhez a bőrön."
+
+msgctxt "#31270"
+msgid "Show colour icons for audio/video information"
+msgstr "Színes ikonok megjelenítése audio/video információkhoz"
+
+msgctxt "#31271"
+msgid "Show extra features for movies and TV shows"
+msgstr "Extra funkciók megjelenítése filmekhez és tévéműsorokhoz"
+
+msgctxt "#31272"
+msgid "Display the additional features (media files) placed by the user in the 'extras' folder for a movie or TV show. Remember to modify your advancedsettings.xml file if needed."
+msgstr "Megjeleníti a felhasználó által a film vagy tévéműsor „extrák” mappájába helyezett további szolgáltatásokat (médiafájlokat).Szükség esetén ne felejtse el módosítani az advancedsettings.xml fájlt."
+
+msgctxt "#31273"
+msgid "Show extras"
+msgstr "Mutasd az extrákat"
+
+msgctxt "#31274"
+msgid "Enable shifting colours effect in the default Aeon Tajo's background"
+msgstr "Változó színhatás engedélyezése az alapértelmezett Aeon Tajo hátterében"
+
+msgctxt "#31275"
+msgid "Activate a shifting colours effect in the default Aeon Tajo's background (only in the Home screen)."
+msgstr "Változó színhatás aktiválása az alapértelmezett Aeon Tajo hátterében (csak a Kezdőképernyőn)."
+
+msgctxt "#31276"
+msgid "Name of user's additional features folder (if different to 'extras')"
+msgstr "A felhasználó további szolgáltatások mappájának neve (ha eltér az „extrák”-tól)"
+
+msgctxt "#31277"
+msgid "Select image to show as background instead of default"
+msgstr "Válassza ki az alapértelmezett helyett háttérként megjelenítendő képet"
+
+msgctxt "#31278"
+msgid "Browse for image"
+msgstr "Tallózás a képért"
+
+msgctxt "#31279"
+msgid "Play music videos"
+msgstr "Zenei videók lejátszása"
+
+msgctxt "#31280"
+msgid "Play local albums"
+msgstr "Helyi albumok lejátszása"
+
+msgctxt "#31281"
+msgid "Play songs"
+msgstr "Dalok lejátszása"
+
+msgctxt "#31282"
+msgid "Blurred album image as background"
+msgstr "Elmosódott album kép háttérként"
+
+msgctxt "#31283"
+msgid "Browse for path"
+msgstr "Keresse meg az elérési utat"
+
+msgctxt "#31284"
+msgid "Show extra features for music albums"
+msgstr "Extra funkciók megjelenítése zenei albumokhoz"
+
+msgctxt "#31285"
+msgid "Display the additional features (media files) placed by the user in the 'extras' folder for a music album. Remember to modify your advancedsettings.xml file if needed."
+msgstr "Jelenítse meg a felhasználó által a zenei album „extrák” mappájában elhelyezett további szolgáltatásokat (médiafájlokat).Szükség esetén ne felejtse el módosítani az advancedsettings.xml fájlt."
+
+msgctxt "#31286"
+msgid "When you browse the video views and pause on a movie or TV show for a few seconds, the main theme automatically plays in the background. This feature requires the user to place an mp3 file with the theme in the root folder of the movie or TV show. This file must be named theme.mp3."
+msgstr "Ha a videónézetek között böngészik, és néhány másodpercre szünetet tart egy filmben vagy tévéműsorban, a fő téma automatikusan lejátszásra kerül a háttérben.Ez a funkció megköveteli, hogy a felhasználó elhelyezzen egy mp3 fájlt a témával a film vagy tévéműsor gyökérmappájába.Ennek a fájlnak theme.mp3-nak kell lennie."
+
+msgctxt "#31287"
+msgid "Shows the normal poster (poster.jpg) in movies and TV shows views."
+msgstr "A normál posztert (poster.jpg) mutatja filmek és tévéműsorok nézeteiben."
+
+msgctxt "#31288"
+msgid "Shows the animated poster (animatedposter.gif) in movies and TV shows views."
+msgstr "Megjeleníti az animált posztert (animatedposter.gif) filmek és tévéműsorok nézeteiben."
+
+msgctxt "#31289"
+msgid "Shows the available extra posters (poster1.jpg, poster2.jpg, poster3.jpg...) in movies and TV shows views."
+msgstr "Megjeleníti az elérhető extra posztereket (poster1.jpg, poszter2.jpg, poszter3.jpg...) filmek és tévéműsorok nézeteiben."
+
+msgctxt "#31290"
+msgid "Thanks for using Aeon Tajo—I really hope you’re enjoying it. Creating and maintaining a Kodi skin like this takes hundreds of hours of work. If Aeon Tajo is something you enjoy and find useful, supporting it helps me keep working on it and ensures it can continue evolving in the future. [CR][CR]If you decide to do so, you’ll receive frequent updates with new features and bug fixes, along with videos, media packs, and easy-to-follow articles with detailed tips to help you get the most out of everything Aeon Tajo has to offer, together with my sincere gratitude for your support. [CR][CR]For more information, visit [B][COLOR=themecolor]patreon.com[/B][/COLOR] and search for the creator [COLOR=themecolor][B]Aeon Tajo[/B][/COLOR], or go to [COLOR=themecolor][B]patreon.com/aeontajo[/B][/COLOR].[CR][CR]Thanks!"
+msgstr "Köszönjük, hogy az Aeon Tajo-t használja – nagyon remélem, hogy élvezi.Egy ilyen Kodi-bőr létrehozása és karbantartása több száz órát vesz igénybe.Ha az Aeon Tajo-t szereted és hasznosnak találod, akkor ennek támogatása segít tovább dolgozni rajta, és biztosítja, hogy a jövőben is fejlődni tudjon.[CR][CR]Ha így dönt, gyakran kap frissítéseket új funkciókkal és hibajavításokkal, valamint videókat, médiacsomagokat és könnyen követhető cikkeket, amelyek részletes tippeket tartalmaznak, amelyek segítségével a legtöbbet hozhatja ki az Aeon Tajo által kínált lehetőségekből, valamint őszinte köszönetemet a támogatásért.[CR][CR]További információért látogasson el a [B][COLOR=themecolor]patreon.com[/B][/COLOR] oldalra, és keresse meg az alkotót [COLOR=themecolor][B]Aeon Tajo[/B][/COLOR], vagy keresse fel a [COLOR=themecolor][B]patreon.com/aeontajoo[/B][CR]ORThan]"
+
+msgctxt "#31291"
+msgid "Blurred album image as background in music visualisation screen"
+msgstr "Elmosódott albumkép háttérként a zenevizualizációs képernyőn"
+
+msgctxt "#31292"
+msgid "Hide watched mark in video views"
+msgstr "A megtekintett jel elrejtése a videónézetekben"
+
+msgctxt "#31293"
+msgid "Disclaimer: Aeon Tajo does not provide any media content or sources. Users must provide their own content. Support will not be provided for any 'builds' nor online addons that offer copyrighted content."
+msgstr "Jogi nyilatkozat: Az Aeon Tajo nem biztosít semmilyen médiatartalmat vagy forrást.A felhasználóknak saját tartalmat kell biztosítaniuk.A szerzői jog által védett tartalmat kínáló „építmények” vagy online kiegészítők nem kapnak támogatást."
+
+msgctxt "#31294"
+msgid "Change to "
+msgstr "Váltás erre"
+
+msgctxt "#31295"
+msgid "Remember that you should adapt your advancedsetting.xml file to reflect this change, so as to prevent your extras content to be added inadvertently to the Kodi library."
+msgstr "Ne feledje, hogy az advancedsetting.xml fájlt úgy kell módosítania, hogy tükrözze ezt a változást, hogy elkerülje, hogy az extra tartalmat véletlenül hozzáadják a Kodi-könyvtárhoz."
+
+msgctxt "#31296"
+msgid "Filmstrip"
+msgstr ""
+
+msgctxt "#31297"
+msgid "Select + Right Stick"
+msgstr "Válassza a + Jobb oldali kar lehetőséget"
+
+msgctxt "#31298"
+msgid "Vertical Home menu"
+msgstr "Függőleges főmenü"
+
+msgctxt "#31299"
+msgid "Eject disc"
+msgstr "Lemez kiadása"
+
+msgctxt "#31302"
+msgid "Play with PreShow"
+msgstr "Játssz a PreShow-val"
+
+msgctxt "#31303"
+msgid "Highlighted text colour"
+msgstr "Kiemelt szöveg színe"
+
+msgctxt "#31304"
+msgid "Marks colour"
+msgstr "Jelöli a színt"
+
+msgctxt "#31305"
+msgid "Current"
+msgstr "Aktuális"
+
+msgctxt "#31306"
+msgid "Selected"
+msgstr "Kiválasztva"
+
+msgctxt "#31311"
+msgid "Watched mark shape"
+msgstr "Figyelt jel alakja"
+
+msgctxt "#31312"
+msgid "Sliding background fanarts"
+msgstr "Csúszó háttér fanarts"
+
+msgctxt "#31313"
+msgid "Kodi add-ons settings"
+msgstr "Kodi-bővítmények beállításai"
+
+msgctxt "#31314"
+msgid "Install and update add-ons"
+msgstr "Kiegészítők telepítése és frissítése"
+
+msgctxt "#31315"
+msgid "Download add-ons"
+msgstr "Bővítmények letöltése"
+
+msgctxt "#31316"
+msgid "Show Browser"
+msgstr "Böngésző megjelenítése"
+
+msgctxt "#31318"
+msgid "Hide Browser"
+msgstr "Böngésző elrejtése"
+
+msgctxt "#31319"
+msgid "Narrow view"
+msgstr "Szűk nézet"
+
+msgctxt "#31322"
+msgid "Wide view"
+msgstr "Széles kilátás"
+
+msgctxt "#31323"
+msgid "Actors in other movies and TV shows"
+msgstr "Más filmek és tévéműsorok szereplői"
+
+msgctxt "#31324"
+msgid "Show similar movies/TV shows and artists/albums"
+msgstr "Hasonló filmek/TV-műsorok és előadók/albumok megjelenítése"
+
+msgctxt "#31325"
+msgid "Opens a new window in some video/music views showing other movies/TV shows or artists/albums similar or related to the current item."
+msgstr "Új ablakot nyit meg néhány videó/zene nézetben, amely más filmeket/tévéműsorokat vagy előadókat/albumokat mutat, amelyek hasonlóak vagy kapcsolódnak az aktuális elemhez."
+
+msgctxt "#31326"
+msgid "Show similar"
+msgstr "Hasonló mutatása"
+
+msgctxt "#31327"
+msgid "Classic"
+msgstr "Klasszikus"
+
+msgctxt "#31329"
+msgid "Similar albums"
+msgstr "Hasonló albumok"
+
+msgctxt "#31330"
+msgid "No similar found"
+msgstr "Nem találtunk hasonlót"
+
+msgctxt "#31333"
+msgid "Wikipedia"
+msgstr "Wikipédia"
+
+msgctxt "#31337"
+msgid "Click to select and open article's links"
+msgstr "Kattintson ide a cikk hivatkozásainak kiválasztásához és megnyitásához"
+
+msgctxt "#31338"
+msgid "Click to search..."
+msgstr "Kattintson a kereséshez..."
+
+msgctxt "#31339"
+msgid "Add/update music video links"
+msgstr "Zenei videó linkek hozzáadása/frissítése"
+
+msgctxt "#31340"
+msgid "[B]CONFIGURE GAME SETTINGS[/B][CR][CR]Change gameplay options[CR]Keyboard settings · Configure rewind settings"
+msgstr "[B]JÁTÉKBEÁLLÍTÁSOK KONFIGURÁLÁSA[/B][CR][CR]Játékbeállítások módosítása[CR]Billentyűzet beállításai · A visszatekerés beállításainak konfigurálása"
+
+msgctxt "#31341"
+msgid "Narrow list"
+msgstr "Szűk lista"
+
+msgctxt "#31342"
+msgid "Wide list"
+msgstr "Széles lista"
+
+msgctxt "#31343"
+msgid "Update videolinks"
+msgstr "Videólinkek frissítése"
+
+msgctxt "#31344"
+msgid "Play all music videos"
+msgstr "Az összes zenei videó lejátszása"
+
+msgctxt "#31345"
+msgid "No bookmarks created yet"
+msgstr "Még nincsenek könyvjelzők létrehozva"
+
+msgctxt "#31346"
+msgid "Choose where to start"
+msgstr "Válassza ki, hol kezdje"
+
+msgctxt "#31347"
+msgid "Browse the list and click"
+msgstr "Böngésszen a listában, és kattintson"
+
+msgctxt "#31348"
+msgid "Show OSD controls"
+msgstr "OSD vezérlők megjelenítése"
+
+msgctxt "#31349"
+msgid "Preparing list of music videos, please wait..."
+msgstr "Zenei videók listájának előkészítése, kérjük, várjon..."
+
+msgctxt "#31350"
+msgid "Songs party mode"
+msgstr "Dalok party módban"
+
+msgctxt "#31351"
+msgid "Videolinks party mode"
+msgstr "Videolinks party mód"
+
+msgctxt "#31352"
+msgid "No videolinks found"
+msgstr "Nem található videolink"
+
+msgctxt "#31353"
+msgid "Click or arrow keys while playing to show the OSD"
+msgstr "Kattintson a vagy a nyílbillentyűkre lejátszás közben az OSD megjelenítéséhez"
+
+msgctxt "#31354"
+msgid "While playing..."
+msgstr "Játék közben..."
+
+msgctxt "#31355"
+msgid "Click or arrow keys to show the OSD"
+msgstr "Kattintson a vagy a nyílbillentyűkre az OSD megjelenítéséhez"
+
+msgctxt "#31356"
+msgid "Shows the normal thumb (folder.jpg) in artists and albums music views."
+msgstr "A normál hüvelykujj (folder.jpg) megjelenítése az előadók és az albumok zenei nézeteiben."
+
+msgctxt "#31357"
+msgid "Shows the animated thumb (animatedthumb.gif) in artists and albums music views."
+msgstr "Az animált hüvelykujj (animatedthumb.gif) megjelenítése az előadók és az albumok zenei nézeteiben."
+
+msgctxt "#31358"
+msgid "Show a colour strip code on video elements"
+msgstr "Színcsík kód megjelenítése a videóelemeken"
+
+msgctxt "#31359"
+msgid "Allows to quickly identify video file quality using a colour strip code when browsing movies and episodes in video views"
+msgstr "Lehetővé teszi a videofájl minőségének gyors azonosítását színes csík kód segítségével, amikor filmeket és epizódokat böngész a videónézetekben"
+
+msgctxt "#31360"
+msgid "Library using Global Search"
+msgstr "Könyvtár a Global Search segítségével"
+
+msgctxt "#31361"
+msgid "TheMovieDB"
+msgstr ""
+
+msgctxt "#31362"
+msgid "Most Voted Movies"
+msgstr "A legtöbb szavazatot kapott filmek"
+
+msgctxt "#31363"
+msgid "Crew"
+msgstr "Legénység"
+
+msgctxt "#31364"
+msgid "Most Voted Shows"
+msgstr "A legtöbb szavazatot kapott műsorok"
+
+msgctxt "#31365"
+msgid "Random Shows"
+msgstr "Véletlenszerű műsorok"
+
+msgctxt "#31366"
+msgid "Random Artists"
+msgstr "Véletlenszerű művészek"
+
+msgctxt "#31367"
+msgid "Online info from TheMovieDB.org for videos"
+msgstr "Online információk a TheMovieDB.org webhelyről videókhoz"
+
+msgctxt "#31368"
+msgid "Get online info from TheMovieDB.org in movie and TVshow's info screen and widgets"
+msgstr "Szerezzen online információkat a TheMovieDB.org webhelyről a filmek és tévéműsorok információs képernyőjén és kütyüjében"
+
+msgctxt "#31369"
+msgid "Snow effect - Off"
+msgstr "Hóeffektus – Ki"
+
+msgctxt "#31370"
+msgid "Snow effect - Light"
+msgstr "Hóhatás - Fény"
+
+msgctxt "#31371"
+msgid "Snow effect - Medium"
+msgstr "Hóhatás - Közepes"
+
+msgctxt "#31372"
+msgid "Snow effect - Heavy"
+msgstr "Hóhatás - Nehéz"
+
+msgctxt "#31373"
+msgid "Snow effect - Blizzard"
+msgstr "Hóhatás - Blizzard"
+
+msgctxt "#31374"
+msgid "Click or arrow keys to exit"
+msgstr "A kilépéshez kattintson a vagy a nyílbillentyűkre"
+
+msgctxt "#31375"
+msgid "Rewind"
+msgstr "Visszatekerés"
+
+msgctxt "#31376"
+msgid "Fast forward"
+msgstr "Gyors előre"
+
+msgctxt "#31377"
+msgid "Step back"
+msgstr "Lépj hátra"
+
+msgctxt "#31378"
+msgid "Step forward"
+msgstr "Lépj előre"
+
+msgctxt "#31379"
+msgid "Previous chapter"
+msgstr "Előző fejezet"
+
+msgctxt "#31380"
+msgid "Next chapter"
+msgstr "Következő fejezet"
+
+msgctxt "#31381"
+msgid "Previous channel"
+msgstr "Előző csatorna"
+
+msgctxt "#31382"
+msgid "Next channel"
+msgstr "Következő csatorna"
+
+msgctxt "#31383"
+msgid "Show lyrics"
+msgstr "Dalszöveg megjelenítése"
+
+msgctxt "#31384"
+msgid "Hide lyrics"
+msgstr "Dalszöveg elrejtése"
+
+msgctxt "#31385"
+msgid "Adjust lyrics"
+msgstr "Állítsa be a dalszövegeket"
+
+msgctxt "#31386"
+msgid "Hide resumable mark in video views"
+msgstr "A folytatás jelének elrejtése a videónézetekben"
+
+msgctxt "#31387"
+msgid "Hide unwatched mark in video views"
+msgstr "A meg nem nézett jelölés elrejtése a videónézetekben"
+
+msgctxt "#31388"
+msgid "Hide episodes unwatched mark in video views"
+msgstr "A meg nem nézett epizódok elrejtése a videónézetekben"
+
+msgctxt "#31389"
+msgid "Same director"
+msgstr "Ugyanaz a rendező"
+
+msgctxt "#31391"
+msgid "'Down' to show similars"
+msgstr "„Le” a hasonlóságok megjelenítéséhez"
+
+msgctxt "#31392"
+msgid "'Right' to show similars"
+msgstr "„Joga” hasonlókat mutatni"
+
+msgctxt "#31393"
+msgid "Show logos"
+msgstr "Logók megjelenítése"
+
+msgctxt "#31394"
+msgid "Show only titles"
+msgstr "Csak a címek megjelenítése"
+
+msgctxt "#31395"
+msgid "Play automatically video links in song views"
+msgstr "Videohivatkozások automatikus lejátszása a dalnézetekben"
+
+msgctxt "#31396"
+msgid "When you browse song views and stop for a few seconds, the video link for that song will play automatically (if available)."
+msgstr "Amikor böngészi a dalnézeteket, és megáll néhány másodpercre, az adott dalhoz tartozó videolink automatikusan lejátszásra kerül (ha elérhető)."
+
+msgctxt "#31397"
+msgid "User reviews"
+msgstr "Felhasználói vélemények"
+
+msgctxt "#31398"
+msgid "Horizontal Home menu"
+msgstr "Vízszintes főmenü"
+
+msgctxt "#31399"
+msgid "Simple Home menu"
+msgstr "Egyszerű Kezdőlap menü"
+
+msgctxt "#31403"
+msgid "Widget type"
+msgstr "Widget típusa"
+
+msgctxt "#31404"
+msgid "Small widgets..."
+msgstr "Kis kütyü..."
+
+msgctxt "#31408"
+msgid "Fullscreen widgets..."
+msgstr "Teljes képernyős widgetek..."
+
+msgctxt "#31411"
+msgid "Force view..."
+msgstr "Nézet kényszerítése..."
+
+msgctxt "#31416"
+msgid "A view can't be disabled when is selected as \"forced\" for some media."
+msgstr "Egy nézet nem tiltható le, ha bizonyos médiáknál \"kényszerített\" van kiválasztva."
+
+msgctxt "#31417"
+msgid "Only views that are not marked as disabled can be forced."
+msgstr "Csak a nem tiltottként megjelölt nézetek kényszeríthetők ki."
+
+msgctxt "#31418"
+msgid "Don't force views"
+msgstr "Ne erőltesse a nézeteket"
+
+msgctxt "#31419"
+msgid "Forced view"
+msgstr "Kényszernézet"
+
+msgctxt "#31420"
+msgid "Enable or disable views"
+msgstr "Nézetek engedélyezése vagy letiltása"
+
+msgctxt "#31422"
+msgid "No embedded subs"
+msgstr "Nincsenek beágyazott feliratkozások"
+
+msgctxt "#31423"
+msgid "Auto-open audio/subtitle selector at video start"
+msgstr "A hang/feliratválasztó automatikus megnyitása a videó indításakor"
+
+msgctxt "#31424"
+msgid "Automatically opens an audio and subtitle selector when starting playback of movies and episodes, allowing you to see which tracks are active and change them directly before continuing."
+msgstr "A filmek és epizódok lejátszásakor automatikusan megnyit egy hang- és feliratválasztót, lehetővé téve, hogy megnézze, mely műsorszámok aktívak, és közvetlenül módosíthatja azokat, mielőtt folytatná."
+
+msgctxt "#31425"
+msgid "Search music video links for songs not in your library"
+msgstr "Keressen zenei videók linkjein olyan zeneszámokat, amelyek nincsenek a könyvtárában"
+
+msgctxt "#31426"
+msgid "Similar artists on your library"
+msgstr "Hasonló művészek a könyvtárában"
+
+msgctxt "#31435"
+msgid "Albums by this artist in your library"
+msgstr "Az előadó albumai a könyvtáradban"
+
+msgctxt "#31436"
+msgid "Online info from TheAudioDB.com for music"
+msgstr "Online információ a TheAudioDB.com webhelyről a zenéhez"
+
+msgctxt "#31437"
+msgid "Get online information from TheAudioDB.com on the artist and album information screen"
+msgstr "Szerezzen online információkat a TheAudioDB.com webhelyről az előadó- és albuminformációs képernyőn"
+
+msgctxt "#31438"
+msgid "TheAudioDb Helper supplies online data and artwork to display enhanced details for artists and music albums."
+msgstr "Az AudioDb Helper online adatokat és grafikákat biztosít az előadók és zenei albumok részletesebb megjelenítéséhez."
+
+msgctxt "#31439"
+msgid "Record label"
+msgstr "Lemezkiadó"
+
+msgctxt "#31440"
+msgid "Last.fm Plays"
+msgstr "Last.fm Plays"

@@ -1,0 +1,2224 @@
+# Kodi Media Center language file
+# Addon Name: Aeon Tajo
+# Addon id: skin.aeon.tajo
+# Addon Provider: manfeed
+msgid ""
+msgstr ""
+"Project-Id-Version: KODI Skins\n"
+"POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2026-03-28 23:42+0000\n"
+"Last-Translator: manfeed <aeon.tajo@gmail.com>\n"
+"Language-Team: Norwegian Bokmål  <aeon.tajo@gmail.com>\n"
+"Language: nb_no\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+msgctxt "Addon Summary"
+msgid "Aeon Tajo"
+msgstr ""
+
+msgctxt "Addon Description"
+msgid "Aeon Tajo: Changes everything so that nothing changes. Inspired on Aeon Nox 5 (thanks to BigNoid)."
+msgstr "Aeon Tajo: Endrer alt slik at ingenting endres.Inspirert på Aeon Nox 5 (takket være BigNoid)."
+
+msgctxt "Addon Disclaimer"
+msgid "Mouse control is supported, althoug not recommended. It may not work correctly in all cases."
+msgstr "Musekontroll støttes, selv om det ikke anbefales.Det kan hende det ikke fungerer riktig i alle tilfeller."
+
+msgctxt "#31000"
+msgid "Directed by"
+msgstr "Regissert av"
+
+msgctxt "#31001"
+msgid "Written by"
+msgstr "Skrevet av"
+
+msgctxt "#31002"
+msgid "Blurred album thumb"
+msgstr "Suddet album miniatyrbilde"
+
+msgctxt "#31003"
+msgid "Power Options"
+msgstr "Strømalternativer"
+
+msgctxt "#31004"
+msgid "Working"
+msgstr "Arbeider"
+
+msgctxt "#31005"
+msgid "Fixed"
+msgstr "Låst"
+
+msgctxt "#31006"
+msgid "View Options"
+msgstr "Visningsalternativer"
+
+msgctxt "#31007"
+msgid "Setup home"
+msgstr "Konfigurer hjem"
+
+msgctxt "#31008"
+msgid "Full screen"
+msgstr "Fullskjerm"
+
+msgctxt "#31009"
+msgid "Total Duration"
+msgstr "Total varighet"
+
+msgctxt "#31010"
+msgid "Next episode"
+msgstr "Neste episode"
+
+msgctxt "#31011"
+msgid "Latest episode"
+msgstr "Siste episode"
+
+msgctxt "#31012"
+msgid "Airs"
+msgstr "Vises"
+
+msgctxt "#31013"
+msgid "Statistics"
+msgstr "Statistikker"
+
+msgctxt "#31014"
+msgid "Extras"
+msgstr "Annet"
+
+msgctxt "#31015"
+msgid "Set path to video genre fanart folder"
+msgstr "Sett banen til videosjanger fanart mappen"
+
+msgctxt "#31016"
+msgid "Poster"
+msgstr "Plakat"
+
+msgctxt "#31017"
+msgid "Set path to music genre fanart folder"
+msgstr "Sett banen til musikksjanger fanart mappen"
+
+msgctxt "#31018"
+msgid "InfoPanel"
+msgstr "InfoPanel"
+
+msgctxt "#31019"
+msgid "Network"
+msgstr "Nettverk"
+
+msgctxt "#31020"
+msgid "Extra-fanart"
+msgstr "Ekstra fanart"
+
+msgctxt "#31021"
+msgid "Stage curtains"
+msgstr "Sceneteppe"
+
+msgctxt "#31022"
+msgid "Set multi-image background"
+msgstr "Sett multi-bilde bakgrunn"
+
+msgctxt "#31023"
+msgid "Set single image background"
+msgstr "Sett et enkelt bilde som bakgrunn"
+
+msgctxt "#31024"
+msgid "Page"
+msgstr "Side"
+
+msgctxt "#31025"
+msgid "Items"
+msgstr "Elementer"
+
+msgctxt "#31026"
+msgid "Misc Options"
+msgstr "Øvrige alternativer"
+
+msgctxt "#31027"
+msgid "Set item background"
+msgstr "Sett elementbakgrunn"
+
+msgctxt "#31028"
+msgid "Live DVD Cases"
+msgstr "Live DVD cover"
+
+msgctxt "#31029"
+msgid "Recent Movies"
+msgstr "Nylige filmer"
+
+msgctxt "#31030"
+msgid "Recent Episodes"
+msgstr "Nylige episoder"
+
+msgctxt "#31031"
+msgid "Random Movies"
+msgstr "Tilfeldige filmer"
+
+msgctxt "#31032"
+msgid "Recommended Movies"
+msgstr "Anbefalte filmer"
+
+msgctxt "#31033"
+msgid "Random Episodes"
+msgstr "Tilfeldige episoder"
+
+msgctxt "#31034"
+msgid "Recommended Episodes"
+msgstr "Anbefalte episoder"
+
+msgctxt "#31035"
+msgid "Random Songs"
+msgstr "Tilfeldige sanger"
+
+msgctxt "#31036"
+msgid "Random Albums"
+msgstr "Tilfeldige album"
+
+msgctxt "#31037"
+msgid "Recent Albums"
+msgstr "Nylige album"
+
+msgctxt "#31038"
+msgid "Recommended Albums"
+msgstr "Anbefalte album"
+
+msgctxt "#31039"
+msgid "Actions"
+msgstr "Valg"
+
+msgctxt "#31040"
+msgid "Now Playing"
+msgstr "Nå spilles"
+
+msgctxt "#31041"
+msgid "Select widget"
+msgstr "Velg miniprogram"
+
+msgctxt "#31042"
+msgid "Show \"Now Playing\" information blended in the background"
+msgstr "Vis \"Spilles nå\" informasjon blandet inn i bakgrunnen"
+
+msgctxt "#31043"
+msgid "Platform"
+msgstr "Plattform"
+
+msgctxt "#31044"
+msgid "Views: Plot outline | Info dialog: Full plot"
+msgstr "Visninger: Sammendrag | Info dialog: Full handling"
+
+msgctxt "#31045"
+msgid "Views: Full plot | Info dialog: Plot outline"
+msgstr "Visninger: Full handling | Info dialog: Sammendrag"
+
+msgctxt "#31046"
+msgid "SEEKING"
+msgstr "SØKER"
+
+msgctxt "#31047"
+msgid "Set item icon"
+msgstr "Set elementikon"
+
+msgctxt "#31048"
+msgid "Visualisation Presets"
+msgstr "Forhåndsinnstilt visualiseringer"
+
+msgctxt "#31049"
+msgid "Select infoline"
+msgstr "Velg infolinje"
+
+msgctxt "#31050"
+msgid "Sort: Ascending"
+msgstr "Sorter: Stigende"
+
+msgctxt "#31051"
+msgid "Sort: Descending"
+msgstr "Sorter: Synkende"
+
+msgctxt "#31052"
+msgid "Movie library statistics"
+msgstr "Statistikk for filmbibliotek"
+
+msgctxt "#31053"
+msgid "TV Show library statistics"
+msgstr "Statistikk for TV bibliotek"
+
+msgctxt "#31054"
+msgid "Music library statistics"
+msgstr "Statistikk for musikkbibliotek"
+
+msgctxt "#31055"
+msgid "Open playlist"
+msgstr "Åpne spilleliste"
+
+msgctxt "#31056"
+msgid "Save playlist"
+msgstr "Lagre spilleliste"
+
+msgctxt "#31057"
+msgid "Close playlist"
+msgstr "Lukk spilleliste"
+
+msgctxt "#31058"
+msgid "PVR information"
+msgstr "PVR informasjon"
+
+msgctxt "#31059"
+msgid "Install Artist Slideshow add-on to enable this feature"
+msgstr "Installer Artist Fremvisning utvidelse for å aktivere denne funksjonen"
+
+msgctxt "#31060"
+msgid "This file is stacked, select the part you want to play from."
+msgstr "Denne fil er stablet, velg den delen du vil spille."
+
+msgctxt "#31061"
+msgid "Favourites statistics"
+msgstr "Favorittstatistikk"
+
+msgctxt "#31062"
+msgid "Random movie fanart"
+msgstr "Tilfeldig film fanart"
+
+msgctxt "#31063"
+msgid "Random TV show fanart"
+msgstr "Tilfeldig TV-serie fanart"
+
+msgctxt "#31064"
+msgid "Random video fanart"
+msgstr "Tilfeldig video fanart"
+
+msgctxt "#31065"
+msgid "Random music fanart"
+msgstr "Tilfeldig musikk fanart"
+
+msgctxt "#31066"
+msgid "Random fanart"
+msgstr "Tilfeldig fanart"
+
+msgctxt "#31067"
+msgid "Update rating"
+msgstr "Oppdater vurdering"
+
+msgctxt "#31068"
+msgid "CD Wall"
+msgstr "CD vegg"
+
+msgctxt "#31069"
+msgid "Change location"
+msgstr "Endre plassering"
+
+msgctxt "#31070"
+msgid "Enable Cinema Experience integration"
+msgstr "Aktiver Cinema Experience integrering"
+
+msgctxt "#31071"
+msgid "While browsing the library"
+msgstr "Mens man blar gjennom biblioteket"
+
+msgctxt "#31072"
+msgid "On open video info"
+msgstr "Ved åpen video info"
+
+msgctxt "#31073"
+msgid "Move menu item"
+msgstr "Flytt menyelement"
+
+msgctxt "#31074"
+msgid "Choose item to swap places with"
+msgstr "Velg element å bytte plassering med"
+
+msgctxt "#31075"
+msgid "No extra features available"
+msgstr "Ingen ekstra funksjoner tilgjengelig"
+
+msgctxt "#31076"
+msgid "Landscape"
+msgstr "Landskap"
+
+msgctxt "#31077"
+msgid "ShowCase"
+msgstr "ShowCase"
+
+msgctxt "#31078"
+msgid "TriPanel"
+msgstr "TriPanel"
+
+msgctxt "#31079"
+msgid "Shift"
+msgstr "Skift"
+
+msgctxt "#31080"
+msgid "Manage submenu"
+msgstr "Håndter undermeny"
+
+msgctxt "#31081"
+msgid "Enable custom submenus"
+msgstr "Aktiver tilpassede undermenyer"
+
+msgctxt "#31082"
+msgid "Detach RSS feed from the main menu"
+msgstr "Løs ut RSS strøm fra hovedmenyen"
+
+msgctxt "#31083"
+msgid "Enable Next Aired information in the videolibrary"
+msgstr "Aktiver Vises Neste Gang informasjon i videobiblioteket"
+
+msgctxt "#31084"
+msgid "Conditional weather"
+msgstr "Betinget vær"
+
+msgctxt "#31085"
+msgid "Musicvideo library statistics"
+msgstr "Statistikk for musikkvideo biblioteket"
+
+msgctxt "#31086"
+msgid "Icon"
+msgstr "Ikon"
+
+msgctxt "#31087"
+msgid "Banner"
+msgstr "Banner"
+
+msgctxt "#31088"
+msgid "BannerWall"
+msgstr "BannerVegg"
+
+msgctxt "#31089"
+msgid "Play item on startup"
+msgstr "Spill oppføring ved oppstart"
+
+msgctxt "#31090"
+msgid "Seconds"
+msgstr "Sekunder"
+
+msgctxt "#31091"
+msgid "Select items"
+msgstr "Velg elementer"
+
+msgctxt "#31092"
+msgid "Fullscreen fanart"
+msgstr "Fullskjerm fanart"
+
+msgctxt "#31093"
+msgid "LowList toggle"
+msgstr "LavListe veksle"
+
+msgctxt "#31094"
+msgid "List view layout"
+msgstr "Listevisning oppsett"
+
+msgctxt "#31095"
+msgid "Slim List"
+msgstr "Smal Liste"
+
+msgctxt "#31096"
+msgid "Concert locations"
+msgstr "Konsert plasseringer"
+
+msgctxt "#31097"
+msgid "Movie playlist statistics"
+msgstr "Film spilleliste statistikk"
+
+msgctxt "#31098"
+msgid "TV Show playlist statistics"
+msgstr "TV-Serie spilleliste statistikk"
+
+msgctxt "#31099"
+msgid "Musicvideo playlist statistics"
+msgstr "Musikkvideo spilleliste statistikk"
+
+msgctxt "#31100"
+msgid "View:"
+msgstr "Vis:"
+
+msgctxt "#31101"
+msgid "Choose view"
+msgstr "Velg visning"
+
+msgctxt "#31102"
+msgid "Background"
+msgstr "Bakgrunn"
+
+msgctxt "#31103"
+msgid "N/A"
+msgstr "I/T"
+
+msgctxt "#31104"
+msgid "Similar artists"
+msgstr "Liknende artister"
+
+msgctxt "#31105"
+msgid "More albums from"
+msgstr "Flere album fra"
+
+msgctxt "#31106"
+msgid "On info"
+msgstr "Ved info"
+
+msgctxt "#31107"
+msgid "Persistent"
+msgstr "Vedvarende"
+
+msgctxt "#31108"
+msgid "Enable artist information feed (if available)"
+msgstr "Aktiver artistinformasjon (om tilgjengelig)"
+
+msgctxt "#31109"
+msgid "Unwatched episode count"
+msgstr "Teller for usette episoder"
+
+msgctxt "#31110"
+msgid "Up next brings the option to watch right away the next episode of a TV show (Netflix/Prime video style)."
+msgstr "Up next gir muligheten til å se neste episode av et TV-program med en gang (Netflix/Prime-videostil)."
+
+msgctxt "#31111"
+msgid "Similar movies"
+msgstr "Lignende filmer"
+
+msgctxt "#31112"
+msgid "Movies directed by"
+msgstr "Filmer regissert av"
+
+msgctxt "#31113"
+msgid "Movies written by"
+msgstr "Filmer skrevet av"
+
+msgctxt "#31114"
+msgid "More movies from"
+msgstr "Flere filmer fra"
+
+msgctxt "#31115"
+msgid "Similar TV shows"
+msgstr "Lignende TV-Serier"
+
+msgctxt "#31116"
+msgid "cycle fanart"
+msgstr "gå gjennom fankunst"
+
+msgctxt "#31117"
+msgid "Fallback"
+msgstr "Nødløsning"
+
+msgctxt "#31118"
+msgid "Download extrafanart"
+msgstr "Last ned ekstra fankunst"
+
+msgctxt "#31119"
+msgid "Show the movies from this director in your library or view online information on this director on TMDb?"
+msgstr "Vis filmene fra denne regissøren i ditt bibliotek eller se online informasjon på denne regissøren fra TMDb?"
+
+msgctxt "#31120"
+msgid "TMDb"
+msgstr "TMDb"
+
+msgctxt "#31121"
+msgid "Disable autocomplete"
+msgstr "Deaktiver autofullfør"
+
+msgctxt "#31122"
+msgid "Disables the autocomplete feature of the virtual keyboard"
+msgstr "Deaktiverer autofullfør funksjonen på det virtuelle tastaturet"
+
+msgctxt "#31123"
+msgid "Album review"
+msgstr "Album anmeldelse"
+
+msgctxt "#31124"
+msgid "Show Background \"Now Playing\" Video"
+msgstr "Vis \"Nå spilles\" for filmer i bakgrunnen"
+
+msgctxt "#31125"
+msgid "Show Background \"Now Playing\" Visualisation"
+msgstr "Vis «spilles nå» bakgrunnen i visualisering"
+
+msgctxt "#31126"
+msgid "Opacity level for widgets"
+msgstr "Opasitetsnivå for widgets"
+
+msgctxt "#31127"
+msgid "LiveTV Mod Settings"
+msgstr "LiveTV Mod-innstillinger"
+
+msgctxt "#31128"
+msgid "Channels View"
+msgstr "Kanalvisning"
+
+msgctxt "#31129"
+msgid "Hide Fanart in full screen visualisation"
+msgstr "Skjul fanart ved visualisering i fullskjerm"
+
+msgctxt "#31130"
+msgid "Use \"Enigma2-style\" channel OSD"
+msgstr "Bruk \"Enigma2-style\"-kanal OSD"
+
+msgctxt "#31131"
+msgid "EPG Timeline View"
+msgstr "EPG-tidslinjevisning"
+
+msgctxt "#31132"
+msgid "Tuner:"
+msgstr "Tuner:"
+
+msgctxt "#31133"
+msgid "Timeline channels-type:"
+msgstr "Tidslinje kanaltype:"
+
+msgctxt "#31134"
+msgid "Timeline view-type:"
+msgstr "Tidslinje visningstype:"
+
+msgctxt "#31135"
+msgid "Infobar Options"
+msgstr "Infobar-alternativer"
+
+msgctxt "#31136"
+msgid "Infobar type:"
+msgstr "Infobar-type:"
+
+msgctxt "#31137"
+msgid "Hide encryption information"
+msgstr "Skjul kryptert informasjon"
+
+msgctxt "#31138"
+msgid "Hide tuner information"
+msgstr "Skjul tuner-informasjon"
+
+msgctxt "#31139"
+msgid "Hide signal information"
+msgstr "Skjul signal-informasjon"
+
+msgctxt "#31140"
+msgid "Sideblade Options"
+msgstr "Sideblade-alternativer"
+
+msgctxt "#31141"
+msgid "Hide Guide"
+msgstr "Skjul guide"
+
+msgctxt "#31142"
+msgid "Settings level"
+msgstr "Innstillingsnivå"
+
+msgctxt "#31143"
+msgid "Hide Recordings"
+msgstr "Skjul opptak"
+
+msgctxt "#31144"
+msgid "Hide Timer"
+msgstr "Skjul timer"
+
+msgctxt "#31145"
+msgid "Hide Search"
+msgstr "Skjul søk"
+
+msgctxt "#31146"
+msgid "Rated"
+msgstr "Vurdert"
+
+msgctxt "#31147"
+msgid "Change rating"
+msgstr "Endre vurdering"
+
+msgctxt "#31148"
+msgid "List local library items"
+msgstr "List opp elementer fra lokalt bibliotek"
+
+msgctxt "#31149"
+msgid "Online info from TMDb"
+msgstr "Online info fra TMDb"
+
+msgctxt "#31150"
+msgid "Select studio logo artwork"
+msgstr "Velg kunstverk med studiologo"
+
+msgctxt "#31151"
+msgid "Customize the studio logos by choosing a different logo pack. Note that this has no effect on the studio icons displayed in the \"List\" view."
+msgstr "Tilpass studiologoene ved å velge en annen logopakke.Merk at dette ikke har noen effekt på studioikonene som vises i \"Liste\"-visningen."
+
+msgctxt "#31152"
+msgid "In progress movies"
+msgstr "Pågående filmer"
+
+msgctxt "#31153"
+msgid "Popular movies on TheMovieDB.org"
+msgstr "Populære filmer på TheMovieDB.org"
+
+msgctxt "#31154"
+msgid "Top rated movies on TheMovieDB.org"
+msgstr "Topprangerte filmer på TheMovieDB.org"
+
+msgctxt "#31155"
+msgid "Movies currently in cinema"
+msgstr "Filmer på kino for tiden"
+
+msgctxt "#31156"
+msgid "Upcoming movies"
+msgstr "Kommende filmer"
+
+msgctxt "#31157"
+msgid "Multi movie widget"
+msgstr "Multi film widget"
+
+msgctxt "#31158"
+msgid "IMDb Top 250 movies"
+msgstr "IMDb Topp 250 filmer"
+
+msgctxt "#31159"
+msgid "Event log"
+msgstr "Hendelseslogg"
+
+msgctxt "#31160"
+msgid "Display background name"
+msgstr "Vis bakgrunnsnavn"
+
+msgctxt "#31161"
+msgid "Display title of movie/TV show/artist on home screen if the background has a fanart slideshow as background"
+msgstr "Vis tittel på film/TV-program/artist på startskjermen hvis bakgrunnen har en fanart-lysbildeserie som bakgrunn"
+
+msgctxt "#31162"
+msgid "min"
+msgstr "min"
+
+msgctxt "#31163"
+msgid "TIMESHIFT"
+msgstr ""
+
+msgctxt "#31164"
+msgid "Change weather icons"
+msgstr "Endre værikoner"
+
+msgctxt "#31165"
+msgid "Layout"
+msgstr "Oppsett"
+
+msgctxt "#31166"
+msgid "Wall"
+msgstr "Vegg"
+
+msgctxt "#31167"
+msgid "You're watching"
+msgstr "Du ser på"
+
+msgctxt "#31168"
+msgid "h"
+msgstr ""
+
+msgctxt "#31169"
+msgid "m"
+msgstr ""
+
+msgctxt "#31170"
+msgid "Enable Netflix style pause screen"
+msgstr "Aktiver Netflix-stil pauseskjerm"
+
+msgctxt "#31171"
+msgid "Shows an overview of the movie or episode 10 seconds after the video is paused."
+msgstr "Viser en oversikt over filmen eller episoden 10 sekunder etter at videoen er satt på pause."
+
+msgctxt "#31172"
+msgid "Inactive"
+msgstr "Inaktiv"
+
+msgctxt "#31173"
+msgid "Decoder"
+msgstr "Dekoder"
+
+msgctxt "#31174"
+msgid "Hardware decoding"
+msgstr "Maskinvaredekoding"
+
+msgctxt "#31175"
+msgid "press 'OK' to see more..."
+msgstr "trykk 'OK' for å se mer..."
+
+msgctxt "#31176"
+msgid "Enter text here..."
+msgstr "Skriv inn tekst her…"
+
+msgctxt "#31177"
+msgid "Player controls"
+msgstr "Spillerkontroller"
+
+msgctxt "#31178"
+msgid "Playlist options"
+msgstr "Alternativer for spilleliste"
+
+msgctxt "#31179"
+msgid "Critics"
+msgstr "Kritikere"
+
+msgctxt "#31180"
+msgid "Play main theme when browsing movies and TV shows"
+msgstr "Spill hovedtema når du blar gjennom filmer og TV-serier"
+
+msgctxt "#31181"
+msgid "Display cast in video views"
+msgstr "Vis rollebesetning i videovisninger"
+
+msgctxt "#31182"
+msgid "Hide current time in media views"
+msgstr "Skjul gjeldende tid i medievisninger"
+
+msgctxt "#31183"
+msgid "Hide number of items in media views"
+msgstr "Skjul antall elementer i medievisninger"
+
+msgctxt "#31184"
+msgid "Enable, disable and/or force video views"
+msgstr "Aktiver, deaktiver og/eller fremtving videovisninger"
+
+msgctxt "#31185"
+msgid "Enable, disable and/or force music views"
+msgstr "Aktiver, deaktiver og/eller fremtving musikkvisninger"
+
+msgctxt "#31186"
+msgid "Force Kodi to always use certain view when browsing each kind of media. Disabling views that you don't use could speed up browsing in some devices"
+msgstr "Tving Kodi til alltid å bruke en bestemt visning når du surfer på hver type media.Deaktivering av visninger du ikke bruker kan øke hastigheten på nettlesingen på enkelte enheter"
+
+msgctxt "#31187"
+msgid "Available for:"
+msgstr "Tilgjengelig for:"
+
+msgctxt "#31188"
+msgid "Kiosk mode"
+msgstr "Kioskmodus"
+
+msgctxt "#31189"
+msgid "Disables the side media menu in views and most options to change Kodi, so as to prevent unwanted modifications."
+msgstr "Deaktiverer sidemediemenyen i visninger og de fleste alternativer for å endre Kodi, for å forhindre uønskede endringer."
+
+msgctxt "#31190"
+msgid "In cinemas"
+msgstr "På kino"
+
+msgctxt "#31191"
+msgid "In cinemas soon"
+msgstr "Snart på kino"
+
+msgctxt "#31192"
+msgid "Spotify"
+msgstr ""
+
+msgctxt "#31193"
+msgid "Show images of the best-known actresses"
+msgstr "Vis bilder av de mest kjente skuespillerinnene"
+
+msgctxt "#31194"
+msgid "Search the Red Carpet add-on for images of the best-known actresses from the movie/TV show and display them alongside the cast."
+msgstr "Søk i Red Carpet-tillegget etter bilder av de mest kjente skuespillerinnene fra filmen/TV-serien og vis dem sammen med rollebesetningen."
+
+msgctxt "#31195"
+msgid "Show logos of film studios in video views"
+msgstr "Vis logoer til filmstudioer i videovisninger"
+
+msgctxt "#31196"
+msgid "Show logos of record labels in music albums views"
+msgstr "Vis logoer for plateselskaper i musikkalbumvisninger"
+
+msgctxt "#31197"
+msgid "Show home music widget"
+msgstr "Vis widget for hjemmemusikk"
+
+msgctxt "#31198"
+msgid "Show home video widget"
+msgstr "Vis widget for hjemmevideo"
+
+msgctxt "#31199"
+msgid "Colours, marks and home screen"
+msgstr "Farger, merker og startskjerm"
+
+msgctxt "#31200"
+msgid "Is used to choose among different Kodi resource image pack to weather artwork and icons."
+msgstr "Brukes til å velge mellom forskjellige Kodi-ressursbildepakker for å værre kunstverk og ikoner."
+
+msgctxt "#31201"
+msgid "Performance impact"
+msgstr "Ytelsespåvirkning"
+
+msgctxt "#31202"
+msgid "Plays music in the background while in Home and Settings screens. A default song collection is provided, but a different song folder can be used."
+msgstr "Spiller av musikk i bakgrunnen mens du er på startskjermen og innstillingene.En standard sangsamling er gitt, men en annen sangmappe kan brukes."
+
+msgctxt "#31203"
+msgid "Select your own folder to use as background music. Make sure that it only contains music files."
+msgstr "Velg din egen mappe du vil bruke som bakgrunnsmusikk.Pass på at den bare inneholder musikkfiler."
+
+msgctxt "#31204"
+msgid "When enabled, widgets linked to each home menu item will appear automatically. If disabled, widgets remain hidden until the corresponding arrow key is pressed."
+msgstr "Når aktivert, vil widgets koblet til hvert startmenyelement vises automatisk.Hvis deaktivert, forblir widgets skjult til den tilsvarende piltasten trykkes."
+
+msgctxt "#31205"
+msgid "Lyrics Source"
+msgstr "Sangtekstskilde"
+
+msgctxt "#31206"
+msgid "Customization"
+msgstr "Tilpasning"
+
+msgctxt "#31207"
+msgid "Views"
+msgstr "Visninger"
+
+msgctxt "#31208"
+msgid "Home screen"
+msgstr "Startskjerm"
+
+msgctxt "#31209"
+msgid "Options"
+msgstr "Alternativer"
+
+msgctxt "#31210"
+msgid "Select another image as default background"
+msgstr "Velg et annet bilde som standard bakgrunn"
+
+msgctxt "#31211"
+msgid "Changes the default Aeon Tajo background to another chosen by the user."
+msgstr "Endrer standard Aeon Tajo-bakgrunn til en annen valgt av brukeren."
+
+msgctxt "#31212"
+msgid "Current background path: "
+msgstr "Gjeldende bakgrunnsbane:"
+
+msgctxt "#31213"
+msgid "Reset skin default background"
+msgstr "Tilbakestill standard bakgrunn for hud"
+
+msgctxt "#31214"
+msgid "Resets the default background provided with Aeon Tajo."
+msgstr "Tilbakestiller standardbakgrunnen som følger med Aeon Tajo."
+
+msgctxt "#31215"
+msgid "Show the coloured version of the icons rather than the monochrome version."
+msgstr "Vis den fargede versjonen av ikonene i stedet for den monokrome versjonen."
+
+msgctxt "#31216"
+msgid "Displays background and fanart images with a subtle motion effect across the screen."
+msgstr "Viser bakgrunns- og fanartbilder med en subtil bevegelseseffekt over skjermen."
+
+msgctxt "#31217"
+msgid "Displays a list in the video views featuring thumbnail images of the main actors from the movie or TV show's cast."
+msgstr "Viser en liste i videovisningene med miniatyrbilder av hovedaktørene fra rollebesetningen til filmen eller TV-serien."
+
+msgctxt "#31218"
+msgid "Search the Studio Icons add-on for logo images of the film studios of the movie/TV show, and if found, display them while browsing the video views."
+msgstr "Søk i Studio Icons-tillegget etter logobilder av filmstudioene til filmen/TV-serien, og vis dem hvis du finner dem mens du blar gjennom videovisningene."
+
+msgctxt "#31219"
+msgid "Search for the album's record label logo using the RecordLabel Icons addon, and if found, display it when browsing the music album views."
+msgstr "Søk etter albumets plateselskapslogo ved å bruke tillegget RecordLabel Icons, og vis den hvis du finner den når du blar gjennom musikkalbumvisningene."
+
+msgctxt "#31220"
+msgid "Show rating"
+msgstr "Vis vurdering"
+
+msgctxt "#31221"
+msgid "Show artist clearart"
+msgstr "Vis artist clearart"
+
+msgctxt "#31222"
+msgid "Show CD"
+msgstr "Vis CD"
+
+msgctxt "#31223"
+msgid "Show Time"
+msgstr "Vis tid"
+
+msgctxt "#31224"
+msgid "Animated posters"
+msgstr "Animerte plakater"
+
+msgctxt "#31225"
+msgid "Normal posters"
+msgstr "Vanlige plakater"
+
+msgctxt "#31226"
+msgid "Extra posters"
+msgstr "Ekstra plakater"
+
+msgctxt "#31227"
+msgid "Sets the transparency level of the home menu widgets."
+msgstr "Angir gjennomsiktighetsnivået til widgetene for hjemmemenyen."
+
+msgctxt "#31228"
+msgid "Displays main menu options in a vertical layout instead of a horizontal one."
+msgstr "Viser hovedmenyalternativer i en vertikal layout i stedet for en horisontal."
+
+msgctxt "#31229"
+msgid "Set another video file as startup intro"
+msgstr "Angi en annen videofil som oppstartsintro"
+
+msgctxt "#31230"
+msgid "Choose another video file to play when Kodi starts instead of Aeon Tajo default. It's recommended to choose a short one. To stop playback and start using Kodi right away, click or press any arrow key."
+msgstr "Velg en annen videofil å spille av når Kodi starter i stedet for Aeon Tajo standard.Det anbefales å velge en kort.For å stoppe avspillingen og begynne å bruke Kodi med en gang, klikk eller trykk på en piltast."
+
+msgctxt "#31231"
+msgid "Plays an intro video when launching Kodi"
+msgstr "Spiller av en introduksjonsvideo når Kodi startes"
+
+msgctxt "#31232"
+msgid "Clear current intro video file and back to default"
+msgstr "Slett gjeldende introvideofil og tilbake til standard"
+
+msgctxt "#31233"
+msgid "Clear the intro video file selected by the user and back to Aeon Tajo's default."
+msgstr "Fjern introduksjonsvideofilen valgt av brukeren og tilbake til Aeon Tajos standard."
+
+msgctxt "#31234"
+msgid "Adds a layer that simulates falling snow on all Kodi screens, with four available intensity levels."
+msgstr "Legger til et lag som simulerer fallende snø på alle Kodi-skjermer, med fire tilgjengelige intensitetsnivåer."
+
+msgctxt "#31235"
+msgid "Override the current home menu backgrounds with this one"
+msgstr "Overstyr gjeldende hjemmemenybakgrunner med denne"
+
+msgctxt "#31236"
+msgid "The background selections made in the Setup Main Menu screen will be preserved. Disabling this option will restore all previous backgrounds. This option is particularly designed for use during special seasons."
+msgstr "Bakgrunnsvalgene som er gjort i hovedmenyen for oppsett vil bli bevart.Deaktivering av dette alternativet vil gjenopprette alle tidligere bakgrunner.Dette alternativet er spesielt designet for bruk under spesielle årstider."
+
+msgctxt "#31237"
+msgid "No impact"
+msgstr "Ingen innvirkning"
+
+msgctxt "#31238"
+msgid "Very small"
+msgstr "Veldig liten"
+
+msgctxt "#31239"
+msgid "Small"
+msgstr "Liten"
+
+msgctxt "#31240"
+msgid "Moderate"
+msgstr "Moderat"
+
+msgctxt "#31241"
+msgid "Pixel format"
+msgstr "Pikselformat"
+
+msgctxt "#31242"
+msgid "System rendering speed"
+msgstr "Systemgjengivelseshastighet"
+
+msgctxt "#31243"
+msgid "Hide actor's thumbnails"
+msgstr "Skjul skuespillerens miniatyrbilder"
+
+msgctxt "#31244"
+msgid "Show only a list of the actors' names, instead of also including their thumbnails."
+msgstr "Vis bare en liste over skuespillernes navn, i stedet for også å inkludere miniatyrbildene deres."
+
+msgctxt "#31250"
+msgid "Automatic Full Screen when playing music"
+msgstr "Automatisk fullskjerm når du spiller musikk"
+
+msgctxt "#31251"
+msgid "Don't play melodies while in Home Screen"
+msgstr "Ikke spill melodier mens du er på startskjermen"
+
+msgctxt "#31252"
+msgid "Always show home screen widgets"
+msgstr "Vis alltid widgets på startskjermen"
+
+msgctxt "#31253"
+msgid "Choose user audio playlist *.m3u (max.10 songs)"
+msgstr "Velg brukerlydspilleliste *.m3u (maks. 10 sanger)"
+
+msgctxt "#31254"
+msgid "Clear user playlist (back to default)"
+msgstr "Slett brukerspilleliste (tilbake til standard)"
+
+msgctxt "#31300"
+msgid "Overview"
+msgstr "Oversikt"
+
+msgctxt "#31301"
+msgid "Last Updated"
+msgstr "Sist oppdatert"
+
+msgctxt "#31307"
+msgid "Hide Fanart"
+msgstr "Skjul Fanart"
+
+msgctxt "#31308"
+msgid "Next aired"
+msgstr "Neste sendt"
+
+msgctxt "#31309"
+msgid "Memory Used:"
+msgstr "Brukt minne:"
+
+msgctxt "#31310"
+msgid "Available audio tracks"
+msgstr "Tilgjengelige lydspor"
+
+msgctxt "#31317"
+msgid "Set Fanart Path"
+msgstr "Sett søkesti for Fanart"
+
+msgctxt "#31320"
+msgid "Last Logged In"
+msgstr "Sist innlogget"
+
+msgctxt "#31321"
+msgid "Karaoke Song Selector"
+msgstr "Sangvelger for karaoker"
+
+msgctxt "#31328"
+msgid "Recently Added"
+msgstr "Nylig lagt til"
+
+msgctxt "#31331"
+msgid "Installed"
+msgstr "Installert"
+
+msgctxt "#31332"
+msgid "Not Installed"
+msgstr "Ikke installert"
+
+msgctxt "#31334"
+msgid "Required"
+msgstr "Påkrevd"
+
+msgctxt "#31335"
+msgid "Recommended"
+msgstr "Anbefalt"
+
+msgctxt "#31336"
+msgid "Optional"
+msgstr "Valgfri"
+
+msgctxt "#31390"
+msgid "Skin default"
+msgstr "Forvalg for drakten"
+
+msgctxt "#31400"
+msgid "[B]CONFIGURE INTERFACE SETTINGS[/B][CR][CR]Change the skin · Set language and region · Setup remote controls[CR]Set up a screensaver · Setup master lock"
+msgstr "[B]KONFIGURER GRENSESNITTINNSTILLINGER[/B][CR][CR]Endre skinn · Angi språk og region · Konfigurer fjernkontroller[CR]Sett opp en skjermsparer · Konfigurer hovedlås"
+
+msgctxt "#31401"
+msgid "Menu - press 'OK'"
+msgstr "Meny - trykk 'OK'"
+
+msgctxt "#31402"
+msgid "Enable startup video intro"
+msgstr "Aktiver oppstartsvideointro"
+
+msgctxt "#31405"
+msgid "[B]MONITOR YOUR SYSTEM[/B][CR][CR]Check out your hardware · Monitor CPU usage[CR]Check Kodi revision number"
+msgstr "[B]OVERVÅK DITT SYSTEM[/B][CR][CR]Sjekk din maskinvare · Overvåk CPU-bruk[CR]Sjekk Kodi revisjonsnummer"
+
+msgctxt "#31406"
+msgid "[B]CONFIGURE SYSTEM SETTINGS[/B][CR][CR]Setup and calibrate displays · Configure audio output · [CR]Set power saving options · Enable debugging"
+msgstr "[B]KONFIGURER SYSTEMINNSTILLINGER[/B][CR][CR]Oppsett og kalibrer skjermer · Konfigurer lydutgang · [CR]Angi alternativer for strømsparing · Aktiver feilsøking"
+
+msgctxt "#31407"
+msgid "[B]SETUP PROFILES[/B][CR][CR]Setup and manage user profiles · Enable login screen[CR]Change password · Add a profile picture"
+msgstr "[B]KONFIGURERE PROFILER[/B][CR][CR]Konfigurere og administrere brukerprofiler · Aktiver innlogging skjerm[CR]Forandre passord · Legg til profil bilde"
+
+msgctxt "#31409"
+msgid "[B]CONFIGURE TV SETTINGS[/B][CR][CR]Change full screen info · Manage EPG data settings"
+msgstr "[B]KONFIGURER TV-INNSTILLINGER[/B][CR][CR]Skift fullskjermsinfo · Administrer datainnstillinger for EPG"
+
+msgctxt "#31410"
+msgid "[B]CONFIGURE SERVICE SETTINGS[/B][CR][CR]Setup control of Kodi via UPnP and HTTP · Configure file sharing[CR]Enable Zeroconf · Configure AirPlay"
+msgstr "[B]KONFIGURER TJENESTEINNSTILLINGER[/B][CR][CR]Konfigurer kontroll av Kodi via UPnP og HTTP · Konfigurer deling[CR]Slå på zeroconf · Konfigurer AirPlay"
+
+msgctxt "#31412"
+msgid "Select section"
+msgstr "Velg seksjon"
+
+msgctxt "#31413"
+msgid "Local subtitle available"
+msgstr "Lokal undertekst tilgjengelig"
+
+msgctxt "#31414"
+msgid "[B]CONFIGURE PLAYER SETTINGS[/B][CR][CR]Configure video playback · Configure music playback · Configure picture slideshow[CR]Configure video language and subtitles"
+msgstr "[B]KONFIGURER SPILLERINNSTILLINGER[/B][CR][CR]Konfigurer videoavspilling · Konfigurer musikkavspilling · Konfigurer bildefremvisning[CR]Konfigurer videospråk og undertekster"
+
+msgctxt "#31415"
+msgid "[B]CONFIGURE MEDIA SETTINGS[/B][CR][CR]Set default select action · Configure file list options · Configure metadata options[CR]Manage databases"
+msgstr "[B]KONFIGURER MEDIEINNSTILLINGER[/B][CR][CR]Angi standardvalghandling · Konfigurer fillistealternativer · Konfigurer metadataalternativer[CR]Administrer databaser"
+
+msgctxt "#31421"
+msgid "Select your Kodi user profile[CR]to login and continue"
+msgstr "Velg din Kodi brukerprofil[CR]for å logge inn og fortsette"
+
+msgctxt "#31427"
+msgid "Skin Shortcuts is responsible for handling all aspects of the main menu."
+msgstr "Skin Shortcuts er ansvarlig for å håndtere alle aspekter av hovedmenyen."
+
+msgctxt "#31428"
+msgid "The Grab Fanart script provides the random fanart slideshows for the main menu."
+msgstr "Hent brukerkunstbidrag -skriptet gir deg tilfeldig brukerkunst- lysbildefremvisninger for hovedmenyen."
+
+msgctxt "#31429"
+msgid "Library Data Provider is a service that runs in the background to provide library data for widgets and live backgrounds as well as playlist statistics for infolines."
+msgstr "Biblioteksdatatilbyder er en tjeneste som kjører i bakgrunnen for å gi deg biblioteksdata for miniprogrammer og levende bakgrunner i tillegg til spillelistestatistikk for infolinjer."
+
+msgctxt "#31430"
+msgid "Resource image addon for displaying the default white studio icons throughout the skin."
+msgstr "Resurssbilde -tillegg for å vise de forvalgte hvite studioikonene i drakten."
+
+msgctxt "#31431"
+msgid "Resource image addon for displaying the default white recording label icons throughout the skin."
+msgstr "Resurssbilde -tillegg for å vise de forvalgte hvite plateselskapsikonene i drakten."
+
+msgctxt "#31432"
+msgid "Provides numerous Widget options and extended cast and crew metadata."
+msgstr "Gir en rekke widget-alternativer og utvidede metadata for rollebesetning og mannskap."
+
+msgctxt "#31433"
+msgid "Skin Info Service is used to display movie set information throughout the skin."
+msgstr "Draktinfoservice brukes for å vise informasjon om filmsamlinger gjennom drakten."
+
+msgctxt "#31434"
+msgid "Check MP3 Theme checks whether the user has put a theme.mp3 file in the corresponding movie/TV show folder to be played when browsing."
+msgstr "Sjekk MP3-tema sjekker om brukeren har lagt en theme.mp3-fil i den tilsvarende mappen for film/TV-program som skal spilles av når han surfer."
+
+msgctxt "#31450"
+msgid "  •  Open Settings "
+msgstr "  •  Åpne innstillinger "
+
+msgctxt "#31451"
+msgid "  •  Click to Install"
+msgstr "• Klikk for å installere"
+
+msgctxt "#31473"
+msgid "Aeon Tajo Helper provides the data to display the cast for movies and TV shows."
+msgstr "Aeon Tajo Helper gir dataene for å vise rollebesetningen for filmer og TV-serier."
+
+msgctxt "#31474"
+msgid "CU LRC Lyrics is used to download, sync, and display lyrics during fullscreen music playback."
+msgstr "CU LRC Lyrics brukes til å laste ned, synkronisere og vise tekster under fullskjerms musikkavspilling."
+
+msgctxt "#31475"
+msgid "Play Trailer makes possible to play movie trailers through a context menu. "
+msgstr "Play Trailer gjør det mulig å spille av filmtrailere gjennom en kontekstmeny."
+
+msgctxt "#31476"
+msgid "Allows the use of Youtube to play trailers and other videos."
+msgstr "Tillater bruk av Youtube til å spille av trailere og andre videoer."
+
+msgctxt "#31477"
+msgid "Provides some cast actress images to be shown in video views."
+msgstr "Gir noen bilder av skuespillerinne som skal vises i videovisninger."
+
+msgctxt "#31478"
+msgid "Artist Slideshow is used to display artist fanart for both the home screen and during fullscreen music playback."
+msgstr "Artist Slideshow brukes til å vise artistfanart for både startskjermen og under fullskjerms musikkavspilling."
+
+msgctxt "#31479"
+msgid "AutoCompletion provides suggestions to be selected while using the virtual keyboard."
+msgstr "Autofullføring gir forslag som kan velges mens du bruker det virtuelle tastaturet."
+
+msgctxt "#31480"
+msgid "Library Editor Script uses JSON to directly edit your database information."
+msgstr "Library Editor Script bruker JSON til å direkte redigere databaseinformasjonen din."
+
+msgctxt "#31481"
+msgid "Global Search makes possible to search among all the items (movies, TV shows, music, actors, etc.) in your collection."
+msgstr "Globalt søk gjør det mulig å søke blant alle elementene (filmer, TV-serier, musikk, skuespillere osv.) i samlingen din."
+
+msgctxt "#31501"
+msgid "Channel group"
+msgstr "Kanalgruppe"
+
+msgctxt "#31502"
+msgid "Live TV"
+msgstr "Direktesendt TV"
+
+msgctxt "#31503"
+msgid "Add Group"
+msgstr "Legg til gruppe"
+
+msgctxt "#31504"
+msgid "Rename Group"
+msgstr "Gi nytt navn på gruppe"
+
+msgctxt "#31505"
+msgid "Delete Group"
+msgstr "Slett gruppe"
+
+msgctxt "#31506"
+msgid "Available[CR]Groups"
+msgstr "Ledige[CR]Grupper"
+
+msgctxt "#31511"
+msgid "Channel Options"
+msgstr "Kanal instillinger"
+
+msgctxt "#31512"
+msgid "Show similar movies in Shelf 3D view"
+msgstr "Vis lignende filmer i hylle 3D-visning"
+
+msgctxt "#31901"
+msgid "36 Hour Forecast"
+msgstr "36-timersvarsel"
+
+msgctxt "#31902"
+msgid "Hourly Forecast"
+msgstr "Time for time"
+
+msgctxt "#31903"
+msgid "Weekend Forecast"
+msgstr "Helgevarsel"
+
+msgctxt "#31904"
+msgid "10 Day Forecast"
+msgstr "10-dagersvarsel"
+
+msgctxt "#31908"
+msgid "Chance of Precipitation"
+msgstr "Mulighet for nedbør"
+
+msgctxt "#31909"
+msgid "Fetching forecast info..."
+msgstr "Henter værvarsel..."
+
+msgctxt "#31910"
+msgid "Map & Alerts"
+msgstr "Kart og varsler"
+
+msgctxt "#31911"
+msgid "Setup the Aeon Tajo main menu"
+msgstr "Konfigurer Aeon Tajo hovedmeny"
+
+msgctxt "#31912"
+msgid "Customize the main menu with widgets, backgrounds and statistics. Add your own custom main menu items."
+msgstr "Tilpass hovedmenyen med programmer, bakgrunner og statistikker. Legg til dine egne elementer på hovedmenyen."
+
+msgctxt "#31913"
+msgid "Aeon Tajo main menu vertical position"
+msgstr "Aeon Tajo hovedmeny vertikal posisjon"
+
+msgctxt "#31914"
+msgid "Change the vertical position of the main menu. Default is centered on screen."
+msgstr "Endre den vertikale plasseringen av hovedmenyen.Standard er sentrert på skjermen."
+
+msgctxt "#31915"
+msgid "Navigation style for horizontal lists"
+msgstr "Navigasjons utseende for horisontale lister"
+
+msgctxt "#31916"
+msgid "Change the way horizontal lists scroll in Aeon Tajo. Default will scroll lists in a cycle. \"Fixed\" are lists with a beginning and end."
+msgstr "Endre måten horisontale lister ruller i Aeon Tajo . Standard vil lister rulles i syklus . \" Fast \" er lister med en begynnelse og slutt."
+
+msgctxt "#31917"
+msgid "When enabled text scrolls automatically. When disabled manual scrolling is required. Note that most textboxes don't have a manual button."
+msgstr "Når aktivert ruller tekst automatisk.Når deaktivert er manuell rulling nødvendig.Merk at de fleste tekstbokser ikke har en manuell knapp."
+
+msgctxt "#31918"
+msgid "Projects the current playing video on the background behind the panels."
+msgstr "Sender opp videoen som spilles nå bakgrunn av panelene."
+
+msgctxt "#31919"
+msgid "Projects the visualisation on the background behind the panels when music is played."
+msgstr "Viser visualiseringen i bakgrunnen av panelet når musikken blir spilt."
+
+msgctxt "#31920"
+msgid "Displays a widget on the Home screen with media information when music is playing."
+msgstr "Viser et miniatyrprogram på Hjemmeskjermen med media informasjon når musikk spiles."
+
+msgctxt "#31921"
+msgid "Displays a widget on the Home screen with media information when a movie or episode is playing."
+msgstr "Viser et miniatyrprogram på Hjemmeskjermen med media informasjon når en film eller episode spiles."
+
+msgctxt "#31922"
+msgid "This enables custom genre backgrounds when browsing through the videolibrary's genre node. Filenames should match the genre label. Extension must be .jpg."
+msgstr "Dette aktiverer spesielle sjanger bakgrunner når du blar gjennom videobibliotekets sjanger node. Filnavn burde stemme med sjanger etiketten. Forlengelser må bære .jpg."
+
+msgctxt "#31923"
+msgid "Set a default select action to enable this item."
+msgstr "Satt et standard tiltak for å aktivere dette elementet."
+
+msgctxt "#31924"
+msgid "This enables custom genre backgrounds when browsing through the musiclibrary's genre node. Filenames should match the genre label. Extension must be .jpg."
+msgstr "Dette aktiverer spesielle sjanger bakgrunner når du blar gjennom musikkbibliotekets sjanger node. Filnavn burde stemme med sjanger etiketten. Forlengelser må bære .jpg."
+
+msgctxt "#31925"
+msgid "Pick one of the preset backgrounds or set your own images as the menu items background."
+msgstr "Velg en av de nåværende bakgrunnene eller velg ditt eget bilde å bruke som meny element bakgrunn."
+
+msgctxt "#31926"
+msgid "Select add-ons, playlists or favourites. Choose 'Custom' for any of Kodi's built-in functions. (http://kodi.wiki/?title=List_of_Built_In_Functions)"
+msgstr "Velg utvidelser, spillelister eller favoritter. Velg 'Egendefinert' for en av Kodi's innebygde funksjoner. (http://kodi.wiki/?title=List_of_Built_In_Functions)"
+
+msgctxt "#31927"
+msgid "Resets all above values to their defaults."
+msgstr "Tilbakestiller alle verdier over tilbake til standard."
+
+msgctxt "#31928"
+msgid "Aeon Tajo main menu layout"
+msgstr "Aeon Tajo hovedmeny oppsett"
+
+msgctxt "#31929"
+msgid "This setting defines how much items will be visible on the main menu. Options are 3 items or 5 items."
+msgstr "Denne innstillingen bestemmer hvor mange elementer som vises i hovedmenyen. Valgene er 3-elementer eller 5-elementer."
+
+msgctxt "#31930"
+msgid "Choose a widget to display on the Home screen to have easy access to content from the library."
+msgstr "Velg hvilket miniatyrprogram som skal vises på Hjemmeskjermen for å få enkel tilgang til innholdet i biblioteket."
+
+msgctxt "#31931"
+msgid "Video plot preference"
+msgstr "Video plot preferanse"
+
+msgctxt "#31932"
+msgid "Show plot outline in the library views and full plot in the video information dialog or vice versa. Falls back to full plot if no outline is available."
+msgstr "Vis kort versjon av plottet i bibliotek visning og fullt plot i video informasjon ruten eller omvendt. Viser fullt plot om kort versjon ikke er tilgjengelig."
+
+msgctxt "#31933"
+msgid "Select an item to display on the left top of the main menu"
+msgstr "Velg et element å vise øverst venstre i hovedmenyen"
+
+msgctxt "#31935"
+msgid "Switch places with another menu item. Opens a dialog with a list of menu items to choose from."
+msgstr "Bytt plass med et annet meny element. Åpner en rute med en liste av meny elementer å velge mellom."
+
+msgctxt "#31937"
+msgid "Show the RSS feed on the bottom or top of the screen, depending on main menu position. Enabling this setting makes the submenu permanently visible."
+msgstr "Vis RSS-strømmen øverst eller nederst på skjermen, avhengig av hovedmenyens plassering. Aktiveres dette vil undermenyen vises permanent."
+
+msgctxt "#31938"
+msgid "Enables extra information in the TV show library, like TV show status, next / latest episode, etc. Depends on TV Show Next Aired add-on."
+msgstr "Aktiverer ekstra informasjon i TV-Serie biblioteket, som TV-Serie status, neste / siste episode, osv. Avhenger av TV-Serie \"Next Aired\" utvidelse."
+
+msgctxt "#31939"
+msgid "Hide Infopanel on scrolling"
+msgstr "Skjul infopanel ved scrolling"
+
+msgctxt "#31940"
+msgid "Hides the infopanel for Showcase and Landscape view (if activated) while scrolling through the library. Set the amount of seconds to wait for the infopanel to appear when scrolling is stopped."
+msgstr "Gjemmer info panelet for Showcase å Landskaps visning (om aktivert) når det rulles gjennom biblioteket. Sett inn ventetiden i sekunder før info panelet vises når rullingen stoppes."
+
+msgctxt "#31941"
+msgid "Kiosk mode"
+msgstr "Kioskmodus"
+
+msgctxt "#31942"
+msgid "Disables the slide out menu (media menu) in the library as well as certain buttons in the media information dialogs. (Requires restart to take effect)"
+msgstr "Deaktiverer utskyvnings menyen (media menyen) i biblioteket sammen med visse knapper i media informasjons ruten. (Krever omstart for å fungere)"
+
+msgctxt "#31943"
+msgid "Watched status indicator"
+msgstr "Sett status indikator"
+
+msgctxt "#31944"
+msgid "Choose which overlays to show on thumbs in icon based views. Note that the \"Resume\" flag takes precedent over any watched status."
+msgstr "Velg hvilke overlegg som skal vises i miniatyrbildene under Ikon basert visning. Noter at \"Gjenoppta\" merking overstyrer enhver sett status."
+
+msgctxt "#31945"
+msgid "This toggles the layout of the List view. Default is a 7 item layout with extended info, \"Slim List\" is a 14 item, more basic layout"
+msgstr "Denne justerer oppsettet for Liste visning. Standard er 7 elementers oppsett med utvidet informasjon, \"Smal Liste\" er et 14 elementers, mer grunnleggende oppsett."
+
+msgctxt "#31950"
+msgid "WEATHER"
+msgstr "VÆR"
+
+msgctxt "#31951"
+msgid "PICTURES"
+msgstr "BILDER"
+
+msgctxt "#31952"
+msgid "LIVE TV"
+msgstr "DIREKTE TV"
+
+msgctxt "#31953"
+msgid "VIDEOS"
+msgstr "VIDEOER"
+
+msgctxt "#31954"
+msgid "MOVIES"
+msgstr "FILMER"
+
+msgctxt "#31955"
+msgid "TV SHOWS"
+msgstr "TV-SERIER"
+
+msgctxt "#31956"
+msgid "MUSIC"
+msgstr "MUSIKK"
+
+msgctxt "#31957"
+msgid "APPS"
+msgstr "PROGRAMMER"
+
+msgctxt "#31958"
+msgid "PLAY DISC"
+msgstr "SPILL CD"
+
+msgctxt "#31959"
+msgid "SYSTEM"
+msgstr "SYSTEM"
+
+msgctxt "#31960"
+msgid "CONCERTS"
+msgstr "KONSERTER"
+
+msgctxt "#31961"
+msgid "Hide ratings in list views"
+msgstr "Skjul rangering i liste visning"
+
+msgctxt "#31962"
+msgid "This toggles the visibility of ratings in views of type List, LowList and TriPanel, except if sorted by rating."
+msgstr "Denne skifter synligheten av rangering i visning av type Liste, LavListe og TriPanel, med unntak av når det sorteres etter rangering."
+
+msgctxt "#31964"
+msgid "NoTo"
+msgstr "NoTo"
+
+msgctxt "#31965"
+msgid "Setup main menu"
+msgstr "Oppsett hovedmeny"
+
+msgctxt "#31966"
+msgid "Customize the main menu with widgets, backgrounds, submenus and statistics. Add your own custom main menu items."
+msgstr "Tilpass hovedmenyen med widgets, bakgrunner, undermenyer og statistikk.Legg til dine egne tilpassede hovedmenyelementer."
+
+msgctxt "#31967"
+msgid "Skin addons"
+msgstr "Hudtillegg"
+
+msgctxt "#31968"
+msgid "Addons used to enhance Aeon Tajo."
+msgstr "Addons brukes til å forbedre Aeon Tajo."
+
+msgctxt "#31969"
+msgid "Skin options"
+msgstr "Hudalternativer"
+
+msgctxt "#31970"
+msgid "Setup of melodies, the way of showing widgets, themes and cast for movies/TV shows and other options."
+msgstr "Oppsett av melodier, måten å vise widgets på, temaer og rollebesetning for filmer/TV-serier og andre alternativer."
+
+msgctxt "#31971"
+msgid "Colour of selected items"
+msgstr "Farge på utvalgte varer"
+
+msgctxt "#31972"
+msgid "Youtube"
+msgstr ""
+
+msgctxt "#31973"
+msgid "Down for more"
+msgstr "Ned for mer"
+
+msgctxt "#31974"
+msgid "More movies featuring"
+msgstr "Flere filmer med"
+
+msgctxt "#31975"
+msgid "More TV shows featuring"
+msgstr "Flere TV-serier med"
+
+msgctxt "#31976"
+msgid "Image gallery"
+msgstr "Bildegalleri"
+
+msgctxt "#31977"
+msgid "Years old"
+msgstr "år gammel"
+
+msgctxt "#31978"
+msgid "Click for more"
+msgstr "Klikk for mer"
+
+msgctxt "#31979"
+msgid "Left for more"
+msgstr "Venstre for mer"
+
+msgctxt "#31980"
+msgid "Right for more"
+msgstr "Rett for mer"
+
+msgctxt "#31981"
+msgid "Premiered"
+msgstr "Premiere"
+
+msgctxt "#31982"
+msgid "Budget"
+msgstr "Budsjett"
+
+msgctxt "#31983"
+msgid "Revenue"
+msgstr "Inntekter"
+
+msgctxt "#31984"
+msgid "Awards"
+msgstr "Priser"
+
+msgctxt "#31985"
+msgid "Trending Movies"
+msgstr "Trendsettende filmer"
+
+msgctxt "#31986"
+msgid "Upcoming Movies"
+msgstr "Kommende filmer"
+
+msgctxt "#31987"
+msgid "Now Playing Movies"
+msgstr "Spiller nå filmer"
+
+msgctxt "#31988"
+msgid "Top Rated Movies"
+msgstr "Høyest vurderte filmer"
+
+msgctxt "#31989"
+msgid "Popular Movies"
+msgstr "Populære filmer"
+
+msgctxt "#31990"
+msgid "Discover Movies"
+msgstr "Oppdag filmer"
+
+msgctxt "#31991"
+msgid "Trending Shows"
+msgstr "Populære TV-programmer"
+
+msgctxt "#31992"
+msgid "Top Rated Shows"
+msgstr "Topprangerte programmer"
+
+msgctxt "#31993"
+msgid "Popular Shows"
+msgstr "Populære show"
+
+msgctxt "#31994"
+msgid "Discover Shows"
+msgstr "Oppdag show"
+
+msgctxt "#31995"
+msgid "3D view"
+msgstr "3D-visning"
+
+msgctxt "#31996"
+msgid "Extended view"
+msgstr "Utvidet visning"
+
+msgctxt "#31997"
+msgid "Simple view"
+msgstr "Enkel utsikt"
+
+msgctxt "#31998"
+msgid "Classic lyrics"
+msgstr "Klassiske tekster"
+
+msgctxt "#31999"
+msgid "Screensaver Netflix style in media views"
+msgstr "Skjermsparer Netflix-stil i medievisninger"
+
+msgctxt "#31245"
+msgid "When in idle state for two minutes within a media view, a fullscreen slideshow of movies, TV shows, or artists' fanarts will be displayed, according to the section being browsed."
+msgstr "Når du er i inaktiv tilstand i to minutter i en medievisning, vises en lysbildefremvisning i full skjerm med filmer, TV-serier eller artisters fanart, i henhold til delen som du ser gjennom."
+
+msgctxt "#31246"
+msgid "Play automatically trailers in video views"
+msgstr "Spill automatisk trailere i videovisninger"
+
+msgctxt "#31247"
+msgid "When you browse the video views and pause on a movie or TV show for a few seconds, the trailer automatically plays in a window."
+msgstr "Når du blar gjennom videovisningene og setter en film eller et TV-program på pause i noen sekunder, spilles traileren automatisk av i et vindu."
+
+msgctxt "#31248"
+msgid "All devices"
+msgstr "Alle enheter"
+
+msgctxt "#31249"
+msgid "Powerful devices"
+msgstr "Kraftige enheter"
+
+msgctxt "#31255"
+msgid "Most powerful devices"
+msgstr "Kraftigste enheter"
+
+msgctxt "#31256"
+msgid "Delay 5 seconds"
+msgstr "Forsinkelse 5 sekunder"
+
+msgctxt "#31257"
+msgid "Delay 12 seconds"
+msgstr "Forsinkelse 12 sekunder"
+
+msgctxt "#31258"
+msgid "Info view 2"
+msgstr "Infovisning 2"
+
+msgctxt "#31259"
+msgid "Info view 1"
+msgstr "Infovisning 1"
+
+msgctxt "#31260"
+msgid "Play automatically songs while browsing music"
+msgstr "Spill automatisk sanger mens du blar gjennom musikk"
+
+msgctxt "#31261"
+msgid "Enable automatic playback of songs from the current artist or album as background music while browsing music views."
+msgstr "Aktiver automatisk avspilling av sanger fra gjeldende artist eller album som bakgrunnsmusikk mens du blar gjennom musikkvisninger."
+
+msgctxt "#31262"
+msgid "Set path to use another melodies music folder"
+msgstr "Angi bane for å bruke en annen musikkmappe for melodier"
+
+msgctxt "#31263"
+msgid "Clear current path and back to default melodies music folder"
+msgstr "Fjern gjeldende bane og tilbake til standard musikkmappen for melodier"
+
+msgctxt "#31264"
+msgid "Play melodies while in Home & Settings screens"
+msgstr "Spill melodier mens du er på start- og innstillingerskjermene"
+
+msgctxt "#31265"
+msgid "Show only background"
+msgstr "Vis kun bakgrunn"
+
+msgctxt "#31266"
+msgid "TheMovieDb Helper provides data to display online ratings and additional information for movies and TV shows"
+msgstr "TheMovieDb Helper gir data for å vise nettvurderinger og tilleggsinformasjon for filmer og TV-serier"
+
+msgctxt "#31267"
+msgid "Show online ratings for movies and TV shows"
+msgstr "Vis nettvurderinger for filmer og TV-serier"
+
+msgctxt "#31268"
+msgid "You have to restart Kodi for this option to take effect once the option has been activated. TMDb and Trakt should work out of the box. Metacritic and Rottentomatoes ratings require an OMDb API key. Get an OMDb API Key at http://www.omdbapi.com/apikey.aspx and afterward input the OMDb API Key into the TheMovieDb Helper settings."
+msgstr "Du må starte Kodi på nytt for at dette alternativet skal tre i kraft når alternativet er aktivert.TMDb og Trakt burde fungere ut av boksen.Metacritic- og Rottentomatoes-vurderinger krever en OMDb API-nøkkel.Få en OMDb API-nøkkel på http://www.omdbapi.com/apikey.aspx og skriv deretter inn OMDb API-nøkkelen i TheMovieDb Helper-innstillingene."
+
+msgctxt "#31269"
+msgid "Resource image addon for displaying coloured studio icons throughout the skin."
+msgstr "Ressursbildetillegg for å vise fargede studioikoner i hele huden."
+
+msgctxt "#31270"
+msgid "Show colour icons for audio/video information"
+msgstr "Vis fargeikoner for lyd-/videoinformasjon"
+
+msgctxt "#31271"
+msgid "Show extra features for movies and TV shows"
+msgstr "Vis ekstra funksjoner for filmer og TV-serier"
+
+msgctxt "#31272"
+msgid "Display the additional features (media files) placed by the user in the 'extras' folder for a movie or TV show. Remember to modify your advancedsettings.xml file if needed."
+msgstr "Vis tilleggsfunksjonene (mediefiler) plassert av brukeren i "ekstra"-mappen for en film eller et TV-program.Husk å endre filen advancedsettings.xml om nødvendig."
+
+msgctxt "#31273"
+msgid "Show extras"
+msgstr "Vis statister"
+
+msgctxt "#31274"
+msgid "Enable shifting colours effect in the default Aeon Tajo's background"
+msgstr "Aktiver skiftende fargeeffekt i standard Aeon Tajos bakgrunn"
+
+msgctxt "#31275"
+msgid "Activate a shifting colours effect in the default Aeon Tajo's background (only in the Home screen)."
+msgstr "Aktiver en skiftende fargeeffekt i standard Aeon Tajos bakgrunn (bare på startskjermen)."
+
+msgctxt "#31276"
+msgid "Name of user's additional features folder (if different to 'extras')"
+msgstr "Navn på brukerens mappe for tilleggsfunksjoner (hvis forskjellig fra "ekstra")"
+
+msgctxt "#31277"
+msgid "Select image to show as background instead of default"
+msgstr "Velg bildet som skal vises som bakgrunn i stedet for standard"
+
+msgctxt "#31278"
+msgid "Browse for image"
+msgstr "Bla etter bilde"
+
+msgctxt "#31279"
+msgid "Play music videos"
+msgstr "Spill av musikkvideoer"
+
+msgctxt "#31280"
+msgid "Play local albums"
+msgstr "Spill lokale album"
+
+msgctxt "#31281"
+msgid "Play songs"
+msgstr "Spill sanger"
+
+msgctxt "#31282"
+msgid "Blurred album image as background"
+msgstr "Uskarpt albumbilde som bakgrunn"
+
+msgctxt "#31283"
+msgid "Browse for path"
+msgstr "Bla etter banen"
+
+msgctxt "#31284"
+msgid "Show extra features for music albums"
+msgstr "Vis ekstra funksjoner for musikkalbum"
+
+msgctxt "#31285"
+msgid "Display the additional features (media files) placed by the user in the 'extras' folder for a music album. Remember to modify your advancedsettings.xml file if needed."
+msgstr "Vis tilleggsfunksjonene (mediefiler) plassert av brukeren i 'ekstra'-mappen for et musikkalbum.Husk å endre filen advancedsettings.xml om nødvendig."
+
+msgctxt "#31286"
+msgid "When you browse the video views and pause on a movie or TV show for a few seconds, the main theme automatically plays in the background. This feature requires the user to place an mp3 file with the theme in the root folder of the movie or TV show. This file must be named theme.mp3."
+msgstr "Når du blar gjennom videovisningene og setter en film eller et TV-program på pause i noen sekunder, spilles hovedtemaet automatisk av i bakgrunnen.Denne funksjonen krever at brukeren plasserer en mp3-fil med temaet i rotmappen til filmen eller TV-serien.Denne filen må hete theme.mp3."
+
+msgctxt "#31287"
+msgid "Shows the normal poster (poster.jpg) in movies and TV shows views."
+msgstr "Viser den vanlige plakaten (poster.jpg) i filmer og TV-serier."
+
+msgctxt "#31288"
+msgid "Shows the animated poster (animatedposter.gif) in movies and TV shows views."
+msgstr "Viser den animerte plakaten (animatedposter.gif) i filmer og TV-serievisninger."
+
+msgctxt "#31289"
+msgid "Shows the available extra posters (poster1.jpg, poster2.jpg, poster3.jpg...) in movies and TV shows views."
+msgstr "Viser de tilgjengelige ekstra plakatene (poster1.jpg, poster2.jpg, poster3.jpg...) i filmer og TV-serievisninger."
+
+msgctxt "#31290"
+msgid "Thanks for using Aeon Tajo—I really hope you’re enjoying it. Creating and maintaining a Kodi skin like this takes hundreds of hours of work. If Aeon Tajo is something you enjoy and find useful, supporting it helps me keep working on it and ensures it can continue evolving in the future. [CR][CR]If you decide to do so, you’ll receive frequent updates with new features and bug fixes, along with videos, media packs, and easy-to-follow articles with detailed tips to help you get the most out of everything Aeon Tajo has to offer, together with my sincere gratitude for your support. [CR][CR]For more information, visit [B][COLOR=themecolor]patreon.com[/B][/COLOR] and search for the creator [COLOR=themecolor][B]Aeon Tajo[/B][/COLOR], or go to [COLOR=themecolor][B]patreon.com/aeontajo[/B][/COLOR].[CR][CR]Thanks!"
+msgstr "Takk for at du bruker Aeon Tajo – jeg håper virkelig du liker det.Å lage og vedlikeholde en Kodi-skin som dette tar hundrevis av timer med arbeid.Hvis Aeon Tajo er noe du liker og synes er nyttig, hjelper støtten meg å fortsette å jobbe med det og sikrer at det kan fortsette å utvikle seg i fremtiden.[CR][CR]Hvis du bestemmer deg for å gjøre det, vil du motta hyppige oppdateringer med nye funksjoner og feilrettinger, sammen med videoer, mediepakker og enkle å følge artikler med detaljerte tips som hjelper deg å få mest mulig ut av alt Aeon Tajo har å tilby, sammen med min oppriktige takk for støtten din.[CR][CR]For mer informasjon, gå til [B][COLOR=themecolor]patreon.com[/B][/COLOR] og søk etter skaperen [COLOR=themecolor][B]Aeon Tajo[/B][/COLOR], eller gå til [COLOR=themecolor][B]patreon.com/aeontajo[]]/B.][han[/C!]"
+
+msgctxt "#31291"
+msgid "Blurred album image as background in music visualisation screen"
+msgstr "Uskarpt albumbilde som bakgrunn i musikkvisualiseringsskjermen"
+
+msgctxt "#31292"
+msgid "Hide watched mark in video views"
+msgstr "Skjul sett-merket i videovisninger"
+
+msgctxt "#31293"
+msgid "Disclaimer: Aeon Tajo does not provide any media content or sources. Users must provide their own content. Support will not be provided for any 'builds' nor online addons that offer copyrighted content."
+msgstr "Ansvarsfraskrivelse: Aeon Tajo gir ikke medieinnhold eller kilder.Brukere må oppgi sitt eget innhold.Støtte vil ikke bli gitt for noen "bygg" eller nettbaserte tillegg som tilbyr opphavsrettsbeskyttet innhold."
+
+msgctxt "#31294"
+msgid "Change to "
+msgstr "Bytt til"
+
+msgctxt "#31295"
+msgid "Remember that you should adapt your advancedsetting.xml file to reflect this change, so as to prevent your extras content to be added inadvertently to the Kodi library."
+msgstr "Husk at du bør tilpasse filen advancedsetting.xml for å gjenspeile denne endringen, for å forhindre at ekstrainnholdet ditt utilsiktet legges til Kodi-biblioteket."
+
+msgctxt "#31296"
+msgid "Filmstrip"
+msgstr ""
+
+msgctxt "#31297"
+msgid "Select + Right Stick"
+msgstr "Velg + Høyre Stick"
+
+msgctxt "#31298"
+msgid "Vertical Home menu"
+msgstr "Vertikal Hjem-meny"
+
+msgctxt "#31299"
+msgid "Eject disc"
+msgstr "Løs ut plate"
+
+msgctxt "#31302"
+msgid "Play with PreShow"
+msgstr "Spill med PreShow"
+
+msgctxt "#31303"
+msgid "Highlighted text colour"
+msgstr "Uthevet tekstfarge"
+
+msgctxt "#31304"
+msgid "Marks colour"
+msgstr "Merker farge"
+
+msgctxt "#31305"
+msgid "Current"
+msgstr "Gjeldende"
+
+msgctxt "#31306"
+msgid "Selected"
+msgstr "Valgt"
+
+msgctxt "#31311"
+msgid "Watched mark shape"
+msgstr "Sett merkeform"
+
+msgctxt "#31312"
+msgid "Sliding background fanarts"
+msgstr "Sliding bakgrunn fanarts"
+
+msgctxt "#31313"
+msgid "Kodi add-ons settings"
+msgstr "Kodi-tilleggsinnstillinger"
+
+msgctxt "#31314"
+msgid "Install and update add-ons"
+msgstr "Installer og oppdater tillegg"
+
+msgctxt "#31315"
+msgid "Download add-ons"
+msgstr "Last ned tillegg"
+
+msgctxt "#31316"
+msgid "Show Browser"
+msgstr "Vis nettleser"
+
+msgctxt "#31318"
+msgid "Hide Browser"
+msgstr "Skjul nettleseren"
+
+msgctxt "#31319"
+msgid "Narrow view"
+msgstr "Smal utsikt"
+
+msgctxt "#31322"
+msgid "Wide view"
+msgstr "Vid utsikt"
+
+msgctxt "#31323"
+msgid "Actors in other movies and TV shows"
+msgstr "Skuespillere i andre filmer og TV-serier"
+
+msgctxt "#31324"
+msgid "Show similar movies/TV shows and artists/albums"
+msgstr "Vis lignende filmer/TV-serier og artister/album"
+
+msgctxt "#31325"
+msgid "Opens a new window in some video/music views showing other movies/TV shows or artists/albums similar or related to the current item."
+msgstr "Åpner et nytt vindu i noen video-/musikkvisninger som viser andre filmer/TV-programmer eller artister/album som ligner på eller er relatert til gjeldende element."
+
+msgctxt "#31326"
+msgid "Show similar"
+msgstr "Vis lignende"
+
+msgctxt "#31327"
+msgid "Classic"
+msgstr "Klassisk"
+
+msgctxt "#31329"
+msgid "Similar albums"
+msgstr "Lignende album"
+
+msgctxt "#31330"
+msgid "No similar found"
+msgstr "Ingen lignende funnet"
+
+msgctxt "#31333"
+msgid "Wikipedia"
+msgstr "Wikipedia"
+
+msgctxt "#31337"
+msgid "Click to select and open article's links"
+msgstr "Klikk for å velge og åpne artikkelens lenker"
+
+msgctxt "#31338"
+msgid "Click to search..."
+msgstr "Klikk for å søke..."
+
+msgctxt "#31339"
+msgid "Add/update music video links"
+msgstr "Legg til/oppdater musikkvideokoblinger"
+
+msgctxt "#31340"
+msgid "[B]CONFIGURE GAME SETTINGS[/B][CR][CR]Change gameplay options[CR]Keyboard settings · Configure rewind settings"
+msgstr "[B]KONFIGURER SPILLINNSTILLINGER[/B][CR][CR]Endre spillalternativer[CR]Tastaturinnstillinger · Konfigurer innstillinger for tilbakespoling"
+
+msgctxt "#31341"
+msgid "Narrow list"
+msgstr "Smal liste"
+
+msgctxt "#31342"
+msgid "Wide list"
+msgstr "Bred liste"
+
+msgctxt "#31343"
+msgid "Update videolinks"
+msgstr "Oppdater videolinker"
+
+msgctxt "#31344"
+msgid "Play all music videos"
+msgstr "Spill av alle musikkvideoer"
+
+msgctxt "#31345"
+msgid "No bookmarks created yet"
+msgstr "Ingen bokmerker opprettet ennå"
+
+msgctxt "#31346"
+msgid "Choose where to start"
+msgstr "Velg hvor du skal begynne"
+
+msgctxt "#31347"
+msgid "Browse the list and click"
+msgstr "Bla gjennom listen og klikk"
+
+msgctxt "#31348"
+msgid "Show OSD controls"
+msgstr "Vis OSD-kontroller"
+
+msgctxt "#31349"
+msgid "Preparing list of music videos, please wait..."
+msgstr "Forbereder liste over musikkvideoer, vennligst vent..."
+
+msgctxt "#31350"
+msgid "Songs party mode"
+msgstr "Festmodus for sanger"
+
+msgctxt "#31351"
+msgid "Videolinks party mode"
+msgstr "Videolinks-partymodus"
+
+msgctxt "#31352"
+msgid "No videolinks found"
+msgstr "Ingen videokoblinger funnet"
+
+msgctxt "#31353"
+msgid "Click or arrow keys while playing to show the OSD"
+msgstr "Klikk eller piltastene mens du spiller for å vise OSD"
+
+msgctxt "#31354"
+msgid "While playing..."
+msgstr "Mens du spiller..."
+
+msgctxt "#31355"
+msgid "Click or arrow keys to show the OSD"
+msgstr "Klikk eller piltastene for å vise OSD"
+
+msgctxt "#31356"
+msgid "Shows the normal thumb (folder.jpg) in artists and albums music views."
+msgstr "Viser den vanlige tommelen (folder.jpg) i artist- og albummusikkvisninger."
+
+msgctxt "#31357"
+msgid "Shows the animated thumb (animatedthumb.gif) in artists and albums music views."
+msgstr "Viser den animerte tommelen (animatedthumb.gif) i artist- og albummusikkvisninger."
+
+msgctxt "#31358"
+msgid "Show a colour strip code on video elements"
+msgstr "Vis en fargestripekode på videoelementer"
+
+msgctxt "#31359"
+msgid "Allows to quickly identify video file quality using a colour strip code when browsing movies and episodes in video views"
+msgstr "Gjør det mulig å raskt identifisere videofilkvalitet ved hjelp av en fargestripekode når du blar gjennom filmer og episoder i videovisninger"
+
+msgctxt "#31360"
+msgid "Library using Global Search"
+msgstr "Bibliotek ved hjelp av globalt søk"
+
+msgctxt "#31361"
+msgid "TheMovieDB"
+msgstr ""
+
+msgctxt "#31362"
+msgid "Most Voted Movies"
+msgstr "Filmer med flest stemmer"
+
+msgctxt "#31363"
+msgid "Crew"
+msgstr "Mannskap"
+
+msgctxt "#31364"
+msgid "Most Voted Shows"
+msgstr "Mest stemte show"
+
+msgctxt "#31365"
+msgid "Random Shows"
+msgstr "Tilfeldige show"
+
+msgctxt "#31366"
+msgid "Random Artists"
+msgstr "Tilfeldige artister"
+
+msgctxt "#31367"
+msgid "Online info from TheMovieDB.org for videos"
+msgstr "Online informasjon fra TheMovieDB.org for videoer"
+
+msgctxt "#31368"
+msgid "Get online info from TheMovieDB.org in movie and TVshow's info screen and widgets"
+msgstr "Få informasjon på nettet fra TheMovieDB.org i film- og TV-seriens infoskjerm og widgets"
+
+msgctxt "#31369"
+msgid "Snow effect - Off"
+msgstr "Snøeffekt - Av"
+
+msgctxt "#31370"
+msgid "Snow effect - Light"
+msgstr "Snøeffekt - Lys"
+
+msgctxt "#31371"
+msgid "Snow effect - Medium"
+msgstr "Snøeffekt - Middels"
+
+msgctxt "#31372"
+msgid "Snow effect - Heavy"
+msgstr "Snøeffekt - Tung"
+
+msgctxt "#31373"
+msgid "Snow effect - Blizzard"
+msgstr "Snøeffekt - Blizzard"
+
+msgctxt "#31374"
+msgid "Click or arrow keys to exit"
+msgstr "Klikk eller piltastene for å avslutte"
+
+msgctxt "#31375"
+msgid "Rewind"
+msgstr "Spol tilbake"
+
+msgctxt "#31376"
+msgid "Fast forward"
+msgstr "Spol fremover"
+
+msgctxt "#31377"
+msgid "Step back"
+msgstr "Gå tilbake"
+
+msgctxt "#31378"
+msgid "Step forward"
+msgstr "Gå frem"
+
+msgctxt "#31379"
+msgid "Previous chapter"
+msgstr "Forrige kapittel"
+
+msgctxt "#31380"
+msgid "Next chapter"
+msgstr "Neste kapittel"
+
+msgctxt "#31381"
+msgid "Previous channel"
+msgstr "Forrige kanal"
+
+msgctxt "#31382"
+msgid "Next channel"
+msgstr "Neste kanal"
+
+msgctxt "#31383"
+msgid "Show lyrics"
+msgstr "Vis tekster"
+
+msgctxt "#31384"
+msgid "Hide lyrics"
+msgstr "Skjul tekster"
+
+msgctxt "#31385"
+msgid "Adjust lyrics"
+msgstr "Juster tekstene"
+
+msgctxt "#31386"
+msgid "Hide resumable mark in video views"
+msgstr "Skjul gjenopptakbart merke i videovisninger"
+
+msgctxt "#31387"
+msgid "Hide unwatched mark in video views"
+msgstr "Skjul usett-merket i videovisninger"
+
+msgctxt "#31388"
+msgid "Hide episodes unwatched mark in video views"
+msgstr "Skjul episoder som ikke er sett i videovisninger"
+
+msgctxt "#31389"
+msgid "Same director"
+msgstr "Samme regissør"
+
+msgctxt "#31391"
+msgid "'Down' to show similars"
+msgstr "'Ned' for å vise lignende"
+
+msgctxt "#31392"
+msgid "'Right' to show similars"
+msgstr "'Rett' til å vise lignende"
+
+msgctxt "#31393"
+msgid "Show logos"
+msgstr "Vis logoer"
+
+msgctxt "#31394"
+msgid "Show only titles"
+msgstr "Vis kun titler"
+
+msgctxt "#31395"
+msgid "Play automatically video links in song views"
+msgstr "Spill av videolenker automatisk i sangvisninger"
+
+msgctxt "#31396"
+msgid "When you browse song views and stop for a few seconds, the video link for that song will play automatically (if available)."
+msgstr "Når du blar gjennom sangvisninger og stopper i noen sekunder, spilles videolinken for den sangen av automatisk (hvis tilgjengelig)."
+
+msgctxt "#31397"
+msgid "User reviews"
+msgstr "Brukeranmeldelser"
+
+msgctxt "#31398"
+msgid "Horizontal Home menu"
+msgstr "Horisontal Hjemmeny"
+
+msgctxt "#31399"
+msgid "Simple Home menu"
+msgstr "Enkel hjemmemeny"
+
+msgctxt "#31403"
+msgid "Widget type"
+msgstr "Widget-type"
+
+msgctxt "#31404"
+msgid "Small widgets..."
+msgstr "Små widgets..."
+
+msgctxt "#31408"
+msgid "Fullscreen widgets..."
+msgstr "Fullskjermwidgeter..."
+
+msgctxt "#31411"
+msgid "Force view..."
+msgstr "Tving visning..."
+
+msgctxt "#31416"
+msgid "A view can't be disabled when is selected as \"forced\" for some media."
+msgstr "En visning kan ikke deaktiveres når den er valgt som «tvungen» for enkelte medier."
+
+msgctxt "#31417"
+msgid "Only views that are not marked as disabled can be forced."
+msgstr "Bare visninger som ikke er merket som deaktivert kan tvinges."
+
+msgctxt "#31418"
+msgid "Don't force views"
+msgstr "Ikke tving frem synspunkter"
+
+msgctxt "#31419"
+msgid "Forced view"
+msgstr "Tvunget visning"
+
+msgctxt "#31420"
+msgid "Enable or disable views"
+msgstr "Aktiver eller deaktiver visninger"
+
+msgctxt "#31422"
+msgid "No embedded subs"
+msgstr "Ingen innebygde subs"
+
+msgctxt "#31423"
+msgid "Auto-open audio/subtitle selector at video start"
+msgstr "Automatisk åpning av lyd-/undertekstvelger ved videostart"
+
+msgctxt "#31424"
+msgid "Automatically opens an audio and subtitle selector when starting playback of movies and episodes, allowing you to see which tracks are active and change them directly before continuing."
+msgstr "Åpner automatisk en lyd- og undertekstvelger når du starter avspilling av filmer og episoder, slik at du kan se hvilke spor som er aktive og endre dem direkte før du fortsetter."
+
+msgctxt "#31425"
+msgid "Search music video links for songs not in your library"
+msgstr "Søk etter musikkvideokoblinger etter sanger som ikke er i biblioteket ditt"
+
+msgctxt "#31426"
+msgid "Similar artists on your library"
+msgstr "Lignende artister på biblioteket ditt"
+
+msgctxt "#31435"
+msgid "Albums by this artist in your library"
+msgstr "Album av denne artisten i biblioteket ditt"
+
+msgctxt "#31436"
+msgid "Online info from TheAudioDB.com for music"
+msgstr "Online info fra TheAudioDB.com for musikk"
+
+msgctxt "#31437"
+msgid "Get online information from TheAudioDB.com on the artist and album information screen"
+msgstr "Få online informasjon fra TheAudioDB.com på informasjonsskjermen for artist og album"
+
+msgctxt "#31438"
+msgid "TheAudioDb Helper supplies online data and artwork to display enhanced details for artists and music albums."
+msgstr "TheAudioDb Helper leverer online data og kunstverk for å vise forbedrede detaljer for artister og musikkalbum."
+
+msgctxt "#31439"
+msgid "Record label"
+msgstr "Plateselskap"
+
+msgctxt "#31440"
+msgid "Last.fm Plays"
+msgstr "Last.fm spiller"

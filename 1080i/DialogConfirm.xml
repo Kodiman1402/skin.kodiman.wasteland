@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<window>
+	<defaultcontrol>9000</defaultcontrol>
+	<onload condition="Control.IsVisible(10)">SetFocus(10)</onload>
+	<coordinates>
+		<system>1</system>
+		<left>502</left>
+		<top>293</top>
+	</coordinates>
+	<include>DialogOpenCloseAnimation</include>
+	<controls>
+		<include condition="String.IsEmpty(Window(10000).Property(theaudiodb.dialog.type))">Dialog_normal</include>
+		<include condition="!String.IsEmpty(Window(10000).Property(theaudiodb.dialog.type))">Dialog_info_music</include>
+	</controls>
+</window>

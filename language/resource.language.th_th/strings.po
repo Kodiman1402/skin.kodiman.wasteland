@@ -1,0 +1,2224 @@
+# Kodi Media Center language file
+# Addon Name: Aeon Tajo
+# Addon id: skin.aeon.tajo
+# Addon Provider: manfeed
+msgid ""
+msgstr ""
+"Project-Id-Version: KODI Skins\n"
+"POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2026-03-28 23:42+0000\n"
+"Last-Translator: manfeed <aeon.tajo@gmail.com>\n"
+"Language-Team: Thai  <aeon.tajo@gmail.com>\n"
+"Language: th_th\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+msgctxt "Addon Summary"
+msgid "Aeon Tajo"
+msgstr ""
+
+msgctxt "Addon Description"
+msgid "Aeon Tajo: Changes everything so that nothing changes. Inspired on Aeon Nox 5 (thanks to BigNoid)."
+msgstr "อิออน ทาโจ: เปลี่ยนแปลงทุกอย่างจนไม่มีอะไรเปลี่ยนแปลงแรงบันดาลใจจาก Aeon Nox 5 (ขอบคุณ BigNoid)"
+
+msgctxt "Addon Disclaimer"
+msgid "Mouse control is supported, althoug not recommended. It may not work correctly in all cases."
+msgstr "รองรับการควบคุมเมาส์ แม้ว่าจะไม่แนะนำก็ตามอาจทำงานไม่ถูกต้องในทุกกรณี"
+
+msgctxt "#31000"
+msgid "Directed by"
+msgstr "กำกับโดย"
+
+msgctxt "#31001"
+msgid "Written by"
+msgstr "เขียนโดย"
+
+msgctxt "#31002"
+msgid "Blurred album thumb"
+msgstr "รูปย่ออัลบั้มแบบพร่ามัว"
+
+msgctxt "#31003"
+msgid "Power Options"
+msgstr "ตัวเลือก ด้านพลังงาน"
+
+msgctxt "#31004"
+msgid "Working"
+msgstr "กำลังทำงาน"
+
+msgctxt "#31005"
+msgid "Fixed"
+msgstr "คงที่"
+
+msgctxt "#31006"
+msgid "View Options"
+msgstr "ตัวเลือก มุมมอง"
+
+msgctxt "#31007"
+msgid "Setup home"
+msgstr "ตั้งค่าหน้าหลัก"
+
+msgctxt "#31008"
+msgid "Full screen"
+msgstr "เต็มจอ"
+
+msgctxt "#31009"
+msgid "Total Duration"
+msgstr "รวมระยะเวลา"
+
+msgctxt "#31010"
+msgid "Next episode"
+msgstr "ตอนถัดไป"
+
+msgctxt "#31011"
+msgid "Latest episode"
+msgstr "ตอนล่าสุด"
+
+msgctxt "#31012"
+msgid "Airs"
+msgstr "ออกอากาศ"
+
+msgctxt "#31013"
+msgid "Statistics"
+msgstr "สถิติ"
+
+msgctxt "#31014"
+msgid "Extras"
+msgstr "ส่วนพิเศษ"
+
+msgctxt "#31015"
+msgid "Set path to video genre fanart folder"
+msgstr "กำหนดเสันทางไปยังโฟลเดอร์แฟนอาร์ตประเภทวิดีโอ"
+
+msgctxt "#31016"
+msgid "Poster"
+msgstr "โปสเตอร์"
+
+msgctxt "#31017"
+msgid "Set path to music genre fanart folder"
+msgstr "กำหนดเสันทางไปยังโฟลเดอร์แฟนอาร์ตประเภทเพลง"
+
+msgctxt "#31018"
+msgid "InfoPanel"
+msgstr "แผงข้อมูล"
+
+msgctxt "#31019"
+msgid "Network"
+msgstr "เครือข่าย"
+
+msgctxt "#31020"
+msgid "Extra-fanart"
+msgstr "แฟนอาร์ต-พิเศษ"
+
+msgctxt "#31021"
+msgid "Stage curtains"
+msgstr "ผ้าม่านเวที"
+
+msgctxt "#31022"
+msgid "Set multi-image background"
+msgstr "กำหนดพื้นหลังแบบหลายภาพ"
+
+msgctxt "#31023"
+msgid "Set single image background"
+msgstr "กำหนดพื้นหลังแบบภาพเดียว"
+
+msgctxt "#31024"
+msgid "Page"
+msgstr "หน้า"
+
+msgctxt "#31025"
+msgid "Items"
+msgstr "รายการ"
+
+msgctxt "#31026"
+msgid "Misc Options"
+msgstr "ตัวเลือกอื่นๆ"
+
+msgctxt "#31027"
+msgid "Set item background"
+msgstr "กำหนดพื้นหลังรายการ"
+
+msgctxt "#31028"
+msgid "Live DVD Cases"
+msgstr "วางแสดงกล่องดีวีดี"
+
+msgctxt "#31029"
+msgid "Recent Movies"
+msgstr "ภาพยนตร์ล่าสุด"
+
+msgctxt "#31030"
+msgid "Recent Episodes"
+msgstr "ตอนล่าสุด"
+
+msgctxt "#31031"
+msgid "Random Movies"
+msgstr "ภาพยนตร์สุ่ม"
+
+msgctxt "#31032"
+msgid "Recommended Movies"
+msgstr "หนังแนะนำ"
+
+msgctxt "#31033"
+msgid "Random Episodes"
+msgstr "ตอนสุ่ม"
+
+msgctxt "#31034"
+msgid "Recommended Episodes"
+msgstr "ตอนที่แนะนำ"
+
+msgctxt "#31035"
+msgid "Random Songs"
+msgstr "เพลงสุ่ม"
+
+msgctxt "#31036"
+msgid "Random Albums"
+msgstr "อัลบั้มสุ่ม"
+
+msgctxt "#31037"
+msgid "Recent Albums"
+msgstr "อัลบั้มล่าสุด"
+
+msgctxt "#31038"
+msgid "Recommended Albums"
+msgstr "อัลบั้มแนะนำ"
+
+msgctxt "#31039"
+msgid "Actions"
+msgstr "การกระทำ"
+
+msgctxt "#31040"
+msgid "Now Playing"
+msgstr "กำลังเล่น"
+
+msgctxt "#31041"
+msgid "Select widget"
+msgstr "เลือกตัวแขวน"
+
+msgctxt "#31042"
+msgid "Show \"Now Playing\" information blended in the background"
+msgstr "แสดงข้อมูล \"ขณะนี้กำลังเล่น\" ผสานในพื้นหลัง"
+
+msgctxt "#31043"
+msgid "Platform"
+msgstr "แพลตฟอร์ม"
+
+msgctxt "#31044"
+msgid "Views: Plot outline | Info dialog: Full plot"
+msgstr "มุมมอง: โครงเรื่อง | กล่องโต้ตอบข้อมูล: เรื่องย่อแบบเต็ม"
+
+msgctxt "#31045"
+msgid "Views: Full plot | Info dialog: Plot outline"
+msgstr "มุมมอง: เรื่องย่อแบบเต็ม | กล่องโต้ตอบข้อมูล: โครงเรื่อง"
+
+msgctxt "#31046"
+msgid "SEEKING"
+msgstr "ค้นหา"
+
+msgctxt "#31047"
+msgid "Set item icon"
+msgstr "กำหนดไอคอนของรายการ"
+
+msgctxt "#31048"
+msgid "Visualisation Presets"
+msgstr "ชุดรูปแบบการแสดงแสงสี"
+
+msgctxt "#31049"
+msgid "Select infoline"
+msgstr "เลือกบรรทัดแสดงข้อมูล"
+
+msgctxt "#31050"
+msgid "Sort: Ascending"
+msgstr "เรียง: มากไปน้อย"
+
+msgctxt "#31051"
+msgid "Sort: Descending"
+msgstr "เรียง: น้อยไปมาก"
+
+msgctxt "#31052"
+msgid "Movie library statistics"
+msgstr "สถานะคลังข้อมูลภาพยนตร์"
+
+msgctxt "#31053"
+msgid "TV Show library statistics"
+msgstr "สถานะคลังข้อมูลรายการทีวี"
+
+msgctxt "#31054"
+msgid "Music library statistics"
+msgstr "สถานะคลังข้อมูลเพลง"
+
+msgctxt "#31055"
+msgid "Open playlist"
+msgstr "เปิดรายการเล่น"
+
+msgctxt "#31056"
+msgid "Save playlist"
+msgstr "บันทึกรายการเล่น"
+
+msgctxt "#31057"
+msgid "Close playlist"
+msgstr "ปิด รายการเล่น"
+
+msgctxt "#31058"
+msgid "PVR information"
+msgstr "ข้อมูล PVR"
+
+msgctxt "#31059"
+msgid "Install Artist Slideshow add-on to enable this feature"
+msgstr "ติดตั้งส่วนเสริม Artist Slideshow เพื่อเปิดใช้งานคุณสมบัตินี้"
+
+msgctxt "#31060"
+msgid "This file is stacked, select the part you want to play from."
+msgstr "แฟ้มนี้ซ้อนกันอยู่, เลือกส่วนที่คุณต้องการจะเล่นจาก."
+
+msgctxt "#31061"
+msgid "Favourites statistics"
+msgstr "สถิติรายการโปรด"
+
+msgctxt "#31062"
+msgid "Random movie fanart"
+msgstr "สุ่มแฟนอาร์ตภาพยนตร์"
+
+msgctxt "#31063"
+msgid "Random TV show fanart"
+msgstr "สุ่มแฟนอาร์ตรายการทีวี"
+
+msgctxt "#31064"
+msgid "Random video fanart"
+msgstr "สุ่มแฟนอาร์ตวิดีโอ"
+
+msgctxt "#31065"
+msgid "Random music fanart"
+msgstr "สุ่มแฟนอาร์ตเพลง"
+
+msgctxt "#31066"
+msgid "Random fanart"
+msgstr "แฟนอาร์ตแบบสุ่ม"
+
+msgctxt "#31067"
+msgid "Update rating"
+msgstr "ปรับปรุงการจัดอันดับ"
+
+msgctxt "#31068"
+msgid "CD Wall"
+msgstr "ผนังซีดี"
+
+msgctxt "#31069"
+msgid "Change location"
+msgstr "เปลี่ยนพื้นที่"
+
+msgctxt "#31070"
+msgid "Enable Cinema Experience integration"
+msgstr "เปิดใช้งานการผสาน Cinema Experience"
+
+msgctxt "#31071"
+msgid "While browsing the library"
+msgstr "ในขณะที่เรียกดูคลังข้อมูล"
+
+msgctxt "#31072"
+msgid "On open video info"
+msgstr "ข้อมูลวิดีโอที่เปิด"
+
+msgctxt "#31073"
+msgid "Move menu item"
+msgstr "ย้ายรายการในเมนู"
+
+msgctxt "#31074"
+msgid "Choose item to swap places with"
+msgstr "เลือกรายการที่จะสลับที่ด้วย"
+
+msgctxt "#31075"
+msgid "No extra features available"
+msgstr "ไม่มีคุณสมบัติพิเศษที่ใช้ได้"
+
+msgctxt "#31076"
+msgid "Landscape"
+msgstr "แนวนอน"
+
+msgctxt "#31077"
+msgid "ShowCase"
+msgstr "แสดงกล่อง"
+
+msgctxt "#31078"
+msgid "TriPanel"
+msgstr "สามแผงข้อมูล"
+
+msgctxt "#31079"
+msgid "Shift"
+msgstr "เลื่อน"
+
+msgctxt "#31080"
+msgid "Manage submenu"
+msgstr "จัดการเมนูย่อย"
+
+msgctxt "#31081"
+msgid "Enable custom submenus"
+msgstr "เปิดใช้งานเมนูย่อยด้วยตนเอง"
+
+msgctxt "#31082"
+msgid "Detach RSS feed from the main menu"
+msgstr "แยกการดึงข้อมูล RSS ออกจากเมนูหลัก"
+
+msgctxt "#31083"
+msgid "Enable Next Aired information in the videolibrary"
+msgstr "เปิดใช้งาน ข้อมูล Next Aired ในคลังข้อมูลวิดีโอ"
+
+msgctxt "#31084"
+msgid "Conditional weather"
+msgstr "สภาวะอากาศ"
+
+msgctxt "#31085"
+msgid "Musicvideo library statistics"
+msgstr "สถานะคลังข้อมูลวิดีโอเพลง"
+
+msgctxt "#31086"
+msgid "Icon"
+msgstr "ไอคอน"
+
+msgctxt "#31087"
+msgid "Banner"
+msgstr "ป้าย"
+
+msgctxt "#31088"
+msgid "BannerWall"
+msgstr "ผนังป้าย"
+
+msgctxt "#31089"
+msgid "Play item on startup"
+msgstr "เล่นรายการ ในขณะเริ่มระบบ"
+
+msgctxt "#31090"
+msgid "Seconds"
+msgstr "วินาที"
+
+msgctxt "#31091"
+msgid "Select items"
+msgstr "เลือกรายการ"
+
+msgctxt "#31092"
+msgid "Fullscreen fanart"
+msgstr "แฟนอาร์ตแบบเต็มจอ"
+
+msgctxt "#31093"
+msgid "LowList toggle"
+msgstr "สลับรายการแบบต่ำ"
+
+msgctxt "#31094"
+msgid "List view layout"
+msgstr "การจัดวางมุมมองรายการ"
+
+msgctxt "#31095"
+msgid "Slim List"
+msgstr "รายการแบบบาง"
+
+msgctxt "#31096"
+msgid "Concert locations"
+msgstr "สถานที่จัดคอนเสิร์ต"
+
+msgctxt "#31097"
+msgid "Movie playlist statistics"
+msgstr "สถานะรายการเล่นภาพยนตร์"
+
+msgctxt "#31098"
+msgid "TV Show playlist statistics"
+msgstr "สถานะรายการเล่นรายการทีวี"
+
+msgctxt "#31099"
+msgid "Musicvideo playlist statistics"
+msgstr "สถานะรายการเล่นวิดีโอเพลง"
+
+msgctxt "#31100"
+msgid "View:"
+msgstr "มุมมอง:"
+
+msgctxt "#31101"
+msgid "Choose view"
+msgstr "เลือกมุมมอง"
+
+msgctxt "#31102"
+msgid "Background"
+msgstr "พื้นหลัง"
+
+msgctxt "#31103"
+msgid "N/A"
+msgstr "N/A"
+
+msgctxt "#31104"
+msgid "Similar artists"
+msgstr "ศิลปินที่คล้ายกัน"
+
+msgctxt "#31105"
+msgid "More albums from"
+msgstr "อัลบั้มเพิ่มเติมจาก"
+
+msgctxt "#31106"
+msgid "On info"
+msgstr "ข้อมูลเกี่ยวกับ"
+
+msgctxt "#31107"
+msgid "Persistent"
+msgstr "บ่อยๆ"
+
+msgctxt "#31108"
+msgid "Enable artist information feed (if available)"
+msgstr "เปิดใช้งาน การดึงข้อมูลศิลปิน (ถ้ามี)"
+
+msgctxt "#31109"
+msgid "Unwatched episode count"
+msgstr "นับจำนวนตอนที่ยังไม่ได้ดู"
+
+msgctxt "#31110"
+msgid "Up next brings the option to watch right away the next episode of a TV show (Netflix/Prime video style)."
+msgstr "ถัดไปจะแสดงตัวเลือกให้รับชมตอนต่อไปของรายการทีวีได้ทันที (รูปแบบวิดีโอ Netflix/Prime)"
+
+msgctxt "#31111"
+msgid "Similar movies"
+msgstr "ภาพยนตร์ที่คล้ายกัน"
+
+msgctxt "#31112"
+msgid "Movies directed by"
+msgstr "ภาพยนตร์กำกับโดย"
+
+msgctxt "#31113"
+msgid "Movies written by"
+msgstr "ภาพยนตร์เขียนบทโดย"
+
+msgctxt "#31114"
+msgid "More movies from"
+msgstr "ภาพยนตร์เพิ่มเติมจาก"
+
+msgctxt "#31115"
+msgid "Similar TV shows"
+msgstr "รายการทีวีที่คล้ายกัน"
+
+msgctxt "#31116"
+msgid "cycle fanart"
+msgstr "แฟนอาร์ตวงจร"
+
+msgctxt "#31117"
+msgid "Fallback"
+msgstr "ย้อนหลัง"
+
+msgctxt "#31118"
+msgid "Download extrafanart"
+msgstr "ดาวน์โหลด extrafanart"
+
+msgctxt "#31119"
+msgid "Show the movies from this director in your library or view online information on this director on TMDb?"
+msgstr "แสดงภาพยนตร์จากผู้กำกับคนนี้ในห้องสมุดของคุณหรือดูข้อมูลออนไลน์ของผู้กำกับคนนี้บน TMDb?"
+
+msgctxt "#31120"
+msgid "TMDb"
+msgstr ""
+
+msgctxt "#31121"
+msgid "Disable autocomplete"
+msgstr "ปิดการใช้งานการเติมข้อความอัตโนมัติ"
+
+msgctxt "#31122"
+msgid "Disables the autocomplete feature of the virtual keyboard"
+msgstr "ปิดใช้งานคุณลักษณะเติมข้อความอัตโนมัติของแป้นพิมพ์เสมือน"
+
+msgctxt "#31123"
+msgid "Album review"
+msgstr "รีวิวอัลบั้ม"
+
+msgctxt "#31124"
+msgid "Show Background \"Now Playing\" Video"
+msgstr "แสดงพื้นหลังด้วยวิดีโอ \"ที่กำลังเล่น\""
+
+msgctxt "#31125"
+msgid "Show Background \"Now Playing\" Visualisation"
+msgstr "แสดงพื้นหลัง แสงสีประกอบเพลง \"ที่กำลังเล่น\""
+
+msgctxt "#31126"
+msgid "Opacity level for widgets"
+msgstr "ระดับความทึบสำหรับวิดเจ็ต"
+
+msgctxt "#31127"
+msgid "LiveTV Mod Settings"
+msgstr "การตั้งค่า Mod LiveTV"
+
+msgctxt "#31128"
+msgid "Channels View"
+msgstr "มุมมองช่อง"
+
+msgctxt "#31129"
+msgid "Hide Fanart in full screen visualisation"
+msgstr "ซ่อนแฟนอาร์ต ในการแสดงแสงสีแบบเต็มจอ"
+
+msgctxt "#31130"
+msgid "Use \"Enigma2-style\" channel OSD"
+msgstr "ใช้ OSD ของช่อง \"Enigma2-style\""
+
+msgctxt "#31131"
+msgid "EPG Timeline View"
+msgstr "มุมมองไทม์ไลน์ EPG"
+
+msgctxt "#31132"
+msgid "Tuner:"
+msgstr "จูนเนอร์:"
+
+msgctxt "#31133"
+msgid "Timeline channels-type:"
+msgstr "ประเภทช่องไทม์ไลน์:"
+
+msgctxt "#31134"
+msgid "Timeline view-type:"
+msgstr "ประเภทมุมมองไทม์ไลน์:"
+
+msgctxt "#31135"
+msgid "Infobar Options"
+msgstr "ตัวเลือกแถบข้อมูล"
+
+msgctxt "#31136"
+msgid "Infobar type:"
+msgstr "ประเภทแถบข้อมูล:"
+
+msgctxt "#31137"
+msgid "Hide encryption information"
+msgstr "ซ่อนข้อมูลการเข้ารหัส"
+
+msgctxt "#31138"
+msgid "Hide tuner information"
+msgstr "ซ่อนข้อมูลจูนเนอร์"
+
+msgctxt "#31139"
+msgid "Hide signal information"
+msgstr "ซ่อนข้อมูลสัญญาณ"
+
+msgctxt "#31140"
+msgid "Sideblade Options"
+msgstr "ตัวเลือกใบมีดด้านข้าง"
+
+msgctxt "#31141"
+msgid "Hide Guide"
+msgstr "ซ่อนคำแนะนำ"
+
+msgctxt "#31142"
+msgid "Settings level"
+msgstr "ระดับของการตั้งค่า"
+
+msgctxt "#31143"
+msgid "Hide Recordings"
+msgstr "ซ่อนการบันทึก"
+
+msgctxt "#31144"
+msgid "Hide Timer"
+msgstr "ซ่อนตัวจับเวลา"
+
+msgctxt "#31145"
+msgid "Hide Search"
+msgstr "ซ่อนการค้นหา"
+
+msgctxt "#31146"
+msgid "Rated"
+msgstr "เรต"
+
+msgctxt "#31147"
+msgid "Change rating"
+msgstr "เปลี่ยนเรตติ้ง"
+
+msgctxt "#31148"
+msgid "List local library items"
+msgstr "แสดงรายการห้องสมุดท้องถิ่น"
+
+msgctxt "#31149"
+msgid "Online info from TMDb"
+msgstr "ข้อมูลออนไลน์จาก TMDb"
+
+msgctxt "#31150"
+msgid "Select studio logo artwork"
+msgstr "เลือกงานศิลปะโลโก้สตูดิโอ"
+
+msgctxt "#31151"
+msgid "Customize the studio logos by choosing a different logo pack. Note that this has no effect on the studio icons displayed in the \"List\" view."
+msgstr "ปรับแต่งโลโก้สตูดิโอโดยเลือกชุดโลโก้อื่นโปรดทราบว่าการดำเนินการนี้ไม่มีผลกับไอคอนสตูดิโอที่แสดงในมุมมอง \"รายการ\""
+
+msgctxt "#31152"
+msgid "In progress movies"
+msgstr "ภาพยนตร์ที่ดำเนินการอยู่"
+
+msgctxt "#31153"
+msgid "Popular movies on TheMovieDB.org"
+msgstr "ภาพยนตร์ยอดนิยมบน TheMovieDB.org"
+
+msgctxt "#31154"
+msgid "Top rated movies on TheMovieDB.org"
+msgstr "ภาพยนตร์ยอดนิยมบน TheMovieDB.org"
+
+msgctxt "#31155"
+msgid "Movies currently in cinema"
+msgstr "ภาพยนตร์ที่อยู่ในโรงภาพยนตร์ในปัจจุบัน"
+
+msgctxt "#31156"
+msgid "Upcoming movies"
+msgstr "ภาพยนตร์ที่กำลังจะมาถึง"
+
+msgctxt "#31157"
+msgid "Multi movie widget"
+msgstr "วิดเจ็ตภาพยนตร์หลายเรื่อง"
+
+msgctxt "#31158"
+msgid "IMDb Top 250 movies"
+msgstr "IMDb ภาพยนตร์ 250 อันดับแรก"
+
+msgctxt "#31159"
+msgid "Event log"
+msgstr "บันทึกกิจกรรม"
+
+msgctxt "#31160"
+msgid "Display background name"
+msgstr "แสดงชื่อพื้นหลัง"
+
+msgctxt "#31161"
+msgid "Display title of movie/TV show/artist on home screen if the background has a fanart slideshow as background"
+msgstr "แสดงชื่อภาพยนตร์/รายการทีวี/ศิลปินบนหน้าจอหลักหากพื้นหลังมีสไลด์โชว์แฟนอาร์ตเป็นพื้นหลัง"
+
+msgctxt "#31162"
+msgid "min"
+msgstr "นาที"
+
+msgctxt "#31163"
+msgid "TIMESHIFT"
+msgstr ""
+
+msgctxt "#31164"
+msgid "Change weather icons"
+msgstr "เปลี่ยนไอคอนสภาพอากาศ"
+
+msgctxt "#31165"
+msgid "Layout"
+msgstr "เค้าโครง"
+
+msgctxt "#31166"
+msgid "Wall"
+msgstr "ผนัง"
+
+msgctxt "#31167"
+msgid "You're watching"
+msgstr "คุณกำลังดูอยู่"
+
+msgctxt "#31168"
+msgid "h"
+msgstr "h"
+
+msgctxt "#31169"
+msgid "m"
+msgstr ""
+
+msgctxt "#31170"
+msgid "Enable Netflix style pause screen"
+msgstr "เปิดใช้งานหน้าจอหยุดชั่วคราวสไตล์ Netflix"
+
+msgctxt "#31171"
+msgid "Shows an overview of the movie or episode 10 seconds after the video is paused."
+msgstr "แสดงภาพรวมของภาพยนตร์หรือตอน 10 วินาทีหลังจากที่วิดีโอหยุดชั่วคราว"
+
+msgctxt "#31172"
+msgid "Inactive"
+msgstr "ไม่ถูกใช้งาน"
+
+msgctxt "#31173"
+msgid "Decoder"
+msgstr "ตัวถอดรหัส"
+
+msgctxt "#31174"
+msgid "Hardware decoding"
+msgstr "การถอดรหัสด้วยฮาร์ดแวร์"
+
+msgctxt "#31175"
+msgid "press 'OK' to see more..."
+msgstr "กด 'ตกลง' เพื่อดูเพิ่มเติม..."
+
+msgctxt "#31176"
+msgid "Enter text here..."
+msgstr "ป้อนอักษรที่นี่..."
+
+msgctxt "#31177"
+msgid "Player controls"
+msgstr "การควบคุมผู้เล่น"
+
+msgctxt "#31178"
+msgid "Playlist options"
+msgstr "ตัวเลือกของรายการเล่น"
+
+msgctxt "#31179"
+msgid "Critics"
+msgstr "นักวิจารณ์"
+
+msgctxt "#31180"
+msgid "Play main theme when browsing movies and TV shows"
+msgstr "เล่นธีมหลักเมื่อเรียกดูภาพยนตร์และรายการทีวี"
+
+msgctxt "#31181"
+msgid "Display cast in video views"
+msgstr "แสดงนักแสดงในการดูวิดีโอ"
+
+msgctxt "#31182"
+msgid "Hide current time in media views"
+msgstr "ซ่อนเวลาปัจจุบันในมุมมองสื่อ"
+
+msgctxt "#31183"
+msgid "Hide number of items in media views"
+msgstr "ซ่อนจำนวนรายการในมุมมองสื่อ"
+
+msgctxt "#31184"
+msgid "Enable, disable and/or force video views"
+msgstr "เปิดใช้งาน ปิดใช้งาน และ/หรือบังคับมุมมองวิดีโอ"
+
+msgctxt "#31185"
+msgid "Enable, disable and/or force music views"
+msgstr "เปิดใช้งาน ปิดใช้งาน และ/หรือบังคับมุมมองเพลง"
+
+msgctxt "#31186"
+msgid "Force Kodi to always use certain view when browsing each kind of media. Disabling views that you don't use could speed up browsing in some devices"
+msgstr "บังคับให้ Kodi ใช้มุมมองที่กำหนดเสมอเมื่อเรียกดูสื่อแต่ละประเภท การปิดใช้งานมุมมองที่ไม่ได้ใช้อาจช่วยให้การเรียกดูเร็วขึ้นในบางอุปกรณ์"
+
+msgctxt "#31187"
+msgid "Available for:"
+msgstr "มีให้สำหรับ:"
+
+msgctxt "#31188"
+msgid "Kiosk mode"
+msgstr "โหมดคีออสก์"
+
+msgctxt "#31189"
+msgid "Disables the side media menu in views and most options to change Kodi, so as to prevent unwanted modifications."
+msgstr "ปิดการใช้งานเมนูสื่อด้านข้างในมุมมองและตัวเลือกส่วนใหญ่ในการเปลี่ยน Kodi เพื่อป้องกันการแก้ไขที่ไม่ต้องการ"
+
+msgctxt "#31190"
+msgid "In cinemas"
+msgstr "ในโรงภาพยนตร์"
+
+msgctxt "#31191"
+msgid "In cinemas soon"
+msgstr "ในโรงภาพยนตร์เร็วๆ นี้"
+
+msgctxt "#31192"
+msgid "Spotify"
+msgstr ""
+
+msgctxt "#31193"
+msgid "Show images of the best-known actresses"
+msgstr "แสดงภาพของนักแสดงที่มีชื่อเสียงที่สุด"
+
+msgctxt "#31194"
+msgid "Search the Red Carpet add-on for images of the best-known actresses from the movie/TV show and display them alongside the cast."
+msgstr "ค้นหารูปภาพของนักแสดงหญิงชื่อดังจากภาพยนตร์/รายการทีวีจากโปรแกรมเสริม Red Carpet และแสดงภาพเหล่านั้นควบคู่ไปกับนักแสดง"
+
+msgctxt "#31195"
+msgid "Show logos of film studios in video views"
+msgstr "แสดงโลโก้ของสตูดิโอภาพยนตร์ในการดูวิดีโอ"
+
+msgctxt "#31196"
+msgid "Show logos of record labels in music albums views"
+msgstr "แสดงโลโก้ของค่ายเพลงในมุมมองอัลบั้มเพลง"
+
+msgctxt "#31197"
+msgid "Show home music widget"
+msgstr "แสดงวิดเจ็ตเพลงที่บ้าน"
+
+msgctxt "#31198"
+msgid "Show home video widget"
+msgstr "แสดงวิดเจ็ตโฮมวิดีโอ"
+
+msgctxt "#31199"
+msgid "Colours, marks and home screen"
+msgstr "สี เครื่องหมาย และหน้าจอหลัก"
+
+msgctxt "#31200"
+msgid "Is used to choose among different Kodi resource image pack to weather artwork and icons."
+msgstr "ใช้เพื่อเลือกชุดรูปภาพทรัพยากร Kodi ที่แตกต่างกันสำหรับงานศิลปะและไอคอนสภาพอากาศ"
+
+msgctxt "#31201"
+msgid "Performance impact"
+msgstr "ผลกระทบต่อประสิทธิภาพ"
+
+msgctxt "#31202"
+msgid "Plays music in the background while in Home and Settings screens. A default song collection is provided, but a different song folder can be used."
+msgstr "เล่นเพลงเป็นพื้นหลังขณะอยู่ในหน้าจอโฮมและหน้าจอการตั้งค่ามีคอลเลกชั่นเพลงเริ่มต้นให้มา แต่สามารถใช้โฟลเดอร์เพลงอื่นได้"
+
+msgctxt "#31203"
+msgid "Select your own folder to use as background music. Make sure that it only contains music files."
+msgstr "เลือกโฟลเดอร์ของคุณเองเพื่อใช้เป็นเพลงพื้นหลังตรวจสอบให้แน่ใจว่ามีเพียงไฟล์เพลงเท่านั้น"
+
+msgctxt "#31204"
+msgid "When enabled, widgets linked to each home menu item will appear automatically. If disabled, widgets remain hidden until the corresponding arrow key is pressed."
+msgstr "เมื่อเปิดใช้งาน วิดเจ็ตที่เชื่อมโยงกับรายการเมนูหลักแต่ละรายการจะปรากฏขึ้นโดยอัตโนมัติหากปิดใช้งาน วิดเจ็ตจะยังคงซ่อนอยู่จนกว่าจะกดปุ่มลูกศรที่เกี่ยวข้อง"
+
+msgctxt "#31205"
+msgid "Lyrics Source"
+msgstr "แหล่งของเนื้อเพลง"
+
+msgctxt "#31206"
+msgid "Customization"
+msgstr "การปรับแต่ง"
+
+msgctxt "#31207"
+msgid "Views"
+msgstr "จำนวนการดู"
+
+msgctxt "#31208"
+msgid "Home screen"
+msgstr "หน้าจอหลัก"
+
+msgctxt "#31209"
+msgid "Options"
+msgstr "ตัวเลือก"
+
+msgctxt "#31210"
+msgid "Select another image as default background"
+msgstr "เลือกรูปภาพอื่นเป็นพื้นหลังเริ่มต้น"
+
+msgctxt "#31211"
+msgid "Changes the default Aeon Tajo background to another chosen by the user."
+msgstr "เปลี่ยนพื้นหลังเริ่มต้นของ Aeon Tajo เป็นพื้นหลังอื่นที่ผู้ใช้เลือก"
+
+msgctxt "#31212"
+msgid "Current background path: "
+msgstr "เส้นทางพื้นหลังปัจจุบัน:"
+
+msgctxt "#31213"
+msgid "Reset skin default background"
+msgstr "รีเซ็ตพื้นหลังเริ่มต้นของสกิน"
+
+msgctxt "#31214"
+msgid "Resets the default background provided with Aeon Tajo."
+msgstr "รีเซ็ตพื้นหลังเริ่มต้นที่มาพร้อมกับ Aeon Tajo"
+
+msgctxt "#31215"
+msgid "Show the coloured version of the icons rather than the monochrome version."
+msgstr "แสดงไอคอนเวอร์ชันสีแทนที่จะเป็นเวอร์ชันขาวดำ"
+
+msgctxt "#31216"
+msgid "Displays background and fanart images with a subtle motion effect across the screen."
+msgstr "แสดงภาพพื้นหลังและแฟนอาร์ตพร้อมเอฟเฟ็กต์การเคลื่อนไหวเล็กๆ น้อยๆ ทั่วทั้งหน้าจอ"
+
+msgctxt "#31217"
+msgid "Displays a list in the video views featuring thumbnail images of the main actors from the movie or TV show's cast."
+msgstr "แสดงรายการในการดูวิดีโอที่มีภาพขนาดย่อของนักแสดงหลักจากภาพยนตร์หรือรายการทีวี"
+
+msgctxt "#31218"
+msgid "Search the Studio Icons add-on for logo images of the film studios of the movie/TV show, and if found, display them while browsing the video views."
+msgstr "ค้นหาภาพโลโก้ของสตูดิโอภาพยนตร์ของภาพยนตร์/รายการทีวีจากโปรแกรมเสริม Studio Icons และหากพบ ให้แสดงภาพเหล่านั้นในขณะที่เรียกดูมุมมองวิดีโอ"
+
+msgctxt "#31219"
+msgid "Search for the album's record label logo using the RecordLabel Icons addon, and if found, display it when browsing the music album views."
+msgstr "ค้นหาโลโก้ค่ายเพลงของอัลบั้มโดยใช้ส่วนเสริม RecordLabel Icons และหากพบ ให้แสดงโลโก้ดังกล่าวเมื่อเรียกดูมุมมองอัลบั้มเพลง"
+
+msgctxt "#31220"
+msgid "Show rating"
+msgstr "แสดงเรตติ้ง"
+
+msgctxt "#31221"
+msgid "Show artist clearart"
+msgstr "แสดงศิลปิน clearart"
+
+msgctxt "#31222"
+msgid "Show CD"
+msgstr "แสดงซีดี"
+
+msgctxt "#31223"
+msgid "Show Time"
+msgstr "แสดงเวลา"
+
+msgctxt "#31224"
+msgid "Animated posters"
+msgstr "โปสเตอร์เคลื่อนไหว"
+
+msgctxt "#31225"
+msgid "Normal posters"
+msgstr "โปสเตอร์ธรรมดา"
+
+msgctxt "#31226"
+msgid "Extra posters"
+msgstr "โปสเตอร์เพิ่มเติม"
+
+msgctxt "#31227"
+msgid "Sets the transparency level of the home menu widgets."
+msgstr "ตั้งค่าระดับความโปร่งใสของวิดเจ็ตเมนูหลัก"
+
+msgctxt "#31228"
+msgid "Displays main menu options in a vertical layout instead of a horizontal one."
+msgstr "แสดงตัวเลือกเมนูหลักในรูปแบบแนวตั้งแทนที่จะเป็นแนวนอน"
+
+msgctxt "#31229"
+msgid "Set another video file as startup intro"
+msgstr "ตั้งค่าไฟล์วิดีโออื่นเป็นข้อมูลเริ่มต้น"
+
+msgctxt "#31230"
+msgid "Choose another video file to play when Kodi starts instead of Aeon Tajo default. It's recommended to choose a short one. To stop playback and start using Kodi right away, click or press any arrow key."
+msgstr "เลือกไฟล์วิดีโออื่นที่จะเล่นเมื่อ Kodi เริ่มทำงานแทนที่จะเป็นค่าเริ่มต้นของ Aeon Tajoแนะนำให้เลือกแบบสั้นหากต้องการหยุดเล่นและเริ่มใช้ Kodi ทันที ให้คลิกหรือกดปุ่มลูกศรใดก็ได้"
+
+msgctxt "#31231"
+msgid "Plays an intro video when launching Kodi"
+msgstr "เล่นวิดีโอแนะนำเมื่อเปิดตัว Kodi"
+
+msgctxt "#31232"
+msgid "Clear current intro video file and back to default"
+msgstr "ล้างไฟล์วิดีโอแนะนำปัจจุบันและกลับสู่ค่าเริ่มต้น"
+
+msgctxt "#31233"
+msgid "Clear the intro video file selected by the user and back to Aeon Tajo's default."
+msgstr "ล้างไฟล์วิดีโอแนะนำที่ผู้ใช้เลือกและกลับไปเป็นค่าเริ่มต้นของ Aeon Tajo"
+
+msgctxt "#31234"
+msgid "Adds a layer that simulates falling snow on all Kodi screens, with four available intensity levels."
+msgstr "เพิ่มเลเยอร์ที่จำลองหิมะตกบนหน้าจอ Kodi ทั้งหมด โดยมีระดับความเข้มให้เลือกสี่ระดับ"
+
+msgctxt "#31235"
+msgid "Override the current home menu backgrounds with this one"
+msgstr "แทนที่พื้นหลังเมนูหลักปัจจุบันด้วยสิ่งนี้"
+
+msgctxt "#31236"
+msgid "The background selections made in the Setup Main Menu screen will be preserved. Disabling this option will restore all previous backgrounds. This option is particularly designed for use during special seasons."
+msgstr "การเลือกพื้นหลังที่ทำในหน้าจอเมนูตั้งค่าหลักจะยังคงอยู่การปิดใช้งานตัวเลือกนี้จะคืนค่าพื้นหลังก่อนหน้านี้ทั้งหมดตัวเลือกนี้ได้รับการออกแบบมาโดยเฉพาะเพื่อใช้ในช่วงฤดูกาลพิเศษ"
+
+msgctxt "#31237"
+msgid "No impact"
+msgstr "ไม่มีผลกระทบ"
+
+msgctxt "#31238"
+msgid "Very small"
+msgstr "เล็กมาก"
+
+msgctxt "#31239"
+msgid "Small"
+msgstr "เล็ก"
+
+msgctxt "#31240"
+msgid "Moderate"
+msgstr "ปานกลาง"
+
+msgctxt "#31241"
+msgid "Pixel format"
+msgstr "รูปแบบพิกเซล"
+
+msgctxt "#31242"
+msgid "System rendering speed"
+msgstr "ความเร็วการเรนเดอร์ของระบบ"
+
+msgctxt "#31243"
+msgid "Hide actor's thumbnails"
+msgstr "ซ่อนภาพขนาดย่อของนักแสดง"
+
+msgctxt "#31244"
+msgid "Show only a list of the actors' names, instead of also including their thumbnails."
+msgstr "แสดงเฉพาะรายชื่อนักแสดงโดยไม่รวมภาพขนาดย่อ"
+
+msgctxt "#31250"
+msgid "Automatic Full Screen when playing music"
+msgstr "เต็มหน้าจออัตโนมัติเมื่อเล่นเพลง"
+
+msgctxt "#31251"
+msgid "Don't play melodies while in Home Screen"
+msgstr "อย่าเล่นท่วงทำนองขณะอยู่ในหน้าจอหลัก"
+
+msgctxt "#31252"
+msgid "Always show home screen widgets"
+msgstr "แสดงวิดเจ็ตบนหน้าจอหลักเสมอ"
+
+msgctxt "#31253"
+msgid "Choose user audio playlist *.m3u (max.10 songs)"
+msgstr "เลือกเพลย์ลิสต์เสียงของผู้ใช้ *.m3u (สูงสุด 10 เพลง)"
+
+msgctxt "#31254"
+msgid "Clear user playlist (back to default)"
+msgstr "ล้างเพลย์ลิสต์ของผู้ใช้ (กลับสู่ค่าเริ่มต้น)"
+
+msgctxt "#31300"
+msgid "Overview"
+msgstr "โดยรวม"
+
+msgctxt "#31301"
+msgid "Last Updated"
+msgstr "ปรับปรุงล่าสุด"
+
+msgctxt "#31307"
+msgid "Hide Fanart"
+msgstr "ซ่อนแฟนอาร์ต"
+
+msgctxt "#31308"
+msgid "Next aired"
+msgstr "ออกอากาศครั้งต่อไป"
+
+msgctxt "#31309"
+msgid "Memory Used:"
+msgstr "หน่วยความจำที่ใช้:"
+
+msgctxt "#31310"
+msgid "Available audio tracks"
+msgstr "แทร็กเสียงที่มีอยู่"
+
+msgctxt "#31317"
+msgid "Set Fanart Path"
+msgstr "ตั้งค่าเส้นทางของแฟนอาร์ต"
+
+msgctxt "#31320"
+msgid "Last Logged In"
+msgstr "เข้าสู่ระบบล่าสุด"
+
+msgctxt "#31321"
+msgid "Karaoke Song Selector"
+msgstr "ตัวเลือกเพลง คาราโอเกะ"
+
+msgctxt "#31328"
+msgid "Recently Added"
+msgstr "ที่เพิ่งเพิ่ม"
+
+msgctxt "#31331"
+msgid "Installed"
+msgstr "ติดตั้งแล้ว"
+
+msgctxt "#31332"
+msgid "Not Installed"
+msgstr "ไม่ได้ติดตั้ง"
+
+msgctxt "#31334"
+msgid "Required"
+msgstr "จำเป็น"
+
+msgctxt "#31335"
+msgid "Recommended"
+msgstr "ที่แนะนำ"
+
+msgctxt "#31336"
+msgid "Optional"
+msgstr "ไม่จำเป็น"
+
+msgctxt "#31390"
+msgid "Skin default"
+msgstr "หน้าตาพื้นฐาน"
+
+msgctxt "#31400"
+msgid "[B]CONFIGURE INTERFACE SETTINGS[/B][CR][CR]Change the skin · Set language and region · Setup remote controls[CR]Set up a screensaver · Setup master lock"
+msgstr "[B]กำหนดการตั้งค่าอินเทอร์เฟซ[/B][CR][CR]เปลี่ยนสกิน · ตั้งค่าภาษาและภูมิภาค · ตั้งค่ารีโมทคอนโทรล[CR]ตั้งค่าสกรีนเซฟเวอร์ · ตั้งค่าล็อคหลัก"
+
+msgctxt "#31401"
+msgid "Menu - press 'OK'"
+msgstr "เมนู - กด 'ตกลง'"
+
+msgctxt "#31402"
+msgid "Enable startup video intro"
+msgstr "เปิดใช้งานวิดีโอแนะนำการเริ่มต้น"
+
+msgctxt "#31405"
+msgid "[B]MONITOR YOUR SYSTEM[/B][CR][CR]Check out your hardware · Monitor CPU usage[CR]Check Kodi revision number"
+msgstr "[B]เฝ้าดูระบบของคุณ[/B][CR][CR]ตรวจสอบอุปกรณ์ของคุณ · ตรวจดูการใช้งาน ซีพียู[CR]ตรวจสอบหมายเลขรุ่นของ Kodi"
+
+msgctxt "#31406"
+msgid "[B]CONFIGURE SYSTEM SETTINGS[/B][CR][CR]Setup and calibrate displays · Configure audio output · [CR]Set power saving options · Enable debugging"
+msgstr "[B]กำหนดการตั้งค่าระบบ[/B][CR][CR]ตั้งค่าและปรับเทียบจอแสดงผล · กำหนดค่าเอาต์พุตเสียง · [CR]ตั้งค่าตัวเลือกการประหยัดพลังงาน · เปิดใช้งานการดีบัก"
+
+msgctxt "#31407"
+msgid "[B]SETUP PROFILES[/B][CR][CR]Setup and manage user profiles · Enable login screen[CR]Change password · Add a profile picture"
+msgstr "[B]การตั้งค่าโปรไฟล์[/B][CR][CR]ตั้งค่าและจัดการโปรไฟล์ผู้ใช้ · เปิดใช้งานหน้าจอเข้าระบบ[CR]เปลี่ยนรหัสผ่าน · เพิ่มรูปโปรไฟล์ผู้ใช้"
+
+msgctxt "#31409"
+msgid "[B]CONFIGURE TV SETTINGS[/B][CR][CR]Change full screen info · Manage EPG data settings"
+msgstr "[B] ตั้งค่าทีวี [/B][CR][CR]เปลี่ยนแปลงข้อมูลแบบเต็มหน้าจอ·จัดการการตั้งค่าข้อมูล EPG"
+
+msgctxt "#31410"
+msgid "[B]CONFIGURE SERVICE SETTINGS[/B][CR][CR]Setup control of Kodi via UPnP and HTTP · Configure file sharing[CR]Enable Zeroconf · Configure AirPlay"
+msgstr "[B]ปรับเปลี่ยนการตั้งค่าบริการ[/B][CR][CR]การตั้งค่าของ การควบคุม Kodi ผ่าน UPnP และ HTTP · กำหนดค่าใช้ไฟล์ร่วมกัน[CR]เปิดใช้ Zeroconf · กำหนดค่า AirPlay"
+
+msgctxt "#31412"
+msgid "Select section"
+msgstr "เลือกส่วน"
+
+msgctxt "#31413"
+msgid "Local subtitle available"
+msgstr "มีคำบรรยายในเครื่องใช้งานได้"
+
+msgctxt "#31414"
+msgid "[B]CONFIGURE PLAYER SETTINGS[/B][CR][CR]Configure video playback · Configure music playback · Configure picture slideshow[CR]Configure video language and subtitles"
+msgstr "[B]กำหนดการตั้งค่าผู้เล่น[/B][CR][CR]กำหนดค่าการเล่นวิดีโอ · กำหนดค่าการเล่นเพลง · กำหนดค่าสไลด์โชว์รูปภาพ[CR]กำหนดค่าภาษาของวิดีโอและคำบรรยาย"
+
+msgctxt "#31415"
+msgid "[B]CONFIGURE MEDIA SETTINGS[/B][CR][CR]Set default select action · Configure file list options · Configure metadata options[CR]Manage databases"
+msgstr "[B]กำหนดค่าการตั้งค่าสื่อ[/B][CR][CR]ตั้งค่าการดำเนินการเลือกเริ่มต้น · กำหนดค่าตัวเลือกรายการไฟล์ · กำหนดค่าตัวเลือกข้อมูลเมตา[CR]จัดการฐานข้อมูล"
+
+msgctxt "#31421"
+msgid "Select your Kodi user profile[CR]to login and continue"
+msgstr "เลือกโปรไฟล์ ผู้ใช้ Kodi ของคุณ[CR]เพื่อเข้าสู่ระบบและดำเนินการต่อไป"
+
+msgctxt "#31427"
+msgid "Skin Shortcuts is responsible for handling all aspects of the main menu."
+msgstr "Skin Shortcuts มีหน้าที่รับผิดชอบในการจัดการทุกด้านของเมนูหลัก"
+
+msgctxt "#31428"
+msgid "The Grab Fanart script provides the random fanart slideshows for the main menu."
+msgstr "สคริปต์ Grab Fanart นำเสนอสไลด์โชว์แฟนอาร์ตแบบสุ่มสำหรับเมนูหลัก"
+
+msgctxt "#31429"
+msgid "Library Data Provider is a service that runs in the background to provide library data for widgets and live backgrounds as well as playlist statistics for infolines."
+msgstr "ผู้ให้บริการข้อมูลห้องสมุดเป็นบริการที่ทำงานอยู่เบื้องหลังเพื่อจัดเตรียมข้อมูลห้องสมุดสำหรับวิดเจ็ตและพื้นหลังแบบสดตลอดจนสถิติเพลย์ลิสต์สำหรับอินโฟไลน์"
+
+msgctxt "#31430"
+msgid "Resource image addon for displaying the default white studio icons throughout the skin."
+msgstr "ทรัพยากรรูปภาพเสริมสำหรับการแสดงไอคอนสตูดิโอสีขาวเริ่มต้นทั่วทั้งสกิน"
+
+msgctxt "#31431"
+msgid "Resource image addon for displaying the default white recording label icons throughout the skin."
+msgstr "ทรัพยากรรูปภาพเสริมสำหรับการแสดงไอคอนป้ายกำกับการบันทึกสีขาวเริ่มต้นทั่วทั้งสกิน"
+
+msgctxt "#31432"
+msgid "Provides numerous Widget options and extended cast and crew metadata."
+msgstr "มีตัวเลือกวิดเจ็ตมากมายและข้อมูลเมตาของนักแสดงและทีมงานเพิ่มเติม"
+
+msgctxt "#31433"
+msgid "Skin Info Service is used to display movie set information throughout the skin."
+msgstr "Skin Info Service ใช้เพื่อแสดงข้อมูลชุดภาพยนตร์ทั่วทั้งสกิน"
+
+msgctxt "#31434"
+msgid "Check MP3 Theme checks whether the user has put a theme.mp3 file in the corresponding movie/TV show folder to be played when browsing."
+msgstr "ตรวจสอบธีม MP3 ตรวจสอบว่าผู้ใช้ใส่ไฟล์ theme.mp3 ลงในโฟลเดอร์ภาพยนตร์/รายการทีวีที่เกี่ยวข้องที่จะเล่นเมื่อเรียกดูหรือไม่"
+
+msgctxt "#31450"
+msgid "  •  Open Settings "
+msgstr "• เปิดการตั้งค่า"
+
+msgctxt "#31451"
+msgid "  •  Click to Install"
+msgstr "• คลิกเพื่อติดตั้ง"
+
+msgctxt "#31473"
+msgid "Aeon Tajo Helper provides the data to display the cast for movies and TV shows."
+msgstr "Aeon Tajo Helper ให้ข้อมูลเพื่อแสดงนักแสดงสำหรับภาพยนตร์และรายการทีวี"
+
+msgctxt "#31474"
+msgid "CU LRC Lyrics is used to download, sync, and display lyrics during fullscreen music playback."
+msgstr "เนื้อเพลง CU LRC ใช้เพื่อดาวน์โหลด ซิงค์ และแสดงเนื้อเพลงระหว่างการเล่นเพลงแบบเต็มหน้าจอ"
+
+msgctxt "#31475"
+msgid "Play Trailer makes possible to play movie trailers through a context menu. "
+msgstr "Play Trailer ช่วยให้สามารถเล่นตัวอย่างภาพยนตร์ผ่านเมนูบริบทได้"
+
+msgctxt "#31476"
+msgid "Allows the use of Youtube to play trailers and other videos."
+msgstr "อนุญาตให้ใช้ Youtube เพื่อเล่นตัวอย่างและวิดีโออื่น ๆ"
+
+msgctxt "#31477"
+msgid "Provides some cast actress images to be shown in video views."
+msgstr "ให้ภาพนักแสดงบางส่วนที่จะแสดงในมุมมองวิดีโอ"
+
+msgctxt "#31478"
+msgid "Artist Slideshow is used to display artist fanart for both the home screen and during fullscreen music playback."
+msgstr "สไลด์โชว์ศิลปินใช้เพื่อแสดงแฟนอาร์ตของศิลปินสำหรับทั้งหน้าจอหลักและระหว่างการเล่นเพลงแบบเต็มหน้าจอ"
+
+msgctxt "#31479"
+msgid "AutoCompletion provides suggestions to be selected while using the virtual keyboard."
+msgstr "การเติมข้อความอัตโนมัติให้คำแนะนำในการเลือกขณะใช้แป้นพิมพ์เสมือน"
+
+msgctxt "#31480"
+msgid "Library Editor Script uses JSON to directly edit your database information."
+msgstr "สคริปต์ตัวแก้ไขไลบรารีใช้ JSON เพื่อแก้ไขข้อมูลฐานข้อมูลของคุณโดยตรง"
+
+msgctxt "#31481"
+msgid "Global Search makes possible to search among all the items (movies, TV shows, music, actors, etc.) in your collection."
+msgstr "Global Search ช่วยให้สามารถค้นหารายการทั้งหมด (ภาพยนตร์ รายการทีวี เพลง นักแสดง ฯลฯ) ในคอลเลกชันของคุณ"
+
+msgctxt "#31501"
+msgid "Channel group"
+msgstr "กลุ่มช่องรายการ"
+
+msgctxt "#31502"
+msgid "Live TV"
+msgstr "ทีวี สด"
+
+msgctxt "#31503"
+msgid "Add Group"
+msgstr "เพิ่มกลุ่ม"
+
+msgctxt "#31504"
+msgid "Rename Group"
+msgstr "เปลี่ยนชื่อกลุ่ม"
+
+msgctxt "#31505"
+msgid "Delete Group"
+msgstr "ลบกลุ่ม"
+
+msgctxt "#31506"
+msgid "Available[CR]Groups"
+msgstr "กลุ่มทีมีอยู่"
+
+msgctxt "#31511"
+msgid "Channel Options"
+msgstr "ตัวเลือกของช่องสัญญาณ"
+
+msgctxt "#31512"
+msgid "Show similar movies in Shelf 3D view"
+msgstr "แสดงภาพยนตร์ที่คล้ายกันในมุมมอง 3 มิติของชั้นวาง"
+
+msgctxt "#31901"
+msgid "36 Hour Forecast"
+msgstr "พยากรณ์ ใน 36 ชั่วโมง"
+
+msgctxt "#31902"
+msgid "Hourly Forecast"
+msgstr "พยากรณ์รายชั่วโมง"
+
+msgctxt "#31903"
+msgid "Weekend Forecast"
+msgstr "พยากรณ์สุดสัปดาห์"
+
+msgctxt "#31904"
+msgid "10 Day Forecast"
+msgstr "พยากรณ์ ใน 10 วัน"
+
+msgctxt "#31908"
+msgid "Chance of Precipitation"
+msgstr "โอกาสเกิดฝน"
+
+msgctxt "#31909"
+msgid "Fetching forecast info..."
+msgstr "กำลังเรียกข้อมูลการพยากรณ์ ..."
+
+msgctxt "#31910"
+msgid "Map & Alerts"
+msgstr "แผนที่และการเตือน"
+
+msgctxt "#31911"
+msgid "Setup the Aeon Tajo main menu"
+msgstr "ตั้งค่าเมนูหลักของ Aeon Tajo"
+
+msgctxt "#31912"
+msgid "Customize the main menu with widgets, backgrounds and statistics. Add your own custom main menu items."
+msgstr "ปรับแต่งเมนูหลักด้วยตัวแขวน, พื้นหลังและสถิติ เพิ่มรายการของคุณเองในรายการเมนูหลัก"
+
+msgctxt "#31913"
+msgid "Aeon Tajo main menu vertical position"
+msgstr "ตำแหน่งเมนูหลักอิออนทาโจแนวตั้ง"
+
+msgctxt "#31914"
+msgid "Change the vertical position of the main menu. Default is centered on screen."
+msgstr "เปลี่ยนตำแหน่งแนวตั้งของเมนูหลักค่าเริ่มต้นจะอยู่ตรงกลางหน้าจอ"
+
+msgctxt "#31915"
+msgid "Navigation style for horizontal lists"
+msgstr "รูปแบบการเลื่อนของรายการตามแนวนอน"
+
+msgctxt "#31916"
+msgid "Change the way horizontal lists scroll in Aeon Tajo. Default will scroll lists in a cycle. \"Fixed\" are lists with a beginning and end."
+msgstr "เปลี่ยนวิธีการเลื่อนรายการแนวนอนใน Aeon Tajo ค่าเริ่มต้นคือเลื่อนรายการแบบหมุนวนกลับ \"คงที่\" คือรายการแบบมีจุดเริ่มต้นและสิ้นสุด"
+
+msgctxt "#31917"
+msgid "When enabled text scrolls automatically. When disabled manual scrolling is required. Note that most textboxes don't have a manual button."
+msgstr "เมื่อเปิดใช้งานข้อความจะเลื่อนโดยอัตโนมัติเมื่อปิดใช้งานการเลื่อนแบบแมนนวลโปรดทราบว่ากล่องข้อความส่วนใหญ่ไม่มีปุ่มกำหนดเอง"
+
+msgctxt "#31918"
+msgid "Projects the current playing video on the background behind the panels."
+msgstr "นำเสนอวิดีโอที่กำลังเล่นในปัจจุบันบนพื้นหลัง หลังแผงแสดงข้อมูล"
+
+msgctxt "#31919"
+msgid "Projects the visualisation on the background behind the panels when music is played."
+msgstr "นำเสนอการแสดงแสงสีบนพื้นหลัง หลังแผงแสดงข้อมูล เมื่อเพลงถูกเล่น"
+
+msgctxt "#31920"
+msgid "Displays a widget on the Home screen with media information when music is playing."
+msgstr "แสดงตัวแขวนบนหน้าจอหลัก ด้วยข้อมูลสื่อเมื่อเพลงทำการเล่น"
+
+msgctxt "#31921"
+msgid "Displays a widget on the Home screen with media information when a movie or episode is playing."
+msgstr "แสดงตัวแขวนบนหน้าจอหลัก ด้วยข้อมูลสื่อภาพยนตร์หรือตอนเมื่อทำการเล่น"
+
+msgctxt "#31922"
+msgid "This enables custom genre backgrounds when browsing through the videolibrary's genre node. Filenames should match the genre label. Extension must be .jpg."
+msgstr "นี่จะเปิดใช้พื้นหลังตามประเภทที่กำหนดเอง เมื่อเรียกดูไปยังระดับประเภทของคลังข้อมูลวิดีโอ ชื่อแฟ้มต้องตรงกับชื่อประเภท ส่วนขยายต้องเป็น .jpg"
+
+msgctxt "#31923"
+msgid "Set a default select action to enable this item."
+msgstr "กำหนดค่าเริ่มต้นการกระทำเมื่อเลือก เพื่อเปิดใช้งานรายการนี้"
+
+msgctxt "#31924"
+msgid "This enables custom genre backgrounds when browsing through the musiclibrary's genre node. Filenames should match the genre label. Extension must be .jpg."
+msgstr "นี่จะเปิดใช้พื้นหลังตามประเภทที่กำหนดเอง เมื่อเรียกดูไปยังระดับประเภทของคลังข้อมูลเพลง ชื่อแฟ้มต้องตรงกับชื่อประเภท ส่วนขยายต้องเป็น .jpg"
+
+msgctxt "#31925"
+msgid "Pick one of the preset backgrounds or set your own images as the menu items background."
+msgstr "เลือกหนึ่งในชุดรูปแบบพื้นหลังหรือกำหนดรูปภาพของคุณ เพื่อเป็นพื้นหลังของเมนูรายการ"
+
+msgctxt "#31926"
+msgid "Select add-ons, playlists or favourites. Choose 'Custom' for any of Kodi's built-in functions. (http://kodi.wiki/?title=List_of_Built_In_Functions)"
+msgstr "เลือก ส่วนเสริม, รายการเล่น หรือที่ชื่นชอบ ใช้ 'ด้วยตนเอง' ในคุณสมบัติที่ติดตั้งมากับ Kodi (http://kodi.wiki/?title=List_of_Built_In_Functions)"
+
+msgctxt "#31927"
+msgid "Resets all above values to their defaults."
+msgstr "ย้อนคืนค่าด้านบนทั้งหมด สู่ค่าเริ่มต้น"
+
+msgctxt "#31928"
+msgid "Aeon Tajo main menu layout"
+msgstr "การจัดวางเมนูหลักของ Aeon Tajo"
+
+msgctxt "#31929"
+msgid "This setting defines how much items will be visible on the main menu. Options are 3 items or 5 items."
+msgstr "การตั้งค่านี้กำหนด จำนวนที่รายการจะปรากฎบนเมนูหลัก ตัวเลือกคือ 3 รายการ หรือ 5 รายการ"
+
+msgctxt "#31930"
+msgid "Choose a widget to display on the Home screen to have easy access to content from the library."
+msgstr "เลือกตัวแขวนที่จะแสดงในหน้าจอหลัก เพื่อให้ง่ายในการเข้าถึงเนื้อหาจากคลังข้อมูล"
+
+msgctxt "#31931"
+msgid "Video plot preference"
+msgstr "เรื่องย่อวิดีโอที่อ้างอิง"
+
+msgctxt "#31932"
+msgid "Show plot outline in the library views and full plot in the video information dialog or vice versa. Falls back to full plot if no outline is available."
+msgstr "แสดงโครงร่างพล็อตในมุมมองไลบรารีและโครงเรื่องทั้งหมดในกล่องโต้ตอบข้อมูลวิดีโอหรือในทางกลับกันกลับไปยังโครงเรื่องทั้งหมดหากไม่มีโครงร่าง"
+
+msgctxt "#31933"
+msgid "Select an item to display on the left top of the main menu"
+msgstr "เลือกรายการที่จะแสดงในซ้ายบนของเมนูหลัก"
+
+msgctxt "#31935"
+msgid "Switch places with another menu item. Opens a dialog with a list of menu items to choose from."
+msgstr "สลับที่กับรายการเมนูอื่น เปิดกล่องโต้ตอบที่มีรายการของเมนู เพื่อเลือกจาก"
+
+msgctxt "#31937"
+msgid "Show the RSS feed on the bottom or top of the screen, depending on main menu position. Enabling this setting makes the submenu permanently visible."
+msgstr "แสดงตัวดึงข้อมูล RSS ที่ด้านล่างหรือด้านบนของหน้าจอ, ขึ้นอยู่กับตำแหน่งของเมนูหลัก เมื่อเปิดใช้การตั้งค่านี้ จะทำให้เมนูย่อยปรากฎอย่างถาวร"
+
+msgctxt "#31938"
+msgid "Enables extra information in the TV show library, like TV show status, next / latest episode, etc. Depends on TV Show Next Aired add-on."
+msgstr "เปิดใช้งานข้อมูลพิเศษในคลังข้อมูลรายการทีวี, อย่างสถานะรายการทีวี, ตอนต่อไป / ล่าสุด, อื่นๆ ขึ้นอยู่กับส่วนเสริม TV Show Next Aired"
+
+msgctxt "#31939"
+msgid "Hide Infopanel on scrolling"
+msgstr "ซ่อนแผงข้อมูลเมื่อทำการเลื่อน"
+
+msgctxt "#31940"
+msgid "Hides the infopanel for Showcase and Landscape view (if activated) while scrolling through the library. Set the amount of seconds to wait for the infopanel to appear when scrolling is stopped."
+msgstr "ซ่อนแผงข้อมูลในมุมมองแสดงกล่องและแนวนอน (ถ้าเปิดใช้งาน) ในขณะทำการเลื่อนตามคลังข้อมูล กำหนดช่วงวินาทีในการรอแผงข้อมูลปรากฎเมื่อหยุดเลื่อน"
+
+msgctxt "#31941"
+msgid "Kiosk mode"
+msgstr "โหมด Kiosk"
+
+msgctxt "#31942"
+msgid "Disables the slide out menu (media menu) in the library as well as certain buttons in the media information dialogs. (Requires restart to take effect)"
+msgstr "ปิดการใช้เมนูเลื่อนออก (เมนูสื่อ) ในคลังข้อมูล เช่นเดียวกับบางปุ่มในกล่องโต้ตอบข้อมูลสื่อ (ต้องเริ่มระบบใหม่เพื่อให้มีผล)"
+
+msgctxt "#31943"
+msgid "Watched status indicator"
+msgstr "ตัวชี้สถานะการรับชม"
+
+msgctxt "#31944"
+msgid "Choose which overlays to show on thumbs in icon based views. Note that the \"Resume\" flag takes precedent over any watched status."
+msgstr "เลือกตัววางซ้อนที่จะแสดงบนรูปย่อในมุมมองที่ใช้ไอคอน ข้อควรจำ โดยป้าย \"เล่นต่อ\" จะถูกนำมาใช้ก่อนสถานะการรับชมใดๆ"
+
+msgctxt "#31945"
+msgid "This toggles the layout of the List view. Default is a 7 item layout with extended info, \"Slim List\" is a 14 item, more basic layout"
+msgstr "นี่จะสลับการจัดวางของมุมมองรายการ ค่าเริ่มต้นคือ 7 รายการ จัดวางพร้อมข้อมูลเพิ่มเติม, \"รายการแบบบาง\" จะมี 14 รายการ, จัดวางแบบเรียบง่ายกว่า"
+
+msgctxt "#31950"
+msgid "WEATHER"
+msgstr "สภาพอากาศ"
+
+msgctxt "#31951"
+msgid "PICTURES"
+msgstr "รูปภาพ"
+
+msgctxt "#31952"
+msgid "LIVE TV"
+msgstr "ทีวี สด"
+
+msgctxt "#31953"
+msgid "VIDEOS"
+msgstr "วิดีโอ"
+
+msgctxt "#31954"
+msgid "MOVIES"
+msgstr "ภาพยนตร์"
+
+msgctxt "#31955"
+msgid "TV SHOWS"
+msgstr "รายการทีวี"
+
+msgctxt "#31956"
+msgid "MUSIC"
+msgstr "เพลง"
+
+msgctxt "#31957"
+msgid "APPS"
+msgstr "โปรแกรม"
+
+msgctxt "#31958"
+msgid "PLAY DISC"
+msgstr "เล่นแผ่น"
+
+msgctxt "#31959"
+msgid "SYSTEM"
+msgstr "ระบบ"
+
+msgctxt "#31960"
+msgid "CONCERTS"
+msgstr "คอนเสิร์ต"
+
+msgctxt "#31961"
+msgid "Hide ratings in list views"
+msgstr "ซ่อนเรตติ้งในมุมมองรายการ"
+
+msgctxt "#31962"
+msgid "This toggles the visibility of ratings in views of type List, LowList and TriPanel, except if sorted by rating."
+msgstr "นี่จะสลับการปรากฎของเรตติ้งในมุมมองแบบ รายการ, รายการแบบต่ำ และสามแผงข้อมูล, ยกเว้นถ้าเรียงตามเรตติ้ง"
+
+msgctxt "#31964"
+msgid "NoTo"
+msgstr ""
+
+msgctxt "#31965"
+msgid "Setup main menu"
+msgstr "ตั้งค่าเมนูหลัก"
+
+msgctxt "#31966"
+msgid "Customize the main menu with widgets, backgrounds, submenus and statistics. Add your own custom main menu items."
+msgstr "ปรับแต่งเมนูหลักด้วยวิดเจ็ต พื้นหลัง เมนูย่อย และสถิติเพิ่มรายการเมนูหลักที่คุณกำหนดเอง"
+
+msgctxt "#31967"
+msgid "Skin addons"
+msgstr "ส่วนเสริมสกิน"
+
+msgctxt "#31968"
+msgid "Addons used to enhance Aeon Tajo."
+msgstr "ส่วนเสริมใช้เพื่อปรับปรุง Aeon Tajo"
+
+msgctxt "#31969"
+msgid "Skin options"
+msgstr "ตัวเลือกผิว"
+
+msgctxt "#31970"
+msgid "Setup of melodies, the way of showing widgets, themes and cast for movies/TV shows and other options."
+msgstr "การตั้งค่าท่วงทำนอง วิธีการแสดงวิดเจ็ต ธีม และการส่งภาพยนตร์/รายการทีวี และตัวเลือกอื่นๆ"
+
+msgctxt "#31971"
+msgid "Colour of selected items"
+msgstr "สีของรายการที่เลือก"
+
+msgctxt "#31972"
+msgid "Youtube"
+msgstr ""
+
+msgctxt "#31973"
+msgid "Down for more"
+msgstr "ลงเพิ่มเติมครับ"
+
+msgctxt "#31974"
+msgid "More movies featuring"
+msgstr "มีภาพยนตร์เพิ่มเติม"
+
+msgctxt "#31975"
+msgid "More TV shows featuring"
+msgstr "รายการทีวีเพิ่มเติมที่มี"
+
+msgctxt "#31976"
+msgid "Image gallery"
+msgstr "แกลเลอรี่ภาพ"
+
+msgctxt "#31977"
+msgid "Years old"
+msgstr "อายุหลายปี"
+
+msgctxt "#31978"
+msgid "Click for more"
+msgstr "คลิกเพื่อดูข้อมูลเพิ่มเติม"
+
+msgctxt "#31979"
+msgid "Left for more"
+msgstr "เหลืออีกมาก"
+
+msgctxt "#31980"
+msgid "Right for more"
+msgstr "ถูกต้องมากขึ้น"
+
+msgctxt "#31981"
+msgid "Premiered"
+msgstr "ฉายรอบปฐมทัศน์"
+
+msgctxt "#31982"
+msgid "Budget"
+msgstr "งบประมาณ"
+
+msgctxt "#31983"
+msgid "Revenue"
+msgstr "รายได้"
+
+msgctxt "#31984"
+msgid "Awards"
+msgstr "รางวัล"
+
+msgctxt "#31985"
+msgid "Trending Movies"
+msgstr "ภาพยนตร์ที่ได้รับความนิยม"
+
+msgctxt "#31986"
+msgid "Upcoming Movies"
+msgstr "ภาพยนตร์ ที่กำลังจะเข้า"
+
+msgctxt "#31987"
+msgid "Now Playing Movies"
+msgstr "กำลังเล่นภาพยนตร์"
+
+msgctxt "#31988"
+msgid "Top Rated Movies"
+msgstr "ภาพยนตร์ยอดนิยม"
+
+msgctxt "#31989"
+msgid "Popular Movies"
+msgstr "ภาพยนตร์ยอดนิยม"
+
+msgctxt "#31990"
+msgid "Discover Movies"
+msgstr "ค้นพบภาพยนตร์"
+
+msgctxt "#31991"
+msgid "Trending Shows"
+msgstr "รายการที่ได้รับความนิยม"
+
+msgctxt "#31992"
+msgid "Top Rated Shows"
+msgstr "รายการที่มีเรตติ้งสูงสุด"
+
+msgctxt "#31993"
+msgid "Popular Shows"
+msgstr "รายการยอดนิยม"
+
+msgctxt "#31994"
+msgid "Discover Shows"
+msgstr "ค้นพบการแสดง"
+
+msgctxt "#31995"
+msgid "3D view"
+msgstr "มุมมอง 3 มิติ"
+
+msgctxt "#31996"
+msgid "Extended view"
+msgstr "มุมมองแบบขยาย"
+
+msgctxt "#31997"
+msgid "Simple view"
+msgstr "มุมมองที่เรียบง่าย"
+
+msgctxt "#31998"
+msgid "Classic lyrics"
+msgstr "เนื้อเพลงคลาสสิก"
+
+msgctxt "#31999"
+msgid "Screensaver Netflix style in media views"
+msgstr "สกรีนเซฟเวอร์สไตล์ Netflix ในมุมมองสื่อ"
+
+msgctxt "#31245"
+msgid "When in idle state for two minutes within a media view, a fullscreen slideshow of movies, TV shows, or artists' fanarts will be displayed, according to the section being browsed."
+msgstr "เมื่ออยู่ในสถานะไม่ได้ใช้งานเป็นเวลาสองนาทีในมุมมองสื่อ สไลด์โชว์ภาพยนตร์ รายการทีวี หรือแฟนอาร์ตของศิลปินแบบเต็มหน้าจอจะแสดงขึ้นตามส่วนที่เรียกดู"
+
+msgctxt "#31246"
+msgid "Play automatically trailers in video views"
+msgstr "เล่นตัวอย่างภาพยนตร์โดยอัตโนมัติในมุมมองวิดีโอ"
+
+msgctxt "#31247"
+msgid "When you browse the video views and pause on a movie or TV show for a few seconds, the trailer automatically plays in a window."
+msgstr "เมื่อคุณเลือกดูการดูวิดีโอและหยุดพักในภาพยนตร์หรือรายการทีวีสักสองสามวินาที ตัวอย่างจะเล่นในหน้าต่างโดยอัตโนมัติ"
+
+msgctxt "#31248"
+msgid "All devices"
+msgstr "อุปกรณ์ทั้งหมด"
+
+msgctxt "#31249"
+msgid "Powerful devices"
+msgstr "อุปกรณ์อันทรงพลัง"
+
+msgctxt "#31255"
+msgid "Most powerful devices"
+msgstr "อุปกรณ์ที่ทรงพลังที่สุด"
+
+msgctxt "#31256"
+msgid "Delay 5 seconds"
+msgstr "หน่วงเวลา 5 วินาที"
+
+msgctxt "#31257"
+msgid "Delay 12 seconds"
+msgstr "หน่วงเวลา 12 วินาที"
+
+msgctxt "#31258"
+msgid "Info view 2"
+msgstr "มุมมองข้อมูล 2"
+
+msgctxt "#31259"
+msgid "Info view 1"
+msgstr "มุมมองข้อมูล 1"
+
+msgctxt "#31260"
+msgid "Play automatically songs while browsing music"
+msgstr "เล่นเพลงอัตโนมัติขณะเรียกดูเพลง"
+
+msgctxt "#31261"
+msgid "Enable automatic playback of songs from the current artist or album as background music while browsing music views."
+msgstr "เปิดใช้งานการเล่นเพลงจากศิลปินหรืออัลบั้มปัจจุบันโดยอัตโนมัติเป็นเพลงพื้นหลังขณะเรียกดูมุมมองเพลง"
+
+msgctxt "#31262"
+msgid "Set path to use another melodies music folder"
+msgstr "กำหนดเส้นทางเพื่อใช้โฟลเดอร์เพลงท่วงทำนองอื่น"
+
+msgctxt "#31263"
+msgid "Clear current path and back to default melodies music folder"
+msgstr "ล้างเส้นทางปัจจุบันและกลับสู่โฟลเดอร์เพลงท่วงทำนองเริ่มต้น"
+
+msgctxt "#31264"
+msgid "Play melodies while in Home & Settings screens"
+msgstr "เล่นท่วงทำนองขณะอยู่ในหน้าจอโฮมและการตั้งค่า"
+
+msgctxt "#31265"
+msgid "Show only background"
+msgstr "แสดงเฉพาะพื้นหลัง"
+
+msgctxt "#31266"
+msgid "TheMovieDb Helper provides data to display online ratings and additional information for movies and TV shows"
+msgstr "TheMovieDb Helper ให้ข้อมูลเพื่อแสดงเรตติ้งออนไลน์และข้อมูลเพิ่มเติมสำหรับภาพยนตร์และรายการทีวี"
+
+msgctxt "#31267"
+msgid "Show online ratings for movies and TV shows"
+msgstr "แสดงเรตติ้งออนไลน์สำหรับภาพยนตร์และรายการทีวี"
+
+msgctxt "#31268"
+msgid "You have to restart Kodi for this option to take effect once the option has been activated. TMDb and Trakt should work out of the box. Metacritic and Rottentomatoes ratings require an OMDb API key. Get an OMDb API Key at http://www.omdbapi.com/apikey.aspx and afterward input the OMDb API Key into the TheMovieDb Helper settings."
+msgstr "คุณต้องรีสตาร์ท Kodi เพื่อให้ตัวเลือกนี้มีผลเมื่อเปิดใช้งานตัวเลือกแล้วTMDb และ Trakt ควรทำงานนอกกรอบการให้คะแนน Metacritic และ Rottentomatoes ต้องใช้คีย์ OMDb APIรับคีย์ OMDb API ที่ http://www.omdbapi.com/apikey.aspx จากนั้นป้อนคีย์ OMDb API ลงในการตั้งค่า TheMovieDb Helper"
+
+msgctxt "#31269"
+msgid "Resource image addon for displaying coloured studio icons throughout the skin."
+msgstr "ทรัพยากรรูปภาพเสริมสำหรับการแสดงไอคอนสตูดิโอสีทั่วทั้งสกิน"
+
+msgctxt "#31270"
+msgid "Show colour icons for audio/video information"
+msgstr "แสดงไอคอนสีสำหรับข้อมูลเสียง/วิดีโอ"
+
+msgctxt "#31271"
+msgid "Show extra features for movies and TV shows"
+msgstr "แสดงคุณสมบัติพิเศษสำหรับภาพยนตร์และรายการทีวี"
+
+msgctxt "#31272"
+msgid "Display the additional features (media files) placed by the user in the 'extras' folder for a movie or TV show. Remember to modify your advancedsettings.xml file if needed."
+msgstr "แสดงคุณสมบัติเพิ่มเติม (ไฟล์สื่อ) ที่ผู้ใช้วางไว้ในโฟลเดอร์ 'พิเศษ' สำหรับภาพยนตร์หรือรายการทีวีอย่าลืมแก้ไขไฟล์ Advancedsettings.xml หากจำเป็น"
+
+msgctxt "#31273"
+msgid "Show extras"
+msgstr "แสดงรายการพิเศษ"
+
+msgctxt "#31274"
+msgid "Enable shifting colours effect in the default Aeon Tajo's background"
+msgstr "เปิดใช้งานเอฟเฟกต์การเปลี่ยนสีในพื้นหลังเริ่มต้นของ Aeon Tajo"
+
+msgctxt "#31275"
+msgid "Activate a shifting colours effect in the default Aeon Tajo's background (only in the Home screen)."
+msgstr "เปิดใช้งานเอฟเฟกต์การเปลี่ยนสีในพื้นหลังเริ่มต้นของ Aeon Tajo (เฉพาะในหน้าจอหลัก)"
+
+msgctxt "#31276"
+msgid "Name of user's additional features folder (if different to 'extras')"
+msgstr "ชื่อโฟลเดอร์คุณลักษณะเพิ่มเติมของผู้ใช้ (หากแตกต่างจาก 'พิเศษ')"
+
+msgctxt "#31277"
+msgid "Select image to show as background instead of default"
+msgstr "เลือกภาพที่จะแสดงเป็นพื้นหลังแทนค่าเริ่มต้น"
+
+msgctxt "#31278"
+msgid "Browse for image"
+msgstr "เรียกดูภาพ"
+
+msgctxt "#31279"
+msgid "Play music videos"
+msgstr "เล่นมิวสิควิดีโอ"
+
+msgctxt "#31280"
+msgid "Play local albums"
+msgstr "เล่นอัลบั้มในเครื่อง"
+
+msgctxt "#31281"
+msgid "Play songs"
+msgstr "เล่นเพลง"
+
+msgctxt "#31282"
+msgid "Blurred album image as background"
+msgstr "ภาพอัลบั้มเบลอเป็นพื้นหลัง"
+
+msgctxt "#31283"
+msgid "Browse for path"
+msgstr "เรียกดูเส้นทาง"
+
+msgctxt "#31284"
+msgid "Show extra features for music albums"
+msgstr "แสดงคุณสมบัติพิเศษสำหรับอัลบั้มเพลง"
+
+msgctxt "#31285"
+msgid "Display the additional features (media files) placed by the user in the 'extras' folder for a music album. Remember to modify your advancedsettings.xml file if needed."
+msgstr "แสดงคุณสมบัติเพิ่มเติม (ไฟล์สื่อ) ที่ผู้ใช้วางไว้ในโฟลเดอร์ 'พิเศษ' สำหรับอัลบั้มเพลงอย่าลืมแก้ไขไฟล์ Advancedsettings.xml หากจำเป็น"
+
+msgctxt "#31286"
+msgid "When you browse the video views and pause on a movie or TV show for a few seconds, the main theme automatically plays in the background. This feature requires the user to place an mp3 file with the theme in the root folder of the movie or TV show. This file must be named theme.mp3."
+msgstr "เมื่อคุณเรียกดูการดูวิดีโอและหยุดชั่วคราวในภาพยนตร์หรือรายการทีวีสักสองสามวินาที ธีมหลักจะเล่นในเบื้องหลังโดยอัตโนมัติฟีเจอร์นี้กำหนดให้ผู้ใช้วางไฟล์ MP3 ที่มีธีมอยู่ในโฟลเดอร์รูทของภาพยนตร์หรือรายการทีวีไฟล์นี้ต้องตั้งชื่อว่า theme.mp3"
+
+msgctxt "#31287"
+msgid "Shows the normal poster (poster.jpg) in movies and TV shows views."
+msgstr "แสดงโปสเตอร์ปกติ (poster.jpg) ในมุมมองภาพยนตร์และรายการทีวี"
+
+msgctxt "#31288"
+msgid "Shows the animated poster (animatedposter.gif) in movies and TV shows views."
+msgstr "แสดงโปสเตอร์ภาพเคลื่อนไหว (animatedposter.gif) ในมุมมองภาพยนตร์และรายการทีวี"
+
+msgctxt "#31289"
+msgid "Shows the available extra posters (poster1.jpg, poster2.jpg, poster3.jpg...) in movies and TV shows views."
+msgstr "แสดงโปสเตอร์พิเศษที่มีอยู่ (poster1.jpg, poster2.jpg, poster3.jpg...) ในมุมมองภาพยนตร์และรายการทีวี"
+
+msgctxt "#31290"
+msgid "Thanks for using Aeon Tajo—I really hope you’re enjoying it. Creating and maintaining a Kodi skin like this takes hundreds of hours of work. If Aeon Tajo is something you enjoy and find useful, supporting it helps me keep working on it and ensures it can continue evolving in the future. [CR][CR]If you decide to do so, you’ll receive frequent updates with new features and bug fixes, along with videos, media packs, and easy-to-follow articles with detailed tips to help you get the most out of everything Aeon Tajo has to offer, together with my sincere gratitude for your support. [CR][CR]For more information, visit [B][COLOR=themecolor]patreon.com[/B][/COLOR] and search for the creator [COLOR=themecolor][B]Aeon Tajo[/B][/COLOR], or go to [COLOR=themecolor][B]patreon.com/aeontajo[/B][/COLOR].[CR][CR]Thanks!"
+msgstr "ขอบคุณที่ใช้ Aeon Tajo — หวังเป็นอย่างยิ่งว่าคุณจะชอบมัน! การสร้างและดูแลรักษา Kodi skin แบบนี้ต้องใช้เวลาหลายร้อยชั่วโมง หากคุณชื่นชอบ Aeon Tajo และพบว่ามีประโยชน์ การสนับสนุนของคุณช่วยให้ฉันทำงานต่อไปได้ [CR][CR]หากคุณตัดสินใจสนับสนุน คุณจะได้รับการอัปเดตบ่อยครั้งพร้อมคุณสมบัติใหม่และการแก้ไขข้อบกพร่อง พร้อมวิดีโอ แพ็คเกจสื่อ และบทความพร้อมเคล็ดลับ [CR][CR]สำหรับข้อมูลเพิ่มเติม เยี่ยมชม [B][COLOR=themecolor]patreon.com[/B][/COLOR] และค้นหาผู้สร้าง [COLOR=themecolor][B]Aeon Tajo[/B][/COLOR] หรือไปที่ [COLOR=themecolor][B]patreon.com/aeontajo[/B][/COLOR].[CR][CR]ขอบคุณ!"
+
+msgctxt "#31291"
+msgid "Blurred album image as background in music visualisation screen"
+msgstr "ภาพอัลบั้มเบลอเป็นพื้นหลังในหน้าจอการแสดงภาพเพลง"
+
+msgctxt "#31292"
+msgid "Hide watched mark in video views"
+msgstr "ซ่อนเครื่องหมายที่ดูในการดูวิดีโอ"
+
+msgctxt "#31293"
+msgid "Disclaimer: Aeon Tajo does not provide any media content or sources. Users must provide their own content. Support will not be provided for any 'builds' nor online addons that offer copyrighted content."
+msgstr "ข้อจำกัดความรับผิดชอบ: Aeon Tajo ไม่ได้จัดเตรียมเนื้อหาหรือแหล่งที่มาของสื่อใดๆผู้ใช้จะต้องจัดเตรียมเนื้อหาของตนเองจะไม่มีการให้การสนับสนุนสำหรับ 'การสร้าง' หรือส่วนเสริมออนไลน์ใด ๆ ที่นำเสนอเนื้อหาที่มีลิขสิทธิ์"
+
+msgctxt "#31294"
+msgid "Change to "
+msgstr "เปลี่ยนเป็น"
+
+msgctxt "#31295"
+msgid "Remember that you should adapt your advancedsetting.xml file to reflect this change, so as to prevent your extras content to be added inadvertently to the Kodi library."
+msgstr "โปรดจำไว้ว่าคุณควรปรับเปลี่ยนไฟล์ Advancedsetting.xml ของคุณเพื่อให้สอดคล้องกับการเปลี่ยนแปลงนี้ เพื่อป้องกันไม่ให้เนื้อหาพิเศษของคุณถูกเพิ่มลงในไลบรารี Kodi โดยไม่ได้ตั้งใจ"
+
+msgctxt "#31296"
+msgid "Filmstrip"
+msgstr ""
+
+msgctxt "#31297"
+msgid "Select + Right Stick"
+msgstr "เลือก + แท่งขวา"
+
+msgctxt "#31298"
+msgid "Vertical Home menu"
+msgstr "เมนูหลักแนวตั้ง"
+
+msgctxt "#31299"
+msgid "Eject disc"
+msgstr "นำแผ่นดิสก์ออก"
+
+msgctxt "#31302"
+msgid "Play with PreShow"
+msgstr "เล่นกับพรีโชว์"
+
+msgctxt "#31303"
+msgid "Highlighted text colour"
+msgstr "สีข้อความที่เน้นสี"
+
+msgctxt "#31304"
+msgid "Marks colour"
+msgstr "สีของเครื่องหมาย"
+
+msgctxt "#31305"
+msgid "Current"
+msgstr "ปัจจุบัน"
+
+msgctxt "#31306"
+msgid "Selected"
+msgstr "เลือกแล้ว"
+
+msgctxt "#31311"
+msgid "Watched mark shape"
+msgstr "ดูรูปร่างของเครื่องหมาย"
+
+msgctxt "#31312"
+msgid "Sliding background fanarts"
+msgstr "แฟนอาร์ตพื้นหลังแบบเลื่อน"
+
+msgctxt "#31313"
+msgid "Kodi add-ons settings"
+msgstr "การตั้งค่าส่วนเสริมของ Kodi"
+
+msgctxt "#31314"
+msgid "Install and update add-ons"
+msgstr "ติดตั้งและอัปเดตส่วนเสริม"
+
+msgctxt "#31315"
+msgid "Download add-ons"
+msgstr "ดาวน์โหลดส่วนเสริม"
+
+msgctxt "#31316"
+msgid "Show Browser"
+msgstr "แสดงเบราว์เซอร์"
+
+msgctxt "#31318"
+msgid "Hide Browser"
+msgstr "ซ่อนเบราว์เซอร์"
+
+msgctxt "#31319"
+msgid "Narrow view"
+msgstr "มุมมองแคบ"
+
+msgctxt "#31322"
+msgid "Wide view"
+msgstr "มุมมองกว้าง"
+
+msgctxt "#31323"
+msgid "Actors in other movies and TV shows"
+msgstr "นักแสดงในภาพยนตร์และรายการทีวีอื่นๆ"
+
+msgctxt "#31324"
+msgid "Show similar movies/TV shows and artists/albums"
+msgstr "แสดงภาพยนตร์/รายการทีวีและศิลปิน/อัลบั้มที่คล้ายกัน"
+
+msgctxt "#31325"
+msgid "Opens a new window in some video/music views showing other movies/TV shows or artists/albums similar or related to the current item."
+msgstr "เปิดหน้าต่างใหม่ในมุมมองวิดีโอ/เพลงที่แสดงภาพยนตร์/รายการทีวีหรือศิลปิน/อัลบั้มอื่นที่คล้ายกันหรือเกี่ยวข้องกับรายการปัจจุบัน"
+
+msgctxt "#31326"
+msgid "Show similar"
+msgstr "แสดงว่าคล้ายกัน"
+
+msgctxt "#31327"
+msgid "Classic"
+msgstr "คลาสสิค"
+
+msgctxt "#31329"
+msgid "Similar albums"
+msgstr "อัลบั้มที่คล้ายกัน"
+
+msgctxt "#31330"
+msgid "No similar found"
+msgstr "ไม่พบสิ่งที่คล้ายกัน"
+
+msgctxt "#31333"
+msgid "Wikipedia"
+msgstr "วิกิพีเดีย"
+
+msgctxt "#31337"
+msgid "Click to select and open article's links"
+msgstr "คลิกเพื่อเลือกและเปิดลิงก์บทความ"
+
+msgctxt "#31338"
+msgid "Click to search..."
+msgstr "คลิกเพื่อค้นหา..."
+
+msgctxt "#31339"
+msgid "Add/update music video links"
+msgstr "เพิ่ม/อัปเดตลิงก์มิวสิควิดีโอ"
+
+msgctxt "#31340"
+msgid "[B]CONFIGURE GAME SETTINGS[/B][CR][CR]Change gameplay options[CR]Keyboard settings · Configure rewind settings"
+msgstr "[B]กำหนดการตั้งค่าเกม[/B][CR][CR]เปลี่ยนตัวเลือกการเล่นเกม[CR]การตั้งค่าแป้นพิมพ์ · กำหนดการตั้งค่าการกรอกลับ"
+
+msgctxt "#31341"
+msgid "Narrow list"
+msgstr "รายการแคบ"
+
+msgctxt "#31342"
+msgid "Wide list"
+msgstr "รายการกว้าง"
+
+msgctxt "#31343"
+msgid "Update videolinks"
+msgstr "อัปเดตลิงก์วิดีโอ"
+
+msgctxt "#31344"
+msgid "Play all music videos"
+msgstr "เล่นมิวสิควิดีโอทั้งหมด"
+
+msgctxt "#31345"
+msgid "No bookmarks created yet"
+msgstr "ยังไม่มีการสร้างบุ๊กมาร์ก"
+
+msgctxt "#31346"
+msgid "Choose where to start"
+msgstr "เลือกว่าจะเริ่มต้นที่ไหน"
+
+msgctxt "#31347"
+msgid "Browse the list and click"
+msgstr "เรียกดูรายการแล้วคลิก"
+
+msgctxt "#31348"
+msgid "Show OSD controls"
+msgstr "แสดงการควบคุม OSD"
+
+msgctxt "#31349"
+msgid "Preparing list of music videos, please wait..."
+msgstr "กำลังเตรียมรายชื่อมิวสิควิดีโอ กรุณารอสักครู่..."
+
+msgctxt "#31350"
+msgid "Songs party mode"
+msgstr "โหมดปาร์ตี้เพลง"
+
+msgctxt "#31351"
+msgid "Videolinks party mode"
+msgstr "โหมดปาร์ตี้วิดีโอลิงก์"
+
+msgctxt "#31352"
+msgid "No videolinks found"
+msgstr "ไม่พบลิงก์วิดีโอ"
+
+msgctxt "#31353"
+msgid "Click or arrow keys while playing to show the OSD"
+msgstr "คลิกหรือปุ่มลูกศรขณะเล่นเพื่อแสดง OSD"
+
+msgctxt "#31354"
+msgid "While playing..."
+msgstr "ขณะเล่น..."
+
+msgctxt "#31355"
+msgid "Click or arrow keys to show the OSD"
+msgstr "คลิก หรือปุ่มลูกศรเพื่อแสดง OSD"
+
+msgctxt "#31356"
+msgid "Shows the normal thumb (folder.jpg) in artists and albums music views."
+msgstr "แสดงนิ้วหัวแม่มือปกติ (folder.jpg) ในมุมมองเพลงของศิลปินและอัลบั้ม"
+
+msgctxt "#31357"
+msgid "Shows the animated thumb (animatedthumb.gif) in artists and albums music views."
+msgstr "แสดงนิ้วหัวแม่มือแบบเคลื่อนไหว (animatedthumb.gif) ในมุมมองเพลงของศิลปินและอัลบั้ม"
+
+msgctxt "#31358"
+msgid "Show a colour strip code on video elements"
+msgstr "แสดงรหัสแถบสีบนองค์ประกอบวิดีโอ"
+
+msgctxt "#31359"
+msgid "Allows to quickly identify video file quality using a colour strip code when browsing movies and episodes in video views"
+msgstr "ช่วยให้ระบุคุณภาพไฟล์วิดีโอได้อย่างรวดเร็วโดยใช้รหัสแถบสีเมื่อเรียกดูภาพยนตร์และตอนในการดูวิดีโอ"
+
+msgctxt "#31360"
+msgid "Library using Global Search"
+msgstr "ห้องสมุดโดยใช้การค้นหาทั่วโลก"
+
+msgctxt "#31361"
+msgid "TheMovieDB"
+msgstr ""
+
+msgctxt "#31362"
+msgid "Most Voted Movies"
+msgstr "ภาพยนตร์ที่ได้รับการโหวตมากที่สุด"
+
+msgctxt "#31363"
+msgid "Crew"
+msgstr "ลูกเรือ"
+
+msgctxt "#31364"
+msgid "Most Voted Shows"
+msgstr "รายการที่ได้รับการโหวตมากที่สุด"
+
+msgctxt "#31365"
+msgid "Random Shows"
+msgstr "การแสดงแบบสุ่ม"
+
+msgctxt "#31366"
+msgid "Random Artists"
+msgstr "ศิลปินสุ่ม"
+
+msgctxt "#31367"
+msgid "Online info from TheMovieDB.org for videos"
+msgstr "ข้อมูลออนไลน์จาก TheMovieDB.org สำหรับวิดีโอ"
+
+msgctxt "#31368"
+msgid "Get online info from TheMovieDB.org in movie and TVshow's info screen and widgets"
+msgstr "รับข้อมูลออนไลน์จาก TheMovieDB.org ในหน้าจอข้อมูลและวิดเจ็ตของภาพยนตร์และรายการทีวี"
+
+msgctxt "#31369"
+msgid "Snow effect - Off"
+msgstr "เอฟเฟกต์หิมะ - ปิด"
+
+msgctxt "#31370"
+msgid "Snow effect - Light"
+msgstr "เอฟเฟกต์หิมะ - แสง"
+
+msgctxt "#31371"
+msgid "Snow effect - Medium"
+msgstr "เอฟเฟกต์หิมะ - ปานกลาง"
+
+msgctxt "#31372"
+msgid "Snow effect - Heavy"
+msgstr "เอฟเฟกต์หิมะ - หนักมาก"
+
+msgctxt "#31373"
+msgid "Snow effect - Blizzard"
+msgstr "เอฟเฟกต์หิมะ - พายุหิมะ"
+
+msgctxt "#31374"
+msgid "Click or arrow keys to exit"
+msgstr "คลิกหรือปุ่มลูกศรเพื่อออก"
+
+msgctxt "#31375"
+msgid "Rewind"
+msgstr "กรอกลับ"
+
+msgctxt "#31376"
+msgid "Fast forward"
+msgstr "กรอไปข้างหน้า"
+
+msgctxt "#31377"
+msgid "Step back"
+msgstr "ถอยกลับไป"
+
+msgctxt "#31378"
+msgid "Step forward"
+msgstr "ก้าวไปข้างหน้า"
+
+msgctxt "#31379"
+msgid "Previous chapter"
+msgstr "บทที่แล้ว"
+
+msgctxt "#31380"
+msgid "Next chapter"
+msgstr "บทต่อไป"
+
+msgctxt "#31381"
+msgid "Previous channel"
+msgstr "ช่องก่อนหน้า"
+
+msgctxt "#31382"
+msgid "Next channel"
+msgstr "ช่องต่อไป"
+
+msgctxt "#31383"
+msgid "Show lyrics"
+msgstr "แสดงเนื้อเพลง"
+
+msgctxt "#31384"
+msgid "Hide lyrics"
+msgstr "ซ่อนเนื้อเพลง"
+
+msgctxt "#31385"
+msgid "Adjust lyrics"
+msgstr "ปรับเนื้อเพลง"
+
+msgctxt "#31386"
+msgid "Hide resumable mark in video views"
+msgstr "ซ่อนเครื่องหมายการดูต่อในมุมมองวิดีโอ"
+
+msgctxt "#31387"
+msgid "Hide unwatched mark in video views"
+msgstr "ซ่อนเครื่องหมายยังไม่ได้ดูในมุมมองวิดีโอ"
+
+msgctxt "#31388"
+msgid "Hide episodes unwatched mark in video views"
+msgstr "ซ่อนเครื่องหมายตอนที่ยังไม่ได้ดูในมุมมองวิดีโอ"
+
+msgctxt "#31389"
+msgid "Same director"
+msgstr "ผู้กำกับคนเดียวกัน"
+
+msgctxt "#31391"
+msgid "'Down' to show similars"
+msgstr "'ลง' เพื่อแสดงรายการที่คล้ายกัน"
+
+msgctxt "#31392"
+msgid "'Right' to show similars"
+msgstr "'ขวา' เพื่อแสดงรายการที่คล้ายกัน"
+
+msgctxt "#31393"
+msgid "Show logos"
+msgstr "แสดงโลโก้"
+
+msgctxt "#31394"
+msgid "Show only titles"
+msgstr "แสดงเฉพาะชื่อเรื่อง"
+
+msgctxt "#31395"
+msgid "Play automatically video links in song views"
+msgstr "เล่นลิงก์วิดีโอโดยอัตโนมัติในมุมมองเพลง"
+
+msgctxt "#31396"
+msgid "When you browse song views and stop for a few seconds, the video link for that song will play automatically (if available)."
+msgstr "เมื่อเรียกดูมุมมองเพลงและหยุดชั่วคราวสักครู่ ลิงก์วิดีโอของเพลงนั้นจะเล่นโดยอัตโนมัติ (หากมี)"
+
+msgctxt "#31397"
+msgid "User reviews"
+msgstr "รีวิวของผู้ใช้"
+
+msgctxt "#31398"
+msgid "Horizontal Home menu"
+msgstr "เมนูหลักแนวนอน"
+
+msgctxt "#31399"
+msgid "Simple Home menu"
+msgstr "เมนูหลักแบบเรียบง่าย"
+
+msgctxt "#31403"
+msgid "Widget type"
+msgstr "ประเภทวิดเจ็ต"
+
+msgctxt "#31404"
+msgid "Small widgets..."
+msgstr "วิดเจ็ตขนาดเล็ก..."
+
+msgctxt "#31408"
+msgid "Fullscreen widgets..."
+msgstr "วิดเจ็ตแบบเต็มหน้าจอ..."
+
+msgctxt "#31411"
+msgid "Force view..."
+msgstr "บังคับมุมมอง..."
+
+msgctxt "#31416"
+msgid "A view can't be disabled when is selected as \"forced\" for some media."
+msgstr "ไม่สามารถปิดใช้งานมุมมองได้เมื่อเลือกเป็น \"บังคับ\" สำหรับสื่อบางชนิด"
+
+msgctxt "#31417"
+msgid "Only views that are not marked as disabled can be forced."
+msgstr "สามารถบังคับได้เฉพาะมุมมองที่ไม่ได้ทำเครื่องหมายว่าปิดใช้งาน"
+
+msgctxt "#31418"
+msgid "Don't force views"
+msgstr "ไม่บังคับมุมมอง"
+
+msgctxt "#31419"
+msgid "Forced view"
+msgstr "มุมมองที่บังคับ"
+
+msgctxt "#31420"
+msgid "Enable or disable views"
+msgstr "เปิดหรือปิดใช้งานมุมมอง"
+
+msgctxt "#31422"
+msgid "No embedded subs"
+msgstr "ไม่มีคำบรรยายฝังอยู่"
+
+msgctxt "#31423"
+msgid "Auto-open audio/subtitle selector at video start"
+msgstr "เปิดตัวเลือกเสียง/คำบรรยายโดยอัตโนมัติเมื่อเริ่มวิดีโอ"
+
+msgctxt "#31424"
+msgid "Automatically opens an audio and subtitle selector when starting playback of movies and episodes, allowing you to see which tracks are active and change them directly before continuing."
+msgstr "เปิดตัวเลือกเสียงและคำบรรยายโดยอัตโนมัติเมื่อเริ่มเล่นภาพยนตร์และตอน เพื่อให้คุณเห็นว่าแทร็กใดที่ใช้งานอยู่และเปลี่ยนแปลงได้โดยตรงก่อนดำเนินการต่อ"
+
+msgctxt "#31425"
+msgid "Search music video links for songs not in your library"
+msgstr "ค้นหาลิงก์มิวสิควิดีโอสำหรับเพลงที่ไม่อยู่ในคลังของคุณ"
+
+msgctxt "#31426"
+msgid "Similar artists on your library"
+msgstr "ศิลปินที่คล้ายกันในคลังของคุณ"
+
+msgctxt "#31435"
+msgid "Albums by this artist in your library"
+msgstr "อัลบั้มของศิลปินนี้ในคลังของคุณ"
+
+msgctxt "#31436"
+msgid "Online info from TheAudioDB.com for music"
+msgstr "ข้อมูลออนไลน์จาก TheAudioDB.com สำหรับเพลง"
+
+msgctxt "#31437"
+msgid "Get online information from TheAudioDB.com on the artist and album information screen"
+msgstr "รับข้อมูลออนไลน์จาก TheAudioDB.com บนหน้าจอข้อมูลศิลปินและอัลบั้ม"
+
+msgctxt "#31438"
+msgid "TheAudioDb Helper supplies online data and artwork to display enhanced details for artists and music albums."
+msgstr "TheAudioDb Helper ให้ข้อมูลออนไลน์และภาพเพื่อแสดงรายละเอียดเพิ่มเติมสำหรับศิลปินและอัลบั้มเพลง"
+
+msgctxt "#31439"
+msgid "Record label"
+msgstr "ค่ายเพลง"
+
+msgctxt "#31440"
+msgid "Last.fm Plays"
+msgstr "การเล่นบน Last.fm"

@@ -1,0 +1,2224 @@
+# Kodi Media Center language file
+# Addon Name: Aeon Tajo
+# Addon id: skin.aeon.tajo
+# Addon Provider: manfeed
+msgid ""
+msgstr ""
+"Project-Id-Version: KODI Skins\n"
+"POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2026-03-28 23:42+0000\n"
+"Last-Translator: manfeed <aeon.tajo@gmail.com>\n"
+"Language-Team: Armenian <aeon.tajo@gmail.com>\n"
+"Language: hy_am\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+msgctxt "Addon Summary"
+msgid "Aeon Tajo"
+msgstr "Aeon Tajo"
+
+msgctxt "Addon Description"
+msgid "Aeon Tajo: Changes everything so that nothing changes. Inspired on Aeon Nox 5 (thanks to BigNoid)."
+msgstr "Էոն Տաջո. Փոխում է ամեն ինչ, որպեսզի ոչինչ չփոխվի:Ոգեշնչված է Aeon Nox 5-ում (շնորհիվ BigNoid):"
+
+msgctxt "Addon Disclaimer"
+msgid "Mouse control is supported, althoug not recommended. It may not work correctly in all cases."
+msgstr "Մկնիկի կառավարումն ապահովված է, թեև խորհուրդ չի տրվում:Այն կարող է ճիշտ չաշխատել բոլոր դեպքերում:"
+
+msgctxt "#31000"
+msgid "Directed by"
+msgstr "Ռեժիսոր"
+
+msgctxt "#31001"
+msgid "Written by"
+msgstr "Գրված է"
+
+msgctxt "#31002"
+msgid "Blurred album thumb"
+msgstr "Լղոզված ալբոմի բութ մատը"
+
+msgctxt "#31003"
+msgid "Power Options"
+msgstr "Power Options"
+
+msgctxt "#31004"
+msgid "Working"
+msgstr "Աշխատանքային"
+
+msgctxt "#31005"
+msgid "Fixed"
+msgstr "Ամրագրված"
+
+msgctxt "#31006"
+msgid "View Options"
+msgstr "Դիտել ընտրանքները"
+
+msgctxt "#31007"
+msgid "Setup home"
+msgstr "Կարգավորեք տունը"
+
+msgctxt "#31008"
+msgid "Full screen"
+msgstr "Ամբողջ էկրանով"
+
+msgctxt "#31009"
+msgid "Total Duration"
+msgstr "Ընդհանուր տևողությունը"
+
+msgctxt "#31010"
+msgid "Next episode"
+msgstr "Հաջորդ դրվագը"
+
+msgctxt "#31011"
+msgid "Latest episode"
+msgstr "Վերջին դրվագ"
+
+msgctxt "#31012"
+msgid "Airs"
+msgstr "Էյրս"
+
+msgctxt "#31013"
+msgid "Statistics"
+msgstr "Վիճակագրություն"
+
+msgctxt "#31014"
+msgid "Extras"
+msgstr "Extras"
+
+msgctxt "#31015"
+msgid "Set path to video genre fanart folder"
+msgstr "Սահմանեք ուղի դեպի վիդեո ժանրի fanart թղթապանակ"
+
+msgctxt "#31016"
+msgid "Poster"
+msgstr "Պաստառ"
+
+msgctxt "#31017"
+msgid "Set path to music genre fanart folder"
+msgstr "Ճանապարհ սահմանեք դեպի երաժշտական ժանրի fanart թղթապանակ"
+
+msgctxt "#31018"
+msgid "InfoPanel"
+msgstr "InfoPanel"
+
+msgctxt "#31019"
+msgid "Network"
+msgstr "Ցանց"
+
+msgctxt "#31020"
+msgid "Extra-fanart"
+msgstr "Extra-fanart"
+
+msgctxt "#31021"
+msgid "Stage curtains"
+msgstr "Բեմական վարագույրներ"
+
+msgctxt "#31022"
+msgid "Set multi-image background"
+msgstr "Սահմանեք բազմապատկերային ֆոն"
+
+msgctxt "#31023"
+msgid "Set single image background"
+msgstr "Սահմանեք մեկ պատկերի ֆոն"
+
+msgctxt "#31024"
+msgid "Page"
+msgstr "Էջ"
+
+msgctxt "#31025"
+msgid "Items"
+msgstr "Նյութեր"
+
+msgctxt "#31026"
+msgid "Misc Options"
+msgstr "Տարբեր ընտրանքներ"
+
+msgctxt "#31027"
+msgid "Set item background"
+msgstr "Սահմանել նյութի ֆոնը"
+
+msgctxt "#31028"
+msgid "Live DVD Cases"
+msgstr "Կենդանի DVD պատյաններ"
+
+msgctxt "#31029"
+msgid "Recent Movies"
+msgstr "Վերջին ֆիլմեր"
+
+msgctxt "#31030"
+msgid "Recent Episodes"
+msgstr "Վերջին դրվագները"
+
+msgctxt "#31031"
+msgid "Random Movies"
+msgstr "Պատահական ֆիլմեր"
+
+msgctxt "#31032"
+msgid "Recommended Movies"
+msgstr "Առաջարկվող ֆիլմեր"
+
+msgctxt "#31033"
+msgid "Random Episodes"
+msgstr "Պատահական դրվագներ"
+
+msgctxt "#31034"
+msgid "Recommended Episodes"
+msgstr "Առաջարկվող դրվագներ"
+
+msgctxt "#31035"
+msgid "Random Songs"
+msgstr "Պատահական երգեր"
+
+msgctxt "#31036"
+msgid "Random Albums"
+msgstr "Պատահական ալբոմներ"
+
+msgctxt "#31037"
+msgid "Recent Albums"
+msgstr "Վերջին ալբոմներ"
+
+msgctxt "#31038"
+msgid "Recommended Albums"
+msgstr "Առաջարկվող ալբոմներ"
+
+msgctxt "#31039"
+msgid "Actions"
+msgstr "Գործողություններ"
+
+msgctxt "#31040"
+msgid "Now Playing"
+msgstr "Այժմ խաղում"
+
+msgctxt "#31041"
+msgid "Select widget"
+msgstr "Ընտրեք վիջեթ"
+
+msgctxt "#31042"
+msgid "Show \"Now Playing\" information blended in the background"
+msgstr "Ցուցադրել «Հիմա խաղում» տեղեկատվությունը միախառնված հետին պլանում"
+
+msgctxt "#31043"
+msgid "Platform"
+msgstr "Հարթակ"
+
+msgctxt "#31044"
+msgid "Views: Plot outline | Info dialog: Full plot"
+msgstr "Դիտումներ՝ Հողամասի ուրվագիծ |Տեղեկությունների երկխոսություն. Ամբողջական սյուժեն"
+
+msgctxt "#31045"
+msgid "Views: Full plot | Info dialog: Plot outline"
+msgstr "Դիտումներ՝ Ամբողջական սյուժեն |Տեղեկությունների երկխոսություն. Հողամասի ուրվագիծ"
+
+msgctxt "#31046"
+msgid "SEEKING"
+msgstr "ՓՆՏՐՈՒՄ"
+
+msgctxt "#31047"
+msgid "Set item icon"
+msgstr "Սահմանել տարրի պատկերակը"
+
+msgctxt "#31048"
+msgid "Visualisation Presets"
+msgstr "Վիզուալիզացիայի նախադրյալներ"
+
+msgctxt "#31049"
+msgid "Select infoline"
+msgstr "Ընտրեք տեղեկատվական գիծը"
+
+msgctxt "#31050"
+msgid "Sort: Ascending"
+msgstr "Տեսակավորել՝ աճող"
+
+msgctxt "#31051"
+msgid "Sort: Descending"
+msgstr "Տեսակավորել՝ նվազող"
+
+msgctxt "#31052"
+msgid "Movie library statistics"
+msgstr "Ֆիլմադարանի վիճակագրություն"
+
+msgctxt "#31053"
+msgid "TV Show library statistics"
+msgstr "Հեռուստացույցի գրադարանի վիճակագրություն"
+
+msgctxt "#31054"
+msgid "Music library statistics"
+msgstr "Երաժշտական գրադարանի վիճակագրություն"
+
+msgctxt "#31055"
+msgid "Open playlist"
+msgstr "Բացեք երգացանկը"
+
+msgctxt "#31056"
+msgid "Save playlist"
+msgstr "Պահպանել երգացանկը"
+
+msgctxt "#31057"
+msgid "Close playlist"
+msgstr "Փակել երգացանկը"
+
+msgctxt "#31058"
+msgid "PVR information"
+msgstr "PVR տեղեկատվություն"
+
+msgctxt "#31059"
+msgid "Install Artist Slideshow add-on to enable this feature"
+msgstr "Այս գործառույթն ակտիվացնելու համար տեղադրեք Artist Slideshow հավելումը"
+
+msgctxt "#31060"
+msgid "This file is stacked, select the part you want to play from."
+msgstr "Այս ֆայլը կուտակված է, ընտրեք այն մասը, որտեղից ցանկանում եք խաղալ:"
+
+msgctxt "#31061"
+msgid "Favourites statistics"
+msgstr "Սիրված վիճակագրություն"
+
+msgctxt "#31062"
+msgid "Random movie fanart"
+msgstr "Պատահական ֆիլմի երկրպագու"
+
+msgctxt "#31063"
+msgid "Random TV show fanart"
+msgstr "Պատահական հեռուստաշոուի երկրպագու"
+
+msgctxt "#31064"
+msgid "Random video fanart"
+msgstr "Պատահական վիդեո ֆանարտ"
+
+msgctxt "#31065"
+msgid "Random music fanart"
+msgstr "Պատահական երաժշտության երկրպագու"
+
+msgctxt "#31066"
+msgid "Random fanart"
+msgstr "Պատահական ֆանարտ"
+
+msgctxt "#31067"
+msgid "Update rating"
+msgstr "Թարմացնել վարկանիշը"
+
+msgctxt "#31068"
+msgid "CD Wall"
+msgstr "CD Wall"
+
+msgctxt "#31069"
+msgid "Change location"
+msgstr "Փոխել գտնվելու վայրը"
+
+msgctxt "#31070"
+msgid "Enable Cinema Experience integration"
+msgstr "Միացնել Cinema Experience-ի ինտեգրումը"
+
+msgctxt "#31071"
+msgid "While browsing the library"
+msgstr "Գրադարանը զննելիս"
+
+msgctxt "#31072"
+msgid "On open video info"
+msgstr "Բաց վիդեո տեղեկատվության վրա"
+
+msgctxt "#31073"
+msgid "Move menu item"
+msgstr "Տեղափոխել ընտրացանկի տարրը"
+
+msgctxt "#31074"
+msgid "Choose item to swap places with"
+msgstr "Ընտրեք տարր, որի հետ կփոխանակեք տեղերը"
+
+msgctxt "#31075"
+msgid "No extra features available"
+msgstr "Լրացուցիչ գործառույթներ չկան"
+
+msgctxt "#31076"
+msgid "Landscape"
+msgstr "Landscape"
+
+msgctxt "#31077"
+msgid "ShowCase"
+msgstr "ShowCase"
+
+msgctxt "#31078"
+msgid "TriPanel"
+msgstr "TriPanel"
+
+msgctxt "#31079"
+msgid "Shift"
+msgstr "Shift"
+
+msgctxt "#31080"
+msgid "Manage submenu"
+msgstr "Կառավարեք ենթամենյուն"
+
+msgctxt "#31081"
+msgid "Enable custom submenus"
+msgstr "Միացնել հատուկ ենթամենյուները"
+
+msgctxt "#31082"
+msgid "Detach RSS feed from the main menu"
+msgstr "Հեռացրեք RSS հոսքը հիմնական ընտրացանկից"
+
+msgctxt "#31083"
+msgid "Enable Next Aired information in the videolibrary"
+msgstr "Միացնել Next Aired տեղեկատվությունը տեսադարանում"
+
+msgctxt "#31084"
+msgid "Conditional weather"
+msgstr "Պայմանական եղանակ"
+
+msgctxt "#31085"
+msgid "Musicvideo library statistics"
+msgstr "Musicvideo գրադարանի վիճակագրություն"
+
+msgctxt "#31086"
+msgid "Icon"
+msgstr "Սրբապատկեր"
+
+msgctxt "#31087"
+msgid "Banner"
+msgstr "Բաններ"
+
+msgctxt "#31088"
+msgid "BannerWall"
+msgstr "BannerWall"
+
+msgctxt "#31089"
+msgid "Play item on startup"
+msgstr "Նվագարկել տարրը գործարկման ժամանակ"
+
+msgctxt "#31090"
+msgid "Seconds"
+msgstr "Վայրկյաններ"
+
+msgctxt "#31091"
+msgid "Select items"
+msgstr "Ընտրեք տարրեր"
+
+msgctxt "#31092"
+msgid "Fullscreen fanart"
+msgstr "Ամբողջ էկրանով ֆանարտ"
+
+msgctxt "#31093"
+msgid "LowList toggle"
+msgstr "LowList փոխարկիչ"
+
+msgctxt "#31094"
+msgid "List view layout"
+msgstr "Ցուցակի տեսքի դասավորություն"
+
+msgctxt "#31095"
+msgid "Slim List"
+msgstr "Slim List"
+
+msgctxt "#31096"
+msgid "Concert locations"
+msgstr "Համերգների վայրեր"
+
+msgctxt "#31097"
+msgid "Movie playlist statistics"
+msgstr "Ֆիլմերի երգացանկի վիճակագրություն"
+
+msgctxt "#31098"
+msgid "TV Show playlist statistics"
+msgstr "Հեռուստացույցի երգացանկի վիճակագրություն"
+
+msgctxt "#31099"
+msgid "Musicvideo playlist statistics"
+msgstr "Musicvideo երգացանկի վիճակագրություն"
+
+msgctxt "#31100"
+msgid "View:"
+msgstr "Դիտել:"
+
+msgctxt "#31101"
+msgid "Choose view"
+msgstr "Ընտրեք դիտում"
+
+msgctxt "#31102"
+msgid "Background"
+msgstr "Նախապատմություն"
+
+msgctxt "#31103"
+msgid "N/A"
+msgstr "N/A"
+
+msgctxt "#31104"
+msgid "Similar artists"
+msgstr "Նմանատիպ արվեստագետներ"
+
+msgctxt "#31105"
+msgid "More albums from"
+msgstr "Ավելի շատ ալբոմներ"
+
+msgctxt "#31106"
+msgid "On info"
+msgstr "Տեղեկատվության վրա"
+
+msgctxt "#31107"
+msgid "Persistent"
+msgstr "Համառ"
+
+msgctxt "#31108"
+msgid "Enable artist information feed (if available)"
+msgstr "Միացնել նկարչի տեղեկատվության հոսքը (եթե առկա է)"
+
+msgctxt "#31109"
+msgid "Unwatched episode count"
+msgstr "Չդիտված դրվագների քանակ"
+
+msgctxt "#31110"
+msgid "Up next brings the option to watch right away the next episode of a TV show (Netflix/Prime video style)."
+msgstr "Հաջորդը հնարավորություն է տալիս անմիջապես դիտել հեռուստաշոուի հաջորդ դրվագը (Netflix/Prime վիդեո ոճ):"
+
+msgctxt "#31111"
+msgid "Similar movies"
+msgstr "Նմանատիպ ֆիլմեր"
+
+msgctxt "#31112"
+msgid "Movies directed by"
+msgstr "Ֆիլմեր՝ ռեժիսոր"
+
+msgctxt "#31113"
+msgid "Movies written by"
+msgstr "Ֆիլմեր գրել է"
+
+msgctxt "#31114"
+msgid "More movies from"
+msgstr "Ավելի շատ ֆիլմեր"
+
+msgctxt "#31115"
+msgid "Similar TV shows"
+msgstr "Նմանատիպ հեռուստահաղորդումներ"
+
+msgctxt "#31116"
+msgid "cycle fanart"
+msgstr "ցիկլ ֆանարտ"
+
+msgctxt "#31117"
+msgid "Fallback"
+msgstr "Հետադարձ"
+
+msgctxt "#31118"
+msgid "Download extrafanart"
+msgstr "Ներբեռնեք extrafanart"
+
+msgctxt "#31119"
+msgid "Show the movies from this director in your library or view online information on this director on TMDb?"
+msgstr "Ցուցադրե՞լ այս ռեժիսորի ֆիլմերը ձեր գրադարանում, թե՞ դիտել առցանց տեղեկատվություն այս ռեժիսորի մասին TMDb-ում:"
+
+msgctxt "#31120"
+msgid "TMDb"
+msgstr "TMDb"
+
+msgctxt "#31121"
+msgid "Disable autocomplete"
+msgstr "Անջատել ավտոմատ լրացումը"
+
+msgctxt "#31122"
+msgid "Disables the autocomplete feature of the virtual keyboard"
+msgstr "Անջատում է վիրտուալ ստեղնաշարի ավտոմատ լրացման գործառույթը"
+
+msgctxt "#31123"
+msgid "Album review"
+msgstr "Ալբոմի վերանայում"
+
+msgctxt "#31124"
+msgid "Show Background \"Now Playing\" Video"
+msgstr "Ցույց տալ ֆոնային \"Հիմա խաղում\" տեսանյութը"
+
+msgctxt "#31125"
+msgid "Show Background \"Now Playing\" Visualisation"
+msgstr "Ցույց տալ ֆոնային \"Հիմա խաղում\" պատկերացում"
+
+msgctxt "#31126"
+msgid "Opacity level for widgets"
+msgstr "Անթափանցիկության մակարդակ վիջեթների համար"
+
+msgctxt "#31127"
+msgid "LiveTV Mod Settings"
+msgstr "LiveTV Mod-ի կարգավորումներ"
+
+msgctxt "#31128"
+msgid "Channels View"
+msgstr "Ալիքների դիտում"
+
+msgctxt "#31129"
+msgid "Hide Fanart in full screen visualisation"
+msgstr "Թաքցնել Fanart-ը ամբողջ էկրանով վիզուալիզացիայի մեջ"
+
+msgctxt "#31130"
+msgid "Use \"Enigma2-style\" channel OSD"
+msgstr "Օգտագործեք \"Enigma2-style\" ալիքի OSD"
+
+msgctxt "#31131"
+msgid "EPG Timeline View"
+msgstr "EPG ժամանակացույցի դիտում"
+
+msgctxt "#31132"
+msgid "Tuner:"
+msgstr "լարող."
+
+msgctxt "#31133"
+msgid "Timeline channels-type:"
+msgstr "Ժամանակացույցի ալիքների տեսակը."
+
+msgctxt "#31134"
+msgid "Timeline view-type:"
+msgstr "Ժամանակացույցի դիտման տեսակը՝"
+
+msgctxt "#31135"
+msgid "Infobar Options"
+msgstr "Infobar Ընտրանքներ"
+
+msgctxt "#31136"
+msgid "Infobar type:"
+msgstr "Infobar տեսակը:"
+
+msgctxt "#31137"
+msgid "Hide encryption information"
+msgstr "Թաքցնել գաղտնագրման տեղեկատվությունը"
+
+msgctxt "#31138"
+msgid "Hide tuner information"
+msgstr "Թաքցնել լարող տեղեկատվությունը"
+
+msgctxt "#31139"
+msgid "Hide signal information"
+msgstr "Թաքցնել ազդանշանի տեղեկատվությունը"
+
+msgctxt "#31140"
+msgid "Sideblade Options"
+msgstr "Sideblade Ընտրանքներ"
+
+msgctxt "#31141"
+msgid "Hide Guide"
+msgstr "Թաքցնել ուղեցույցը"
+
+msgctxt "#31142"
+msgid "Settings level"
+msgstr "Կարգավորումների մակարդակ"
+
+msgctxt "#31143"
+msgid "Hide Recordings"
+msgstr "Թաքցնել ձայնագրությունները"
+
+msgctxt "#31144"
+msgid "Hide Timer"
+msgstr "Թաքցնել ժմչփը"
+
+msgctxt "#31145"
+msgid "Hide Search"
+msgstr "Թաքցնել որոնումը"
+
+msgctxt "#31146"
+msgid "Rated"
+msgstr "Գնահատված"
+
+msgctxt "#31147"
+msgid "Change rating"
+msgstr "Փոխել վարկանիշը"
+
+msgctxt "#31148"
+msgid "List local library items"
+msgstr "Թվարկեք տեղական գրադարանի տարրերը"
+
+msgctxt "#31149"
+msgid "Online info from TMDb"
+msgstr "Առցանց տեղեկատվություն TMDb-ից"
+
+msgctxt "#31150"
+msgid "Select studio logo artwork"
+msgstr "Ընտրեք ստուդիայի պատկերանշանի գեղարվեստական աշխատանք"
+
+msgctxt "#31151"
+msgid "Customize the studio logos by choosing a different logo pack. Note that this has no effect on the studio icons displayed in the \"List\" view."
+msgstr "Անհատականացրեք ստուդիայի լոգոները՝ ընտրելով այլ լոգոների փաթեթ:Նկատի ունեցեք, որ դա որևէ ազդեցություն չունի ստուդիայի պատկերակների վրա, որոնք ցուցադրվում են \"Ցուցակ\" տեսքում:"
+
+msgctxt "#31152"
+msgid "In progress movies"
+msgstr "Ընթացքի մեջ գտնվող ֆիլմեր"
+
+msgctxt "#31153"
+msgid "Popular movies on TheMovieDB.org"
+msgstr "Հանրաճանաչ ֆիլմեր TheMovieDB.org կայքում"
+
+msgctxt "#31154"
+msgid "Top rated movies on TheMovieDB.org"
+msgstr "Ամենաբարձր վարկանիշ ունեցող ֆիլմերը TheMovieDB.org-ում"
+
+msgctxt "#31155"
+msgid "Movies currently in cinema"
+msgstr "Ֆիլմեր այժմ կինոյում"
+
+msgctxt "#31156"
+msgid "Upcoming movies"
+msgstr "Առաջիկա ֆիլմեր"
+
+msgctxt "#31157"
+msgid "Multi movie widget"
+msgstr "Բազմաֆիլմի վիդջեթ"
+
+msgctxt "#31158"
+msgid "IMDb Top 250 movies"
+msgstr "IMDb Թոփ 250 ֆիլմեր"
+
+msgctxt "#31159"
+msgid "Event log"
+msgstr "Իրադարձությունների մատյան"
+
+msgctxt "#31160"
+msgid "Display background name"
+msgstr "Ցուցադրել ֆոնային անունը"
+
+msgctxt "#31161"
+msgid "Display title of movie/TV show/artist on home screen if the background has a fanart slideshow as background"
+msgstr "Ցուցադրել ֆիլմի/հեռուստահաղորդման/արտիստի վերնագիրը հիմնական էկրանին, եթե ֆոնն ունի ֆանարտ սլայդ շոու որպես ֆոն"
+
+msgctxt "#31162"
+msgid "min"
+msgstr "min"
+
+msgctxt "#31163"
+msgid "TIMESHIFT"
+msgstr "TIMESHIFT"
+
+msgctxt "#31164"
+msgid "Change weather icons"
+msgstr "Փոխել եղանակի պատկերակները"
+
+msgctxt "#31165"
+msgid "Layout"
+msgstr "Դասավորություն"
+
+msgctxt "#31166"
+msgid "Wall"
+msgstr "Պատ"
+
+msgctxt "#31167"
+msgid "You're watching"
+msgstr "Դու նայում ես"
+
+msgctxt "#31168"
+msgid "h"
+msgstr "h"
+
+msgctxt "#31169"
+msgid "m"
+msgstr "m"
+
+msgctxt "#31170"
+msgid "Enable Netflix style pause screen"
+msgstr "Միացնել Netflix ոճի դադարի էկրանը"
+
+msgctxt "#31171"
+msgid "Shows an overview of the movie or episode 10 seconds after the video is paused."
+msgstr "Ցույց է տալիս ֆիլմի կամ դրվագի ակնարկը տեսանյութի դադարեցումից 10 վայրկյան հետո:"
+
+msgctxt "#31172"
+msgid "Inactive"
+msgstr "Ոչ ակտիվ"
+
+msgctxt "#31173"
+msgid "Decoder"
+msgstr "Ապակոդավորիչ"
+
+msgctxt "#31174"
+msgid "Hardware decoding"
+msgstr "Սարքավորումների վերծանում"
+
+msgctxt "#31175"
+msgid "press 'OK' to see more..."
+msgstr "սեղմեք «OK»՝ ավելին տեսնելու համար..."
+
+msgctxt "#31176"
+msgid "Enter text here..."
+msgstr "Մուտքագրեք տեքստը այստեղ..."
+
+msgctxt "#31177"
+msgid "Player controls"
+msgstr "Խաղացողի վերահսկում"
+
+msgctxt "#31178"
+msgid "Playlist options"
+msgstr "Երգացանկի ընտրանքներ"
+
+msgctxt "#31179"
+msgid "Critics"
+msgstr "Քննադատներ"
+
+msgctxt "#31180"
+msgid "Play main theme when browsing movies and TV shows"
+msgstr "Խաղացեք հիմնական թեման ֆիլմեր և հեռուստահաղորդումներ դիտելիս"
+
+msgctxt "#31181"
+msgid "Display cast in video views"
+msgstr "Ցուցադրել նկարահանված տեսանյութերի դիտումներում"
+
+msgctxt "#31182"
+msgid "Hide current time in media views"
+msgstr "Թաքցնել ընթացիկ ժամանակը լրատվամիջոցների դիտումներում"
+
+msgctxt "#31183"
+msgid "Hide number of items in media views"
+msgstr "Թաքցնել տարրերի քանակը լրատվամիջոցների դիտումների մեջ"
+
+msgctxt "#31184"
+msgid "Enable, disable and/or force video views"
+msgstr "Միացնել, անջատել և/կամ պարտադրել տեսանյութի դիտումները"
+
+msgctxt "#31185"
+msgid "Enable, disable and/or force music views"
+msgstr "Միացնել, անջատել և/կամ ստիպել երաժշտության դիտումները"
+
+msgctxt "#31186"
+msgid "Force Kodi to always use certain view when browsing each kind of media. Disabling views that you don't use could speed up browsing in some devices"
+msgstr "Ստիպեք Kodi-ին միշտ օգտագործել որոշակի տեսակետ՝ յուրաքանչյուր տեսակի լրատվամիջոց զննարկելիս.Դիտումների անջատումը, որոնք դուք չեք օգտագործում, կարող է արագացնել զննարկումը որոշ սարքերում"
+
+msgctxt "#31187"
+msgid "Available for:"
+msgstr "Հասանելի է:"
+
+msgctxt "#31188"
+msgid "Kiosk mode"
+msgstr "Կրպակի ռեժիմ"
+
+msgctxt "#31189"
+msgid "Disables the side media menu in views and most options to change Kodi, so as to prevent unwanted modifications."
+msgstr "Անջատում է կողային մեդիա ընտրացանկը դիտումներում և Կոդին փոխելու տարբերակների մեծ մասում՝ անցանկալի փոփոխությունները կանխելու համար:"
+
+msgctxt "#31190"
+msgid "In cinemas"
+msgstr "Կինոթատրոններում"
+
+msgctxt "#31191"
+msgid "In cinemas soon"
+msgstr "Շուտով կինոթատրոններում"
+
+msgctxt "#31192"
+msgid "Spotify"
+msgstr "Spotify"
+
+msgctxt "#31193"
+msgid "Show images of the best-known actresses"
+msgstr "Ցույց տալ ամենահայտնի դերասանուհիների պատկերները"
+
+msgctxt "#31194"
+msgid "Search the Red Carpet add-on for images of the best-known actresses from the movie/TV show and display them alongside the cast."
+msgstr "Որոնեք Կարմիր գորգի հավելումը ֆիլմի/հեռուստահաղորդման ամենահայտնի դերասանուհիների պատկերները և ցուցադրեք դրանք դերասանական կազմի կողքին:"
+
+msgctxt "#31195"
+msgid "Show logos of film studios in video views"
+msgstr "Ցույց տալ կինոստուդիաների լոգոները տեսանյութերի դիտումներում"
+
+msgctxt "#31196"
+msgid "Show logos of record labels in music albums views"
+msgstr "Ցուցադրել ձայնագրման պիտակների լոգոները երաժշտական ալբոմների դիտումներում"
+
+msgctxt "#31197"
+msgid "Show home music widget"
+msgstr "Ցույց տալ տնային երաժշտության վիջեթը"
+
+msgctxt "#31198"
+msgid "Show home video widget"
+msgstr "Ցուցադրել տան վիդեո վիջեթը"
+
+msgctxt "#31199"
+msgid "Colours, marks and home screen"
+msgstr "Գույներ, նշաններ և հիմնական էկրան"
+
+msgctxt "#31200"
+msgid "Is used to choose among different Kodi resource image pack to weather artwork and icons."
+msgstr "Օգտագործվում է Kodi-ի տարբեր ռեսուրսների պատկերների փաթեթներից ընտրելու համար՝ եղանակային արվեստի գործերը և սրբապատկերները:"
+
+msgctxt "#31201"
+msgid "Performance impact"
+msgstr "Կատարման ազդեցություն"
+
+msgctxt "#31202"
+msgid "Plays music in the background while in Home and Settings screens. A default song collection is provided, but a different song folder can be used."
+msgstr "Նվագարկում է երաժշտությունը ֆոնային ռեժիմում՝ գլխավոր և Կարգավորումների էկրաններում:Տրամադրված է երգերի լռելյայն հավաքածու, բայց կարող է օգտագործվել այլ երգի թղթապանակ:"
+
+msgctxt "#31203"
+msgid "Select your own folder to use as background music. Make sure that it only contains music files."
+msgstr "Ընտրեք ձեր սեփական թղթապանակը՝ որպես ֆոնային երաժշտություն օգտագործելու համար:Համոզվեք, որ այն պարունակում է միայն երաժշտական ​​ֆայլեր:"
+
+msgctxt "#31204"
+msgid "When enabled, widgets linked to each home menu item will appear automatically. If disabled, widgets remain hidden until the corresponding arrow key is pressed."
+msgstr "Երբ միացված է, վիջեթները, որոնք կապված են գլխավոր ընտրացանկի յուրաքանչյուր տարրի հետ, ինքնաբերաբար կհայտնվեն:Եթե ​​անջատված է, վիջեթները մնում են թաքնված մինչև համապատասխան սլաքի ստեղնը սեղմելը:"
+
+msgctxt "#31205"
+msgid "Lyrics Source"
+msgstr "Երգի խոսքերի աղբյուր"
+
+msgctxt "#31206"
+msgid "Customization"
+msgstr "Անհատականացում"
+
+msgctxt "#31207"
+msgid "Views"
+msgstr "Դիտումներ"
+
+msgctxt "#31208"
+msgid "Home screen"
+msgstr "Հիմնական էկրան"
+
+msgctxt "#31209"
+msgid "Options"
+msgstr "Ընտրանքներ"
+
+msgctxt "#31210"
+msgid "Select another image as default background"
+msgstr "Ընտրեք մեկ այլ պատկեր որպես լռելյայն ֆոն"
+
+msgctxt "#31211"
+msgid "Changes the default Aeon Tajo background to another chosen by the user."
+msgstr "Փոխում է կանխադրված Aeon Tajo ֆոնը օգտվողի կողմից ընտրված մեկ այլ ֆոնի վրա:"
+
+msgctxt "#31212"
+msgid "Current background path: "
+msgstr "Ընթացիկ ֆոնային ուղի."
+
+msgctxt "#31213"
+msgid "Reset skin default background"
+msgstr "Վերականգնել մաշկի լռելյայն ֆոնը"
+
+msgctxt "#31214"
+msgid "Resets the default background provided with Aeon Tajo."
+msgstr "Վերականգնում է Aeon Tajo-ով տրամադրված կանխադրված ֆոնը:"
+
+msgctxt "#31215"
+msgid "Show the coloured version of the icons rather than the monochrome version."
+msgstr "Ցույց տվեք պատկերակների գունավոր տարբերակը, այլ ոչ թե մոնոխրոմ տարբերակը:"
+
+msgctxt "#31216"
+msgid "Displays background and fanart images with a subtle motion effect across the screen."
+msgstr "Ցուցադրում է ֆոնային և ֆանարտ պատկերներ՝ նուրբ շարժման էֆեկտով էկրանի վրա:"
+
+msgctxt "#31217"
+msgid "Displays a list in the video views featuring thumbnail images of the main actors from the movie or TV show's cast."
+msgstr "Ցուցադրում է տեսահոլովակի դիտումների ցուցակը, որտեղ ներկայացված են ֆիլմի կամ հեռուստաշոուի դերասանական կազմի գլխավոր դերակատարների մանրապատկերները:"
+
+msgctxt "#31218"
+msgid "Search the Studio Icons add-on for logo images of the film studios of the movie/TV show, and if found, display them while browsing the video views."
+msgstr "Որոնեք Studio Icons հավելումը ֆիլմի/հեռուստահաղորդման կինոստուդիայի պատկերանշանների պատկերների համար, և եթե գտնեք, ցուցադրեք դրանք տեսանյութի դիտումները դիտելիս:"
+
+msgctxt "#31219"
+msgid "Search for the album's record label logo using the RecordLabel Icons addon, and if found, display it when browsing the music album views."
+msgstr "Փնտրեք ալբոմի ձայնագրման պիտակի լոգոն՝ օգտագործելով RecordLabel Icons հավելումը, և եթե գտնվի, ցուցադրեք այն երաժշտական ալբոմի դիտումների ժամանակ:"
+
+msgctxt "#31220"
+msgid "Show rating"
+msgstr "Ցույց տալ վարկանիշը"
+
+msgctxt "#31221"
+msgid "Show artist clearart"
+msgstr "Ցույց տալ արվեստագետին clearart"
+
+msgctxt "#31222"
+msgid "Show CD"
+msgstr "Ցույց տալ CD"
+
+msgctxt "#31223"
+msgid "Show Time"
+msgstr "Ցույց տալ ժամանակը"
+
+msgctxt "#31224"
+msgid "Animated posters"
+msgstr "Անիմացիոն պաստառներ"
+
+msgctxt "#31225"
+msgid "Normal posters"
+msgstr "Սովորական պաստառներ"
+
+msgctxt "#31226"
+msgid "Extra posters"
+msgstr "Լրացուցիչ պաստառներ"
+
+msgctxt "#31227"
+msgid "Sets the transparency level of the home menu widgets."
+msgstr "Սահմանում է հիմնական ընտրացանկի վիջեթների թափանցիկության մակարդակը:"
+
+msgctxt "#31228"
+msgid "Displays main menu options in a vertical layout instead of a horizontal one."
+msgstr "Ցուցադրում է հիմնական ցանկի ընտրանքները ուղղահայաց դասավորության փոխարեն հորիզոնականի փոխարեն:"
+
+msgctxt "#31229"
+msgid "Set another video file as startup intro"
+msgstr "Սահմանեք մեկ այլ վիդեո ֆայլ որպես մեկնարկային ներածություն"
+
+msgctxt "#31230"
+msgid "Choose another video file to play when Kodi starts instead of Aeon Tajo default. It's recommended to choose a short one. To stop playback and start using Kodi right away, click or press any arrow key."
+msgstr "Ընտրեք մեկ այլ վիդեո ֆայլ՝ խաղալու համար, երբ Kodi-ն սկսվում է Aeon Tajo-ի կանխադրվածի փոխարեն:Խորհուրդ է տրվում ընտրել կարճ:Նվագարկումը դադարեցնելու և Kodi-ն անմիջապես օգտագործելու համար սեղմեք կամ սեղմեք ցանկացած սլաք ստեղն։"
+
+msgctxt "#31231"
+msgid "Plays an intro video when launching Kodi"
+msgstr "Կոդին գործարկելիս ներածական տեսանյութ է նվագարկում"
+
+msgctxt "#31232"
+msgid "Clear current intro video file and back to default"
+msgstr "Մաքրել ընթացիկ ներածական վիդեո ֆայլը և վերադարձնել լռելյայն"
+
+msgctxt "#31233"
+msgid "Clear the intro video file selected by the user and back to Aeon Tajo's default."
+msgstr "Մաքրել օգտագործողի կողմից ընտրված ներածական վիդեո ֆայլը և վերադառնալ Aeon Tajo-ի կանխադրվածին:"
+
+msgctxt "#31234"
+msgid "Adds a layer that simulates falling snow on all Kodi screens, with four available intensity levels."
+msgstr "Ավելացնում է շերտ, որը նմանեցնում է ձյունը իջնելը Kodi-ի բոլոր էկրաններին՝ ինտենսիվության չորս հասանելի մակարդակներով:"
+
+msgctxt "#31235"
+msgid "Override the current home menu backgrounds with this one"
+msgstr "Անտեսեք ընթացիկ հիմնական ընտրացանկի նախապատմությունները այս մեկով"
+
+msgctxt "#31236"
+msgid "The background selections made in the Setup Main Menu screen will be preserved. Disabling this option will restore all previous backgrounds. This option is particularly designed for use during special seasons."
+msgstr "Setup Main Menu էկրանում կատարված ֆոնային ընտրությունները կպահպանվեն:Եթե ​​անջատեք այս տարբերակը, կվերականգնվեն բոլոր նախորդ ֆոները:Այս տարբերակը հատկապես նախատեսված է հատուկ սեզոնների ժամանակ օգտագործելու համար:"
+
+msgctxt "#31237"
+msgid "No impact"
+msgstr "Ոչ մի ազդեցություն"
+
+msgctxt "#31238"
+msgid "Very small"
+msgstr "Շատ փոքր"
+
+msgctxt "#31239"
+msgid "Small"
+msgstr "Փոքրիկ"
+
+msgctxt "#31240"
+msgid "Moderate"
+msgstr "Չափավոր"
+
+msgctxt "#31241"
+msgid "Pixel format"
+msgstr "Pixel ձևաչափը"
+
+msgctxt "#31242"
+msgid "System rendering speed"
+msgstr "Համակարգի մատուցման արագություն"
+
+msgctxt "#31243"
+msgid "Hide actor's thumbnails"
+msgstr "Թաքցնել դերասանի մանրապատկերները"
+
+msgctxt "#31244"
+msgid "Show only a list of the actors' names, instead of also including their thumbnails."
+msgstr "Ցուցադրել միայն դերասանների անունների ցանկը՝ նրանց մանրապատկերները ներառելու փոխարեն:"
+
+msgctxt "#31250"
+msgid "Automatic Full Screen when playing music"
+msgstr "Ավտոմատ ամբողջական էկրան երաժշտություն նվագարկելիս"
+
+msgctxt "#31251"
+msgid "Don't play melodies while in Home Screen"
+msgstr "Հիմնական էկրանին մեղեդիներ մի նվագարկեք"
+
+msgctxt "#31252"
+msgid "Always show home screen widgets"
+msgstr "Միշտ ցուցադրեք հիմնական էկրանի վիջեթները"
+
+msgctxt "#31253"
+msgid "Choose user audio playlist *.m3u (max.10 songs)"
+msgstr "Ընտրեք օգտվողի աուդիո երգացանկ *.m3u (առավելագույնը 10 երգ)"
+
+msgctxt "#31254"
+msgid "Clear user playlist (back to default)"
+msgstr "Մաքրել օգտվողի երգացանկը (վերադառնալ լռելյայն)"
+
+msgctxt "#31300"
+msgid "Overview"
+msgstr "Ընդհանուր ակնարկ"
+
+msgctxt "#31301"
+msgid "Last Updated"
+msgstr "Վերջին թարմացումը"
+
+msgctxt "#31307"
+msgid "Hide Fanart"
+msgstr "Թաքցնել Ֆանարտը"
+
+msgctxt "#31308"
+msgid "Next aired"
+msgstr "Հաջորդը եթեր"
+
+msgctxt "#31309"
+msgid "Memory Used:"
+msgstr "Օգտագործված հիշողություն."
+
+msgctxt "#31310"
+msgid "Available audio tracks"
+msgstr "Հասանելի աուդիո հետքեր"
+
+msgctxt "#31317"
+msgid "Set Fanart Path"
+msgstr "Սահմանեք Fanart ուղին"
+
+msgctxt "#31320"
+msgid "Last Logged In"
+msgstr "Վերջին մուտքը"
+
+msgctxt "#31321"
+msgid "Karaoke Song Selector"
+msgstr "Կարաոկե երգի ընտրիչ"
+
+msgctxt "#31328"
+msgid "Recently Added"
+msgstr "Վերջերս ավելացված"
+
+msgctxt "#31331"
+msgid "Installed"
+msgstr "Տեղադրված է"
+
+msgctxt "#31332"
+msgid "Not Installed"
+msgstr "Տեղադրված չէ"
+
+msgctxt "#31334"
+msgid "Required"
+msgstr "Պահանջվում է"
+
+msgctxt "#31335"
+msgid "Recommended"
+msgstr "Առաջարկվում է"
+
+msgctxt "#31336"
+msgid "Optional"
+msgstr "Ընտրովի"
+
+msgctxt "#31390"
+msgid "Skin default"
+msgstr "Մաշկի լռելյայն"
+
+msgctxt "#31400"
+msgid "[B]CONFIGURE INTERFACE SETTINGS[/B][CR][CR]Change the skin · Set language and region · Setup remote controls[CR]Set up a screensaver · Setup master lock"
+msgstr "[B]ԿԱՐԳԱՎՈՐԵԼ Ինտերֆեյսի ԿԱՐԳԱՎՈՐՈՒՄՆԵՐԸ[/B][CR][CR]Փոխել մաշկը · Սահմանել լեզուն և տարածաշրջանը · Կարգավորել հեռակառավարման վահանակները[CR]Ստեղծել էկրանապահիչ"
+
+msgctxt "#31401"
+msgid "Menu - press 'OK'"
+msgstr "Մենյու - սեղմեք «OK»"
+
+msgctxt "#31402"
+msgid "Enable startup video intro"
+msgstr "Միացնել մեկնարկային տեսանյութի ներածությունը"
+
+msgctxt "#31405"
+msgid "[B]MONITOR YOUR SYSTEM[/B][CR][CR]Check out your hardware · Monitor CPU usage[CR]Check Kodi revision number"
+msgstr "[B]ԴԻՏԵՔ ՁԵՐ ՀԱՄԱԿԱՐԳԸ[/B][CR][CR]Ստուգեք ձեր սարքավորումը · Վերահսկեք պրոցեսորի օգտագործումը[CR]Ստուգեք Kodi-ի վերանայման համարը"
+
+msgctxt "#31406"
+msgid "[B]CONFIGURE SYSTEM SETTINGS[/B][CR][CR]Setup and calibrate displays · Configure audio output · [CR]Set power saving options · Enable debugging"
+msgstr "[B]ԿԱՐԳԱՎՈՐԵԼ ՀԱՄԱԿԱՐԳԻ ԿԱՐԳԱՎՈՐՈՒՄՆԵՐԸ[/B][CR][CR]Կարգավորել և չափավորել էկրանները · Կարգավորել աուդիո ելքը · [CR]Սահմանել էներգախնայողության ընտրանքները · Միացնել վրիպազերծումը"
+
+msgctxt "#31407"
+msgid "[B]SETUP PROFILES[/B][CR][CR]Setup and manage user profiles · Enable login screen[CR]Change password · Add a profile picture"
+msgstr "[B]SETUP PROFILES[/B][CR][CR]Կարգավորել և կառավարել օգտվողի պրոֆիլները · Միացնել մուտքի էկրանը[CR]Փոխել գաղտնաբառը · Ավելացնել պրոֆիլի նկար"
+
+msgctxt "#31409"
+msgid "[B]CONFIGURE TV SETTINGS[/B][CR][CR]Change full screen info · Manage EPG data settings"
+msgstr "[B]ԿԱՐԳԱՎՈՐԵԼ հեռուստացույցի կարգավորումները[/B][CR][CR]Փոխել ամբողջ էկրանի տվյալները · Կառավարել EPG տվյալների կարգավորումները"
+
+msgctxt "#31410"
+msgid "[B]CONFIGURE SERVICE SETTINGS[/B][CR][CR]Setup control of Kodi via UPnP and HTTP · Configure file sharing[CR]Enable Zeroconf · Configure AirPlay"
+msgstr "[B]ԿԱՐԳԱՎՈՐԵԼ ԾԱՌԱՅՈՒԹՅԱՆ ԿԱՐԳԱՎՈՐՈՒՄՆԵՐԸ[/B][CR][CR]Կարգավորել Kodi-ի կառավարումը UPnP-ի և HTTP-ի միջոցով · Կարգավորել ֆայլերի փոխանակումը[CR]Միացնել Zeroconf · Կարգավորել AirPlay-ը"
+
+msgctxt "#31412"
+msgid "Select section"
+msgstr "Ընտրեք բաժինը"
+
+msgctxt "#31413"
+msgid "Local subtitle available"
+msgstr "Տեղական ենթագրերը հասանելի են"
+
+msgctxt "#31414"
+msgid "[B]CONFIGURE PLAYER SETTINGS[/B][CR][CR]Configure video playback · Configure music playback · Configure picture slideshow[CR]Configure video language and subtitles"
+msgstr "[B]ԿԱՐԳԱՎՈՐԵԼ ՆՎԱՃԱՌՔԻ ԿԱՐԳԱՎՈՐՈՒՄՆԵՐԸ[/B][CR][CR]Կարգավորել տեսանյութի նվագարկումը · Կարգավորել երաժշտության նվագարկումը · Կարգավորել նկարի սլայդերի ցուցադրումը[CR]Կարգավորել տեսանյութի լեզուն և ենթագրերը"
+
+msgctxt "#31415"
+msgid "[B]CONFIGURE MEDIA SETTINGS[/B][CR][CR]Set default select action · Configure file list options · Configure metadata options[CR]Manage databases"
+msgstr "[B]ԿԱՐԳԱՎՈՐԵԼ ՄԵԴԻԱ ԿԱՐԳԱՎՈՐՈՒՄՆԵՐԸ[/B][CR][CR]Սահմանել կանխադրված ընտրված գործողությունը · Կարգավորել ֆայլերի ցանկի ընտրանքները · Կարգավորել մետատվյալների ընտրանքները[CR]Կառավարել տվյալների բազաները"
+
+msgctxt "#31421"
+msgid "Select your Kodi user profile[CR]to login and continue"
+msgstr "Մուտք գործելու և շարունակելու համար ընտրեք ձեր Kodi օգտվողի պրոֆիլը[CR]"
+
+msgctxt "#31427"
+msgid "Skin Shortcuts is responsible for handling all aspects of the main menu."
+msgstr "Skin Shortcuts-ը պատասխանատու է հիմնական ընտրացանկի բոլոր ասպեկտների համար:"
+
+msgctxt "#31428"
+msgid "The Grab Fanart script provides the random fanart slideshows for the main menu."
+msgstr "Grab Fanart սկրիպտը ապահովում է fanart-ի պատահական սլայդ-ցուցադրումներ հիմնական ցանկի համար:"
+
+msgctxt "#31429"
+msgid "Library Data Provider is a service that runs in the background to provide library data for widgets and live backgrounds as well as playlist statistics for infolines."
+msgstr "Գրադարանային տվյալների մատակարարը ծառայություն է, որն աշխատում է հետին պլանում՝ վիջեթների և կենդանի ֆոնի համար գրադարանային տվյալներ տրամադրելու, ինչպես նաև ինֆոգծերի երգացանկերի վիճակագրություն տրամադրելու համար:"
+
+msgctxt "#31430"
+msgid "Resource image addon for displaying the default white studio icons throughout the skin."
+msgstr "Ռեսուրսային պատկերի հավելում մաշկի վրա լռելյայն սպիտակ ստուդիայի պատկերակները ցուցադրելու համար:"
+
+msgctxt "#31431"
+msgid "Resource image addon for displaying the default white recording label icons throughout the skin."
+msgstr "Ռեսուրսային պատկերի հավելում` լռելյայն սպիտակ ձայնագրող պիտակի պատկերակները ամբողջ մաշկի վրա ցուցադրելու համար:"
+
+msgctxt "#31432"
+msgid "Provides numerous Widget options and extended cast and crew metadata."
+msgstr "Ապահովում է Widget-ի բազմաթիվ տարբերակներ և ընդլայնված դերասանական և անձնակազմի մետատվյալներ:"
+
+msgctxt "#31433"
+msgid "Skin Info Service is used to display movie set information throughout the skin."
+msgstr "Skin Info Service-ն օգտագործվում է ամբողջ մաշկի վրա ֆիլմերի մասին տեղեկատվությունը ցուցադրելու համար:"
+
+msgctxt "#31434"
+msgid "Check MP3 Theme checks whether the user has put a theme.mp3 file in the corresponding movie/TV show folder to be played when browsing."
+msgstr "Ստուգեք MP3 թեման ստուգում է, թե արդյոք օգտատերը տեղադրել է theme.mp3 ֆայլը համապատասխան ֆիլմի/հեռուստատեսային շոուի թղթապանակում՝ դիտելիս:"
+
+msgctxt "#31450"
+msgid "  •  Open Settings "
+msgstr "• Բացեք Պարամետրերը"
+
+msgctxt "#31451"
+msgid "  •  Click to Install"
+msgstr "• Սեղմեք՝ Տեղադրելու համար"
+
+msgctxt "#31473"
+msgid "Aeon Tajo Helper provides the data to display the cast for movies and TV shows."
+msgstr "Aeon Tajo Helper-ը տրամադրում է տվյալներ ֆիլմերի և հեռուստահաղորդումների դերասանական կազմը ցուցադրելու համար:"
+
+msgctxt "#31474"
+msgid "CU LRC Lyrics is used to download, sync, and display lyrics during fullscreen music playback."
+msgstr "CU LRC Lyrics-ն օգտագործվում է տեքստերը ներբեռնելու, համաժամացնելու և ցուցադրելու համար ամբողջ էկրանով երաժշտության նվագարկման ժամանակ:"
+
+msgctxt "#31475"
+msgid "Play Trailer makes possible to play movie trailers through a context menu. "
+msgstr "Play Trailer-ը հնարավորություն է տալիս ֆիլմերի թրեյլերներ նվագարկել համատեքստի ընտրացանկի միջոցով:"
+
+msgctxt "#31476"
+msgid "Allows the use of Youtube to play trailers and other videos."
+msgstr "Թույլ է տալիս YouTube-ի օգտագործումը՝ թրեյլերներ և այլ տեսանյութեր նվագարկելու համար:"
+
+msgctxt "#31477"
+msgid "Provides some cast actress images to be shown in video views."
+msgstr "Տրամադրում է դերասանուհու որոշ կերպարներ, որոնք կցուցադրվեն տեսանյութերի դիտումներում:"
+
+msgctxt "#31478"
+msgid "Artist Slideshow is used to display artist fanart for both the home screen and during fullscreen music playback."
+msgstr "Artist Slideshow-ն օգտագործվում է նկարչի ֆանարտը ցուցադրելու համար և՛ հիմնական էկրանին, և՛ ամբողջ էկրանով երաժշտության նվագարկման ժամանակ:"
+
+msgctxt "#31479"
+msgid "AutoCompletion provides suggestions to be selected while using the virtual keyboard."
+msgstr "Ավտոմատ լրացումն ապահովում է առաջարկներ, որոնք պետք է ընտրվեն վիրտուալ ստեղնաշարն օգտագործելիս:"
+
+msgctxt "#31480"
+msgid "Library Editor Script uses JSON to directly edit your database information."
+msgstr "Գրադարանի խմբագրիչի սցենարը օգտագործում է JSON՝ ուղղակիորեն խմբագրելու ձեր տվյալների բազայի տեղեկությունները:"
+
+msgctxt "#31481"
+msgid "Global Search makes possible to search among all the items (movies, TV shows, music, actors, etc.) in your collection."
+msgstr "Գլոբալ որոնումը հնարավորություն է տալիս որոնել ձեր հավաքածուի բոլոր տարրերի մեջ (ֆիլմեր, հեռուստաշոուներ, երաժշտություն, դերասաններ և այլն):"
+
+msgctxt "#31501"
+msgid "Channel group"
+msgstr "Ալիքների խումբ"
+
+msgctxt "#31502"
+msgid "Live TV"
+msgstr "Ուղիղ հեռուստատեսություն"
+
+msgctxt "#31503"
+msgid "Add Group"
+msgstr "Ավելացնել խումբ"
+
+msgctxt "#31504"
+msgid "Rename Group"
+msgstr "Վերանվանել խումբը"
+
+msgctxt "#31505"
+msgid "Delete Group"
+msgstr "Ջնջել խումբը"
+
+msgctxt "#31506"
+msgid "Available[CR]Groups"
+msgstr "Հասանելի[CR]Խմբեր"
+
+msgctxt "#31511"
+msgid "Channel Options"
+msgstr "Ալիքի ընտրանքներ"
+
+msgctxt "#31512"
+msgid "Show similar movies in Shelf 3D view"
+msgstr "Ցուցադրել նմանատիպ ֆիլմեր Դարակի 3D տեսքով"
+
+msgctxt "#31901"
+msgid "36 Hour Forecast"
+msgstr "36 ժամ կանխատեսում"
+
+msgctxt "#31902"
+msgid "Hourly Forecast"
+msgstr "Ժամային կանխատեսում"
+
+msgctxt "#31903"
+msgid "Weekend Forecast"
+msgstr "Հանգստյան կանխատեսում"
+
+msgctxt "#31904"
+msgid "10 Day Forecast"
+msgstr "10 օրվա կանխատեսում"
+
+msgctxt "#31908"
+msgid "Chance of Precipitation"
+msgstr "Տեղումների հավանականություն"
+
+msgctxt "#31909"
+msgid "Fetching forecast info..."
+msgstr "Կանխատեսման տեղեկությունների բեռնում..."
+
+msgctxt "#31910"
+msgid "Map & Alerts"
+msgstr "Քարտեզ և ահազանգեր"
+
+msgctxt "#31911"
+msgid "Setup the Aeon Tajo main menu"
+msgstr "Կարգավորեք Aeon Tajo հիմնական ընտրացանկը"
+
+msgctxt "#31912"
+msgid "Customize the main menu with widgets, backgrounds and statistics. Add your own custom main menu items."
+msgstr "Անհատականացրեք հիմնական ընտրացանկը վիդջեթներով, նախապատմություններով և վիճակագրությամբ:Ավելացրեք ձեր սեփական հիմնական ընտրացանկի տարրերը:"
+
+msgctxt "#31913"
+msgid "Aeon Tajo main menu vertical position"
+msgstr "Aeon Tajo հիմնական մենյուի ուղղահայաց դիրքը"
+
+msgctxt "#31914"
+msgid "Change the vertical position of the main menu. Default is centered on screen."
+msgstr "Փոխեք հիմնական ընտրացանկի ուղղահայաց դիրքը:Կանխադրվածը կենտրոնացած է էկրանին:"
+
+msgctxt "#31915"
+msgid "Navigation style for horizontal lists"
+msgstr "Հորիզոնական ցուցակների նավարկության ոճը"
+
+msgctxt "#31916"
+msgid "Change the way horizontal lists scroll in Aeon Tajo. Default will scroll lists in a cycle. \"Fixed\" are lists with a beginning and end."
+msgstr "Փոխեք հորիզոնական ցուցակների ոլորման եղանակը Aeon Tajo-ում:Կանխադրվածը ոլորելու է ցուցակները ցիկլով:\"Fixed\"-ը սկիզբ և վերջ ունեցող ցուցակներ են:"
+
+msgctxt "#31917"
+msgid "When enabled text scrolls automatically. When disabled manual scrolling is required. Note that most textboxes don't have a manual button."
+msgstr "Երբ միացված է տեքստը ինքնաբերաբար պտտվում է:Երբ անջատված ձեռքով ոլորումը պահանջվում է:Նկատի ունեցեք, որ տեքստային տուփերի մեծ մասը չունի ձեռքով կոճակ:"
+
+msgctxt "#31918"
+msgid "Projects the current playing video on the background behind the panels."
+msgstr "Նախագծում է ընթացիկ նվագարկվող տեսանյութը վահանակների հետևի ֆոնի վրա:"
+
+msgctxt "#31919"
+msgid "Projects the visualisation on the background behind the panels when music is played."
+msgstr "Նախագծում է վիզուալիզացիան վահանակների հետևում գտնվող ֆոնի վրա, երբ երաժշտություն է հնչում:"
+
+msgctxt "#31920"
+msgid "Displays a widget on the Home screen with media information when music is playing."
+msgstr "Ցուցադրում է հիմնական էկրանին վիջեթ՝ մեդիա տեղեկատվության հետ, երբ երաժշտություն է հնչում:"
+
+msgctxt "#31921"
+msgid "Displays a widget on the Home screen with media information when a movie or episode is playing."
+msgstr "Ցուցադրում է հիմնական էկրանին վիջեթ՝ մեդիա տեղեկատվությամբ, երբ ցուցադրվում է ֆիլմ կամ դրվագ:"
+
+msgctxt "#31922"
+msgid "This enables custom genre backgrounds when browsing through the videolibrary's genre node. Filenames should match the genre label. Extension must be .jpg."
+msgstr "Սա հնարավորություն է տալիս հատուկ ժանրային ֆոներ՝ տեսագրադարանի ժանրային հանգույցը դիտելիս:Ֆայլերի անունները պետք է համապատասխանեն ժանրի պիտակին:Ընդլայնումը պետք է լինի .jpg:"
+
+msgctxt "#31923"
+msgid "Set a default select action to enable this item."
+msgstr "Սահմանեք կանխադրված ընտրության գործողություն՝ այս տարրը միացնելու համար:"
+
+msgctxt "#31924"
+msgid "This enables custom genre backgrounds when browsing through the musiclibrary's genre node. Filenames should match the genre label. Extension must be .jpg."
+msgstr "Սա հնարավորություն է տալիս հատուկ ժանրային նախադրյալներ՝ երաժշտական գրադարանի ժանրային հանգույցը թերթելիս:Ֆայլերի անունները պետք է համապատասխանեն ժանրի պիտակին:Ընդլայնումը պետք է լինի .jpg:"
+
+msgctxt "#31925"
+msgid "Pick one of the preset backgrounds or set your own images as the menu items background."
+msgstr "Ընտրեք նախադրված ֆոներից մեկը կամ ձեր սեփական պատկերները դրեք որպես ընտրացանկի տարրերի ֆոն:"
+
+msgctxt "#31926"
+msgid "Select add-ons, playlists or favourites. Choose 'Custom' for any of Kodi's built-in functions. (http://kodi.wiki/?title=List_of_Built_In_Functions)"
+msgstr "Ընտրեք հավելումներ, երգացանկեր կամ ընտրյալներ:Ընտրեք «Պատվիրված» Kodi-ի ներկառուցված գործառույթներից որևէ մեկի համար:(http://kodi.wiki/?title=Ներկառուցված_գործառույթների_ցանկ)"
+
+msgctxt "#31927"
+msgid "Resets all above values to their defaults."
+msgstr "Վերականգնում է վերը նշված բոլոր արժեքները իրենց նախնական արժեքներին:"
+
+msgctxt "#31928"
+msgid "Aeon Tajo main menu layout"
+msgstr "Aeon Tajo հիմնական մենյուի դասավորությունը"
+
+msgctxt "#31929"
+msgid "This setting defines how much items will be visible on the main menu. Options are 3 items or 5 items."
+msgstr "Այս պարամետրը սահմանում է, թե որքան տարրեր տեսանելի կլինեն հիմնական ընտրացանկում:Տարբերակները 3 հատ կամ 5 հատ են։"
+
+msgctxt "#31930"
+msgid "Choose a widget to display on the Home screen to have easy access to content from the library."
+msgstr "Ընտրեք վիջեթ՝ հիմնական էկրանին ցուցադրելու համար՝ գրադարանի բովանդակությանը հեշտ մուտք ունենալու համար:"
+
+msgctxt "#31931"
+msgid "Video plot preference"
+msgstr "Տեսանյութի սյուժեի նախապատվությունը"
+
+msgctxt "#31932"
+msgid "Show plot outline in the library views and full plot in the video information dialog or vice versa. Falls back to full plot if no outline is available."
+msgstr "Ցուցադրել սյուժեի ուրվագիծը գրադարանի դիտումներում և ամբողջական սյուժեն՝ տեսանյութի տեղեկատվության երկխոսության մեջ կամ հակառակը:Ընկնում է ամբողջական սյուժեի վրա, եթե ուրվագիծ չկա:"
+
+msgctxt "#31933"
+msgid "Select an item to display on the left top of the main menu"
+msgstr "Ընտրեք տարր՝ հիմնական ցանկի վերևի ձախ մասում ցուցադրելու համար"
+
+msgctxt "#31935"
+msgid "Switch places with another menu item. Opens a dialog with a list of menu items to choose from."
+msgstr "Փոխեք տեղերը ցանկի մեկ այլ տարրով:Բացում է երկխոսություն ընտրացանկի տարրերի ցանկով:"
+
+msgctxt "#31937"
+msgid "Show the RSS feed on the bottom or top of the screen, depending on main menu position. Enabling this setting makes the submenu permanently visible."
+msgstr "Ցույց տվեք RSS հոսքը էկրանի ներքևի կամ վերևի մասում՝ կախված հիմնական ընտրացանկի դիրքից:Միացնելով այս պարամետրը, ենթացանկը մշտապես տեսանելի է դառնում:"
+
+msgctxt "#31938"
+msgid "Enables extra information in the TV show library, like TV show status, next / latest episode, etc. Depends on TV Show Next Aired add-on."
+msgstr "Միացնում է լրացուցիչ տեղեկություններ հեռուստահաղորդումների գրադարանում, օրինակ՝ հեռուստահաղորդման կարգավիճակը, հաջորդ/վերջին դրվագը և այլն: Կախված է հեռուստաշոուի հաջորդ եթերային հավելումից:"
+
+msgctxt "#31939"
+msgid "Hide Infopanel on scrolling"
+msgstr "Թաքցնել Infopanel-ը ոլորման ժամանակ"
+
+msgctxt "#31940"
+msgid "Hides the infopanel for Showcase and Landscape view (if activated) while scrolling through the library. Set the amount of seconds to wait for the infopanel to appear when scrolling is stopped."
+msgstr "Գրադարանում ոլորելիս թաքցնում է ցուցափեղկի և լանդշաֆտային տեսքի տեղեկատվական վահանակը (եթե ակտիվացված է):Սահմանեք վայրկյանների քանակը, երբ սպասեք, որ տեղեկատախտակը հայտնվի, երբ ոլորումը դադարեցվի:"
+
+msgctxt "#31941"
+msgid "Kiosk mode"
+msgstr "Կրպակի ռեժիմ"
+
+msgctxt "#31942"
+msgid "Disables the slide out menu (media menu) in the library as well as certain buttons in the media information dialogs. (Requires restart to take effect)"
+msgstr "Անջատում է գրադարանի սահեցրած ընտրացանկը (մեդիա մենյու), ինչպես նաև մեդիա տեղեկատվության երկխոսության որոշ կոճակներ:(Ուժի մեջ մտնելու համար պահանջվում է վերագործարկում)"
+
+msgctxt "#31943"
+msgid "Watched status indicator"
+msgstr "Դիտված կարգավիճակի ցուցիչ"
+
+msgctxt "#31944"
+msgid "Choose which overlays to show on thumbs in icon based views. Note that the \"Resume\" flag takes precedent over any watched status."
+msgstr "Ընտրեք, թե որ ծածկույթները ցուցադրվեն բութ մատների վրա պատկերակների վրա հիմնված դիտումներում:Նկատի ունեցեք, որ \"Resume\" դրոշը նախադեպ է դիտված ցանկացած կարգավիճակի նկատմամբ:"
+
+msgctxt "#31945"
+msgid "This toggles the layout of the List view. Default is a 7 item layout with extended info, \"Slim List\" is a 14 item, more basic layout"
+msgstr "Սա փոխում է Ցուցակի տեսքի դասավորությունը:Կանխադրվածը 7 կետից բաղկացած դասավորություն է՝ ընդլայնված տեղեկություններով, \"Slim List\"-ը 14 կետից է, ավելի հիմնական դասավորությունը"
+
+msgctxt "#31950"
+msgid "WEATHER"
+msgstr "ԵՂԱՆԱԿ"
+
+msgctxt "#31951"
+msgid "PICTURES"
+msgstr "ՆԿԱՐՆԵՐ"
+
+msgctxt "#31952"
+msgid "LIVE TV"
+msgstr "ՈՒՂԻՂ TV"
+
+msgctxt "#31953"
+msgid "VIDEOS"
+msgstr "ՏԵՍԱՆՅՈՒԹԵՐ"
+
+msgctxt "#31954"
+msgid "MOVIES"
+msgstr "ՖԻԼՄԵՐ"
+
+msgctxt "#31955"
+msgid "TV SHOWS"
+msgstr "ՀԵՌՈՒՍՏԱՇՈՈՒՆԵՐ"
+
+msgctxt "#31956"
+msgid "MUSIC"
+msgstr "ԵՐԱԺՇՏՈՒԹՅՈՒՆ"
+
+msgctxt "#31957"
+msgid "APPS"
+msgstr "ՀԱՎԵԼՎԱԾՆԵՐ"
+
+msgctxt "#31958"
+msgid "PLAY DISC"
+msgstr "ՆՎԱԾԵԼ ՍԿՍԱՎՈՐ"
+
+msgctxt "#31959"
+msgid "SYSTEM"
+msgstr "ՀԱՄԱԿԱՐԳ"
+
+msgctxt "#31960"
+msgid "CONCERTS"
+msgstr "ՀԱՄԵՐԳՆԵՐ"
+
+msgctxt "#31961"
+msgid "Hide ratings in list views"
+msgstr "Թաքցնել վարկանիշները ցանկի դիտումներում"
+
+msgctxt "#31962"
+msgid "This toggles the visibility of ratings in views of type List, LowList and TriPanel, except if sorted by rating."
+msgstr "Սա փոխում է վարկանիշների տեսանելիությունը List, LowList և TriPanel տիպերի դիտումներում, բացառությամբ այն դեպքերի, երբ դասավորված են ըստ վարկանիշի:"
+
+msgctxt "#31964"
+msgid "NoTo"
+msgstr "NoTo"
+
+msgctxt "#31965"
+msgid "Setup main menu"
+msgstr "Կարգավորեք հիմնական ընտրացանկը"
+
+msgctxt "#31966"
+msgid "Customize the main menu with widgets, backgrounds, submenus and statistics. Add your own custom main menu items."
+msgstr "Անհատականացրեք հիմնական ընտրացանկը վիջեթներով, նախապատմություններով, ենթամենյուներով և վիճակագրությամբ:Ավելացրեք ձեր սեփական հիմնական ընտրացանկի տարրերը:"
+
+msgctxt "#31967"
+msgid "Skin addons"
+msgstr "Մաշկի հավելումներ"
+
+msgctxt "#31968"
+msgid "Addons used to enhance Aeon Tajo."
+msgstr "Հավելումներ, որոնք օգտագործվում են Aeon Tajo-ի բարելավման համար:"
+
+msgctxt "#31969"
+msgid "Skin options"
+msgstr "Մաշկի ընտրանքներ"
+
+msgctxt "#31970"
+msgid "Setup of melodies, the way of showing widgets, themes and cast for movies/TV shows and other options."
+msgstr "Մեղեդիների տեղադրում, վիջեթների, թեմաների և ֆիլմերի/հեռուստահաղորդումների ցուցադրման եղանակ և այլ տարբերակներ:"
+
+msgctxt "#31971"
+msgid "Colour of selected items"
+msgstr "Ընտրված իրերի գույնը"
+
+msgctxt "#31972"
+msgid "Youtube"
+msgstr "Youtube"
+
+msgctxt "#31973"
+msgid "Down for more"
+msgstr "Ներքև՝ ավելիի համար"
+
+msgctxt "#31974"
+msgid "More movies featuring"
+msgstr "Ավելի շատ ֆիլմեր"
+
+msgctxt "#31975"
+msgid "More TV shows featuring"
+msgstr "Ավելի շատ հեռուստահաղորդումներ"
+
+msgctxt "#31976"
+msgid "Image gallery"
+msgstr "Պատկերասրահ"
+
+msgctxt "#31977"
+msgid "Years old"
+msgstr "Տարիներ"
+
+msgctxt "#31978"
+msgid "Click for more"
+msgstr "Սեղմեք ավելին"
+
+msgctxt "#31979"
+msgid "Left for more"
+msgstr "Մնացել է ավելին"
+
+msgctxt "#31980"
+msgid "Right for more"
+msgstr "Ճիշտ է ավելին"
+
+msgctxt "#31981"
+msgid "Premiered"
+msgstr "Պրեմիերան"
+
+msgctxt "#31982"
+msgid "Budget"
+msgstr "Բյուջե"
+
+msgctxt "#31983"
+msgid "Revenue"
+msgstr "Եկամուտներ"
+
+msgctxt "#31984"
+msgid "Awards"
+msgstr "Մրցանակներ"
+
+msgctxt "#31985"
+msgid "Trending Movies"
+msgstr "Թրենդային ֆիլմեր"
+
+msgctxt "#31986"
+msgid "Upcoming Movies"
+msgstr "Առաջիկա Ֆիլմեր"
+
+msgctxt "#31987"
+msgid "Now Playing Movies"
+msgstr "Այժմ Ֆիլմեր են նվագարկվում"
+
+msgctxt "#31988"
+msgid "Top Rated Movies"
+msgstr "Ամենաբարձր վարկանիշ ունեցող ֆիլմեր"
+
+msgctxt "#31989"
+msgid "Popular Movies"
+msgstr "Հանրաճանաչ ֆիլմեր"
+
+msgctxt "#31990"
+msgid "Discover Movies"
+msgstr "Բացահայտեք Ֆիլմեր"
+
+msgctxt "#31991"
+msgid "Trending Shows"
+msgstr "Թրենդային շոուներ"
+
+msgctxt "#31992"
+msgid "Top Rated Shows"
+msgstr "Ամենաբարձր վարկանիշ ունեցող շոուներ"
+
+msgctxt "#31993"
+msgid "Popular Shows"
+msgstr "Հանրաճանաչ շոուներ"
+
+msgctxt "#31994"
+msgid "Discover Shows"
+msgstr "Բացահայտեք շոուները"
+
+msgctxt "#31995"
+msgid "3D view"
+msgstr "3D տեսք"
+
+msgctxt "#31996"
+msgid "Extended view"
+msgstr "Ընդլայնված դիտում"
+
+msgctxt "#31997"
+msgid "Simple view"
+msgstr "Պարզ տեսարան"
+
+msgctxt "#31998"
+msgid "Classic lyrics"
+msgstr "Դասական տեքստեր"
+
+msgctxt "#31999"
+msgid "Screensaver Netflix style in media views"
+msgstr "Էկրանապահ Netflix ոճը լրատվամիջոցների դիտումներում"
+
+msgctxt "#31245"
+msgid "When in idle state for two minutes within a media view, a fullscreen slideshow of movies, TV shows, or artists' fanarts will be displayed, according to the section being browsed."
+msgstr "Մեդիա դիտման ընթացքում երկու րոպե պարապ վիճակում գտնվելու դեպքում կցուցադրվի ֆիլմերի, հեռուստաշոուների կամ արվեստագետների երկրպագուների լիաէկրան սլայդ-շոուն՝ ըստ զննվող բաժնի:"
+
+msgctxt "#31246"
+msgid "Play automatically trailers in video views"
+msgstr "Ավտոմատ կերպով թրեյլերներ նվագարկեք տեսանյութերի դիտումներում"
+
+msgctxt "#31247"
+msgid "When you browse the video views and pause on a movie or TV show for a few seconds, the trailer automatically plays in a window."
+msgstr "Երբ դիտում եք տեսանյութի դիտումները և մի քանի վայրկյան դադար եք տալիս ֆիլմի կամ հեռուստահաղորդման վրա, թրեյլերն ավտոմատ կերպով ցուցադրվում է պատուհանում:"
+
+msgctxt "#31248"
+msgid "All devices"
+msgstr "Բոլոր սարքերը"
+
+msgctxt "#31249"
+msgid "Powerful devices"
+msgstr "Հզոր սարքեր"
+
+msgctxt "#31255"
+msgid "Most powerful devices"
+msgstr "Ամենահզոր սարքերը"
+
+msgctxt "#31256"
+msgid "Delay 5 seconds"
+msgstr "Հետաձգել 5 վայրկյան"
+
+msgctxt "#31257"
+msgid "Delay 12 seconds"
+msgstr "Հետաձգել 12 վայրկյան"
+
+msgctxt "#31258"
+msgid "Info view 2"
+msgstr "Տեղեկատվության տեսք 2"
+
+msgctxt "#31259"
+msgid "Info view 1"
+msgstr "Տեղեկատվության տեսք 1"
+
+msgctxt "#31260"
+msgid "Play automatically songs while browsing music"
+msgstr "Երաժշտություն դիտելիս ավտոմատ նվագարկեք երգերը"
+
+msgctxt "#31261"
+msgid "Enable automatic playback of songs from the current artist or album as background music while browsing music views."
+msgstr "Միացրեք ընթացիկ կատարողի կամ ալբոմի երգերի ավտոմատ նվագարկումը որպես ֆոնային երաժշտություն՝ դիտելիս երաժշտության դիտումները:"
+
+msgctxt "#31262"
+msgid "Set path to use another melodies music folder"
+msgstr "Սահմանեք մեղեդիների այլ երաժշտական պանակ օգտագործելու ուղին"
+
+msgctxt "#31263"
+msgid "Clear current path and back to default melodies music folder"
+msgstr "Մաքրել ընթացիկ ուղին և վերադառնալ լռելյայն մեղեդիների երաժշտական պանակ"
+
+msgctxt "#31264"
+msgid "Play melodies while in Home & Settings screens"
+msgstr "Նվագարկեք մեղեդիներ, երբ գտնվում եք Հիմնական և Կարգավորումների էկրաններում"
+
+msgctxt "#31265"
+msgid "Show only background"
+msgstr "Ցույց տալ միայն ֆոն"
+
+msgctxt "#31266"
+msgid "TheMovieDb Helper provides data to display online ratings and additional information for movies and TV shows"
+msgstr "TheMovieDb Helper-ը տրամադրում է տվյալներ՝ առցանց վարկանիշները և լրացուցիչ տեղեկություններ ֆիլմերի և հեռուստահաղորդումների համար"
+
+msgctxt "#31267"
+msgid "Show online ratings for movies and TV shows"
+msgstr "Ցույց տալ առցանց վարկանիշները ֆիլմերի և հեռուստահաղորդումների համար"
+
+msgctxt "#31268"
+msgid "You have to restart Kodi for this option to take effect once the option has been activated. TMDb and Trakt should work out of the box. Metacritic and Rottentomatoes ratings require an OMDb API key. Get an OMDb API Key at http://www.omdbapi.com/apikey.aspx and afterward input the OMDb API Key into the TheMovieDb Helper settings."
+msgstr "Դուք պետք է վերագործարկեք Kodi-ն, որպեսզի այս տարբերակն ուժի մեջ մտնի տարբերակն ակտիվացնելուց հետո:TMDb-ն և Trakt-ը պետք է դուրս գան:Metacritic-ի և Rottentomatoes-ի վարկանիշները պահանջում են OMDb API բանալի:Ստացեք OMDb API բանալի http://www.omdbapi.com/apikey.aspx կայքում և այնուհետև մուտքագրեք OMDb API բանալի TheMovieDb Օգնականի կարգավորումներում:"
+
+msgctxt "#31269"
+msgid "Resource image addon for displaying coloured studio icons throughout the skin."
+msgstr "Ռեսուրսային պատկերի հավելում` գունավոր ստուդիայի պատկերակները ամբողջ մաշկի վրա ցուցադրելու համար:"
+
+msgctxt "#31270"
+msgid "Show colour icons for audio/video information"
+msgstr "Ցույց տալ գունավոր պատկերակները աուդիո/վիդեո տեղեկատվության համար"
+
+msgctxt "#31271"
+msgid "Show extra features for movies and TV shows"
+msgstr "Ցույց տալ լրացուցիչ հնարավորություններ ֆիլմերի և հեռուստահաղորդումների համար"
+
+msgctxt "#31272"
+msgid "Display the additional features (media files) placed by the user in the 'extras' folder for a movie or TV show. Remember to modify your advancedsettings.xml file if needed."
+msgstr "Ցուցադրել լրացուցիչ գործառույթները (մեդիա ֆայլերը), որոնք տեղադրվել են օգտագործողի կողմից ֆիլմի կամ հեռուստահաղորդման համար «լրացուցիչ» թղթապանակում:Հիշեք, որ անհրաժեշտության դեպքում փոփոխեք ձեր advancedsettings.xml ֆայլը:"
+
+msgctxt "#31273"
+msgid "Show extras"
+msgstr "Ցույց տալ հավելյալները"
+
+msgctxt "#31274"
+msgid "Enable shifting colours effect in the default Aeon Tajo's background"
+msgstr "Միացնել գույների փոփոխման էֆեկտը լռելյայն Aeon Tajo-ի ֆոնին"
+
+msgctxt "#31275"
+msgid "Activate a shifting colours effect in the default Aeon Tajo's background (only in the Home screen)."
+msgstr "Ակտիվացրեք փոփոխվող գույների էֆեկտը կանխադրված Aeon Tajo-ի ֆոնում (միայն հիմնական էկրանում):"
+
+msgctxt "#31276"
+msgid "Name of user's additional features folder (if different to 'extras')"
+msgstr "Օգտատիրոջ լրացուցիչ հնարավորությունների թղթապանակի անվանումը (եթե տարբերվում է «լրացուցիչներից»)"
+
+msgctxt "#31277"
+msgid "Select image to show as background instead of default"
+msgstr "Ընտրեք պատկերը՝ որպես ֆոն ցուցադրելու համար՝ կանխադրվածի փոխարեն"
+
+msgctxt "#31278"
+msgid "Browse for image"
+msgstr "Թերթիր պատկերի համար"
+
+msgctxt "#31279"
+msgid "Play music videos"
+msgstr "Նվագարկել երաժշտական տեսահոլովակներ"
+
+msgctxt "#31280"
+msgid "Play local albums"
+msgstr "Նվագարկել տեղական ալբոմներ"
+
+msgctxt "#31281"
+msgid "Play songs"
+msgstr "Երգեր նվագել"
+
+msgctxt "#31282"
+msgid "Blurred album image as background"
+msgstr "Լղոզված ալբոմի պատկերը որպես ֆոն"
+
+msgctxt "#31283"
+msgid "Browse for path"
+msgstr "Փնտրեք ուղին"
+
+msgctxt "#31284"
+msgid "Show extra features for music albums"
+msgstr "Ցույց տալ լրացուցիչ հնարավորություններ երաժշտական ալբոմների համար"
+
+msgctxt "#31285"
+msgid "Display the additional features (media files) placed by the user in the 'extras' folder for a music album. Remember to modify your advancedsettings.xml file if needed."
+msgstr "Ցուցադրել լրացուցիչ գործառույթները (մեդիա ֆայլեր), որոնք տեղադրված են օգտատիրոջ կողմից երաժշտական ալբոմի «լրացուցիչ» պանակում:Հիշեք, որ անհրաժեշտության դեպքում փոփոխեք ձեր advancedsettings.xml ֆայլը:"
+
+msgctxt "#31286"
+msgid "When you browse the video views and pause on a movie or TV show for a few seconds, the main theme automatically plays in the background. This feature requires the user to place an mp3 file with the theme in the root folder of the movie or TV show. This file must be named theme.mp3."
+msgstr "Երբ դիտում եք տեսանյութի դիտումները և մի քանի վայրկյան դադար եք տալիս ֆիլմի կամ հեռուստահաղորդման վրա, հիմնական թեման ավտոմատ կերպով նվագարկվում է հետին պլանում:Այս հատկությունը պահանջում է, որ օգտագործողը տեղադրի mp3 ֆայլ՝ թեմայով ֆիլմի կամ հեռուստահաղորդման հիմնական թղթապանակում:Այս ֆայլը պետք է անվանվի theme.mp3:"
+
+msgctxt "#31287"
+msgid "Shows the normal poster (poster.jpg) in movies and TV shows views."
+msgstr "Ցույց է տալիս սովորական պաստառը (poster.jpg) ֆիլմերում և հեռուստահաղորդումների դիտումներում:"
+
+msgctxt "#31288"
+msgid "Shows the animated poster (animatedposter.gif) in movies and TV shows views."
+msgstr "Ցույց է տալիս անիմացիոն պաստառը (animatedposter.gif) ֆիլմերում և հեռուստահաղորդումների դիտումներում:"
+
+msgctxt "#31289"
+msgid "Shows the available extra posters (poster1.jpg, poster2.jpg, poster3.jpg...) in movies and TV shows views."
+msgstr "Ցույց է տալիս հասանելի լրացուցիչ պաստառները (poster1.jpg, poster2.jpg, poster3.jpg...) ֆիլմերում և հեռուստահաղորդումների դիտումներում:"
+
+msgctxt "#31290"
+msgid "Thanks for using Aeon Tajo—I really hope you’re enjoying it. Creating and maintaining a Kodi skin like this takes hundreds of hours of work. If Aeon Tajo is something you enjoy and find useful, supporting it helps me keep working on it and ensures it can continue evolving in the future. [CR][CR]If you decide to do so, you’ll receive frequent updates with new features and bug fixes, along with videos, media packs, and easy-to-follow articles with detailed tips to help you get the most out of everything Aeon Tajo has to offer, together with my sincere gratitude for your support. [CR][CR]For more information, visit [B][COLOR=themecolor]patreon.com[/B][/COLOR] and search for the creator [COLOR=themecolor][B]Aeon Tajo[/B][/COLOR], or go to [COLOR=themecolor][B]patreon.com/aeontajo[/B][/COLOR].[CR][CR]Thanks!"
+msgstr "Շնորհակալություն Aeon Tajo-ն օգտագործելու համար, ես իսկապես հուսով եմ, որ դուք վայելում եք այն:Նման Kodi մաշկի ստեղծումն ու պահպանումը հարյուրավոր ժամերի աշխատանք է պահանջում:Եթե ​​Aeon Tajo-ն ձեզ դուր է գալիս և օգտակար եք համարում, դրա աջակցությունն օգնում է ինձ շարունակել աշխատել դրա վրա և երաշխավորել, որ այն կարող է շարունակել զարգանալ ապագայում:[CR][CR]Եթե որոշեք դա անել, դուք հաճախակի թարմացումներ կստանաք նոր գործառույթներով և վրիպակների շտկմամբ, ինչպես նաև տեսանյութեր, մեդիա փաթեթներ և հեշտությամբ հետևող հոդվածներ՝ մանրամասն խորհուրդներով, որոնք կօգնեն ձեզ առավելագույն օգուտ քաղել այն ամենից, ինչ առաջարկում է Aeon Tajo-ն, ինչպես նաև իմ անկեղծ երախտագիտությունը ձեր աջակցության համար:[CR][CR]Լրացուցիչ տեղեկությունների համար այցելեք [B][COLOR=themecolor]patreon.com[/B][/COLOR] և որոնեք ստեղծողին [COLOR=themecolor][B]Aeon Tajo[/B][/COLOR], կամ անցեք [COLOR=themecolor][B]patreon.com/B/CR][han."
+
+msgctxt "#31291"
+msgid "Blurred album image as background in music visualisation screen"
+msgstr "Ալբոմի լղոզված պատկերը որպես ֆոն երաժշտության վիզուալիզացիայի էկրանին"
+
+msgctxt "#31292"
+msgid "Hide watched mark in video views"
+msgstr "Թաքցնել դիտված նշանը տեսանյութի դիտումների մեջ"
+
+msgctxt "#31293"
+msgid "Disclaimer: Aeon Tajo does not provide any media content or sources. Users must provide their own content. Support will not be provided for any 'builds' nor online addons that offer copyrighted content."
+msgstr "Հրաժարում. Aeon Tajo-ն չի տրամադրում որևէ մեդիա բովանդակություն կամ աղբյուր:Օգտագործողները պետք է տրամադրեն իրենց սեփական բովանդակությունը:Աջակցություն չի տրամադրվի որևէ «կառուցվածքի» կամ առցանց հավելումների համար, որոնք առաջարկում են հեղինակային իրավունքով պաշտպանված բովանդակություն:"
+
+msgctxt "#31294"
+msgid "Change to "
+msgstr "Փոխել դեպի"
+
+msgctxt "#31295"
+msgid "Remember that you should adapt your advancedsetting.xml file to reflect this change, so as to prevent your extras content to be added inadvertently to the Kodi library."
+msgstr "Հիշեք, որ դուք պետք է հարմարեցնեք ձեր advancedsetting.xml ֆայլը, որպեսզի արտացոլի այս փոփոխությունը, որպեսզի ձեր հավելյալ բովանդակությունը կանխամտածված չավելացվի Kodi գրադարանում:"
+
+msgctxt "#31296"
+msgid "Filmstrip"
+msgstr "Filmstrip"
+
+msgctxt "#31297"
+msgid "Select + Right Stick"
+msgstr "Ընտրեք + Աջ փայտիկ"
+
+msgctxt "#31298"
+msgid "Vertical Home menu"
+msgstr "Ուղղահայաց Գլխավոր մենյու"
+
+msgctxt "#31299"
+msgid "Eject disc"
+msgstr "Հեռացնել սկավառակը"
+
+msgctxt "#31302"
+msgid "Play with PreShow"
+msgstr "Խաղացեք PreShow-ի հետ"
+
+msgctxt "#31303"
+msgid "Highlighted text colour"
+msgstr "Ընդգծված տեքստի գույնը"
+
+msgctxt "#31304"
+msgid "Marks colour"
+msgstr "Նշում է գույնը"
+
+msgctxt "#31305"
+msgid "Current"
+msgstr "Ընթացիկ"
+
+msgctxt "#31306"
+msgid "Selected"
+msgstr "Ընտրված է"
+
+msgctxt "#31311"
+msgid "Watched mark shape"
+msgstr "Նայեց նշանի ձևը"
+
+msgctxt "#31312"
+msgid "Sliding background fanarts"
+msgstr "Լոգարիթմական ֆոնային ֆանարտներ"
+
+msgctxt "#31313"
+msgid "Kodi add-ons settings"
+msgstr "Kodi հավելումների կարգավորումներ"
+
+msgctxt "#31314"
+msgid "Install and update add-ons"
+msgstr "Տեղադրեք և թարմացրեք հավելումները"
+
+msgctxt "#31315"
+msgid "Download add-ons"
+msgstr "Ներբեռնեք հավելումներ"
+
+msgctxt "#31316"
+msgid "Show Browser"
+msgstr "Ցույց տալ զննարկիչը"
+
+msgctxt "#31318"
+msgid "Hide Browser"
+msgstr "Թաքցնել զննարկիչը"
+
+msgctxt "#31319"
+msgid "Narrow view"
+msgstr "Նեղ տեսարան"
+
+msgctxt "#31322"
+msgid "Wide view"
+msgstr "Լայն տեսարան"
+
+msgctxt "#31323"
+msgid "Actors in other movies and TV shows"
+msgstr "Այլ ֆիլմերի և հեռուստաշոուների դերասաններ"
+
+msgctxt "#31324"
+msgid "Show similar movies/TV shows and artists/albums"
+msgstr "Ցուցադրել նմանատիպ ֆիլմեր/հեռուստահաղորդումներ և արտիստներ/ալբոմներ"
+
+msgctxt "#31325"
+msgid "Opens a new window in some video/music views showing other movies/TV shows or artists/albums similar or related to the current item."
+msgstr "Նոր պատուհան է բացում որոշ տեսահոլովակների/երաժշտության դիտումներում, որտեղ ցուցադրվում են այլ ֆիլմեր/հեռուստահաղորդումներ կամ կատարողներ/ալբոմներ, որոնք նման են կամ առնչվում են ընթացիկ տարրին:"
+
+msgctxt "#31326"
+msgid "Show similar"
+msgstr "Ցույց տալ նմանատիպը"
+
+msgctxt "#31327"
+msgid "Classic"
+msgstr "Դասական"
+
+msgctxt "#31329"
+msgid "Similar albums"
+msgstr "Նմանատիպ ալբոմներ"
+
+msgctxt "#31330"
+msgid "No similar found"
+msgstr "Նմանատիպ չի գտնվել"
+
+msgctxt "#31333"
+msgid "Wikipedia"
+msgstr "Վիքիպեդիա"
+
+msgctxt "#31337"
+msgid "Click to select and open article's links"
+msgstr "Սեղմեք՝ հոդվածի հղումները ընտրելու և բացելու համար"
+
+msgctxt "#31338"
+msgid "Click to search..."
+msgstr "Սեղմեք որոնման համար..."
+
+msgctxt "#31339"
+msgid "Add/update music video links"
+msgstr "Ավելացնել/թարմացնել երաժշտական տեսահոլովակների հղումներ"
+
+msgctxt "#31340"
+msgid "[B]CONFIGURE GAME SETTINGS[/B][CR][CR]Change gameplay options[CR]Keyboard settings · Configure rewind settings"
+msgstr "[B]ԿԱՐԳԱՎՈՐԵԼ ԽԱՂԻ ԿԱՐԳԱՎՈՐՈՒՄՆԵՐԸ[/B][CR][CR]Փոխել խաղի ընտրանքները[CR]Ստեղնաշարի կարգավորումները"
+
+msgctxt "#31341"
+msgid "Narrow list"
+msgstr "Նեղ ցուցակ"
+
+msgctxt "#31342"
+msgid "Wide list"
+msgstr "Լայն ցանկ"
+
+msgctxt "#31343"
+msgid "Update videolinks"
+msgstr "Թարմացրեք վիդեո հղումները"
+
+msgctxt "#31344"
+msgid "Play all music videos"
+msgstr "Նվագարկել բոլոր երաժշտական տեսահոլովակները"
+
+msgctxt "#31345"
+msgid "No bookmarks created yet"
+msgstr "Դեռևս ոչ մի էջանիշ չի ստեղծվել"
+
+msgctxt "#31346"
+msgid "Choose where to start"
+msgstr "Ընտրեք որտեղից սկսել"
+
+msgctxt "#31347"
+msgid "Browse the list and click"
+msgstr "Թերթիր ցուցակը և սեղմիր"
+
+msgctxt "#31348"
+msgid "Show OSD controls"
+msgstr "Ցուցադրել OSD հսկիչները"
+
+msgctxt "#31349"
+msgid "Preparing list of music videos, please wait..."
+msgstr "Պատրաստվում է երաժշտական տեսահոլովակների ցանկը, խնդրում ենք սպասել..."
+
+msgctxt "#31350"
+msgid "Songs party mode"
+msgstr "Երգերի երեկույթի ռեժիմ"
+
+msgctxt "#31351"
+msgid "Videolinks party mode"
+msgstr "Տեսահղումներ կուսակցության ռեժիմ"
+
+msgctxt "#31352"
+msgid "No videolinks found"
+msgstr "Տեսահղումներ չեն գտնվել"
+
+msgctxt "#31353"
+msgid "Click or arrow keys while playing to show the OSD"
+msgstr "Նվագարկելիս սեղմեք կամ սլաքների ստեղները՝ OSD-ը ցուցադրելու համար"
+
+msgctxt "#31354"
+msgid "While playing..."
+msgstr "Խաղալու ժամանակ..."
+
+msgctxt "#31355"
+msgid "Click or arrow keys to show the OSD"
+msgstr "Սեղմեք կամ սլաքների ստեղները՝ OSD-ը ցուցադրելու համար"
+
+msgctxt "#31356"
+msgid "Shows the normal thumb (folder.jpg) in artists and albums music views."
+msgstr "Ցույց է տալիս սովորական բութ մատը (folder.jpg) նկարիչների և ալբոմների երաժշտության դիտումներում:"
+
+msgctxt "#31357"
+msgid "Shows the animated thumb (animatedthumb.gif) in artists and albums music views."
+msgstr "Ցույց է տալիս անիմացիոն բութ մատը (animatedthumb.gif) նկարիչների և ալբոմների երաժշտության դիտումներում:"
+
+msgctxt "#31358"
+msgid "Show a colour strip code on video elements"
+msgstr "Ցույց տալ գունավոր շերտի կոդը տեսանյութի տարրերի վրա"
+
+msgctxt "#31359"
+msgid "Allows to quickly identify video file quality using a colour strip code when browsing movies and episodes in video views"
+msgstr "Թույլ է տալիս արագ բացահայտել վիդեո ֆայլի որակը, օգտագործելով գունավոր շերտի կոդը, երբ դիտում եք ֆիլմեր և դրվագներ տեսանյութերի դիտումներում:"
+
+msgctxt "#31360"
+msgid "Library using Global Search"
+msgstr "Գրադարան՝ օգտագործելով Գլոբալ որոնումը"
+
+msgctxt "#31361"
+msgid "TheMovieDB"
+msgstr "TheMovieDB"
+
+msgctxt "#31362"
+msgid "Most Voted Movies"
+msgstr "Ամենաշատ քվեարկված ֆիլմերը"
+
+msgctxt "#31363"
+msgid "Crew"
+msgstr "Անձնակազմ"
+
+msgctxt "#31364"
+msgid "Most Voted Shows"
+msgstr "Ամենաշատ քվեարկված շոուներ"
+
+msgctxt "#31365"
+msgid "Random Shows"
+msgstr "Պատահական շոուներ"
+
+msgctxt "#31366"
+msgid "Random Artists"
+msgstr "Պատահական նկարիչներ"
+
+msgctxt "#31367"
+msgid "Online info from TheMovieDB.org for videos"
+msgstr "Առցանց տեղեկատվություն TheMovieDB.org-ից՝ տեսանյութերի համար"
+
+msgctxt "#31368"
+msgid "Get online info from TheMovieDB.org in movie and TVshow's info screen and widgets"
+msgstr "Ստացեք առցանց տեղեկատվություն TheMovieDB.org-ից ֆիլմերի և հեռուստաշոուների տեղեկատվական էկրանում և վիջեթներում"
+
+msgctxt "#31369"
+msgid "Snow effect - Off"
+msgstr "Ձյան էֆեկտ - Անջատված"
+
+msgctxt "#31370"
+msgid "Snow effect - Light"
+msgstr "Ձյան էֆեկտ - Թեթև"
+
+msgctxt "#31371"
+msgid "Snow effect - Medium"
+msgstr "Ձյան էֆեկտ - Միջին"
+
+msgctxt "#31372"
+msgid "Snow effect - Heavy"
+msgstr "Ձյան էֆեկտ - Ծանր"
+
+msgctxt "#31373"
+msgid "Snow effect - Blizzard"
+msgstr "Ձյան էֆեկտ - Բլիզարդ"
+
+msgctxt "#31374"
+msgid "Click or arrow keys to exit"
+msgstr "Դուրս գալու համար սեղմեք կամ սլաքների ստեղները"
+
+msgctxt "#31375"
+msgid "Rewind"
+msgstr "Հետ շրջել"
+
+msgctxt "#31376"
+msgid "Fast forward"
+msgstr "Արագ առաջ"
+
+msgctxt "#31377"
+msgid "Step back"
+msgstr "Քայլ ետ"
+
+msgctxt "#31378"
+msgid "Step forward"
+msgstr "Քայլ առաջ"
+
+msgctxt "#31379"
+msgid "Previous chapter"
+msgstr "Նախորդ գլուխ"
+
+msgctxt "#31380"
+msgid "Next chapter"
+msgstr "Հաջորդ գլուխը"
+
+msgctxt "#31381"
+msgid "Previous channel"
+msgstr "Նախորդ ալիք"
+
+msgctxt "#31382"
+msgid "Next channel"
+msgstr "Հաջորդ ալիքը"
+
+msgctxt "#31383"
+msgid "Show lyrics"
+msgstr "Ցույց տալ բառերը"
+
+msgctxt "#31384"
+msgid "Hide lyrics"
+msgstr "Թաքցնել բառերը"
+
+msgctxt "#31385"
+msgid "Adjust lyrics"
+msgstr "Կարգավորել բառերը"
+
+msgctxt "#31386"
+msgid "Hide resumable mark in video views"
+msgstr "Թաքցնել վերսկսման նշանը տեսանյութի դիտումների մեջ"
+
+msgctxt "#31387"
+msgid "Hide unwatched mark in video views"
+msgstr "Թաքցնել չդիտված նշանը տեսանյութի դիտումների մեջ"
+
+msgctxt "#31388"
+msgid "Hide episodes unwatched mark in video views"
+msgstr "Թաքցնել դրվագների չդիտված նշանը տեսանյութի դիտումների մեջ"
+
+msgctxt "#31389"
+msgid "Same director"
+msgstr "Նույն տնօրենը"
+
+msgctxt "#31391"
+msgid "'Down' to show similars"
+msgstr "«Down»՝ նմանատիպերը ցուցադրելու համար"
+
+msgctxt "#31392"
+msgid "'Right' to show similars"
+msgstr "«Իրավունք»՝ նմանները ցույց տալու"
+
+msgctxt "#31393"
+msgid "Show logos"
+msgstr "Ցույց տալ լոգոները"
+
+msgctxt "#31394"
+msgid "Show only titles"
+msgstr "Ցույց տալ միայն վերնագրերը"
+
+msgctxt "#31395"
+msgid "Play automatically video links in song views"
+msgstr "Ավտոմատ կերպով նվագարկեք վիդեո հղումները երգերի դիտումներում"
+
+msgctxt "#31396"
+msgid "When you browse song views and stop for a few seconds, the video link for that song will play automatically (if available)."
+msgstr "Երբ դիտում եք երգի դիտումները և կանգ առնում մի քանի վայրկյանով, այդ երգի տեսանյութի հղումը ավտոմատ կերպով կհնչի (եթե առկա է):"
+
+msgctxt "#31397"
+msgid "User reviews"
+msgstr "Օգտագործողների ակնարկներ"
+
+msgctxt "#31398"
+msgid "Horizontal Home menu"
+msgstr "Հորիզոնական Գլխավոր մենյու"
+
+msgctxt "#31399"
+msgid "Simple Home menu"
+msgstr "Պարզ Գլխավոր մենյու"
+
+msgctxt "#31403"
+msgid "Widget type"
+msgstr "Վիջեթի տեսակը"
+
+msgctxt "#31404"
+msgid "Small widgets..."
+msgstr "Փոքր վիդջեթներ..."
+
+msgctxt "#31408"
+msgid "Fullscreen widgets..."
+msgstr "Ամբողջ էկրանով վիջեթներ..."
+
+msgctxt "#31411"
+msgid "Force view..."
+msgstr "Պարտադիր դիտում..."
+
+msgctxt "#31416"
+msgid "A view can't be disabled when is selected as \"forced\" for some media."
+msgstr "Դիտումը չի կարող անջատվել, երբ որոշ լրատվամիջոցների համար ընտրված է որպես \"պարտադիր\":"
+
+msgctxt "#31417"
+msgid "Only views that are not marked as disabled can be forced."
+msgstr "Միայն այն դիտումները, որոնք նշված չեն որպես անջատված, կարող են պարտադրվել:"
+
+msgctxt "#31418"
+msgid "Don't force views"
+msgstr "Մի պարտադրեք տեսակետները"
+
+msgctxt "#31419"
+msgid "Forced view"
+msgstr "Հարկադիր դիտում"
+
+msgctxt "#31420"
+msgid "Enable or disable views"
+msgstr "Միացնել կամ անջատել դիտումները"
+
+msgctxt "#31422"
+msgid "No embedded subs"
+msgstr "Ներկառուցված ենթագրեր չկան"
+
+msgctxt "#31423"
+msgid "Auto-open audio/subtitle selector at video start"
+msgstr "Ավտոմատ բացել աուդիո/ենթագրերի ընտրիչը տեսանյութի սկզբում"
+
+msgctxt "#31424"
+msgid "Automatically opens an audio and subtitle selector when starting playback of movies and episodes, allowing you to see which tracks are active and change them directly before continuing."
+msgstr "Ֆիլմերի և դրվագների նվագարկումը սկսելիս ավտոմատ կերպով բացում է աուդիո և ենթագրերի ընտրիչը՝ թույլ տալով տեսնել, թե որ հետքերը ակտիվ են և փոխել դրանք անմիջապես՝ շարունակելուց առաջ:"
+
+msgctxt "#31425"
+msgid "Search music video links for songs not in your library"
+msgstr "Որոնեք երաժշտական տեսահոլովակների հղումներ այն երգերի համար, որոնք ձեր գրադարանում չեն"
+
+msgctxt "#31426"
+msgid "Similar artists on your library"
+msgstr "Նմանատիպ նկարիչներ ձեր գրադարանում"
+
+msgctxt "#31435"
+msgid "Albums by this artist in your library"
+msgstr "Այս նկարչի ալբոմները ձեր գրադարանում"
+
+msgctxt "#31436"
+msgid "Online info from TheAudioDB.com for music"
+msgstr "Առցանց տեղեկատվություն TheAudioDB.com-ից երաժշտության համար"
+
+msgctxt "#31437"
+msgid "Get online information from TheAudioDB.com on the artist and album information screen"
+msgstr "Ստացեք առցանց տեղեկատվություն TheAudioDB.com-ից նկարչի և ալբոմի տեղեկատվության էկրանին"
+
+msgctxt "#31438"
+msgid "TheAudioDb Helper supplies online data and artwork to display enhanced details for artists and music albums."
+msgstr "TheAudioDb Helper-ը տրամադրում է առցանց տվյալներ և ստեղծագործություններ՝ նկարիչների և երաժշտական ալբոմների համար ընդլայնված մանրամասներ ցուցադրելու համար:"
+
+msgctxt "#31439"
+msgid "Record label"
+msgstr "Ձայնագրման լեյբլ"
+
+msgctxt "#31440"
+msgid "Last.fm Plays"
+msgstr "Last.fm Նվագում է"

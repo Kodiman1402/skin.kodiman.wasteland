@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+   Kodiman's Wasteland – Farbpalette
+   Aschegrau, Rostbraun, verbrannte Erde
+-->
+<colors>
+  <!-- === HINTERGRÜNDE (dunkel, verbrannt) === -->
+  <color name="background">FF0A0A0A</color>
+  <color name="background_dark">FF050505</color>
+  <color name="background_mid">FF151515</color>
+  <color name="background_light">FF1E1E1E</color>
+  <color name="background_window">FF121212</color>
+  <color name="background_panel">FF181818</color>
+  <color name="background_button">FF1A1510</color>
+
+  <!-- === ASCHEGRAU (Basis) === -->
+  <color name="ash_dark">FF3A3A3A</color>
+  <color name="ash_mid">FF585858</color>
+  <color name="ash_light">FF7A7A7A</color>
+  <color name="ash_pale">FF9A9A9A</color>
+  <color name="ash_text">FFB0A8A0</color>
+
+  <!-- === BLEIGRAU === -->
+  <color name="lead_dark">FF282828</color>
+  <color name="lead_mid">FF3C3C3C</color>
+  <color name="lead_light">FF505050</color>
+
+  <!-- === ROSTBRAUN (Akzente) === -->
+  <color name="rust_deep">FF4A2518</color>
+  <color name="rust_mid">FF6B3A2A</color>
+  <color name="rust_light">FF8B4513</color>
+  <color name="rust_bright">FFA0522D</color>
+  <color name="rust_glow">FFCD5C5C</color>
+
+  <!-- === VERBRANNT / STAUB === -->
+  <color name="burnt">FF1A0F0A</color>
+  <color name="burnt_light">FF2A1A0F</color>
+  <color name="dust">FF6A5A4A</color>
+  <color name="dust_light">FF8A7A6A</color>
+
+  <!-- === TEXT === -->
+  <color name="text_default">FFB0A890</color>
+  <color name="text_bright">FFD0C8B8</color>
+  <color name="text_dim">FF706050</color>
+  <color name="text_disabled">FF504840</color>
+  <color name="text_shadow">FF000000</color>
+  <color name="text_selected">FFE8D8C0</color>
+  <color name="text_header">FFD0C0A0</color>
+
+  <!-- === FOKUS / AUSWAHL === -->
+  <color name="focus_glow">FF8B4513</color>
+  <color name="focus_border">FFA0522D</color>
+  <color name="focus_background">FF1E1510</color>
+  <color name="selection_highlight">FF6B3A2A</color>
+
+  <!-- === RAHMEN / TRENNER === -->
+  <color name="border_default">FF3A3028</color>
+  <color name="border_light">FF504840</color>
+  <color name="border_focus">FF8B4513</color>
+  <color name="separator">FF2A2018</color>
+
+  <!-- === FORTSCHRITT / STATUS === -->
+  <color name="progress_background">FF1A1510</color>
+  <color name="progress_fill">FF6B3A2A</color>
+  <color name="progress_fill_focus">FF8B4513</color>
+  <color name="rating">FFA0522D</color>
+  <color name="rating_unfilled">FF302018</color>
+
+  <!-- === DIALOGE === -->
+  <color name="dialog_background">FF0F0F0F</color>
+  <color name="dialog_border">FF3A3028</color>
+  <color name="dialog_header_bg">FF1A1510</color>
+  <color name="dialog_header_text">FFD0C0A0</color>
+
+  <!-- === BUTTONS === -->
+  <color name="button_background">FF1E1A15</color>
+  <color name="button_background_focus">FF2A2018</color>
+  <color name="button_text">FFB0A890</color>
+  <color name="button_text_focus">FFE8D8C0</color>
+  <color name="button_border">FF3A3028</color>
+  <color name="button_border_focus">FF8B4513</color>
+
+  <!-- === SCROLLBAR === -->
+  <color name="scrollbar_background">FF151010</color>
+  <color name="scrollbar_handle">FF4A3020</color>
+  <color name="scrollbar_handle_focus">FF6B3A2A</color>
+
+  <!-- === LISTEN === -->
+  <color name="list_background">FF0D0D0D</color>
+  <color name="list_item_odd">FF121210</color>
+  <color name="list_item_even">FF161614</color>
+  <color name="list_item_focus">FF1E1510</color>
+  <color name="list_item_selected">FF251A15</color>
+  <color name="list_border">FF2A2018</color>
+
+  <!-- ═══ ALIASE für Kompatibilität ═══ -->
+  <!-- text_dark → text_dim -->
+  <color name="text_dark">FF706050</color>
+  <!-- rust_dark → rust_deep -->
+  <color name="rust_dark">FF4A2518</color>
+  <!-- white → text_bright -->
+  <color name="white">FFD0C8B8</color>
+  <!-- scrollbar/Progress-Aliase -->
+  <color name="scrollbar_bg">FF151010</color>
+  <color name="progressbar_bg">FF1A1510</color>
+  <color name="progressbar_fill">FF6B3A2A</color>
+  <!-- List-Item-Aliase für Kompatibilität mit Includes -->
+  <color name="listitem_focus">FF1E1510</color>
+  <color name="listitem_text">FFB0A890</color>
+  <color name="listitem_text_focus">FFE8D8C0</color>
+</colors>
