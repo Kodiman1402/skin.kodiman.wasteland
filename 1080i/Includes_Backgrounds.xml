@@ -92,7 +92,7 @@
 			<timeperimage>267</timeperimage>
 			<fadetime>0</fadetime>
 			<loop>true</loop>
-			<imagepath>/Users/oliverpfeffer/Library/Application Support/Kodi/addons/skin.kodiman.wasteland/backgrounds/frames/</imagepath>
+			<imagepath>special://skin/backgrounds/frames/</imagepath>
 			<imagefile>bg_</imagefile>
 			<numeric>true</numeric>
 			<beginimage>01</beginimage>
