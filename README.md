@@ -1,6 +1,6 @@
 # Kodiman's Wasteland Beta
 
-**Beta 2.0.0 - Ein postapokalyptischer Wasteland-Skin für Kodi Omega (v21)**
+**Beta 2.0.1 - Ein postapokalyptischer Wasteland-Skin für Kodi Omega (v21)**
 
 Aschegraue Paneele, rostbraune Akzente und eine raue, industrielle Ästhetik. Inspiriert von Aeon Tajo.
 
