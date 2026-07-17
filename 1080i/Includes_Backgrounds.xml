@@ -81,30 +81,28 @@
 		</control>
 	</include>
 	<include name="HomeFanart">
-		<control type="multiimage">
-			<description>Wasteland Animated Background</description>
+		<control type="videowindow" id="9998">
+			<description>Fire Animation Background Video</description>
+			<left>0</left>
+			<top>0</top>
+			<width>1920</width>
+			<height>1080</height>
+			<aspectratio>scale</aspectratio>
+			<visible>true</visible>
+			<video>special://skin/backgrounds/fire_background.mp4</video>
+			<autoplay>true</autoplay>
+			<loop>true</loop>
+		</control>
+		<control type="image">
+			<description>Wasteland Background Fallback</description>
 			<depth>DepthBackground</depth>
 			<left>0</left>
 			<top>0</top>
 			<width>1920</width>
 			<height>1080</height>
 			<aspectratio>scale</aspectratio>
-			<timeperimage>267</timeperimage>
-			<fadetime>0</fadetime>
-			<loop>true</loop>
-			<imagepath fallback="special://skin/backgrounds/default_bg.jpg" background="true">special://skin/backgrounds/frames/</imagepath>
-			<imagefile>bg_</imagefile>
-			<numeric>true</numeric>
-			<beginimage>01</beginimage>
-			<endimage>15</endimage>
-			<visible>true</visible>
-		</control>
-		<control type="image">
-			<description>Override home backgrounds</description>
-			<aspectratio align="center">scale</aspectratio>
-			<include>FullscreenDimensions</include>
-			<texture background="true">$VAR[Default_background]</texture>
-			<visible>Skin.HasSetting(OverrideHome)</visible>
+			<texture background="true">special://skin/backgrounds/wasteland_fallout.png</texture>
+			<visible>!Player.HasVideo + !Window.IsActive(home)</visible>
 		</control>
 	</include>
 	<include name="WeatherBackground">
