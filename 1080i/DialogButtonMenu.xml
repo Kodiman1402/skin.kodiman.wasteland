@@ -16,7 +16,7 @@
 			<width>470</width>
 			<height>200</height>
 			<aspectratio>keep</aspectratio>
-			<texture>kodiman-tajo2.png</texture>
+			<texture>special://skin/media/kodiman-tajo2.png</texture>
 		</control>
 		<control type="image">
 			<description>LOGO</description>
@@ -26,7 +26,7 @@
 			<height>200</height>
 			<aspectratio>keep</aspectratio>
 			<colordiffuse>Skin.String(flat_back)</colordiffuse>
-			<texture>kodiman-tajo3.png</texture>
+			<texture>special://skin/media/kodiman-tajo3.png</texture>
 		</control>
 		<control type="group">
 			<top>350</top>
