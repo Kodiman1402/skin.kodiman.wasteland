@@ -1232,6 +1232,15 @@
 		<width>auto</width>
 	</include>
 	<include name="ColoredBackgroundImages">
+		<control type="image">
+			<depth>DepthBackground</depth>
+			<left>0</left>
+			<top>0</top>
+			<width>1920</width>
+			<height>1080</height>
+			<aspectratio>scale</aspectratio>
+			<texture background="true">special://skin/backgrounds/wasteland_fallout.jpg</texture>
+		</control>
 		<control type="multiimage">
 			<depth>DepthBackground</depth>
 			<left>0</left>
@@ -1243,7 +1252,7 @@
 			<fadetime>0</fadetime>
 			<loop>true</loop>
 			<randomize>false</randomize>
-			<imagepath>special://skin/backgrounds/frames/</imagepath>
+			<imagepath>backgrounds/frames/</imagepath>
 			<imagefile>bg_</imagefile>
 			<imageext>.png</imageext>
 			<numeric>true</numeric>
